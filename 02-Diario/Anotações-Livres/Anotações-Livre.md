@@ -1,3 +1,3 @@
-[[Anotações-Trabalho]]
-[[Anotações-Pessoal]]
-[[Anotações-Faculdade]]
+# Anotações Livres
+
+[[Diario]]

@@ -10,7 +10,7 @@ status: active
 
 Área pessoal — estudos, hábitos, rotinas, metas e anotações da vida.
 
-## Estudos
+## Conceitos
 - [[Produtividade]]
 - [[Gestao-do-Tempo]]
 - [[Financas-Pessoais]]

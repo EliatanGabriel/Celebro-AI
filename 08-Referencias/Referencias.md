@@ -2,8 +2,7 @@
 
 Referências visuais, inspirações, moodboards.
 
-## Conexões
-[[Home]]
+## Subpastas
 [[Fontes]]
 [[Inpiraçoes]]
 [[Moodboards]]

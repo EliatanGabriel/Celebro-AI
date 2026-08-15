@@ -1,0 +1,3 @@
+# Daily Notes
+
+[[Diario]]

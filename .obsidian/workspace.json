@@ -20,17 +20,7 @@
             }
           },
           {
-            "id": "676f5d9fd3766f9e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-            }
-          },
-          {
-            "id": "a6303121e93ef64e",
+            "id": "5d5d4c44ae49811a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,48 +34,35 @@
             }
           },
           {
-            "id": "533de06b98ae5098",
+            "id": "1c281143c7ee7ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Faculdade/Faculdade.md",
+                "file": "06-Pessoal/Pessoal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faculdade"
+              "title": "Pessoal"
             }
           },
           {
-            "id": "dddb46b0babc395a",
+            "id": "f50705081746dd72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Faculdade/Faculdade.md",
+                "file": "00-Home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faculdade"
-            }
-          },
-          {
-            "id": "bf4f32ae0e712de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07-Projetos/Projetos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projetos"
+              "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,44 +226,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8116653d87afe2fc",
+  "active": "f50705081746dd72",
   "lastOpenFiles": [
-    "07-Projetos/Projetos.md",
-    "Estudos/Estudos.md",
-    "Estudos/Variaveis/Variaveis.md",
-    "Estudos/Terminal/Terminal.md",
-    "Estudos/Teoria-da-Computacao/Teoria-da-Computacao.md",
-    "Estudos/Teoria-dos-Grafos/Teoria-dos-Grafos.md",
-    "Estudos/Shell/Shell.md",
-    "Estudos/Servidores/Servidores.md",
-    "Estudos/REST/REST.md",
-    "Estudos/Python/Python.md",
-    "Estudos/Programacao/Programacao.md",
-    "Estudos/Machine-Learning/Machine-Learning.md",
-    "Estudos/Logica/Logica.md",
-    "Estudos/Linux/Linux.md",
-    "Estudos/JavaScript/JavaScript.md",
-    "Estudos/Java/Java.md",
-    "Estudos/JOIN/JOIN.md",
-    "Estudos/Inteligencia-Artificial/Inteligencia-Artificial.md",
-    "Estudos/HTTP/HTTP.md",
-    "Estudos/Funcoes/Funcoes.md",
-    "Estudos/Grafos/Grafos.md",
-    "Estudos/GitHub/GitHub.md",
-    "Estudos/Git/Git.md",
-    "Estudos/Frontend/Frontend.md",
-    "Estudos/Estatistica/Estatistica.md",
-    "Estudos/DevOps/DevOps.md",
-    "Estudos/Variaveis",
-    "Estudos/Terminal",
-    "Estudos/Teoria-dos-Grafos",
-    "Estudos/Teoria-da-Computacao",
-    "Estudos/Shell",
-    "Estudos/Servidores",
-    "Estudos/REST",
-    "Estudos/Python",
-    "Estudos/Programacao",
-    "Estudos/Machine-Learning",
+    "06-Pessoal/Sono/Sono.md",
+    "06-Pessoal/Sono",
+    "06-Pessoal/Saude-e-Exercicio/Saude-e-Exercicio.md",
+    "06-Pessoal/Saude-e-Exercicio",
+    "06-Pessoal/Relacionamentos/Relacionamentos.md",
+    "06-Pessoal/Relacionamentos",
+    "06-Pessoal/Produtividade/Produtividade.md",
+    "06-Pessoal/Produtividade",
+    "06-Pessoal/Objetivos-de-Vida/Objetivos-de-Vida.md",
+    "06-Pessoal/Objetivos-de-Vida",
+    "06-Pessoal/Networking-Pessoal/Networking-Pessoal.md",
+    "06-Pessoal/Networking-Pessoal",
+    "06-Pessoal/Minimalismo-Digital/Minimalismo-Digital.md",
+    "06-Pessoal/Minimalismo-Digital",
+    "06-Pessoal/Meditacao/Meditacao.md",
+    "06-Pessoal/Meditacao",
+    "06-Pessoal/Habito-Leitura/Habito-Leitura.md",
+    "06-Pessoal/Habito-Leitura",
+    "06-Pessoal/Gestao-do-Tempo/Gestao-do-Tempo.md",
+    "06-Pessoal/Gestao-do-Tempo",
+    "06-Pessoal/Financas-Pessoais/Financas-Pessoais.md",
+    "06-Pessoal/Equilibrio-Vida-Trabalho/Equilibrio-Vida-Trabalho.md",
+    "06-Pessoal/Desenvolvimento-Pessoal/Desenvolvimento-Pessoal.md",
+    "06-Pessoal/Aprendizado-Continuo/Aprendizado-Continuo.md",
+    "06-Pessoal/Alimentacao/Alimentacao.md",
+    "06-Pessoal/Pessoal.md",
+    "06-Pessoal/Estudos/Habito-Leitura.md",
+    "00-Home/Home.md",
+    "05-Trabalho/Testes-Automatizados/Testes-Automatizados.md",
+    "05-Trabalho/Regressao/Regressao.md",
+    "05-Trabalho/QA-Manual-vs-Automatizado/QA-Manual-vs-Automatizado.md",
+    "05-Trabalho/Prioridade-de-Bugs/Prioridade-de-Bugs.md",
+    "05-Trabalho/Git-Branch-Strategy/Git-Branch-Strategy.md",
+    "05-Trabalho/Fluxo-Trello-QA/Fluxo-Trello-QA.md",
+    "05-Trabalho/Estudos.md",
+    "05-Trabalho/Documentacao-de-Testes/Documentacao-de-Testes.md",
     "Sem título.canvas"
   ]
 }

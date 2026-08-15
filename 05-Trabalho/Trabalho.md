@@ -10,9 +10,9 @@ status: active
 
 Área de trabalho — estudos, técnicas, metas e anotações profissionais.
 
-## Estudos
-- [[API-REST]]
+## Conceitos
 - [[Ambiente-Local-Laravel-Vite]]
+- [[API-REST]]
 - [[Bug-Report]]
 - [[Caso-de-Teste]]
 - [[CI-CD]]

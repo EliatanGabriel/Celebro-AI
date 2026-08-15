@@ -1,0 +1,3 @@
+# Visão de Vida
+
+[[Planejamento]]

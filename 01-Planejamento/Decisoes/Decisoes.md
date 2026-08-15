@@ -1,0 +1,3 @@
+# Decisões
+
+[[Planejamento]]

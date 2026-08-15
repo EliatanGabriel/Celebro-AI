@@ -1,3 +1,10 @@
-[[Metas - Trabalho]]
-[[Metas - Pessoal]]
-[[Metas - Faculdade]]
+# Metas
+
+Metas por área de vida.
+
+## Metas
+- [[Metas - Faculdade]]
+- [[Metas - Trabalho]]
+- [[Metas - Pessoal]]
+
+[[Planejamento]]
