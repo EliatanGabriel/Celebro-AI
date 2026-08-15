@@ -1,7 +1,20 @@
 # Alimentacao
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Alimentacao**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Gestão da alimentação diária para saúde e bem-estar.
+
+## Tópicos
+- Refeições
+- Equilíbrio
+- Nutrientes
+- Planejamento
+- Hidratação
+
+## Relacionadas
+- [[Nutricao]]
+- [[Habito-Alimentacao]]
+- [[Cozinha]]
+- [[Pessoal]]
 
 [[Pessoal]]

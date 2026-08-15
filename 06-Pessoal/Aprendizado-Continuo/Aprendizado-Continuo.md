@@ -1,7 +1,20 @@
 # Aprendizado Continuo
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Aprendizado Continuo**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Compromisso de aprender e evoluir constantemente.
+
+## Tópicos
+- Cursos
+- Leitura
+- Prática
+- Curiosidade
+- Reflexão
+
+## Relacionadas
+- [[Metas-Crescimento]]
+- [[Habito-Estudo]]
+- [[Estudos]]
+- [[Pessoal]]
 
 [[Pessoal]]

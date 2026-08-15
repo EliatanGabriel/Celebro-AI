@@ -8,11 +8,17 @@ status: active
 
 #area/faculdade
 
-Área de estudos da faculdade — disciplinas, conceitos, metas e anotações.
+Disciplinas, metas, anotações, provas e trabalhos da faculdade.
 
-## Disciplinas
+## Subáreas
 - [[Disciplinas]]
+- [[Faculdade-Metas]]
+- [[Anotacoes]]
+- [[Provas]]
+- [[Trabalhos]]
 
-## Metas e Anotações
-- [[Metas - Faculdade]]
-- [[Anotações-Faculdade]]
+## Conexões
+- [[Home]]
+- [[Estudos]]
+- [[Trabalho]]
+- [[Pessoal]]

@@ -1,7 +1,20 @@
 # Equilibrio Vida Trabalho
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Equilibrio Vida Trabalho**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Harmonia entre vida pessoal e profissional.
+
+## Tópicos
+- Limites
+- Rotina
+- Prioridades
+- Descanso
+- Bem-estar
+
+## Relacionadas
+- [[Gestao-do-Tempo]]
+- [[Saude-mental]]
+- [[Desenvolvimento-Pessoal]]
+- [[Pessoal]]
 
 [[Pessoal]]

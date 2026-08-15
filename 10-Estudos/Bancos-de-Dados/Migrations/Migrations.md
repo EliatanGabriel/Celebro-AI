@@ -1,0 +1,20 @@
+# Migrations
+
+#area/estudos #conceito
+
+**Resumo:** Versionamento de mudanças no esquema do banco de dados.
+
+## Tópicos
+- Up/down
+- Versionamento
+- Deploys seguros
+- Histórico
+- Ferramentas
+
+## Relacionadas
+- [[ORM]]
+- [[SQL]]
+- [[DevOps]]
+- [[Bancos-de-Dados]]
+
+[[Bancos-de-Dados]]

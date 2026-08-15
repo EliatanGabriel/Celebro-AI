@@ -1,7 +1,20 @@
 # Gestao do Tempo
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Gestao do Tempo**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Subárea de **Pessoal** com técnicas de organização do tempo.
 
-[[Pessoal]]
+## Tópicos
+- Planejamento
+- Prioridades
+- Foco
+- Rotina
+- Revisão
+
+## Relacionadas
+- [[Planejamento-diario]]
+- [[Prioridades]]
+- [[Pomodoro]]
+- [[Pessoal]]
+
+[[Gestao-do-Tempo]]

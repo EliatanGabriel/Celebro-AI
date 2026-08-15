@@ -1,7 +1,20 @@
 # Prioridade de Bugs
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Prioridade de Bugs**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Critérios para priorizar correções de bugs.
+
+## Tópicos
+- Impacto
+- Urgência
+- Severidade
+- Usuários
+- Risco
+
+## Relacionadas
+- [[Prioridade]]
+- [[Severidade]]
+- [[Bug-Report]]
+- [[Jira]]
 
 [[Trabalho]]

@@ -6,8 +6,7 @@ status: active
 
 # DevOps
 
-#area/computacao
+#area/estudos
 
 Nota de conceito sobre **DevOps**.
-
 [[Estudos]]

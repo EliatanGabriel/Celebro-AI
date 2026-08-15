@@ -6,9 +6,7 @@ status: active
 
 # Algoritmo e Lógica de Programação
 
-#faculdade #conceito
+#area/faculdade #conceito
 
 Nota de conceito sobre **Algoritmo e Lógica de Programação**.
-
-
 [[Disciplinas]]

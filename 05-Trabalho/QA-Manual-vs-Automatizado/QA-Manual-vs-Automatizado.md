@@ -1,7 +1,20 @@
 # QA Manual vs Automatizado
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **QA Manual vs Automatizado**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Comparação entre testes manuais e automatizados.
+
+## Tópicos
+- Manual
+- Automatizado
+- Cobertura
+- Custo
+- Estratégia
+
+## Relacionadas
+- [[Testes]]
+- [[Testes-Automatizados]]
+- [[Caso-de-Teste]]
+- [[Selenium]]
 
 [[Trabalho]]

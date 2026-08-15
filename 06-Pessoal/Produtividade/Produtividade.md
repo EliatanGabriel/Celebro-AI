@@ -1,7 +1,20 @@
 # Produtividade
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Produtividade**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Subárea de **Pessoal** com métodos de alta produtividade.
 
-[[Pessoal]]
+## Tópicos
+- Foco
+- Técnicas
+- Hábitos
+- Planejamento
+- Energia
+
+## Relacionadas
+- [[Foco]]
+- [[Pomodoro]]
+- [[Getting-things-done]]
+- [[Pessoal]]
+
+[[Produtividade]]

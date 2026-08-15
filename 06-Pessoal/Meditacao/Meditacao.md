@@ -1,7 +1,20 @@
 # Meditacao
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Meditacao**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Prática de meditação para foco, calma e autoconhecimento.
+
+## Tópicos
+- Respiração
+- Atenção
+- Regularidade
+- Calma
+- Presença
+
+## Relacionadas
+- [[Habito-Meditacao]]
+- [[Saude-mental]]
+- [[Foco]]
+- [[Pessoal]]
 
 [[Pessoal]]

@@ -1,7 +1,20 @@
 # Desenvolvimento Pessoal
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Desenvolvimento Pessoal**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Processo de melhorar habilidades e autoconhecimento.
+
+## Tópicos
+- Autoconhecimento
+- Habilidades
+- Hábitos
+- Metas
+- Reflexão
+
+## Relacionadas
+- [[Objetivos-de-Vida]]
+- [[Metas-Crescimento]]
+- [[Habitos]]
+- [[Pessoal]]
 
 [[Pessoal]]

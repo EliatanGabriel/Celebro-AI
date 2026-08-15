@@ -1,7 +1,20 @@
 # Ciclo de Release
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Ciclo de Release**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Processo de levar mudanças de desenvolvimento até produção.
+
+## Tópicos
+- Ambientes
+- Versões
+- Deploy
+- Freeze
+- Changelog
+
+## Relacionadas
+- [[CI-CD]]
+- [[Deploy]]
+- [[Versionamento-API]]
+- [[Ciclo-de-vida]]
 
 [[Trabalho]]

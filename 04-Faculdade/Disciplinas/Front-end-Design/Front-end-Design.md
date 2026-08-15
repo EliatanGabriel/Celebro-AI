@@ -1,8 +1,24 @@
-# Front-end Design
+# Front-end-Design
 
-#faculdade #conceito
+#area/faculdade #hub
 
-Nota de conceito sobre **Front-end Design**. Preencha com anotações, resumos, links externos etc.
+Subárea de **Faculdade** com conceitos de design e desenvolvimento front-end.
 
+## Notas
+- [[Acessibilidade]]
+- [[Cores]]
+- [[Faculdade-CSS]]
+- [[HTML]]
+- [[Layout]]
+- [[Prototipagem]]
+- [[Responsividade]]
+- [[Tipografia]]
+- [[UI]]
+- [[UX]]
+
+## Conexões
+- [[Disciplinas]]
+- [[Faculdade]]
+- [[Estudos]]
 
 [[Disciplinas]]

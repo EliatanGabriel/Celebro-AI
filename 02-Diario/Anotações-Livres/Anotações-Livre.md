@@ -1,3 +1,0 @@
-# Anotações Livres
-
-[[Diario]]

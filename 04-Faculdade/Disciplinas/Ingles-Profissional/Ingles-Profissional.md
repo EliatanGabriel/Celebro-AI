@@ -1,8 +1,24 @@
-# Ingles Profissional
+# Ingles-Profissional
 
-#faculdade #conceito
+#area/faculdade #hub
 
-Nota de conceito sobre **Ingles Profissional**. Preencha com anotações, resumos, links externos etc.
+Subárea de **Faculdade** com habilidades de inglês profissional.
 
+## Notas
+- [[Apresentacoes]]
+- [[Certificacoes]]
+- [[E-mails]]
+- [[Entrevistas]]
+- [[Listening]]
+- [[Reading]]
+- [[Reunioes]]
+- [[Speaking]]
+- [[Vocabulario-Tecnico]]
+- [[Writing]]
+
+## Conexões
+- [[Disciplinas]]
+- [[Faculdade]]
+- [[Estudos]]
 
 [[Disciplinas]]

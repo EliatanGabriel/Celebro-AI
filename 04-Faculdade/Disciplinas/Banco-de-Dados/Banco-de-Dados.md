@@ -6,9 +6,7 @@ status: active
 
 # Banco de Dados
 
-#area/computacao
+#area/faculdade
 
 Nota de conceito sobre **Banco de Dados**.
-
-
 [[Disciplinas]]

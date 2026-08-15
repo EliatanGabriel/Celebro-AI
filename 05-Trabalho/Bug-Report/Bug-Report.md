@@ -1,7 +1,25 @@
-# Bug Report
+# Bug-Report
 
-#trabalho #conceito
+#area/trabalho #hub
 
-Nota de conceito sobre **Bug Report**. Preencha com anotações, resumos, links externos etc.
+Subárea de **Trabalho** com conceitos e boas práticas de reporte de bugs.
+
+## Notas
+- [[Ambiente]]
+- [[Evidencias]]
+- [[Expected-vs-actual]]
+- [[Prioridade]]
+- [[Rastreabilidade]]
+- [[Regressao-bug]]
+- [[Reproducao]]
+- [[Severidade]]
+- [[Steps-to-reproduce]]
+- [[Template-Bug]]
+
+## Conexões
+- [[Trabalho]]
+- [[Prioridade-de-Bugs]]
+- [[Trabalho-CI-CD]]
+- [[Testes-Automatizados]]
 
 [[Trabalho]]

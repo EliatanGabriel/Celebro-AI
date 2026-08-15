@@ -1,7 +1,20 @@
 # Git Branch Strategy
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Git Branch Strategy**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Convenções de branches para organização do desenvolvimento.
+
+## Tópicos
+- Main
+- Develop
+- Feature
+- Release
+- Hotfix
+
+## Relacionadas
+- [[Git]]
+- [[GitHub]]
+- [[Versionamento]]
+- [[Conflitos]]
 
 [[Trabalho]]

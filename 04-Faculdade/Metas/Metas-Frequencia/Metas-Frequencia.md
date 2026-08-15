@@ -1,0 +1,20 @@
+# Metas-Frequencia
+
+#area/faculdade #conceito
+
+**Resumo:** Metas de presença e participação nas aulas.
+
+## Tópicos
+- Presença
+- Participação
+- Aulas
+- Disciplinas
+- Acompanhamento
+
+## Relacionadas
+- [[Faculdade-Metas]]
+- [[Metas-Faculdade]]
+- [[Disciplinas]]
+- [[Ritual-Planejamento]]
+
+[[Faculdade-Metas]]

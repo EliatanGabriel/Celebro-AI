@@ -60,9 +60,22 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "0363b517cc5f5192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Home/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,44 +239,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "f50705081746dd72",
+  "active": "8116653d87afe2fc",
   "lastOpenFiles": [
-    "06-Pessoal/Sono/Sono.md",
-    "06-Pessoal/Sono",
-    "06-Pessoal/Saude-e-Exercicio/Saude-e-Exercicio.md",
-    "06-Pessoal/Saude-e-Exercicio",
-    "06-Pessoal/Relacionamentos/Relacionamentos.md",
-    "06-Pessoal/Relacionamentos",
-    "06-Pessoal/Produtividade/Produtividade.md",
-    "06-Pessoal/Produtividade",
-    "06-Pessoal/Objetivos-de-Vida/Objetivos-de-Vida.md",
-    "06-Pessoal/Objetivos-de-Vida",
-    "06-Pessoal/Networking-Pessoal/Networking-Pessoal.md",
-    "06-Pessoal/Networking-Pessoal",
-    "06-Pessoal/Minimalismo-Digital/Minimalismo-Digital.md",
-    "06-Pessoal/Minimalismo-Digital",
-    "06-Pessoal/Meditacao/Meditacao.md",
-    "06-Pessoal/Meditacao",
-    "06-Pessoal/Habito-Leitura/Habito-Leitura.md",
-    "06-Pessoal/Habito-Leitura",
-    "06-Pessoal/Gestao-do-Tempo/Gestao-do-Tempo.md",
-    "06-Pessoal/Gestao-do-Tempo",
-    "06-Pessoal/Financas-Pessoais/Financas-Pessoais.md",
-    "06-Pessoal/Equilibrio-Vida-Trabalho/Equilibrio-Vida-Trabalho.md",
-    "06-Pessoal/Desenvolvimento-Pessoal/Desenvolvimento-Pessoal.md",
-    "06-Pessoal/Aprendizado-Continuo/Aprendizado-Continuo.md",
-    "06-Pessoal/Alimentacao/Alimentacao.md",
-    "06-Pessoal/Pessoal.md",
-    "06-Pessoal/Estudos/Habito-Leitura.md",
-    "00-Home/Home.md",
-    "05-Trabalho/Testes-Automatizados/Testes-Automatizados.md",
-    "05-Trabalho/Regressao/Regressao.md",
-    "05-Trabalho/QA-Manual-vs-Automatizado/QA-Manual-vs-Automatizado.md",
-    "05-Trabalho/Prioridade-de-Bugs/Prioridade-de-Bugs.md",
-    "05-Trabalho/Git-Branch-Strategy/Git-Branch-Strategy.md",
-    "05-Trabalho/Fluxo-Trello-QA/Fluxo-Trello-QA.md",
-    "05-Trabalho/Estudos.md",
-    "05-Trabalho/Documentacao-de-Testes/Documentacao-de-Testes.md",
+    "05-Trabalho/Trabalho-CI-CD.md",
+    "05-Trabalho/Testes-Automatizados.md",
+    "05-Trabalho/Code-Review.md",
+    "05-Trabalho/Bug-Report.md",
+    "05-Trabalho/API-REST.md",
+    "10-Estudos/Seguranca/Env/Env.md",
+    "10-Estudos/Seguranca/Env",
+    "10-Estudos/Seguranca/Credenciais/Credenciais.md",
+    "10-Estudos/Seguranca/Credenciais",
+    "10-Estudos/Seguranca/Engenharia-Social/Engenharia-Social.md",
+    "10-Estudos/Seguranca/Engenharia-Social",
+    "10-Estudos/Seguranca/Senhas/Senhas.md",
+    "10-Estudos/Seguranca/Senhas",
+    "10-Estudos/Seguranca/Dados/Dados.md",
+    "10-Estudos/Seguranca/Dados",
+    "10-Estudos/Seguranca/MFA/MFA.md",
+    "10-Estudos/Seguranca/MFA",
+    "10-Estudos/Redes/Dispositivos/Dispositivos.md",
+    "10-Estudos/Redes/Dispositivos",
+    "10-Estudos/Redes/Streaming/Streaming.md",
+    "10-Estudos/Redes/Streaming",
+    "10-Estudos/Redes/Ethernet/Ethernet.md",
+    "10-Estudos/Redes/Ethernet",
+    "10-Estudos/Redes/Protocolos/Protocolos.md",
+    "10-Estudos/Redes/Protocolos",
+    "10-Estudos/Redes/Diagnostico/Diagnostico.md",
+    "10-Estudos/Redes/Navegação/Navegação.md",
+    "10-Estudos/Ferramentas/Mobile/Mobile.md",
+    "10-Estudos/Redes/IoT/IoT.md",
+    "10-Estudos/Fundamentos/Windows/Windows.md",
+    "10-Estudos/Fundamentos/Games/Games.md",
+    "10-Estudos/Fundamentos/Logica-de-Programacao/Logica-de-Programacao.md",
+    "10-Estudos/Fundamentos/Ciência-da-Computacao/Ciência-da-Computacao.md",
+    "10-Estudos/Ferramentas/Editor/Editor.md",
+    "10-Estudos/Seguranca/Privacidade/Privacidade.md",
+    "10-Estudos/Ferramentas/Design/Design.md",
     "Sem título.canvas"
   ]
 }

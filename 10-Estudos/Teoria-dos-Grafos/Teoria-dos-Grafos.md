@@ -6,8 +6,7 @@ status: active
 
 # Teoria dos Grafos
 
-#area/computacao
+#area/estudos
 
 Nota de conceito sobre **Teoria dos Grafos**.
-
 [[Estudos]]

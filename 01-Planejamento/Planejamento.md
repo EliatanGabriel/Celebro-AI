@@ -1,11 +1,25 @@
-# 🧭 Planejamento
+---
+type: hub
+area: planejamento
+status: active
+---
 
-Planejamento, metas, decisões, visão de vida.
+# Planejamento
+
+#area/planejamento
+
+Metas, decisões, visão de vida e revisões — a bússola do vault.
+
+## Subáreas
+- [[Metas]]
+- [[Decisoes]]
+- [[Visao-de-Vida]]
+- [[Revisoes]]
+- [[Rituais]]
 
 ## Conexões
 - [[Home]]
-- [[Diario]] — usa memórias para planejar
-- [[Projetos]] — transforma metas em ação
-- [[metas]]
-- [[Decisoes]]
-- [[Visão de Vida]]
+- [[Diario]]
+- [[Pessoal]]
+- [[Reflexoes]]
+- [[Projetos]]

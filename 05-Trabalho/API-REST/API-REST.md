@@ -1,7 +1,25 @@
-# API REST
+# API-REST
 
-#trabalho #conceito
+#area/trabalho #hub
 
-Nota de conceito sobre **API REST**. Preencha com anotações, resumos, links externos etc.
+Subárea de **Trabalho** com conceitos de desenvolvimento e consumo de APIs REST.
+
+## Notas
+- [[Autenticacao-API]]
+- [[Documentacao-API]]
+- [[Endpoints]]
+- [[Metodos-HTTP]]
+- [[Paginacao]]
+- [[Rate-Limiting]]
+- [[Serializacao]]
+- [[Status-Codes]]
+- [[Testes-API]]
+- [[Versionamento-API]]
+
+## Conexões
+- [[Trabalho]]
+- [[Trabalho-CI-CD]]
+- [[Code-Review]]
+- [[Testes-Automatizados]]
 
 [[Trabalho]]

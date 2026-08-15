@@ -8,9 +8,17 @@ status: active
 
 #area/projetos
 
-Área de projetos — ideias, planos e trabalhos em andamento.
+Ideias, projetos ativos, concluídos e roadmaps.
+
+## Subáreas
+- [[Ideias]]
+- [[Ativos]]
+- [[Concluidos]]
+- [[Roadmaps]]
 
 ## Conexões
 - [[Home]]
 - [[Trabalho]]
+- [[Faculdade]]
 - [[Pessoal]]
+- [[Planejamento]]

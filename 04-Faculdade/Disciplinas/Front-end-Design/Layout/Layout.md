@@ -1,0 +1,20 @@
+# Layout
+
+#area/faculdade #conceito
+
+**Resumo:** Organização espacial dos elementos em uma página ou tela.
+
+## Tópicos
+- Grid
+- Flexbox
+- Espaçamento
+- Hierarquia
+- Fluxo
+
+## Relacionadas
+- [[CSS]]
+- [[UI]]
+- [[Responsividade]]
+- [[Tipografia]]
+
+[[Front-end-Design]]

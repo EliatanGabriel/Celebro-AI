@@ -1,7 +1,20 @@
 # Ambiente Local Laravel Vite
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Ambiente Local Laravel Vite**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Configuração de ambiente de desenvolvimento Laravel com Vite.
+
+## Tópicos
+- Laravel
+- Vite
+- PHP
+- npm
+- Hot reload
+
+## Relacionadas
+- [[Laravel]]
+- [[Composer]]
+- [[Frontend]]
+- [[VS-Code]]
 
 [[Trabalho]]

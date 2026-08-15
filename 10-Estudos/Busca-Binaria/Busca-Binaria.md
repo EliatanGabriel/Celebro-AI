@@ -6,8 +6,7 @@ status: active
 
 # Busca Binaria
 
-#area/computacao
+#area/estudos
 
 Nota de conceito sobre **Busca Binaria**.
-
 [[Estudos]]

@@ -1,0 +1,20 @@
+# Deadlines
+
+#area/pessoal #conceito
+
+**Resumo:** Prazos que orientam a entrega de tarefas e projetos.
+
+## Tópicos
+- Prazo
+- Antecipação
+- Urgência
+- Planejamento
+- Risco
+
+## Relacionadas
+- [[Planejamento-semanal]]
+- [[Prioridades]]
+- [[Gestao-do-Tempo]]
+- [[Deadlines]]
+
+[[Pessoal]]

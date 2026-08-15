@@ -1,3 +1,0 @@
-# Gratidão
-
-[[Reflexoes]]

@@ -8,25 +8,32 @@ status: active
 
 #area/trabalho
 
-Área de trabalho — estudos, técnicas, metas e anotações profissionais.
+Técnicas de QA, metas, anotações, reuniões e ferramentas profissionais.
 
-## Conceitos
-- [[Ambiente-Local-Laravel-Vite]]
+## Subáreas
 - [[API-REST]]
+- [[Ambiente-Local-Laravel-Vite]]
 - [[Bug-Report]]
 - [[Caso-de-Teste]]
-- [[CI-CD]]
+- [[Trabalho-CI-CD]]
 - [[Ciclo-de-Release]]
 - [[Code-Review]]
 - [[Comunicacao-com-Devs]]
 - [[Documentacao-de-Testes]]
+- [[Trabalho-Ferramentas]]
 - [[Fluxo-Trello-QA]]
 - [[Git-Branch-Strategy]]
 - [[Prioridade-de-Bugs]]
 - [[QA-Manual-vs-Automatizado]]
-- [[Regressao]]
+- [[Trabalho-Regressao]]
+- [[Trabalho-Reunioes]]
 - [[Testes-Automatizados]]
+- [[Trabalho-Metas]]
+- [[Trabalho-Anotacoes]]
 
-## Metas e Anotações
-- [[Metas - Trabalho]]
-- [[Anotações-Trabalho]]
+## Conexões
+- [[Home]]
+- [[Faculdade]]
+- [[Estudos]]
+- [[Projetos]]
+- [[Pessoal]]

@@ -1,7 +1,20 @@
 # Fluxo Trello QA
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Fluxo Trello QA**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Fluxo de trabalho do time de QA usando o Trello.
+
+## Tópicos
+- Quadros
+- Colunas
+- Cards
+- Transições
+- Automação
+
+## Relacionadas
+- [[Trello]]
+- [[Prioridade-de-Bugs]]
+- [[Bug-Report]]
+- [[Testes]]
 
 [[Trabalho]]

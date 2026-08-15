@@ -9,5 +9,4 @@ status: active
 #area/pessoal
 
 Nota de conceito sobre **Financas Pessoais**.
-
 [[Pessoal]]

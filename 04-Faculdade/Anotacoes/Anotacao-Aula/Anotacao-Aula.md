@@ -1,0 +1,20 @@
+# Anotacao-Aula
+
+#area/faculdade #conceito
+
+**Resumo:** Anotações das aulas das disciplinas.
+
+## Tópicos
+- Disciplina
+- Conteúdo
+- Dúvidas
+- Exemplos
+- Revisão
+
+## Relacionadas
+- [[Anotacoes]]
+- [[Faculdade]]
+- [[Metodo-Zettelkasten]]
+- [[Habito-Estudo]]
+
+[[Anotacoes]]

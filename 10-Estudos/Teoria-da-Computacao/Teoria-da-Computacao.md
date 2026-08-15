@@ -6,8 +6,7 @@ status: active
 
 # Teoria da Computacao
 
-#area/computacao
+#area/estudos
 
 Nota de conceito sobre **Teoria da Computacao**.
-
 [[Estudos]]

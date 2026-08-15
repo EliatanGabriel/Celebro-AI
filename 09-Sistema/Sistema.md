@@ -1,6 +1,21 @@
-# 🌱 Sistema
+---
+type: hub
+area: sistema
+status: active
+---
 
-Sistema, templates, configurações do vault — infraestrutura básica de tudo.
+# Sistema
+
+#area/sistema
+
+Templates, métodos, configurações, workflows e dashboards do vault.
+
+## Subáreas
+- [[Templates]]
+- [[Metodos]]
+- [[Configuracoes]]
+- [[Workflows]]
+- [[Dashboards]]
 
 ## Conexões
-[[Home]]
+- [[Home]]

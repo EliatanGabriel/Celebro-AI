@@ -1,7 +1,25 @@
-# Code Review
+# Code-Review
 
-#trabalho #conceito
+#area/trabalho #hub
 
-Nota de conceito sobre **Code Review**. Preencha com anotações, resumos, links externos etc.
+Subárea de **Trabalho** com práticas de revisão de código.
+
+## Notas
+- [[Aprovacao]]
+- [[Best-practices]]
+- [[Checklist]]
+- [[Conflitos]]
+- [[Feedback]]
+- [[Padroes]]
+- [[Performance-review]]
+- [[Readability]]
+- [[Refatoracao]]
+- [[Seguranca-review]]
+
+## Conexões
+- [[Trabalho]]
+- [[Comunicacao-com-Devs]]
+- [[Trabalho-CI-CD]]
+- [[Qualidade]]
 
 [[Trabalho]]

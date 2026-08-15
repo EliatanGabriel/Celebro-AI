@@ -1,7 +1,20 @@
 # Networking Pessoal
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Networking Pessoal**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Construção de uma rede de contatos pessoais.
+
+## Tópicos
+- Contatos
+- Presença
+- Interesse
+- Apoio
+- Conexões
+
+## Relacionadas
+- [[Networking]]
+- [[Amigos]]
+- [[Colegas]]
+- [[Pessoal]]
 
 [[Pessoal]]

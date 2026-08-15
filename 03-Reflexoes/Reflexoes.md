@@ -1,9 +1,24 @@
-# ❤️ Reflexões
+---
+type: hub
+area: reflexões
+status: active
+---
 
-Emoções, gratidão, reflexões.
+# Reflexões
+
+#area/reflexoes
+
+Emoções, gratidão, pensamentos e autoconhecimento.
+
+## Subáreas
+- [[Emocoes]]
+- [[Reflexoes-Gratidao]]
+- [[Reflexoes-Reflexoes]]
+- [[Pensamentos]]
 
 ## Conexões
-[[Home]]
-[[Gratidão]]
-[[Emoçoes]]
-[[Reflexao]]
+- [[Home]]
+- [[Diario]]
+- [[Pessoal]]
+- [[Planejamento]]
+- [[Estudos]]

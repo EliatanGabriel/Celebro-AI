@@ -1,8 +1,24 @@
 # Arduino
 
-#faculdade #conceito
+#area/faculdade #hub
 
-Nota de conceito sobre **Arduino**. Preencha com anotações, resumos, links externos etc.
+Subárea de **Faculdade** com conceitos de eletrônica e programação com Arduino.
 
+## Notas
+- [[Atuadores]]
+- [[Bibliotecas]]
+- [[Comunicacao-Serial]]
+- [[Interrupcoes]]
+- [[Pinos]]
+- [[Programacao-Arduino]]
+- [[Projetos-Arduino]]
+- [[PWM]]
+- [[Sensores]]
+- [[Shields]]
+
+## Conexões
+- [[Disciplinas]]
+- [[Faculdade]]
+- [[Estudos]]
 
 [[Disciplinas]]

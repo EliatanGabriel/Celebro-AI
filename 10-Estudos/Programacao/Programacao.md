@@ -6,8 +6,7 @@ status: active
 
 # Programacao
 
-#area/computacao
+#area/estudos
 
 Nota de conceito sobre **Programacao**.
-
 [[Estudos]]

@@ -1,0 +1,20 @@
+# Anotacao-Compra
+
+#area/pessoal #conceito
+
+**Resumo:** Registro de compras realizadas e considerações sobre elas.
+
+## Tópicos
+- Produto
+- Preço
+- Necessidade
+- Data
+- Avaliação
+
+## Relacionadas
+- [[Anotacao-Ideia]]
+- [[Anotacao-Saida]]
+- [[Financas-Pessoais]]
+- [[Orcamento]]
+
+[[Pessoal]]

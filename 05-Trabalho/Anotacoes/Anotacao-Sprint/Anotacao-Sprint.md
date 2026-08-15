@@ -1,0 +1,20 @@
+# Anotacao-Sprint
+
+#area/trabalho #conceito
+
+**Resumo:** Anotações sobre sprints: planejamento, progresso e entregas.
+
+## Tópicos
+- Sprint
+- Entregas
+- Riscos
+- Progresso
+- Retro
+
+## Relacionadas
+- [[Reuniao-Planning]]
+- [[Reuniao-Retro]]
+- [[Anotacao-Reuniao]]
+- [[Metodologias-Ageis]]
+
+[[Trabalho]]

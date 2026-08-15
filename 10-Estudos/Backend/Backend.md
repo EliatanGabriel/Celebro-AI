@@ -1,13 +1,33 @@
----
-type: concept
-area: computacao
-status: active
----
-
 # Backend
 
-#area/computacao
+#area/estudos
 
-Nota de conceito sobre **Backend**.
+Subárea de **Estudos**.
 
+## Notas
+- [[APIs]]
+- [[REST]]
+- [[GraphQL]]
+- [[HTTP]]
+- [[Node-js]]
+- [[Express]]
+- [[Django]]
+- [[Flask]]
+- [[Spring]]
+- [[Laravel]]
+- [[FastAPI]]
+- [[NestJS]]
+- [[gRPC]]
+- [[WebSocket]]
+- [[Queue]]
+- [[Redis]]
+- [[Caching]]
+- [[Middleware]]
+- [[Auth]]
+- [[JWT]]
+- [[OAuth]]
+- [[Sessions]]
+- [[Cookies]]
+- [[Proxy]]
+- [[Load-Balancer]]
 [[Estudos]]

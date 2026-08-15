@@ -1,3 +1,0 @@
-# Metas - Trabalho
-
-[[Trabalho]]

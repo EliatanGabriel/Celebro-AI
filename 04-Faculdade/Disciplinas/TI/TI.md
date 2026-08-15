@@ -1,8 +1,24 @@
-# T.I
+# TI
 
-#faculdade #conceito
+#area/faculdade #hub
 
-Nota de conceito sobre **T.I**. Preencha com anotações, resumos, links externos etc.
+Subárea de **Faculdade** com conceitos de Tecnologia da Informação.
 
+## Notas
+- [[Faculdade-Backup]]
+- [[Cloud]]
+- [[Hardware]]
+- [[Infraestrutura]]
+- [[Manutencao]]
+- [[Redes]]
+- [[Seguranca]]
+- [[Software]]
+- [[Suporte]]
+- [[Virtualizacao]]
+
+## Conexões
+- [[Disciplinas]]
+- [[Faculdade]]
+- [[Estudos]]
 
 [[Disciplinas]]

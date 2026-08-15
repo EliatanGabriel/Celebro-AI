@@ -1,0 +1,20 @@
+# Sistemas-Embarcados
+
+#area/faculdade #conceito
+
+**Resumo:** Sistemas computacionais dedicados integrados a dispositivos.
+
+## Tópicos
+- Microcontrolador
+- Tempo real
+- Restrições
+- Firmware
+- Baixo consumo
+
+## Relacionadas
+- [[GPIO]]
+- [[ESP32]]
+- [[Interrupcoes]]
+- [[Arduino]]
+
+[[Raspberry-Pi-e-IoT]]

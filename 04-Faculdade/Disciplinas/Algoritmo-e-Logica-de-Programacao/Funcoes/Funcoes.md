@@ -1,0 +1,20 @@
+# Funcoes
+
+#area/faculdade #conceito
+
+**Resumo:** Blocos reutilizáveis de código que recebem parâmetros e retornam valores.
+
+## Tópicos
+- Parâmetros
+- Retorno
+- Escopo
+- Reuso
+- Assinatura
+
+## Relacionadas
+- [[Variaveis]]
+- [[Recursao]]
+- [[Metodos]]
+- [[Modulos]]
+
+[[Algoritmo-e-Logica-de-Programacao]]

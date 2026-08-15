@@ -1,0 +1,20 @@
+# Metas-Trabalho
+
+#area/planejamento #conceito
+
+**Resumo:** Metas profissionais ligadas ao trabalho.
+
+## Tópicos
+- Entregas
+- Promoção
+- Habilidades
+- Prazos
+- Resultados
+
+## Relacionadas
+- [[Metas-Promocao]]
+- [[Metas-Projetos-Trab]]
+- [[Trabalho]]
+- [[Metas]]
+
+[[Diario]]

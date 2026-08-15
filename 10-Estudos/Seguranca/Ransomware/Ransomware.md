@@ -1,0 +1,20 @@
+# Ransomware
+
+#area/estudos #conceito
+
+**Resumo:** Malware que sequestra dados e exige resgate.
+
+## Tópicos
+- Criptografia
+- Resgate
+- Backup
+- Prevenção
+- Impacto
+
+## Relacionadas
+- [[Antivirus]]
+- [[Phishing]]
+- [[Backup]]
+- [[Seguranca]]
+
+[[Estudos-Seguranca]]

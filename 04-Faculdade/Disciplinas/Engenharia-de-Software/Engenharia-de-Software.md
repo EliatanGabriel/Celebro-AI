@@ -6,9 +6,7 @@ status: active
 
 # Engenharia de Software
 
-#area/computacao
+#area/faculdade
 
 Nota de conceito sobre **Engenharia de Software**.
-
-
 [[Disciplinas]]

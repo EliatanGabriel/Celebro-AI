@@ -1,7 +1,20 @@
 # Saude e Exercicio
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Saude e Exercicio**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Subárea de **Pessoal** com saúde física e exercícios.
 
-[[Pessoal]]
+## Tópicos
+- Treinos
+- Nutrição
+- Recuperação
+- Acompanhamento
+- Hidratação
+
+## Relacionadas
+- [[Treino-semana]]
+- [[Nutricao]]
+- [[Descanso]]
+- [[Pessoal]]
+
+[[Saude-e-Exercicio]]

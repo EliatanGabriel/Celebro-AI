@@ -1,7 +1,20 @@
 # Minimalismo Digital
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Minimalismo Digital**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Redução do uso de telas e excesso de informação digital.
+
+## Tópicos
+- Desconexão
+- Foco
+- Redes
+- Consumo
+- Tempo
+
+## Relacionadas
+- [[Habito-Desconexao]]
+- [[Rotina-Digital]]
+- [[Foco]]
+- [[Pessoal]]
 
 [[Pessoal]]

@@ -8,9 +8,9 @@ status: active
 
 #area/pessoal
 
-Área pessoal — estudos, hábitos, rotinas, metas e anotações da vida.
+Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 
-## Conceitos
+## Subáreas
 - [[Produtividade]]
 - [[Gestao-do-Tempo]]
 - [[Financas-Pessoais]]
@@ -21,16 +21,22 @@ status: active
 - [[Equilibrio-Vida-Trabalho]]
 - [[Aprendizado-Continuo]]
 - [[Minimalismo-Digital]]
-- [[Habito-Leitura]]
+- [[Pessoal-Habito-Leitura]]
 - [[Meditacao]]
 - [[Networking-Pessoal]]
 - [[Objetivos-de-Vida]]
 - [[Relacionamentos]]
-
-## Hábitos e Rotinas
 - [[Habitos]]
 - [[Rotinas]]
+- [[Pessoal-Metas]]
+- [[Pessoal-Anotacoes]]
+- [[Hobbies]]
+- [[Saude]]
 
-## Metas e Anotações
-- [[Metas - Pessoal]]
-- [[Anotações-Pessoal]]
+## Conexões
+- [[Home]]
+- [[Trabalho]]
+- [[Faculdade]]
+- [[Planejamento]]
+- [[Projetos]]
+- [[Reflexoes]]

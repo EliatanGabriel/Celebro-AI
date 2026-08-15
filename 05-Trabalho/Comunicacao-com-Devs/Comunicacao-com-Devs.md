@@ -1,7 +1,20 @@
 # Comunicacao com Devs
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Comunicacao com Devs**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Habilidades de comunicação eficaz com desenvolvedores.
+
+## Tópicos
+- Clareza
+- Contexto
+- Empatia
+- Feedback
+- Jargão
+
+## Relacionadas
+- [[Feedback]]
+- [[Reuniao-Tecnica]]
+- [[Code-Review]]
+- [[Slack]]
 
 [[Trabalho]]

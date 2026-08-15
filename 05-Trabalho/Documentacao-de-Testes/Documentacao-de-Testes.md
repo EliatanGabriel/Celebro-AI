@@ -1,7 +1,20 @@
 # Documentacao de Testes
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Documentacao de Testes**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Registros que descrevem planos, casos e resultados de testes.
+
+## Tópicos
+- Plano
+- Casos
+- Resultados
+- Evidências
+- Rastreabilidade
+
+## Relacionadas
+- [[Caso-de-Teste]]
+- [[Testes]]
+- [[Report]]
+- [[Testes-Automatizados]]
 
 [[Trabalho]]

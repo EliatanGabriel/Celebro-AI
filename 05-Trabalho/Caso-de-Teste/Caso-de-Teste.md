@@ -1,7 +1,20 @@
 # Caso de Teste
 
-#trabalho #conceito
+#area/trabalho #conceito
 
-Nota de conceito sobre **Caso de Teste**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Descrição estruturada de um cenário a ser validado.
+
+## Tópicos
+- Pré-condições
+- Passos
+- Resultado esperado
+- Dados
+- Cobertura
+
+## Relacionadas
+- [[Testes]]
+- [[Testes-Automatizados]]
+- [[Bug-Report]]
+- [[Documentacao-de-Testes]]
 
 [[Trabalho]]

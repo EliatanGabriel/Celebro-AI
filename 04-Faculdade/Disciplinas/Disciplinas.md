@@ -21,5 +21,4 @@ Pastas das disciplinas da faculdade.
 - [[Raspberry-Pi-e-IoT]]
 - [[TI]]
 - [[Typescript]]
-
 [[Faculdade]]

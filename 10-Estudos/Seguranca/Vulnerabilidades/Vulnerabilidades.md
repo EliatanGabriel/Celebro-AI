@@ -1,0 +1,20 @@
+# Vulnerabilidades
+
+#area/estudos #conceito
+
+**Resumo:** Falhas exploráveis em software ou configuração.
+
+## Tópicos
+- CVE
+- Exploração
+- Patch
+- Classificação
+- Mitigação
+
+## Relacionadas
+- [[Pentest]]
+- [[Patch]]
+- [[OWASP]]
+- [[Seguranca]]
+
+[[Estudos-Seguranca]]

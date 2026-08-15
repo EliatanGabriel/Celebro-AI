@@ -1,7 +1,20 @@
 # Sono
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Sono**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Importância do sono e boas práticas para dormir bem.
+
+## Tópicos
+- Qualidade
+- Regularidade
+- Ambiente
+- Rotina
+- Recuperação
+
+## Relacionadas
+- [[Habito-Sono]]
+- [[Descanso]]
+- [[Saude-mental]]
+- [[Pessoal]]
 
 [[Pessoal]]

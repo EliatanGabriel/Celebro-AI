@@ -6,9 +6,7 @@ status: active
 
 # POO
 
-#area/computacao
+#area/faculdade
 
 Nota de conceito sobre **POO**.
-
-
 [[Disciplinas]]

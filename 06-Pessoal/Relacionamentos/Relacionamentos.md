@@ -1,7 +1,20 @@
 # Relacionamentos
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Relacionamentos**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Subárea de **Pessoal** com vínculos e relações importantes.
 
-[[Pessoal]]
+## Tópicos
+- Família
+- Amigos
+- Parceiro
+- Presença
+- Gratidão
+
+## Relacionadas
+- [[Amigos]]
+- [[Familia]]
+- [[Parceiro]]
+- [[Pessoal]]
+
+[[Relacionamentos]]

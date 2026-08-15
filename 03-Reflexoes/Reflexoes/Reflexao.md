@@ -1,3 +1,0 @@
-# Reflexão
-
-[[Reflexoes]]

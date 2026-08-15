@@ -5,9 +5,24 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:home",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 0.939503741630563,
@@ -17,6 +32,6 @@
   "repelStrength": 12.3945115031466,
   "linkStrength": 0.692103190232375,
   "linkDistance": 242,
-  "scale": 0.45050811767578125,
+  "scale": 0.0889892578125,
   "close": true
 }

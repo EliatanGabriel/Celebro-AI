@@ -1,7 +1,20 @@
 # Objetivos de Vida
 
-#pessoal #conceito
+#area/pessoal #conceito
 
-Nota de conceito sobre **Objetivos de Vida**. Preencha com anotações, resumos, links externos etc.
+**Resumo:** Propósitos e metas de longo prazo para a vida.
+
+## Tópicos
+- Propósito
+- Visão
+- Valores
+- Plano
+- Revisão
+
+## Relacionadas
+- [[Visao-de-Vida]]
+- [[Metas-Anuais]]
+- [[Desenvolvimento-Pessoal]]
+- [[Pessoal]]
 
 [[Pessoal]]
