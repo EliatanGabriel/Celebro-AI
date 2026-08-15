@@ -56,6 +56,34 @@
               "icon": "lucide-file",
               "title": "Faculdade"
             }
+          },
+          {
+            "id": "dddb46b0babc395a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Faculdade/Faculdade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faculdade"
+            }
+          },
+          {
+            "id": "bf4f32ae0e712de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Projetos/Projetos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projetos"
+            }
           }
         ]
       }
@@ -223,42 +251,42 @@
   },
   "active": "8116653d87afe2fc",
   "lastOpenFiles": [
-    "04-Faculdade/Faculdade.md",
-    "04-Faculdade/Disciplinas/Algoritmos.md",
-    "00-Home/Home.md",
-    "06-Conhecimento/Estudos/Faculdade/Algoritmos.md",
-    "06-Conhecimento/Estudos/Pessoal/Sono.md",
-    "08-Conexoes/MOCs/Faculdade.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Disciplinas.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Typesript/Typescript.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/POO/POO.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Ingles/Ingles.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Front-end/Front end.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Banco de Dados/Banco de Dados.md",
-    "06-Conhecimento/Estudos/Faculdade/Complexidade-Big-O.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Typesript",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Ingles",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Banco de Dados",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/Front-end",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas/POO",
-    "06-Conhecimento/Cursos/Cursos.md",
-    "06-Conhecimento/Estudos/Faculdade/Disciplinas",
-    "06-Conhecimento/Estudos/Estudos.md",
-    "06-Conhecimento/Estudos/Trabalho/Trabalho.md",
-    "06-Conhecimento/Estudos/Pessoal/Pessoal.md",
-    "06-Conhecimento/Estudos/Faculdade/Faculdade.md",
-    "06-Conhecimento/Conhecimento.md",
-    "06-Conhecimento/Rede/Rede.md",
-    "06-Conhecimento/Livros/Livros.md",
-    "06-Conhecimento/Rede/APIs.md",
-    "05-Referencias/Referencias.md",
-    "05-Referencias/Moodboards/Moodboards.md",
-    "05-Referencias/Inspiracoes/Inpiraçoes.md",
-    "05-Referencias/Fontes/Fontes.md",
-    "FACULDADE",
-    "Sem título.base",
-    "Sem título.canvas",
-    "10-Arquivo",
-    "09-Sistema/Templates"
+    "07-Projetos/Projetos.md",
+    "Estudos/Estudos.md",
+    "Estudos/Variaveis/Variaveis.md",
+    "Estudos/Terminal/Terminal.md",
+    "Estudos/Teoria-da-Computacao/Teoria-da-Computacao.md",
+    "Estudos/Teoria-dos-Grafos/Teoria-dos-Grafos.md",
+    "Estudos/Shell/Shell.md",
+    "Estudos/Servidores/Servidores.md",
+    "Estudos/REST/REST.md",
+    "Estudos/Python/Python.md",
+    "Estudos/Programacao/Programacao.md",
+    "Estudos/Machine-Learning/Machine-Learning.md",
+    "Estudos/Logica/Logica.md",
+    "Estudos/Linux/Linux.md",
+    "Estudos/JavaScript/JavaScript.md",
+    "Estudos/Java/Java.md",
+    "Estudos/JOIN/JOIN.md",
+    "Estudos/Inteligencia-Artificial/Inteligencia-Artificial.md",
+    "Estudos/HTTP/HTTP.md",
+    "Estudos/Funcoes/Funcoes.md",
+    "Estudos/Grafos/Grafos.md",
+    "Estudos/GitHub/GitHub.md",
+    "Estudos/Git/Git.md",
+    "Estudos/Frontend/Frontend.md",
+    "Estudos/Estatistica/Estatistica.md",
+    "Estudos/DevOps/DevOps.md",
+    "Estudos/Variaveis",
+    "Estudos/Terminal",
+    "Estudos/Teoria-dos-Grafos",
+    "Estudos/Teoria-da-Computacao",
+    "Estudos/Shell",
+    "Estudos/Servidores",
+    "Estudos/REST",
+    "Estudos/Python",
+    "Estudos/Programacao",
+    "Estudos/Machine-Learning",
+    "Sem título.canvas"
   ]
 }

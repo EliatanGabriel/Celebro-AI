@@ -12,6 +12,5 @@ status: active
 
 ## Conexões
 - [[Home]]
-- [[Faculdade]]
 - [[Trabalho]]
 - [[Pessoal]]

@@ -13,6 +13,7 @@ Bem-vindo ao Celebro AI — o cérebro do seu conhecimento.
 [[Diario]]
 [[Reflexoes]]
 [[Faculdade]]
+[[Estudos]]
 [[Trabalho]]
 [[Pessoal]]
 [[Projetos]]
