@@ -1,0 +1,17 @@
+---
+type: concept
+area: computacao
+status: active
+---
+
+# DevOps
+
+#area/computacao
+
+Nota de conceito sobre **DevOps**.
+
+## Conexões
+- [[Computacao]]
+- [[Linux]]
+- [[Git]]
+- [[Cloud]]

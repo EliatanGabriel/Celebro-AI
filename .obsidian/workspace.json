@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "9625271414597793",
+    "type": "split",
+    "children": [
+      {
+        "id": "61bf15f341e11ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8116653d87afe2fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad806bd4c6e28048",
+    "type": "split",
+    "children": [
+      {
+        "id": "8900cbd115bee772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da448eae0f58cc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a31e6c3691bd01be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ec10757691bf75eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66fe95f10b814bcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3456e63e166cb084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e05b411c86e9ca1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "69bc4f5383bae669",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "376d29f6bdd9115d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "428a8440b928454d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "f361105e46317c86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "8116653d87afe2fc",
+  "lastOpenFiles": [
+    "00-Indice/Home.md",
+    "00-Indice/Indice.md",
+    "06-Conhecimento/Estudos/Pessoal/Equilibrio-Vida-Trabalho.md",
+    "06-Conhecimento/Estudos/Pessoal/Networking-Pessoal.md",
+    "06-Conhecimento/Estudos/Pessoal/Aprendizado-Continuo.md",
+    "06-Conhecimento/Estudos/Pessoal/Minimalismo-Digital.md",
+    "06-Conhecimento/Estudos/Pessoal/Produtividade.md",
+    "06-Conhecimento/Estudos/Pessoal/Desenvolvimento-Pessoal.md",
+    "06-Conhecimento/Estudos/Pessoal/Relacionamentos.md",
+    "06-Conhecimento/Estudos/Pessoal/Alimentacao.md",
+    "06-Conhecimento/Estudos/Pessoal/Sono.md",
+    "06-Conhecimento/Estudos/Pessoal/Meditacao.md",
+    "06-Conhecimento/Estudos/Pessoal/Objetivos-de-Vida.md",
+    "06-Conhecimento/Estudos/Pessoal/Gestao-do-Tempo.md",
+    "06-Conhecimento/Estudos/Pessoal/Saude-e-Exercicio.md",
+    "06-Conhecimento/Estudos/Pessoal/Financas-Pessoais.md",
+    "06-Conhecimento/Estudos/Pessoal/Habito-Leitura.md",
+    "06-Conhecimento/Estudos/Trabalho/Ciclo-de-Release.md",
+    "06-Conhecimento/Estudos/Trabalho/Documentacao-de-Testes.md",
+    "06-Conhecimento/Estudos/Trabalho/Comunicacao-com-Devs.md",
+    "06-Conhecimento/Estudos/Trabalho/Prioridade-de-Bugs.md",
+    "06-Conhecimento/Estudos/Trabalho/QA-Manual-vs-Automatizado.md",
+    "06-Conhecimento/Estudos/Trabalho/Testes-Automatizados.md",
+    "06-Conhecimento/Estudos/Trabalho/API-REST.md",
+    "06-Conhecimento/Estudos/Trabalho/CI-CD.md",
+    "06-Conhecimento/Estudos/Trabalho/Code-Review.md",
+    "10-Arquivo",
+    "09-Sistema/Templates",
+    "09-Sistema/Configuracoes",
+    "09-Sistema",
+    "08-Conexoes/MOCs",
+    "08-Conexoes",
+    "07-Projetos/Tarefas/Trabalho",
+    "07-Projetos/Tarefas/Pessoal",
+    "07-Projetos/Tarefas/Faculdade",
+    "07-Projetos/Projetos/Trabalho"
+  ]
+}
