@@ -10,5 +10,5 @@ Nota de conceito sobre **Networking Pessoal**. Preencha com anotações, resumos
 - [[Habito-Leitura]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

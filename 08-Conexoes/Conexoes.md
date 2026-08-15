@@ -7,7 +7,7 @@ MOCs (Maps of Content) — conecta todas as regiões entre si.
 - [[Planejamento]]
 - [[Diario]]
 - [[Reflexoes]]
-- [[Habitos]]
+- [[04-Manias/Habitos]]
 - [[Referencias]]
 - [[Conhecimento]]
 - [[Projetos]]

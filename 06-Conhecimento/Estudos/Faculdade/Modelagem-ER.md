@@ -7,8 +7,8 @@ Nota de conceito sobre **Modelagem ER**. Preencha com anotações, resumos, link
 ## Relacionados
 - [[Banco-de-Dados]]
 - [[SQL]]
-- [[POO]]
+- [[06-Conhecimento/Estudos/Faculdade/POO]]
 
 ## Área
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Conhecimento]]

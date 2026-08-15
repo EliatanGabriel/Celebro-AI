@@ -10,5 +10,5 @@ Nota de conceito sobre **Objetivos de Vida**. Preencha com anotações, resumos,
 - [[Sono]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

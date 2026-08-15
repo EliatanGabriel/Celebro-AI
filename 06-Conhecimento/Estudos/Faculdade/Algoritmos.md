@@ -12,7 +12,7 @@ Nota de conceito sobre **Algoritmos**.
 
 ## Conexões
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Estrutura-de-Dados]]
 - [[Matematica]]
 - [[Programacao]]

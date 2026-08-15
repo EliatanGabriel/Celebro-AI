@@ -10,5 +10,5 @@ Nota de conceito sobre **Habito Leitura**. Preencha com anotações, resumos, li
 - [[Saude-e-Exercicio]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

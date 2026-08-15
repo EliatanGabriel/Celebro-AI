@@ -10,5 +10,5 @@ Nota de conceito sobre **Protocolo TCP IP**. Preencha com anotações, resumos, 
 - [[Engenharia-de-Software]]
 
 ## Área
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Conhecimento]]

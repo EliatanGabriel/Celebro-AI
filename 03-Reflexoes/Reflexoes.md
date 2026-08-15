@@ -1,9 +1,9 @@
-# ❤️ Amígdala
+# ❤️ Mente
 
 Emoções, gratidão, reflexões.
 
 ## Conexões
-- [[Home]]
-- [[Diario]] — memória emocional
-- [[Habitos]] — respostas automáticas
-- [[Conexoes]]
+[[Home]]
+[[Gratidão]]
+[[Emoçoes]]
+[[Reflexao]]

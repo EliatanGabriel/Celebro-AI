@@ -14,7 +14,7 @@ Nota de conceito sobre **Engenharia de Software**.
 - [[Metodologias-Ageis]]
 - [[Padroes-de-Projeto]]
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Testes-de-Software]]
 - [[APIs]]
 - [[Git]]

@@ -12,3 +12,5 @@ Nota de conceito sobre **Testes Automatizados**. Preencha com anotações, resum
 ## Área
 - [[Carreira]]
 - [[Conhecimento]]
+
+---

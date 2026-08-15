@@ -10,5 +10,5 @@ Nota de conceito sobre **Aprendizado Continuo**. Preencha com anotações, resum
 - [[Equilibrio-Vida-Trabalho]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

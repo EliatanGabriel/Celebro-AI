@@ -11,7 +11,9 @@ status: active
 Hub de conhecimento — reúne e conecta as notas relacionadas abaixo.
 
 ## Conexões
-- [[Home]]
-- [[Computacao]]
-- [[Estudos]]
-- [[Faculdade]]
+[[Home]]
+[[Rede]]
+[[Livros]]
+[[06-Conhecimento/Estudos/Estudos|Estudos]]
+[[Cursos]]
+

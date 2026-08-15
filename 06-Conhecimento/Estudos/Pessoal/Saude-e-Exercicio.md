@@ -10,5 +10,5 @@ Nota de conceito sobre **Saude e Exercicio**. Preencha com anotações, resumos,
 - [[Objetivos-de-Vida]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

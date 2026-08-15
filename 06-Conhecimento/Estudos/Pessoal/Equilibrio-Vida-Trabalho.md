@@ -10,5 +10,5 @@ Nota de conceito sobre **Equilibrio Vida Trabalho**. Preencha com anotações, r
 - [[Financas-Pessoais]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

@@ -7,3 +7,7 @@ Planejamento, metas, decisões, visão de vida.
 - [[Diario]] — usa memórias para planejar
 - [[Projetos]] — transforma metas em ação
 - [[Conexoes]]
+- [[Decisoes]]
+- [[metas]]
+- [[Visão de Vida]]
+- 

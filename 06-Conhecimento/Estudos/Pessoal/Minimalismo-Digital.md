@@ -10,5 +10,5 @@ Nota de conceito sobre **Minimalismo Digital**. Preencha com anotações, resumo
 - [[Networking-Pessoal]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

@@ -12,7 +12,7 @@ Nota de conceito sobre **Estrutura de Dados**.
 
 ## Conexões
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Algoritmos]]
 - [[Programacao]]
 - [[Arvores]]

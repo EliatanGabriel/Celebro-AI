@@ -12,7 +12,7 @@ Nota de conceito sobre **Sistemas Operacionais**.
 
 ## Conexões
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Linux]]
 - [[Arquitetura-de-Computadores]]
 - [[Redes-de-Computadores]]

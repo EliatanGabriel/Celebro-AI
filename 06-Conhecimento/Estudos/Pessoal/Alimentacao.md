@@ -10,5 +10,5 @@ Nota de conceito sobre **Alimentacao**. Preencha com anotações, resumos, links
 - [[Desenvolvimento-Pessoal]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

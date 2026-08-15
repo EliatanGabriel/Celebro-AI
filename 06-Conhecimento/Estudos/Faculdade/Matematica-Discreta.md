@@ -11,7 +11,7 @@ status: active
 Nota de conceito sobre **Matematica Discreta**.
 
 ## Conexões
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Matematica]]
 - [[Teoria-dos-Grafos]]
 - [[Algoritmos]]

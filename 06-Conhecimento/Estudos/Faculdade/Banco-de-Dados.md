@@ -13,7 +13,7 @@ Nota de conceito sobre **Banco de Dados**.
 ## Conexões
 - [[Modelagem-ER]]
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Programacao]]
 - [[APIs]]
 - [[Engenharia-de-Software]]

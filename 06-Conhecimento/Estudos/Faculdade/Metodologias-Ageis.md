@@ -10,5 +10,5 @@ Nota de conceito sobre **Metodologias Ageis**. Preencha com anotações, resumos
 - [[Estrutura-de-Dados]]
 
 ## Área
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Conhecimento]]

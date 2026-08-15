@@ -12,6 +12,6 @@ Nota de conceito sobre **Redes de Computadores**.
 
 ## Conexões
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Sistemas-Operacionais]]
 - [[Linux]]

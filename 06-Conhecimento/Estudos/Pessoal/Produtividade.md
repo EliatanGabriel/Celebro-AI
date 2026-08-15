@@ -10,5 +10,5 @@ Nota de conceito sobre **Produtividade**. Preencha com anotações, resumos, lin
 - [[Aprendizado-Continuo]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

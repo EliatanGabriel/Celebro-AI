@@ -12,6 +12,6 @@ Nota de conceito sobre **Logica**.
 
 ## Conexões
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Matematica]]
 - [[Algoritmos]]

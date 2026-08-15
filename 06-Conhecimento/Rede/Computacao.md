@@ -12,14 +12,14 @@ Hub de conhecimento — reúne e conecta as notas relacionadas abaixo.
 
 ## Conexões
 - [[Home]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Matematica]]
 - [[Logica]]
 - [[Algoritmos]]
 - [[Estrutura-de-Dados]]
 - [[Teoria-da-Computacao]]
 - [[Programacao]]
-- [[POO]]
+- [[06-Conhecimento/Estudos/Faculdade/POO]]
 - [[JavaScript]]
 - [[Python]]
 - [[C]]

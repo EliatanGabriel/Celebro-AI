@@ -11,13 +11,13 @@ status: active
 Nota de conceito sobre **Programacao**.
 
 ## Conexões
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Computacao]]
 - [[Algoritmos]]
 - [[Estrutura-de-Dados]]
 - [[Variaveis]]
 - [[Funcoes]]
-- [[POO]]
+- [[06-Conhecimento/Estudos/Faculdade/POO]]
 - [[Recursao]]
 - [[Complexidade-Big-O]]
 - [[Git]]

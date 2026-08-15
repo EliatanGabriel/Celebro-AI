@@ -11,11 +11,7 @@ status: active
 Hub de conhecimento — reúne e conecta as notas relacionadas abaixo.
 
 ## Conexões
-- [[Faculdade]]
-- [[Computacao]]
-- [[Conhecimento]]
-- [[Estudos]]
-- [[Projetos]]
-- [[Carreira]]
-- [[Financas-Pessoais]]
-- [[Pessoal]]
+[[Planejamento]]
+[[metas]]
+[[Decisoes]]
+[[Visão de Vida]]

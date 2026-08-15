@@ -12,4 +12,4 @@ Nota de conceito sobre **Financas Pessoais**.
 
 ## Conexões
 - [[Home]]
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]

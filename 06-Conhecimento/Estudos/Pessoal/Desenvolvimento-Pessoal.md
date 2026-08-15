@@ -10,5 +10,5 @@ Nota de conceito sobre **Desenvolvimento Pessoal**. Preencha com anotações, re
 - [[Minimalismo-Digital]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

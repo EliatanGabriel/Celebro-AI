@@ -10,5 +10,5 @@ Nota de conceito sobre **Gestao do Tempo**. Preencha com anotações, resumos, l
 - [[Meditacao]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

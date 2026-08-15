@@ -10,5 +10,5 @@ Nota de conceito sobre **Relacionamentos**. Preencha com anotações, resumos, l
 - [[Produtividade]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

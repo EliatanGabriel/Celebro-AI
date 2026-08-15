@@ -10,5 +10,5 @@ Nota de conceito sobre **Sono**. Preencha com anotações, resumos, links extern
 - [[Relacionamentos]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

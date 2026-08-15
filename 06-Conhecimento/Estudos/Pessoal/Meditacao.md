@@ -10,5 +10,5 @@ Nota de conceito sobre **Meditacao**. Preencha com anotações, resumos, links e
 - [[Alimentacao]]
 
 ## Área
-- [[Pessoal]]
+- [[08-Conexoes/MOCs/Pessoal]]
 - [[Conhecimento]]

@@ -12,7 +12,7 @@ Nota de conceito sobre **Matematica**.
 
 ## Conexões
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Algoritmos]]
 - [[Estatistica]]
 - [[Machine-Learning]]

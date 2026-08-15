@@ -13,7 +13,7 @@ Hub de conhecimento — reúne e conecta as notas relacionadas abaixo.
 ## Conexões
 - [[Home]]
 - [[Computacao]]
-- [[Faculdade]]
+- [[08-Conexoes/MOCs/Faculdade]]
 - [[Carreira]]
 - [[FreeFlex-QA]]
 - [[Portfolio-Pessoal]]
