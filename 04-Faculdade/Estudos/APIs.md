@@ -10,12 +10,4 @@ status: active
 
 Nota de conceito sobre **APIs**.
 
-## Conexões
-- [[Computacao]]
-- [[Programacao]]
-- [[Backend]]
-- [[HTTP]]
-- [[REST]]
-- [[Banco-de-Dados]]
-- [[Frontend]]
-- [[Projetos]]
+[[Faculdade]]

@@ -4,11 +4,4 @@
 
 Nota de conceito sobre **Produtividade**. Preencha com anotações, resumos, links externos etc.
 
-## Relacionados
-- [[Desenvolvimento-Pessoal]]
-- [[Minimalismo-Digital]]
-- [[Aprendizado-Continuo]]
-
-## Área
-- [[08-Conexoes/MOCs/Pessoal]]
-- [[Conhecimento]]
+[[Pessoal]]

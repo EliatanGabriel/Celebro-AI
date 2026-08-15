@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **POO**.
 
-## Conexões
-- [[Computacao]]
-- [[Programacao]]
-- [[Engenharia-de-Software]]
+[[Faculdade]]

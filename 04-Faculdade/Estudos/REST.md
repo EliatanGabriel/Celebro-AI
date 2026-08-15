@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **REST**.
 
-## Conexões
-- [[APIs]]
-- [[HTTP]]
-- [[Backend]]
+[[Faculdade]]

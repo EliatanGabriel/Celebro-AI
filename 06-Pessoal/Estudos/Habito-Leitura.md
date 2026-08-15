@@ -4,11 +4,4 @@
 
 Nota de conceito sobre **Habito Leitura**. Preencha com anotações, resumos, links externos etc.
 
-## Relacionados
-- [[Equilibrio-Vida-Trabalho]]
-- [[Financas-Pessoais]]
-- [[Saude-e-Exercicio]]
-
-## Área
-- [[08-Conexoes/MOCs/Pessoal]]
-- [[Conhecimento]]
+[[Pessoal]]

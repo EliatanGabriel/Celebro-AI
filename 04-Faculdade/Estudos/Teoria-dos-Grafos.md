@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Teoria dos Grafos**.
 
-## Conexões
-- [[Grafos]]
-- [[Matematica-Discreta]]
+[[Faculdade]]

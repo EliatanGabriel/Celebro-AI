@@ -8,13 +8,10 @@ status: active
 
 #area/projetos
 
-Hub de conhecimento — reúne e conecta as notas relacionadas abaixo.
+Área de projetos — ideias, planos e trabalhos em andamento.
 
 ## Conexões
 - [[Home]]
-- [[Computacao]]
-- [[08-Conexoes/MOCs/Faculdade]]
-- [[Carreira]]
-- [[FreeFlex-QA]]
-- [[Portfolio-Pessoal]]
-- [[TaskFlow]]
+- [[Faculdade]]
+- [[Trabalho]]
+- [[Pessoal]]

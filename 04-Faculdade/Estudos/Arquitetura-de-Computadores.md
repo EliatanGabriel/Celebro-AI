@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Arquitetura de Computadores**.
 
-## Conexões
-- [[Computacao]]
-- [[Sistemas-Operacionais]]
+[[Faculdade]]

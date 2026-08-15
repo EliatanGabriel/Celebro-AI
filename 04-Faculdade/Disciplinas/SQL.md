@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **SQL**.
 
-## Conexões
-- [[Computacao]]
-- [[Banco-de-Dados]]
-- [[JOIN]]
+[[Faculdade]]

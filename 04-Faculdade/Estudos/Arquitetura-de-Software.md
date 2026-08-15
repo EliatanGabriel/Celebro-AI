@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Arquitetura de Software**.
 
-## Conexões
-- [[Computacao]]
-- [[Engenharia-de-Software]]
+[[Faculdade]]

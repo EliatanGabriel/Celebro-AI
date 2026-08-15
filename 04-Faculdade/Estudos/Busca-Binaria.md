@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Busca Binaria**.
 
-## Conexões
-- [[Complexidade-Big-O]]
-- [[Algoritmos]]
+[[Faculdade]]

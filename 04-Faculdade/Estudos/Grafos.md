@@ -10,10 +10,4 @@ status: active
 
 Nota de conceito sobre **Grafos**.
 
-## Conexões
-- [[Estrutura-de-Dados]]
-- [[Arvores]]
-- [[Teoria-dos-Grafos]]
-- [[Algoritmos]]
-- [[DFS]]
-- [[BFS]]
+[[Faculdade]]

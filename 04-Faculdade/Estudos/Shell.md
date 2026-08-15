@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Shell**.
 
-## Conexões
-- [[Linux]]
-- [[Terminal]]
+[[Faculdade]]

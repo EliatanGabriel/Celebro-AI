@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **JOIN**.
 
-## Conexões
-- [[SQL]]
-- [[Banco-de-Dados]]
+[[Faculdade]]

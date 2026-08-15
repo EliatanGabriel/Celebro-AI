@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Inteligencia Artificial**.
 
-## Conexões
-- [[Computacao]]
-- [[Machine-Learning]]
+[[Faculdade]]

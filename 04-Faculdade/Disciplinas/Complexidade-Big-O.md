@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Complexidade Big O**.
 
-## Conexões
-- [[Algoritmos]]
-- [[Programacao]]
-- [[Busca-Binaria]]
+[[Faculdade]]

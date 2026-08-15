@@ -1,9 +1,9 @@
-# 👁️ Córtex Visual
+# 👁️ Referencias
 
 Referências visuais, inspirações, moodboards.
 
 ## Conexões
- [[Home]]
- [[Fontes]]
- [[Inpiraçoes]]
- [[Moodboards]]
+[[Home]]
+[[Fontes]]
+[[Inpiraçoes]]
+[[Moodboards]]

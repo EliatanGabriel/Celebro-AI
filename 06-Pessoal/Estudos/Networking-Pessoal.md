@@ -4,11 +4,4 @@
 
 Nota de conceito sobre **Networking Pessoal**. Preencha com anotações, resumos, links externos etc.
 
-## Relacionados
-- [[Aprendizado-Continuo]]
-- [[Equilibrio-Vida-Trabalho]]
-- [[Habito-Leitura]]
-
-## Área
-- [[08-Conexoes/MOCs/Pessoal]]
-- [[Conhecimento]]
+[[Pessoal]]

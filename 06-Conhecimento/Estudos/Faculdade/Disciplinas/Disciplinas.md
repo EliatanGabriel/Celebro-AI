@@ -1,5 +1,0 @@
-[[Typescript]]
-[[Ingles]]
-[[06-Conhecimento/Estudos/Faculdade/Disciplinas/POO/POO|POO]]
-[[Banco de Dados]]
-[[Front end]]

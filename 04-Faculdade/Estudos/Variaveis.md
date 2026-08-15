@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Variaveis**.
 
-## Conexões
-- [[Programacao]]
-- [[Funcoes]]
+[[Faculdade]]

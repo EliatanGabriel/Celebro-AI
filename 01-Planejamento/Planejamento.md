@@ -1,4 +1,4 @@
-# 🧭 Córtex Pré-Frontal
+# 🧭 Planejamento
 
 Planejamento, metas, decisões, visão de vida.
 
@@ -6,8 +6,6 @@ Planejamento, metas, decisões, visão de vida.
 - [[Home]]
 - [[Diario]] — usa memórias para planejar
 - [[Projetos]] — transforma metas em ação
-- [[Conexoes]]
-- [[Decisoes]]
 - [[metas]]
+- [[Decisoes]]
 - [[Visão de Vida]]
-- 

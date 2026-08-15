@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Servidores**.
 
-## Conexões
-- [[Linux]]
-- [[Redes-de-Computadores]]
-- [[DevOps]]
+[[Faculdade]]

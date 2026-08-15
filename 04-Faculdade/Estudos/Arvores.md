@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Arvores**.
 
-## Conexões
-- [[Estrutura-de-Dados]]
-- [[Recursao]]
-- [[Grafos]]
+[[Faculdade]]

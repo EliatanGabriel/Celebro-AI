@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Financas Pessoais**.
 
-## Conexões
-- [[Home]]
-- [[08-Conexoes/MOCs/Pessoal]]
+[[Pessoal]]

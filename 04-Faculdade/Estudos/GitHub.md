@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **GitHub**.
 
-## Conexões
-- [[Computacao]]
-- [[Git]]
-- [[Carreira]]
+[[Faculdade]]

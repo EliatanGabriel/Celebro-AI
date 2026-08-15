@@ -10,8 +10,4 @@ status: active
 
 Nota de conceito sobre **Logica**.
 
-## Conexões
-- [[Computacao]]
-- [[08-Conexoes/MOCs/Faculdade]]
-- [[Matematica]]
-- [[Algoritmos]]
+[[Faculdade]]

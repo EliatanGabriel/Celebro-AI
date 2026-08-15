@@ -10,8 +10,4 @@ status: active
 
 Nota de conceito sobre **Git**.
 
-## Conexões
-- [[Computacao]]
-- [[Programacao]]
-- [[Carreira]]
-- [[GitHub]]
+[[Faculdade]]

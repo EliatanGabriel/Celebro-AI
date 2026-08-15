@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **HTTP**.
 
-## Conexões
-- [[APIs]]
-- [[REST]]
-- [[Backend]]
+[[Faculdade]]

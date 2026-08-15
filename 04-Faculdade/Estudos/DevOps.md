@@ -10,8 +10,4 @@ status: active
 
 Nota de conceito sobre **DevOps**.
 
-## Conexões
-- [[Computacao]]
-- [[Linux]]
-- [[Git]]
-- [[Cloud]]
+[[Faculdade]]

@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Java**.
 
-## Conexões
-- [[Programacao]]
-- [[Computacao]]
+[[Faculdade]]

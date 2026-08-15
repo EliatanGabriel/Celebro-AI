@@ -4,11 +4,4 @@
 
 Nota de conceito sobre **Minimalismo Digital**. Preencha com anotações, resumos, links externos etc.
 
-## Relacionados
-- [[Produtividade]]
-- [[Aprendizado-Continuo]]
-- [[Networking-Pessoal]]
-
-## Área
-- [[08-Conexoes/MOCs/Pessoal]]
-- [[Conhecimento]]
+[[Pessoal]]

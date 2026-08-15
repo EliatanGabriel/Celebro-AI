@@ -10,8 +10,4 @@ status: active
 
 Nota de conceito sobre **Redes de Computadores**.
 
-## Conexões
-- [[Computacao]]
-- [[08-Conexoes/MOCs/Faculdade]]
-- [[Sistemas-Operacionais]]
-- [[Linux]]
+[[Faculdade]]

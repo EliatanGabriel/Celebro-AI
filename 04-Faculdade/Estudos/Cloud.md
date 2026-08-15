@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Cloud**.
 
-## Conexões
-- [[Computacao]]
-- [[DevOps]]
+[[Faculdade]]

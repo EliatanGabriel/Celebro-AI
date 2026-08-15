@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Python**.
 
-## Conexões
-- [[Programacao]]
-- [[Computacao]]
+[[Faculdade]]

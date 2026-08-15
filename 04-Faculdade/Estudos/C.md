@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **C**.
 
-## Conexões
-- [[Programacao]]
-- [[Computacao]]
+[[Faculdade]]

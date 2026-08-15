@@ -10,8 +10,4 @@ status: active
 
 Nota de conceito sobre **JavaScript**.
 
-## Conexões
-- [[Programacao]]
-- [[Frontend]]
-- [[Portfolio-Pessoal]]
-- [[TaskFlow]]
+[[Faculdade]]

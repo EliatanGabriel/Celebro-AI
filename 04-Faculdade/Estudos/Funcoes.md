@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Funcoes**.
 
-## Conexões
-- [[Programacao]]
-- [[Variaveis]]
-- [[Recursao]]
+[[Faculdade]]

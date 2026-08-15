@@ -10,6 +10,4 @@ status: active
 
 Nota de conceito sobre **Estatistica**.
 
-## Conexões
-- [[Matematica]]
-- [[Machine-Learning]]
+[[Faculdade]]

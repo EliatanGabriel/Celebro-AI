@@ -10,8 +10,4 @@ status: active
 
 Nota de conceito sobre **Machine Learning**.
 
-## Conexões
-- [[Computacao]]
-- [[Estatistica]]
-- [[Data-Science]]
-- [[Inteligencia-Artificial]]
+[[Faculdade]]

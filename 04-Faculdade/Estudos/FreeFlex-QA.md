@@ -10,8 +10,4 @@ status: active
 
 Projeto prático — ponte entre teoria e aplicação real.
 
-## Conexões
-- [[Projetos]]
-- [[Carreira]]
-- [[Testes-de-Software]]
-- [[Engenharia-de-Software]]
+[[Faculdade]]

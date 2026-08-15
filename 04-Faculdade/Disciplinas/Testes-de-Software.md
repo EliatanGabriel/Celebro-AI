@@ -10,8 +10,4 @@ status: active
 
 Nota de conceito sobre **Testes de Software**.
 
-## Conexões
-- [[Computacao]]
-- [[Engenharia-de-Software]]
-- [[Programacao]]
-- [[FreeFlex-QA]]
+[[Faculdade]]

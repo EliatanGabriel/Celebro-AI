@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Frontend**.
 
-## Conexões
-- [[APIs]]
-- [[Programacao]]
-- [[JavaScript]]
+[[Faculdade]]

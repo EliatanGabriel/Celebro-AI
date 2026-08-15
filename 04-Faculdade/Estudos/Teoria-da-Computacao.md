@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Teoria da Computacao**.
 
-## Conexões
-- [[Computacao]]
-- [[Matematica]]
-- [[Algoritmos]]
+[[Faculdade]]

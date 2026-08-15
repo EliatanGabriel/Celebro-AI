@@ -4,11 +4,4 @@
 
 Nota de conceito sobre **Sono**. Preencha com anotações, resumos, links externos etc.
 
-## Relacionados
-- [[Meditacao]]
-- [[Alimentacao]]
-- [[Relacionamentos]]
-
-## Área
-- [[08-Conexoes/MOCs/Pessoal]]
-- [[Conhecimento]]
+[[Pessoal]]

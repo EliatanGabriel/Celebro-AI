@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Backend**.
 
-## Conexões
-- [[APIs]]
-- [[HTTP]]
-- [[Programacao]]
+[[Faculdade]]

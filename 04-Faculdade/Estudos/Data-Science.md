@@ -10,7 +10,4 @@ status: active
 
 Nota de conceito sobre **Data Science**.
 
-## Conexões
-- [[Computacao]]
-- [[Machine-Learning]]
-- [[Banco-de-Dados]]
+[[Faculdade]]
