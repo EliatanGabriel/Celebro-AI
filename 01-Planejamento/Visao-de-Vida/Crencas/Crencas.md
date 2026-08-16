@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Identidade]]
 - [[Proposito]]
-- [[Autoconhecimento]]
 - [[Valores]]
 
-[[Diario]]

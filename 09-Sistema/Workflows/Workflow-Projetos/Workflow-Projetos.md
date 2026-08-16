@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Workflows]]
-- [[Projetos]]
 - [[Metodo-PARA]]
 - [[Sistema]]
 
-[[Projetos]]

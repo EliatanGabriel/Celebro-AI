@@ -17,4 +17,3 @@
 - [[Rituais]]
 - [[Metas-Mensais]]
 
-[[Diario]]

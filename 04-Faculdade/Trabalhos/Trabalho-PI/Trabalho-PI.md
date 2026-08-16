@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Trabalhos]]
 - [[Metas-Projetos-Facul]]
-- [[Projetos]]
-- [[Roadmap-Faculdade]]
 
 [[Trabalhos]]

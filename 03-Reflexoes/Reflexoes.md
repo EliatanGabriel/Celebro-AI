@@ -18,7 +18,12 @@ Emoções, gratidão, pensamentos e autoconhecimento.
 
 ## Conexões
 - [[Home]]
-- [[Diario]]
-- [[Pessoal]]
 - [[Planejamento]]
+- [[Diario]]
+- [[Faculdade]]
+- [[Trabalho]]
+- [[Pessoal]]
+- [[Projetos]]
+- [[Referencias]]
+- [[Sistema]]
 - [[Estudos]]

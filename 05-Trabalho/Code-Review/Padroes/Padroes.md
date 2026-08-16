@@ -15,6 +15,5 @@
 - [[Best-practices]]
 - [[Refatoracao]]
 - [[Readability]]
-- [[Qualidade]]
 
 [[Trabalho]]

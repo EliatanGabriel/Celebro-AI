@@ -12,9 +12,7 @@
 - Publicação
 
 ## Relacionadas
-- [[Artigos]]
 - [[Ideia-Blog]]
 - [[Ideias]]
-- [[Fonte-Artigo]]
 
 [[Projetos]]

@@ -12,9 +12,5 @@
 - Alinhamento
 
 ## Relacionadas
-- [[Proposito]]
-- [[Missao]]
 - [[Reflexoes-Reflexoes]]
-- [[Plano-de-vida]]
 
-[[Diario]]

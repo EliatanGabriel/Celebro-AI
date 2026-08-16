@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Reuniao-1on1]]
-- [[Anotacao-Reuniao]]
 - [[Feedback]]
-- [[Metas-Habilidades]]
 
 [[Trabalho]]

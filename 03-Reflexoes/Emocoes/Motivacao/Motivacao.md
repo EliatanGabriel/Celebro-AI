@@ -17,4 +17,3 @@
 - [[Orgulho]]
 - [[Emocoes]]
 
-[[Diario]]

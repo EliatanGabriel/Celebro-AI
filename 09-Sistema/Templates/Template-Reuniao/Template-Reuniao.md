@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Templates]]
-- [[Reunioes]]
 - [[Sistema]]
 - [[Templates]]
 
-[[Projetos]]

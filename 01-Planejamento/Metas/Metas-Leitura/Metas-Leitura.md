@@ -12,9 +12,5 @@
 - Acompanhamento
 
 ## Relacionadas
-- [[Leitura]]
-- [[Habito-Leitura]]
-- [[Livros]]
 - [[Metas]]
 
-[[Diario]]

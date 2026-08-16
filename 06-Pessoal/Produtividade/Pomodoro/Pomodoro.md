@@ -12,7 +12,6 @@
 - Consistência
 
 ## Relacionadas
-- [[Foco]]
 - [[Time-blocking]]
 - [[Deep-work]]
 - [[Habito-Foco]]

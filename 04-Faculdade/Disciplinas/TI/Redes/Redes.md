@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Infraestrutura]]
-- [[Estudos-Redes]]
 - [[Seguranca]]
-- [[Servidores]]
 
 [[TI]]

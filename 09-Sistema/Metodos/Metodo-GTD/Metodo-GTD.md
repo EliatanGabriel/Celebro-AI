@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Metodos]]
-- [[Getting-things-done]]
 - [[Workflow-Notas]]
 - [[Sistema]]
 
-[[Projetos]]

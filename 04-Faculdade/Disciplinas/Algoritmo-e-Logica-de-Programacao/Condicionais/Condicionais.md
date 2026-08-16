@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Lacos]]
 - [[Variaveis]]
-- [[Logica]]
 - [[Tipos-de-dados]]
 
 [[Algoritmo-e-Logica-de-Programacao]]

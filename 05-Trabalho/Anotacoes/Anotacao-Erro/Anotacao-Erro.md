@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Anotacao-Codigo]]
-- [[Debug]]
-- [[Logging]]
 - [[Bug-Report]]
 
 [[Trabalho]]

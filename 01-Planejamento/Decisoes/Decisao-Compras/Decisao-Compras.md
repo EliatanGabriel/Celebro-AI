@@ -12,9 +12,6 @@
 - Decisão
 
 ## Relacionadas
-- [[Anotacao-Compra]]
-- [[Orcamento]]
 - [[Decisao-Financeira]]
 - [[Decisoes]]
 
-[[Diario]]

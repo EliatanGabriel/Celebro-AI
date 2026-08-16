@@ -19,6 +19,5 @@ Subárea de **Faculdade** com conceitos de eletrônica e programação com Ardui
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-- [[Estudos]]
 
 [[Disciplinas]]

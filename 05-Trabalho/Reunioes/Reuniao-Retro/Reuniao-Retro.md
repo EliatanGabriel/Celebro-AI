@@ -12,7 +12,6 @@
 - Compromissos
 
 ## Relacionadas
-- [[Metodologias-Ageis]]
 - [[Reuniao-Planning]]
 - [[Miro]]
 - [[Feedback]]

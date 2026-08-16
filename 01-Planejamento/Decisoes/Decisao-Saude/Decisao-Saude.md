@@ -12,9 +12,6 @@
 - Acompanhamento
 
 ## Relacionadas
-- [[Saude]]
 - [[Metas-Saude]]
 - [[Decisoes]]
-- [[Consulta-2026]]
 
-[[Diario]]

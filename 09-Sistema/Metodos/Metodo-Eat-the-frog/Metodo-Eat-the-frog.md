@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metodos]]
-- [[Prioridades]]
-- [[Produtividade]]
 - [[Sistema]]
 
-[[Projetos]]

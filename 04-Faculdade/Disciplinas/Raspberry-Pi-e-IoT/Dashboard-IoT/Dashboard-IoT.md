@@ -15,6 +15,5 @@
 - [[Nuvem-IoT]]
 - [[MQTT]]
 - [[Projetos-IoT]]
-- [[Dados-e-IA]]
 
 [[Raspberry-Pi-e-IoT]]

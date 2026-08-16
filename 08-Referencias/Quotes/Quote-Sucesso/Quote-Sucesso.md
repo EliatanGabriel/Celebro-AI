@@ -15,6 +15,4 @@
 - [[Quotes]]
 - [[Quote-Motivacao]]
 - [[Referencias]]
-- [[Pensamentos]]
 
-[[Projetos]]

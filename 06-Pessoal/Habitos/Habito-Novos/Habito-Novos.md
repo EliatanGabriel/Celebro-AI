@@ -15,6 +15,5 @@
 - [[Habitos]]
 - [[Habito-Quebra]]
 - [[Metas-Crescimento]]
-- [[Rituais]]
 
 [[Pessoal]]

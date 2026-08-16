@@ -12,9 +12,7 @@
 - Próximos passos
 
 ## Relacionadas
-- [[API-REST]]
 - [[Ativos]]
 - [[Roadmap-2026]]
-- [[Metas-Projetos]]
 
 [[Projetos]]

@@ -15,6 +15,5 @@
 - [[Anotacoes]]
 - [[Anotacao-Aula]]
 - [[Faculdade]]
-- [[Comunidade]]
 
 [[Anotacoes]]

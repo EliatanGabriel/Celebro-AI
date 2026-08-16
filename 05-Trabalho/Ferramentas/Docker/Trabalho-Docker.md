@@ -12,9 +12,6 @@
 - Compose
 
 ## Relacionadas
-- [[Containers]]
 - [[Deploy]]
-- [[Kubernetes]]
-- [[Terminal]]
 
 [[Trabalho]]

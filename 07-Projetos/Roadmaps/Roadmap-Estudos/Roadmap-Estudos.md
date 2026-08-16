@@ -12,8 +12,6 @@
 - Progresso
 
 ## Relacionadas
-- [[Metas-Estudos]]
-- [[Estudos]]
 - [[Roadmaps]]
 - [[Roadmap-2026]]
 

@@ -12,9 +12,6 @@
 - Monitoramento
 
 ## Relacionadas
-- [[Testes]]
-- [[Regressao]]
-- [[CI-CD]]
 - [[Deploy]]
 
 [[Trabalho]]

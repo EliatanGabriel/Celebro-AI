@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Caso-de-Teste]]
-- [[Testes]]
 - [[Report]]
 - [[Testes-Automatizados]]
 

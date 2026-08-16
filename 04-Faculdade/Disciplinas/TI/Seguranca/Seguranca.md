@@ -12,9 +12,6 @@
 - Políticas
 
 ## Relacionadas
-- [[Firewall]]
 - [[Seguranca-IoT]]
-- [[Estudos-Seguranca]]
-- [[Backup]]
 
 [[TI]]

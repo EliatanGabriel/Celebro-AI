@@ -12,8 +12,6 @@
 - Padrões
 
 ## Relacionadas
-- [[Arquitetura]]
-- [[Padroes-de-Projeto]]
 - [[Code-Review]]
 - [[Comunicacao-com-Devs]]
 

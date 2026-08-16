@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Ansiedade]]
 - [[Estresse]]
-- [[Meditacao]]
 - [[Emocoes]]
 
-[[Diario]]

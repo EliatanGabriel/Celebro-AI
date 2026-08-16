@@ -12,9 +12,6 @@
 - Events
 
 ## Relacionadas
-- [[GitHub]]
-- [[Pipeline]]
-- [[CI-CD]]
 - [[Deploy]]
 
 [[Trabalho]]

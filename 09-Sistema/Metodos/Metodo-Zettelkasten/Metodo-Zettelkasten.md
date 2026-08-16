@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Metodos]]
 - [[Workflow-Notas]]
-- [[Estudos]]
 - [[Sistema]]
 
-[[Projetos]]

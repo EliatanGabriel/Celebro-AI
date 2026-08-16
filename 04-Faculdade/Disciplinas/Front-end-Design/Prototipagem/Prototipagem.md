@@ -12,9 +12,7 @@
 - Validação
 
 ## Relacionadas
-- [[Figma]]
 - [[UX]]
 - [[UI]]
-- [[Design]]
 
 [[Front-end-Design]]

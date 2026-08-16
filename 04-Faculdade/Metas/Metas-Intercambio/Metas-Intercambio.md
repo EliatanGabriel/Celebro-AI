@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Faculdade-Metas]]
-- [[Metas-Idiomas]]
-- [[Decisao-Viagem]]
-- [[Metas]]
 
 [[Faculdade-Metas]]

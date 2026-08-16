@@ -12,7 +12,6 @@
 - Crítica
 
 ## Relacionadas
-- [[Anotacao-Filme]]
 - [[Series]]
 - [[Hobbies]]
 - [[Leitura]]

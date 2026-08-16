@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Mensais]]
-- [[Planejamento-semanal]]
 - [[Metas]]
 - [[Revisao-Semanal]]
 
-[[Diario]]

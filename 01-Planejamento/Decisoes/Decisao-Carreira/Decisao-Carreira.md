@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Metas-Carreira]]
 - [[Decisao-Trabalho]]
-- [[Objetivos-de-Vida]]
 - [[Decisoes]]
 
-[[Diario]]

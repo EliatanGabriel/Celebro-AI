@@ -12,9 +12,6 @@
 - Investimento
 
 ## Relacionadas
-- [[Metas-Habilidades]]
-- [[Certificacoes]]
 - [[Metas-Trimestrais]]
-- [[Estudos]]
 
 [[Trabalho]]

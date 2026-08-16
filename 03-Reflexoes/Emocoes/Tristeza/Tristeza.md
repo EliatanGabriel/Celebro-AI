@@ -17,4 +17,3 @@
 - [[Ansiedade]]
 - [[Emocoes]]
 
-[[Diario]]

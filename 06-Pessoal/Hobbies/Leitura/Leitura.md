@@ -12,9 +12,7 @@
 - Compartilhar
 
 ## Relacionadas
-- [[Livros]]
 - [[Habito-Leitura]]
-- [[Metas-Leitura]]
 - [[Hobbies]]
 
 [[Pessoal]]

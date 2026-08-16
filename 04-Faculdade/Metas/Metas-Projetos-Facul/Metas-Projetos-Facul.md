@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Faculdade-Metas]]
-- [[Metas-Faculdade]]
 - [[Trabalhos]]
-- [[Roadmap-Faculdade]]
 
 [[Faculdade-Metas]]

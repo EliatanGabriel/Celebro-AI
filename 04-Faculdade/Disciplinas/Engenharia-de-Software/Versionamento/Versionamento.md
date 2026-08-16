@@ -12,8 +12,6 @@
 - Histórico
 
 ## Relacionadas
-- [[Git]]
-- [[GitHub]]
 - [[CI-CD]]
 - [[Documentacao]]
 

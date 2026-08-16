@@ -12,9 +12,7 @@
 - Formatos
 
 ## Relacionadas
-- [[JSON]]
 - [[Endpoints]]
 - [[Metodos-HTTP]]
-- [[DTO]]
 
 [[Trabalho]]

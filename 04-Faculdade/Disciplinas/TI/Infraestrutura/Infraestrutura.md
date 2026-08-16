@@ -12,7 +12,6 @@
 - Disponibilidade
 
 ## Relacionadas
-- [[Servidores]]
 - [[Redes]]
 - [[Virtualizacao]]
 - [[Cloud]]

@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Metas-Crescimento]]
 - [[Habito-Estudo]]
-- [[Estudos]]
 - [[Pessoal]]
 
 [[Pessoal]]

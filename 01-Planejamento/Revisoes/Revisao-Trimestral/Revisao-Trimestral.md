@@ -15,6 +15,4 @@
 - [[Metas]]
 - [[Revisoes]]
 - [[Ritual-Reflexao]]
-- [[Habito-Reflexao]]
 
-[[Diario]]

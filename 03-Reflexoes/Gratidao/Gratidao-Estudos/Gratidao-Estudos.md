@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Gratidao]]
-- [[Faculdade]]
 - [[Gratidao-2026]]
 - [[Reflexoes-Gratidao]]
 
-[[Diario]]

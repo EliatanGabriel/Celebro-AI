@@ -12,7 +12,6 @@
 - Eliminar
 
 ## Relacionadas
-- [[Prioridades]]
 - [[Delegacao]]
 - [[Planejamento-diario]]
 - [[Gestao-do-Tempo]]

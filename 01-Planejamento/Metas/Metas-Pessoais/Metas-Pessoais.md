@@ -12,9 +12,6 @@
 - Revisão
 
 ## Relacionadas
-- [[Objetivos-de-Vida]]
-- [[Desenvolvimento-Pessoal]]
 - [[Metas]]
 - [[Revisao-Mensal]]
 
-[[Diario]]

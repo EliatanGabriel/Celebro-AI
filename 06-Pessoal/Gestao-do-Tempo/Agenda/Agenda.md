@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Planejamento-diario]]
 - [[Planejamento-semanal]]
-- [[Prioridades]]
 - [[Gestao-do-Tempo]]
 
 [[Pessoal]]

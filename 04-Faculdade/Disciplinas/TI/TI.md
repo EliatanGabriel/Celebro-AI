@@ -19,6 +19,5 @@ Subárea de **Faculdade** com conceitos de Tecnologia da Informação.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-- [[Estudos]]
 
 [[Disciplinas]]

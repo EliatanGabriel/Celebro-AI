@@ -12,9 +12,5 @@
 - Significado
 
 ## Relacionadas
-- [[Proposito]]
-- [[Missao]]
 - [[Reflexoes-Reflexoes]]
-- [[Identidade]]
 
-[[Diario]]

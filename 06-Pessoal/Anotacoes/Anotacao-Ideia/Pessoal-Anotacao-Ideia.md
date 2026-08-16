@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Anotacao-Compra]]
-- [[Ideias]]
 - [[Objetivos-de-Vida]]
-- [[Projetos]]
 
 [[Pessoal]]

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Build]]
-- [[Pipeline]]
 - [[Deploy]]
-- [[Containers]]
 
 [[Trabalho]]

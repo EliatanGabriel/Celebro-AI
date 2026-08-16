@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metas-Crescimento]]
-- [[Metas-Saude]]
-- [[Metas-Relacionamentos]]
-- [[Metas]]
 
 [[Pessoal]]

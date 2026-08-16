@@ -18,7 +18,12 @@ Ideias, projetos ativos, concluídos e roadmaps.
 
 ## Conexões
 - [[Home]]
-- [[Trabalho]]
-- [[Faculdade]]
-- [[Pessoal]]
 - [[Planejamento]]
+- [[Diario]]
+- [[Reflexoes]]
+- [[Faculdade]]
+- [[Trabalho]]
+- [[Pessoal]]
+- [[Referencias]]
+- [[Sistema]]
+- [[Estudos]]

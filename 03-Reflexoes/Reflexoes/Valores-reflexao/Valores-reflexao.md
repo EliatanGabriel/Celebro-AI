@@ -12,9 +12,5 @@
 - Identidade
 
 ## Relacionadas
-- [[Valores]]
-- [[Identidade]]
 - [[Reflexoes-Reflexoes]]
-- [[Proposito]]
 
-[[Diario]]

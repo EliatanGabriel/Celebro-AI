@@ -15,6 +15,5 @@
 - [[Saude]]
 - [[Metas-Felizes]]
 - [[Treino-semana]]
-- [[Metas]]
 
 [[Pessoal]]

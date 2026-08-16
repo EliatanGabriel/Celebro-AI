@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Templates]]
-- [[Decisoes]]
 - [[Sistema]]
 - [[Templates]]
 
-[[Projetos]]

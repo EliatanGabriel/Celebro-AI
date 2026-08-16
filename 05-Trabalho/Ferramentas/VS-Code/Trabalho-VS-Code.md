@@ -12,9 +12,5 @@
 - Git
 
 ## Relacionadas
-- [[Terminal]]
-- [[Git]]
-- [[Debug]]
-- [[Editor]]
 
 [[Trabalho]]

@@ -12,9 +12,7 @@
 - Decisão
 
 ## Relacionadas
-- [[Ferramentas]]
 - [[Decisao-Compras]]
 - [[Decisao-Financeira]]
 - [[Decisoes]]
 
-[[Diario]]

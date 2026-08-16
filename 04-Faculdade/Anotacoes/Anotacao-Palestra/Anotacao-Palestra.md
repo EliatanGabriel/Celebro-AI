@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Anotacoes]]
-- [[Fonte-Talks]]
 - [[Faculdade]]
-- [[Anotacao-Video]]
 
 [[Anotacoes]]

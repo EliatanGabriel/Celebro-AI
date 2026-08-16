@@ -12,8 +12,6 @@
 - Avaliação
 
 ## Relacionadas
-- [[Faculdade]]
-- [[Metas-Faculdade]]
 - [[Ativos]]
 - [[Roadmap-Faculdade]]
 

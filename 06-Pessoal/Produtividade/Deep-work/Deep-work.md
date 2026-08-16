@@ -12,7 +12,6 @@
 - Resultados
 
 ## Relacionadas
-- [[Foco]]
 - [[Time-blocking]]
 - [[Pomodoro]]
 - [[Flow]]

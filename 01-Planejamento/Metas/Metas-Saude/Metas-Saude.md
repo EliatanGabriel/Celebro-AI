@@ -12,9 +12,5 @@
 - Acompanhamento
 
 ## Relacionadas
-- [[Saude]]
-- [[Metas-Felizes]]
-- [[Treino-semana]]
 - [[Metas]]
 
-[[Diario]]

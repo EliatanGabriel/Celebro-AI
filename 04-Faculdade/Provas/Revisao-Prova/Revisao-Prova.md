@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Provas]]
 - [[Calendario-Provas]]
-- [[Metodos]]
-- [[Planejamento-diario]]
 
 [[Provas]]

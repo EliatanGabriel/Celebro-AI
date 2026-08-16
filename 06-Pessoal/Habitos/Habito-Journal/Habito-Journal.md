@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Habito-Reflexao]]
 - [[Habito-Gratidao]]
-- [[Reflexoes]]
-- [[Reflexoes]]
 
 [[Pessoal]]

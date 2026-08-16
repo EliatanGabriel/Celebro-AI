@@ -15,6 +15,5 @@
 - [[Trello]]
 - [[Prioridade-de-Bugs]]
 - [[Bug-Report]]
-- [[Testes]]
 
 [[Trabalho]]

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Faculdade-Metas]]
-- [[Metas-Faculdade]]
 - [[Disciplinas]]
-- [[Ritual-Planejamento]]
 
 [[Faculdade-Metas]]

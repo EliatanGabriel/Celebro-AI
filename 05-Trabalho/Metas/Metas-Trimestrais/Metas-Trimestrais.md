@@ -12,9 +12,6 @@
 - Resultados
 
 ## Relacionadas
-- [[Metas-Anuais]]
 - [[Metas-Projetos-Trab]]
-- [[Revisoes]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

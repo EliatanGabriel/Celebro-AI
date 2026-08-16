@@ -19,6 +19,5 @@ Subárea de **Faculdade** com conceitos da linguagem TypeScript.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-- [[Estudos]]
 
 [[Disciplinas]]

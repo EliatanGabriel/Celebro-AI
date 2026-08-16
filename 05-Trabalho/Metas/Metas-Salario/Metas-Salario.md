@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Promocao]]
-- [[Metas-Habilidades]]
-- [[Financas-Pessoais]]
 - [[Metas-Trimestrais]]
 
 [[Trabalho]]

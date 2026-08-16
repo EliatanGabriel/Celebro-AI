@@ -12,9 +12,7 @@
 - Resultados
 
 ## Relacionadas
-- [[Faculdade]]
 - [[Decisao-Curso]]
 - [[Decisao-Estudos]]
 - [[Decisoes]]
 
-[[Diario]]

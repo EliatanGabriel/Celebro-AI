@@ -16,7 +16,4 @@ Subárea de **Diario**.
 - [[Anotacao-Ideia]]
 - [[Anotacao-Sonho]]
 - [[Anotacao-Filme]]
-- [[Anotacoes]]
-- [[Trabalho-Anotacoes]]
-- [[Pessoal-Anotacoes]]
 [[Diario]]

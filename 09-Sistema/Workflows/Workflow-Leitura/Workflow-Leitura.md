@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Workflows]]
-- [[Leitura]]
 - [[Metodo-Zettelkasten]]
 - [[Sistema]]
 
-[[Projetos]]

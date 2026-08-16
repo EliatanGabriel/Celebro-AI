@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Leadership]]
-- [[Metas-Habilidades]]
 - [[Metas-Projetos-Trab]]
 - [[Feedback]]
 

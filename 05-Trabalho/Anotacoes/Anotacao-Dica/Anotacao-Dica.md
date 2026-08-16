@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Anotacao-Codigo]]
 - [[Anotacao-Erro]]
-- [[Terminal]]
-- [[VS-Code]]
 
 [[Trabalho]]

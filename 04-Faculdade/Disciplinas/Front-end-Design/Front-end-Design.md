@@ -19,6 +19,5 @@ Subárea de **Faculdade** com conceitos de design e desenvolvimento front-end.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-- [[Estudos]]
 
 [[Disciplinas]]

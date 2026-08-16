@@ -12,9 +12,7 @@
 - Acompanhamento
 
 ## Relacionadas
-- [[Investimentos]]
 - [[Metas-Financeiras]]
 - [[Decisao-Financeira]]
 - [[Decisoes]]
 
-[[Diario]]

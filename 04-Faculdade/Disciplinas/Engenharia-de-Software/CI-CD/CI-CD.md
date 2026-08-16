@@ -14,8 +14,5 @@
 ## Relacionadas
 - [[Testes]]
 - [[Versionamento]]
-- [[GitHub]]
-- [[Deploy]]
-- [[Docker]]
 
 [[Engenharia-de-Software]]

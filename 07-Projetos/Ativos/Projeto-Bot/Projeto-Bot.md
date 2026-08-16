@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Ideia-Automacao]]
-- [[APIs]]
 - [[Ativos]]
 - [[Roadmap-2026]]
 

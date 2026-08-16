@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Jogos]]
-- [[Anotacao-Filme]]
-- [[Games]]
 - [[Hobbies]]
 
 [[Pessoal]]

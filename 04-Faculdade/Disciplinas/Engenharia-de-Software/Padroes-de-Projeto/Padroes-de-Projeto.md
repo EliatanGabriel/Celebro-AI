@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[POO]]
 - [[Arquitetura]]
-- [[MVC]]
 - [[Qualidade]]
 
 [[Engenharia-de-Software]]

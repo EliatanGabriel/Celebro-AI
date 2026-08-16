@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Decisao-Estudos]]
 - [[Decisao-Faculdade]]
-- [[Metas-Certificacoes]]
 - [[Decisoes]]
 
-[[Diario]]

@@ -15,6 +15,5 @@
 - [[Prioridade]]
 - [[Expected-vs-actual]]
 - [[Bug-Report]]
-- [[Testes]]
 
 [[Trabalho]]

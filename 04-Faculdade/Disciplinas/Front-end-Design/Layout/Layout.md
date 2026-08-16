@@ -12,7 +12,6 @@
 - Fluxo
 
 ## Relacionadas
-- [[CSS]]
 - [[UI]]
 - [[Responsividade]]
 - [[Tipografia]]

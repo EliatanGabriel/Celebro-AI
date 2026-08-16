@@ -12,9 +12,6 @@
 - Avaliação
 
 ## Relacionadas
-- [[Metas-Crescimento]]
 - [[Metas-Estudos]]
 - [[Metas]]
-- [[Aprendizado-Continuo]]
 
-[[Diario]]

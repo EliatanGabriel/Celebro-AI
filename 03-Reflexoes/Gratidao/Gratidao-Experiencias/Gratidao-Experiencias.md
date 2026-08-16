@@ -17,4 +17,3 @@
 - [[Reflexoes-Gratidao]]
 - [[Momentos-marcantes]]
 
-[[Diario]]

@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Dashboards]]
-- [[Financas-Pessoais]]
 - [[Sistema]]
-- [[Metas-Financeiras]]
 
-[[Projetos]]

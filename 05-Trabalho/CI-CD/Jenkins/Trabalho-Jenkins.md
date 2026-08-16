@@ -12,9 +12,7 @@
 - Groovy
 
 ## Relacionadas
-- [[Pipeline]]
 - [[Build]]
 - [[Deploy]]
-- [[CI-CD]]
 
 [[Trabalho]]

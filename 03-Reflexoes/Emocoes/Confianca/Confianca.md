@@ -17,4 +17,3 @@
 - [[Motivacao]]
 - [[Emocoes]]
 
-[[Diario]]

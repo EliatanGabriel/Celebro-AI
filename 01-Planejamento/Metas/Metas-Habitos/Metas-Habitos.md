@@ -12,9 +12,7 @@
 - Revisão
 
 ## Relacionadas
-- [[Habitos]]
 - [[Metas-Pessoais]]
 - [[Rituais]]
 - [[Metas]]
 
-[[Diario]]

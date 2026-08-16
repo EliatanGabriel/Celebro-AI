@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Habito-Desconexao]]
 - [[Rotina-Digital]]
-- [[Foco]]
 - [[Pessoal]]
 
 [[Pessoal]]

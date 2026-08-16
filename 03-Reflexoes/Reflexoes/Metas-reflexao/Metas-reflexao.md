@@ -12,9 +12,5 @@
 - Valores
 
 ## Relacionadas
-- [[Metas]]
-- [[Revisoes]]
 - [[Reflexoes-Reflexoes]]
-- [[Proposito]]
 
-[[Diario]]

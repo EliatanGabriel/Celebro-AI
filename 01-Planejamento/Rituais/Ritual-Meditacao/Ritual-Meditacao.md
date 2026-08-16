@@ -12,9 +12,5 @@
 - Benefícios
 
 ## Relacionadas
-- [[Meditacao]]
-- [[Habito-Meditacao]]
 - [[Rituais]]
-- [[Calma]]
 
-[[Diario]]

@@ -12,7 +12,6 @@
 - Ambiente
 
 ## Relacionadas
-- [[Foco]]
 - [[Pomodoro]]
 - [[Deep-work]]
 - [[Habitos]]

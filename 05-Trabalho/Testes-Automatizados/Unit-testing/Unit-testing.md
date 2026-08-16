@@ -15,6 +15,5 @@
 - [[Mocks]]
 - [[Integration-testing]]
 - [[Test-frameworks]]
-- [[Testes]]
 
 [[Trabalho]]

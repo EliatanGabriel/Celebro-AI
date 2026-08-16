@@ -15,6 +15,5 @@
 - [[Metodos-HTTP]]
 - [[Endpoints]]
 - [[Rate-Limiting]]
-- [[HTTP]]
 
 [[Trabalho]]

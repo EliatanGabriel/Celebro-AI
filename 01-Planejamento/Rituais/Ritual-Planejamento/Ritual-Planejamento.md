@@ -12,9 +12,6 @@
 - Revisão
 
 ## Relacionadas
-- [[Planejamento-diario]]
 - [[Ritual-Semanal]]
 - [[Rituais]]
-- [[Planejamento-semanal]]
 
-[[Diario]]

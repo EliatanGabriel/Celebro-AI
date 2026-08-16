@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Fontes]]
-- [[Decisao-Curso]]
 - [[Referencias]]
-- [[Roadmap-Estudos]]
 
-[[Projetos]]

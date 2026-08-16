@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Ideia-Negocio]]
-- [[Decisao-Curso]]
 - [[Ideias]]
 - [[Roadmap-Estudos]]
 

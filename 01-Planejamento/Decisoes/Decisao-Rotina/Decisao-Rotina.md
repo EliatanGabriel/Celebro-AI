@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Rituais]]
-- [[Habitos]]
 - [[Decisoes]]
 - [[Revisao-Semanal]]
 
-[[Diario]]

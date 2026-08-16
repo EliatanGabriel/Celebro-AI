@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Inspiracoes]]
-- [[Estudos]]
 - [[Moodboard-Tech]]
 - [[Referencias]]
 
-[[Projetos]]

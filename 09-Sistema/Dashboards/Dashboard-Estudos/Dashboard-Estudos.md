@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Dashboards]]
-- [[Estudos]]
 - [[Sistema]]
-- [[Metas-Estudos]]
 
-[[Projetos]]

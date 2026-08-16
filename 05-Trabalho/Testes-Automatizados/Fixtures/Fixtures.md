@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Mocks]]
 - [[Test-frameworks]]
-- [[JSON]]
 - [[Testes-Automatizados]]
 
 [[Trabalho]]

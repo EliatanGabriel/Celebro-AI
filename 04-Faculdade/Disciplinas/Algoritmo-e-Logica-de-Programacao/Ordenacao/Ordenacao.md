@@ -15,6 +15,5 @@
 - [[Complexidade]]
 - [[Vetores]]
 - [[Busca]]
-- [[Algoritmos]]
 
 [[Algoritmo-e-Logica-de-Programacao]]

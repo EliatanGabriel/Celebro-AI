@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Reuniao-Planning]]
 - [[Reuniao-Retro]]
-- [[Anotacao-Reuniao]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

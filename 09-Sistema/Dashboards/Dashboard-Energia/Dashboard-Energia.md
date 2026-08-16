@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Dashboards]]
-- [[Energia]]
 - [[Sistema]]
-- [[Registro-Energia]]
 
-[[Projetos]]

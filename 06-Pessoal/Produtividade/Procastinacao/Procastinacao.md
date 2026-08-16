@@ -12,7 +12,6 @@
 - Autoconsciência
 
 ## Relacionadas
-- [[Foco]]
 - [[Multi-tarefas]]
 - [[Planejamento-diario]]
 - [[Saude-mental]]

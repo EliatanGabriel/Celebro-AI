@@ -12,9 +12,7 @@
 - Priorização
 
 ## Relacionadas
-- [[Metodologias-Ageis]]
 - [[Reuniao-Planning]]
 - [[Jira]]
-- [[Requisitos]]
 
 [[Trabalho]]

@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Feedback]]
 - [[Metas-Leadership]]
-- [[Metas-Habilidades]]
-- [[Reunioes]]
 
 [[Trabalho]]

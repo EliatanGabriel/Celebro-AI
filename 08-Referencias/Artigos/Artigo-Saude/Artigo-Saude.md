@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Artigos]]
-- [[Saude]]
 - [[Referencias]]
-- [[Anotacao-Leitura]]
 
-[[Projetos]]

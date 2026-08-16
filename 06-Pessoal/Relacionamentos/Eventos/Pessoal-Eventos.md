@@ -15,6 +15,5 @@
 - [[Amigos]]
 - [[Anotacao-Saida]]
 - [[Relacionamentos]]
-- [[Eventos]]
 
 [[Pessoal]]

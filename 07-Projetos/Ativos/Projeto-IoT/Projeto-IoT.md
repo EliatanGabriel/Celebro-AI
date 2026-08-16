@@ -12,8 +12,6 @@
 - Testes
 
 ## Relacionadas
-- [[Raspberry-Pi-e-IoT]]
-- [[Projetos-IoT]]
 - [[Ativos]]
 - [[Roadmap-2026]]
 

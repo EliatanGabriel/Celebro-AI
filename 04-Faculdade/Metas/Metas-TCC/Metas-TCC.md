@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Faculdade-Metas]]
 - [[Trabalho-TCC]]
-- [[Roadmap-Faculdade]]
-- [[Metas-Faculdade]]
 
 [[Faculdade-Metas]]

@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Habito-Meditacao]]
 - [[Saude-mental]]
-- [[Foco]]
 - [[Pessoal]]
 
 [[Pessoal]]

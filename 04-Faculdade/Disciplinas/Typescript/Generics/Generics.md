@@ -15,6 +15,5 @@
 - [[Tipagem]]
 - [[Utility-Types]]
 - [[Interfaces-TS]]
-- [[Metodos]]
 
 [[Typescript]]

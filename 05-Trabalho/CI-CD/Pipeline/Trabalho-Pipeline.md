@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Build]]
-- [[Testes]]
 - [[Deploy]]
-- [[GitHub-Actions]]
 
 [[Trabalho]]

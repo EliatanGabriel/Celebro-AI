@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Workflows]]
-- [[Revisoes]]
-- [[Ritual-Semanal]]
 - [[Sistema]]
 
-[[Projetos]]

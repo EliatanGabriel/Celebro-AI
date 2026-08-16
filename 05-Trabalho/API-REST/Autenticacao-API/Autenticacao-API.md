@@ -15,6 +15,5 @@
 - [[Endpoints]]
 - [[Status-Codes]]
 - [[Metodos-HTTP]]
-- [[Seguranca]]
 
 [[Trabalho]]

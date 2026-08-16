@@ -12,9 +12,5 @@
 - Progresso
 
 ## Relacionadas
-- [[Habitos]]
-- [[Metas-Habitos]]
 - [[Reflexoes-Reflexoes]]
-- [[Rituais]]
 
-[[Diario]]

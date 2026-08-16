@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Reuniao-Cliente]]
 - [[Reuniao-Planning]]
-- [[Apresentacoes]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Templates]]
-- [[Daily-Notes]]
 - [[Sistema]]
-- [[Modelo-Daily-Notes]]
 
-[[Projetos]]

@@ -12,9 +12,7 @@
 - Changelog
 
 ## Relacionadas
-- [[CI-CD]]
 - [[Deploy]]
 - [[Versionamento-API]]
-- [[Ciclo-de-vida]]
 
 [[Trabalho]]

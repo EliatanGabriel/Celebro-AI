@@ -12,9 +12,7 @@
 - Revisão
 
 ## Relacionadas
-- [[Metas-Anuais]]
 - [[Ativos]]
 - [[Roadmaps]]
-- [[Revisao-Anual]]
 
 [[Projetos]]

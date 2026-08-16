@@ -15,6 +15,5 @@
 - [[Anotacoes]]
 - [[Anotacao-Aula]]
 - [[Faculdade]]
-- [[Workflow-Estudos]]
 
 [[Anotacoes]]

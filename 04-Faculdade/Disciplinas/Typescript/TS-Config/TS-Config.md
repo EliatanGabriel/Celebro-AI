@@ -15,6 +15,5 @@
 - [[Compilacao]]
 - [[Modulos]]
 - [[Tipagem]]
-- [[Frontend]]
 
 [[Typescript]]

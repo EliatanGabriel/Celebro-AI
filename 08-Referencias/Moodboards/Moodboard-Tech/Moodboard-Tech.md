@@ -15,6 +15,4 @@
 - [[Moodboards]]
 - [[Inspiracao-Tech]]
 - [[Referencias]]
-- [[Design]]
 
-[[Projetos]]

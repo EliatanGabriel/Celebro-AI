@@ -12,9 +12,7 @@
 - Testes
 
 ## Relacionadas
-- [[CSS]]
 - [[HTML]]
-- [[Mobile]]
 - [[Layout]]
 
 [[Front-end-Design]]

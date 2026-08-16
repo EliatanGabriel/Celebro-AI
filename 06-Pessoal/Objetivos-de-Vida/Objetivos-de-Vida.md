@@ -12,8 +12,6 @@
 - Revisão
 
 ## Relacionadas
-- [[Visao-de-Vida]]
-- [[Metas-Anuais]]
 - [[Desenvolvimento-Pessoal]]
 - [[Pessoal]]
 

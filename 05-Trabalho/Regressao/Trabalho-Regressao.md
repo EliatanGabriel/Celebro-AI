@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Regressao-bug]]
-- [[Testes]]
 - [[Testes-Automatizados]]
-- [[CI-CD]]
 
 [[Trabalho]]

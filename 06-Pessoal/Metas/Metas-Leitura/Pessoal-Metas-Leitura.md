@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Leitura]]
 - [[Habito-Leitura]]
-- [[Livros]]
-- [[Metas]]
 
 [[Pessoal]]

@@ -12,9 +12,6 @@
 - Resultados
 
 ## Relacionadas
-- [[Metas-Semanais]]
-- [[Metas-Anuais]]
 - [[Planejamento-diario]]
-- [[Metas]]
 
 [[Pessoal]]

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Configuracoes]]
-- [[Terminal]]
 - [[Sistema]]
 - [[Comandos]]
 
-[[Projetos]]

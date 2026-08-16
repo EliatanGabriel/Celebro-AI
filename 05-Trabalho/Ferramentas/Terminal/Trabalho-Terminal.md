@@ -12,9 +12,5 @@
 - Automação
 
 ## Relacionadas
-- [[Docker]]
-- [[Git]]
-- [[VS-Code]]
-- [[Debug]]
 
 [[Trabalho]]

@@ -15,6 +15,5 @@
 - [[Steps-to-reproduce]]
 - [[Evidencias]]
 - [[Reproducao]]
-- [[Hardware]]
 
 [[Trabalho]]

@@ -12,7 +12,6 @@
 - Regressão
 
 ## Relacionadas
-- [[Postman]]
 - [[Endpoints]]
 - [[Status-Codes]]
 - [[Testes-Automatizados]]

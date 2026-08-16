@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Reuniao-Daily]]
-- [[Anotacao-Reuniao]]
-- [[Metodologias-Ageis]]
 - [[Comunicacao-com-Devs]]
 
 [[Trabalho]]

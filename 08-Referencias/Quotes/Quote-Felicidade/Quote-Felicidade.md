@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Quotes]]
-- [[Felicidade]]
 - [[Referencias]]
-- [[Pensamentos]]
 
-[[Projetos]]

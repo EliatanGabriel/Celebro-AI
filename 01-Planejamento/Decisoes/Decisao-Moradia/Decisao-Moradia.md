@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Decisao-Financeira]]
 - [[Decisoes]]
-- [[Orcamento]]
 - [[Revisao-Anual]]
 
-[[Diario]]

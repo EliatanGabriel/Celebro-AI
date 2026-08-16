@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Requisitos]]
 - [[Arquitetura]]
-- [[Code-Review]]
 - [[Testes]]
 
 [[Engenharia-de-Software]]

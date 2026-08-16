@@ -12,9 +12,6 @@
 - Anotações
 
 ## Relacionadas
-- [[Habito-Leitura]]
-- [[Leitura]]
 - [[Rituais]]
 - [[Metas-Leitura]]
 
-[[Diario]]

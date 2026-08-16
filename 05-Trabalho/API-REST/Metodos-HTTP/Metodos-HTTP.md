@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Endpoints]]
 - [[Status-Codes]]
-- [[HTTP]]
 - [[Serializacao]]
 
 [[Trabalho]]

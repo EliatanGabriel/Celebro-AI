@@ -15,6 +15,5 @@
 - [[Endpoints]]
 - [[Rate-Limiting]]
 - [[Serializacao]]
-- [[Performance]]
 
 [[Trabalho]]

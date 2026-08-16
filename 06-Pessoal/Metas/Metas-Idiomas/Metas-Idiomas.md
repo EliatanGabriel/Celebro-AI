@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metas-Crescimento]]
-- [[Estudos]]
-- [[Ingles-Profissional]]
-- [[Metas]]
 
 [[Pessoal]]

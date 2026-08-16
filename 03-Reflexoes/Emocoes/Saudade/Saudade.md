@@ -17,4 +17,3 @@
 - [[Amor]]
 - [[Emocoes]]
 
-[[Diario]]

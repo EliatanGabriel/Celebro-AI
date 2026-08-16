@@ -15,6 +15,5 @@
 - [[Daily-Notes]]
 - [[Registro-Anotacoes]]
 - [[Diario]]
-- [[Planejamento-diario]]
 
 [[Diario]]

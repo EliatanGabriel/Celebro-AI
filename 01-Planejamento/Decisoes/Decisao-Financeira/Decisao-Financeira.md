@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Financeiras]]
-- [[Financas-Pessoais]]
 - [[Decisoes]]
 - [[Revisoes]]
 
-[[Diario]]

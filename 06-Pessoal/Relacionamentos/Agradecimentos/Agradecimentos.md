@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Habito-Gratidao]]
-- [[Gratidao]]
 - [[Parceiro]]
 - [[Relacionamentos]]
 

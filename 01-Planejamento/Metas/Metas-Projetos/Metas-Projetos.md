@@ -12,9 +12,6 @@
 - Acompanhamento
 
 ## Relacionadas
-- [[Projetos]]
 - [[Metas-Trabalho]]
-- [[Roadmaps]]
 - [[Metas]]
 
-[[Diario]]

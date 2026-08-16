@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Artigos]]
-- [[Estudos]]
 - [[Referencias]]
-- [[Anotacao-Leitura]]
 
-[[Projetos]]

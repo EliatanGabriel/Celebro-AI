@@ -15,6 +15,5 @@
 - [[Ideia-Ferramenta]]
 - [[Ideia-App]]
 - [[Ideias]]
-- [[Frontend]]
 
 [[Projetos]]

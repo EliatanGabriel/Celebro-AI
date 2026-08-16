@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Ideia-Podcast]]
-- [[Videos]]
 - [[Ideias]]
-- [[Apresentacoes]]
 
 [[Projetos]]

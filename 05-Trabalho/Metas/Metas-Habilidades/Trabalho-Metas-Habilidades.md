@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Metas-Certificacoes]]
 - [[Metas-Promocao]]
-- [[Vocabulario-Tecnico]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

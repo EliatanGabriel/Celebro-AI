@@ -17,4 +17,3 @@
 - [[Reflexoes-Reflexoes]]
 - [[Superacao]]
 
-[[Diario]]

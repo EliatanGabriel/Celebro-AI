@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[SQL]]
-- [[Performance]]
 - [[Chaves]]
 - [[Views]]
 

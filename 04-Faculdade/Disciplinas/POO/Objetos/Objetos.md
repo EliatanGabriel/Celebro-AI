@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Classes]]
 - [[Construtores]]
-- [[Metodos]]
 - [[Composicao]]
 
 [[POO]]

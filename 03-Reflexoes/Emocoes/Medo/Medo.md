@@ -17,4 +17,3 @@
 - [[Frustracao]]
 - [[Emocoes]]
 
-[[Diario]]

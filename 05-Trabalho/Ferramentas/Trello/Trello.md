@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Jira]]
 - [[Fluxo-Trello-QA]]
-- [[Metodologias-Ageis]]
 - [[Prioridade-de-Bugs]]
 
 [[Trabalho]]

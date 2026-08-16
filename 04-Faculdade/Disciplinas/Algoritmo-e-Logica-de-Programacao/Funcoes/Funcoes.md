@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Variaveis]]
 - [[Recursao]]
-- [[Metodos]]
 - [[Modulos]]
 
 [[Algoritmo-e-Logica-de-Programacao]]

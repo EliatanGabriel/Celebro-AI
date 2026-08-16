@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[SQL]]
 - [[Procedures]]
-- [[Transactions]]
 - [[Triggers]]
 
 [[Banco-de-Dados]]

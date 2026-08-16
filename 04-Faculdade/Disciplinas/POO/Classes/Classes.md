@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Objetos]]
 - [[Construtores]]
-- [[Metodos]]
 - [[Heranca]]
 
 [[POO]]

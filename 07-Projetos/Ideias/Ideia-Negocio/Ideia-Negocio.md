@@ -15,6 +15,5 @@
 - [[Ideia-Saas]]
 - [[Ideia-App]]
 - [[Ideias]]
-- [[Metas-Financeiras]]
 
 [[Projetos]]

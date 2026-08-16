@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Padroes-de-Projeto]]
 - [[Requisitos]]
-- [[Arquitetura-e-Design]]
 - [[Documentacao]]
 
 [[Engenharia-de-Software]]

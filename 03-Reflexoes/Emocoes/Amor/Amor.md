@@ -17,4 +17,3 @@
 - [[Alegria]]
 - [[Emocoes]]
 
-[[Diario]]

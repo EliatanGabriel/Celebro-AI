@@ -15,6 +15,4 @@
 - [[Gratidao]]
 - [[Gratidao-Familia]]
 - [[Reflexoes-Gratidao]]
-- [[Agradecimentos]]
 
-[[Diario]]

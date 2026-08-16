@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Dashboards]]
-- [[Saude]]
 - [[Sistema]]
-- [[Registro-Exercicio]]
 
-[[Projetos]]

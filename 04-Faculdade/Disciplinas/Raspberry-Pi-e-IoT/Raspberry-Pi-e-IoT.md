@@ -19,6 +19,5 @@ Subárea de **Faculdade** com conceitos de Raspberry Pi e Internet das Coisas.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-- [[Estudos]]
 
 [[Disciplinas]]

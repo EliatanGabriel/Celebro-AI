@@ -17,4 +17,3 @@
 - [[Emocoes]]
 - [[Roda-das-Emocoes]]
 
-[[Diario]]

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Cloud]]
-- [[Containers]]
 - [[Infraestrutura]]
-- [[Servidores]]
 
 [[TI]]

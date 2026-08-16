@@ -15,6 +15,5 @@
 - [[Alimentacao]]
 - [[Nutricao]]
 - [[Hobbies]]
-- [[Eventos]]
 
 [[Pessoal]]

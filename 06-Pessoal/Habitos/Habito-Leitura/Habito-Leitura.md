@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Leitura]]
-- [[Metas-Leitura]]
-- [[Livros]]
 - [[Habitos]]
 
 [[Pessoal]]

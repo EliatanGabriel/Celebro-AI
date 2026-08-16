@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metodos]]
-- [[Pomodoro]]
-- [[Produtividade]]
 - [[Sistema]]
 
-[[Projetos]]

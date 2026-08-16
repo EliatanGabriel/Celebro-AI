@@ -12,7 +12,6 @@
 - Cobertura
 
 ## Relacionadas
-- [[Testes]]
 - [[Testes-Automatizados]]
 - [[Bug-Report]]
 - [[Documentacao-de-Testes]]

@@ -15,6 +15,4 @@
 - [[Registro-Emocional]]
 - [[Emocoes]]
 - [[Autoconhecimento]]
-- [[Habito-Reflexao]]
 
-[[Diario]]

@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Producao]]
 - [[Deploy]]
-- [[Testes]]
 - [[Testes-API]]
 
 [[Trabalho]]

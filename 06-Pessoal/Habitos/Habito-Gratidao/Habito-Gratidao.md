@@ -12,7 +12,6 @@
 - Consistência
 
 ## Relacionadas
-- [[Gratidao]]
 - [[Habito-Reflexao]]
 - [[Agradecimentos]]
 - [[Habitos]]

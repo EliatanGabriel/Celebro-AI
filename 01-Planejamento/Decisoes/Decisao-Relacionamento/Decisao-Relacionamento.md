@@ -12,9 +12,6 @@
 - Cuidado
 
 ## Relacionadas
-- [[Relacionamentos]]
 - [[Metas-Relacionamentos]]
 - [[Decisoes]]
-- [[Conversas-importantes]]
 
-[[Diario]]

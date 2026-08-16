@@ -15,6 +15,4 @@
 - [[Autoconhecimento]]
 - [[Gratidao]]
 - [[Reflexoes-Reflexoes]]
-- [[Legado]]
 
-[[Diario]]

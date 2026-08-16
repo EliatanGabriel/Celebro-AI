@@ -17,4 +17,3 @@
 - [[Estresse]]
 - [[Emocoes]]
 
-[[Diario]]

@@ -15,6 +15,5 @@
 - [[Unit-testing]]
 - [[Mocks]]
 - [[Cypress]]
-- [[Testes]]
 
 [[Trabalho]]

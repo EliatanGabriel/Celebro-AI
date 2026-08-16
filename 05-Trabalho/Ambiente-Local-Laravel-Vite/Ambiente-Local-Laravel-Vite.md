@@ -12,9 +12,5 @@
 - Hot reload
 
 ## Relacionadas
-- [[Laravel]]
-- [[Composer]]
-- [[Frontend]]
-- [[VS-Code]]
 
 [[Trabalho]]

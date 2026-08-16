@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Testes]]
-- [[Code-Review]]
 - [[Padroes-de-Projeto]]
 - [[CI-CD]]
 

@@ -4,9 +4,6 @@
 
 Subárea de **Planejamento**.
 ## Notas
-- [[Faculdade-Metas]]
-- [[Pessoal-Metas]]
-- [[Trabalho-Metas]]
 - [[Metas-Anuais]]
 - [[Metas-Carreira]]
 - [[Metas-Estudos]]

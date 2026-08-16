@@ -12,8 +12,6 @@
 - Relatórios
 
 ## Relacionadas
-- [[Testes-Automatizados]]
-- [[QA-Manual-vs-Automatizado]]
 - [[Ativos]]
 - [[Roadmap-2026]]
 

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Fontes]]
-- [[GitHub]]
 - [[Referencias]]
 - [[Fonte-Documentacao]]
 
-[[Projetos]]

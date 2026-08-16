@@ -15,6 +15,5 @@
 - [[Planejamento-diario]]
 - [[Agenda]]
 - [[Revisao]]
-- [[Metas-Semanais]]
 
 [[Pessoal]]

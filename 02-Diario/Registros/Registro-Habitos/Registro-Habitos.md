@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Registros]]
 - [[Registro-Anotacoes]]
-- [[Revisao-Semanal]]
-- [[Habito-Reflexao]]
 
 [[Diario]]

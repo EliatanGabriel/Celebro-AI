@@ -20,6 +20,11 @@ Metas, decisões, visão de vida e revisões — a bússola do vault.
 ## Conexões
 - [[Home]]
 - [[Diario]]
-- [[Pessoal]]
 - [[Reflexoes]]
+- [[Faculdade]]
+- [[Trabalho]]
+- [[Pessoal]]
 - [[Projetos]]
+- [[Referencias]]
+- [[Sistema]]
+- [[Estudos]]

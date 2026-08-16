@@ -12,9 +12,5 @@
 - Resultados
 
 ## Relacionadas
-- [[Metas-Promocao]]
-- [[Metas-Projetos-Trab]]
-- [[Trabalho]]
 - [[Metas]]
 
-[[Diario]]

@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Planejamento-diario]]
-- [[Prioridades]]
 - [[Pomodoro]]
 - [[Pessoal]]
 

@@ -15,6 +15,4 @@
 - [[Quotes]]
 - [[Inspiracao-Escrita]]
 - [[Referencias]]
-- [[Pensamentos]]
 
-[[Projetos]]

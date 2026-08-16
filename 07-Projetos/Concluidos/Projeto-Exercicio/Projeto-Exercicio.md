@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Concluidos]]
 - [[Projetos]]
-- [[Aprendizados]]
 - [[Ativos]]
 
 [[Projetos]]

@@ -12,8 +12,6 @@
 - Recursos
 
 ## Relacionadas
-- [[Performance]]
-- [[Indexes]]
 - [[Refatoracao]]
 - [[Monitoramento]]
 

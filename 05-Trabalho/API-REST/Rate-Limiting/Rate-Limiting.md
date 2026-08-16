@@ -15,6 +15,5 @@
 - [[Status-Codes]]
 - [[Endpoints]]
 - [[Paginacao]]
-- [[Seguranca]]
 
 [[Trabalho]]

@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Gratidao]]
-- [[Ritual-Gratidao]]
 - [[Reflexoes-Gratidao]]
-- [[Registro-Gratidao]]
 
-[[Diario]]

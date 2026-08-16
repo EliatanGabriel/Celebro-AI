@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Agradecimentos]]
 - [[Conversas-importantes]]
-- [[Eventos]]
 - [[Relacionamentos]]
 
 [[Pessoal]]

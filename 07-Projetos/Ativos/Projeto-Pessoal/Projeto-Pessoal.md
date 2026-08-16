@@ -12,8 +12,6 @@
 - Resultados
 
 ## Relacionadas
-- [[Metas-Pessoais]]
-- [[Objetivos-de-Vida]]
 - [[Ativos]]
 - [[Roadmap-2026]]
 

@@ -12,9 +12,7 @@
 - Exemplos
 
 ## Relacionadas
-- [[Terminal]]
 - [[Anotacao-Dica]]
 - [[Anotacao-Codigo]]
-- [[Debug]]
 
 [[Trabalho]]

@@ -12,9 +12,6 @@
 - Hotfix
 
 ## Relacionadas
-- [[Git]]
-- [[GitHub]]
-- [[Versionamento]]
 - [[Conflitos]]
 
 [[Trabalho]]

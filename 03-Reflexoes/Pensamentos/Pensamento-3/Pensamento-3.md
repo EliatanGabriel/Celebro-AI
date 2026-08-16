@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Pensamentos]]
 - [[Reflexoes]]
-- [[Habito-Reflexao]]
 - [[Autoconhecimento]]
 
-[[Diario]]

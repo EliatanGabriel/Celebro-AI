@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Anotacao-Passeio]]
-- [[Eventos]]
 - [[Amigos]]
 - [[Relacionamentos]]
 

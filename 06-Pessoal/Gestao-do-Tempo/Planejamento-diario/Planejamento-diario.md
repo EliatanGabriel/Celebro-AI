@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Agenda]]
 - [[Planejamento-semanal]]
-- [[Prioridades]]
 - [[Ritmo]]
 
 [[Pessoal]]

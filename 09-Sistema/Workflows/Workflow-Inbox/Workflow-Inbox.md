@@ -17,4 +17,3 @@
 - [[Metodo-GTD]]
 - [[Sistema]]
 
-[[Projetos]]

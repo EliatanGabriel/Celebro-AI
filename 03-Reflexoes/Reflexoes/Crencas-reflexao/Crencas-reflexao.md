@@ -12,9 +12,6 @@
 - Mudança
 
 ## Relacionadas
-- [[Crencas]]
 - [[Autoconhecimento]]
 - [[Reflexoes-Reflexoes]]
-- [[Identidade]]
 
-[[Diario]]

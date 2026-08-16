@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Inspiracoes]]
-- [[Caminhadas]]
 - [[Moodboards]]
 - [[Referencias]]
 
-[[Projetos]]

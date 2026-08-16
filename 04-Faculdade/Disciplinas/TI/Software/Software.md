@@ -13,9 +13,6 @@
 
 ## Relacionadas
 - [[Hardware]]
-- [[Sistemas]]
 - [[Suporte]]
-- [[Windows]]
-- [[Linux]]
 
 [[TI]]

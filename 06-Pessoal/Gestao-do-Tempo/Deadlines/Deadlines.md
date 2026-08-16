@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Planejamento-semanal]]
-- [[Prioridades]]
 - [[Gestao-do-Tempo]]
 - [[Deadlines]]
 

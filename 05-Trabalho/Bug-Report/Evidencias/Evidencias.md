@@ -15,6 +15,5 @@
 - [[Steps-to-reproduce]]
 - [[Ambiente]]
 - [[Expected-vs-actual]]
-- [[Logging]]
 
 [[Trabalho]]

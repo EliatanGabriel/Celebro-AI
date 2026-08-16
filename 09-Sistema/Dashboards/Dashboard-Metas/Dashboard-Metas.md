@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Dashboards]]
-- [[Metas]]
 - [[Sistema]]
-- [[Revisoes]]
 
-[[Projetos]]

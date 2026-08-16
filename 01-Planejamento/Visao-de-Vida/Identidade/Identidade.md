@@ -15,6 +15,4 @@
 - [[Proposito]]
 - [[Valores]]
 - [[Crencas]]
-- [[Autoconhecimento]]
 
-[[Diario]]

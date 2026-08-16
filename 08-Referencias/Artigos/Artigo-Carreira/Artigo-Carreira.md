@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Artigos]]
-- [[Roadmap-Carreira]]
 - [[Referencias]]
-- [[Anotacao-Leitura]]
 
-[[Projetos]]

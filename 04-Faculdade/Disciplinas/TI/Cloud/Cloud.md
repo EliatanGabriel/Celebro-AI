@@ -15,6 +15,5 @@
 - [[Virtualizacao]]
 - [[Infraestrutura]]
 - [[Nuvem-IoT]]
-- [[Containers]]
 
 [[TI]]

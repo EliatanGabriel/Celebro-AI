@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Habito-Organizacao]]
 - [[Planejamento-diario]]
-- [[Prioridades]]
 - [[Habitos]]
 
 [[Pessoal]]

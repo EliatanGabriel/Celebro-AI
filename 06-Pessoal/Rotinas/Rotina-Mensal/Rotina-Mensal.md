@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Rotina-Semanal]]
-- [[Metas-Mensais]]
 - [[Revisao]]
 - [[Rotinas]]
 

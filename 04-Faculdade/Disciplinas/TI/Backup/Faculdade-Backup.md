@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Seguranca]]
 - [[Cloud]]
-- [[Dados]]
 - [[Virtualizacao]]
 
 [[TI]]

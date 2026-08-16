@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Alegria]]
-- [[Agradecimentos]]
-- [[Ritual-Gratidao]]
 - [[Emocoes]]
 
-[[Diario]]

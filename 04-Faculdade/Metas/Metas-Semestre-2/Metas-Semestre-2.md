@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Faculdade-Metas]]
-- [[Metas-Faculdade]]
-- [[Roadmap-Faculdade]]
 - [[Metas-Semestre-1]]
 
 [[Faculdade-Metas]]

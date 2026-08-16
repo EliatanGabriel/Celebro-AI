@@ -15,6 +15,5 @@
 - [[Severidade]]
 - [[Prioridade-de-Bugs]]
 - [[Bug-Report]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

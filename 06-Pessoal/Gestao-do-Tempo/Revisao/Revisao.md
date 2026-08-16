@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Planejamento-semanal]]
-- [[Revisoes]]
-- [[Rituais]]
 - [[Habito-Reflexao]]
 
 [[Pessoal]]

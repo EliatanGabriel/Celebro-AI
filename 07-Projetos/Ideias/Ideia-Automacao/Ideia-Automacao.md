@@ -15,6 +15,5 @@
 - [[Ideia-Ferramenta]]
 - [[Projeto-Bot]]
 - [[Ideias]]
-- [[Terminal]]
 
 [[Projetos]]

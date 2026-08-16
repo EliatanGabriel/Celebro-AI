@@ -15,6 +15,4 @@
 - [[Inspiracoes]]
 - [[Moodboards]]
 - [[Referencias]]
-- [[Anotacao-Filme]]
 
-[[Projetos]]

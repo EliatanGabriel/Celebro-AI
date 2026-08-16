@@ -12,9 +12,7 @@
 - Pendencias
 
 ## Relacionadas
-- [[Requisitos]]
 - [[Comunicacao-com-Devs]]
 - [[Reuniao-Demo]]
-- [[Documentacao]]
 
 [[Trabalho]]

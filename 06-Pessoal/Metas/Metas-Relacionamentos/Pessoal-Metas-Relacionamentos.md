@@ -15,6 +15,5 @@
 - [[Relacionamentos]]
 - [[Agradecimentos]]
 - [[Metas-Felizes]]
-- [[Metas]]
 
 [[Pessoal]]

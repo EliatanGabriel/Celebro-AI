@@ -12,7 +12,6 @@
 - Energia
 
 ## Relacionadas
-- [[Foco]]
 - [[Pomodoro]]
 - [[Getting-things-done]]
 - [[Pessoal]]

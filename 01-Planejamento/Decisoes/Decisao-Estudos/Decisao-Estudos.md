@@ -12,9 +12,7 @@
 - Progresso
 
 ## Relacionadas
-- [[Estudos]]
 - [[Metas-Estudos]]
 - [[Decisao-Faculdade]]
 - [[Decisoes]]
 
-[[Diario]]

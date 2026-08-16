@@ -15,6 +15,4 @@
 - [[Livros]]
 - [[Fonte-Livro]]
 - [[Referencias]]
-- [[Anotacao-Leitura]]
 
-[[Projetos]]

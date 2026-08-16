@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Reuniao-Retro]]
-- [[Anotacao-Reuniao]]
 - [[Feedback]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

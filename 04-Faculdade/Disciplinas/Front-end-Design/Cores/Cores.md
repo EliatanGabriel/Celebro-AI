@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[UI]]
 - [[Tipografia]]
-- [[Design]]
 - [[Acessibilidade]]
 
 [[Front-end-Design]]

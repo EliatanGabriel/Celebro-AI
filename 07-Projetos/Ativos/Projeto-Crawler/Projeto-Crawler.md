@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Projeto-API]]
-- [[Dados-e-IA]]
 - [[Ativos]]
 - [[Roadmap-2026]]
 

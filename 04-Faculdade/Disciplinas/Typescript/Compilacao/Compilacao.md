@@ -15,6 +15,5 @@
 - [[TS-Config]]
 - [[Tipagem]]
 - [[Modulos]]
-- [[Frontend]]
 
 [[Typescript]]

@@ -20,6 +20,5 @@ Subárea de **Trabalho** com práticas de revisão de código.
 - [[Trabalho]]
 - [[Comunicacao-com-Devs]]
 - [[Trabalho-CI-CD]]
-- [[Qualidade]]
 
 [[Trabalho]]

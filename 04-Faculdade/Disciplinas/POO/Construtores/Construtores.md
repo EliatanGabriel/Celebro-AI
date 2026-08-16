@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Classes]]
 - [[Objetos]]
-- [[Metodos]]
 - [[Encapsulamento]]
 
 [[POO]]

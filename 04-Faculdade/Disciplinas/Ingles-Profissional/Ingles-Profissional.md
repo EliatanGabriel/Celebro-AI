@@ -19,6 +19,5 @@ Subárea de **Faculdade** com habilidades de inglês profissional.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-- [[Estudos]]
 
 [[Disciplinas]]

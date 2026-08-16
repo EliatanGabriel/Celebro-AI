@@ -12,8 +12,6 @@
 - Histórico
 
 ## Relacionadas
-- [[GitHub]]
-- [[Versionamento]]
 - [[Git-Branch-Strategy]]
 - [[Conflitos]]
 

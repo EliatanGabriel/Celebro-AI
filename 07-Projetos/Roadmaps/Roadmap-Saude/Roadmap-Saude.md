@@ -12,8 +12,6 @@
 - Progresso
 
 ## Relacionadas
-- [[Metas-Saude]]
-- [[Saude]]
 - [[Roadmaps]]
 - [[Roadmap-2026]]
 

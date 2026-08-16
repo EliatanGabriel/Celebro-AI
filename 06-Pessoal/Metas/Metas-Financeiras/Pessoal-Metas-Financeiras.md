@@ -15,6 +15,5 @@
 - [[Metas-financeiras]]
 - [[Investimentos]]
 - [[Poupanca]]
-- [[Metas]]
 
 [[Pessoal]]

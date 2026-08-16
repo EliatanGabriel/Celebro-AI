@@ -12,9 +12,6 @@
 - Regularidade
 
 ## Relacionadas
-- [[Habito-Reflexao]]
 - [[Ritual-Gratidao]]
 - [[Rituais]]
-- [[Reflexoes]]
 
-[[Diario]]

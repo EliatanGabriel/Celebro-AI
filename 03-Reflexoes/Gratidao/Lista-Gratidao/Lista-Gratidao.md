@@ -15,6 +15,4 @@
 - [[Gratidao]]
 - [[Gratidao-2026]]
 - [[Reflexoes-Gratidao]]
-- [[Ritual-Gratidao]]
 
-[[Diario]]

@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Promocao]]
-- [[Metas-Habilidades]]
 - [[Feedback]]
 - [[Comunicacao-com-Devs]]
 

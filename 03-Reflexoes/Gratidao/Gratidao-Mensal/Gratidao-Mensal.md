@@ -15,6 +15,4 @@
 - [[Gratidao]]
 - [[Gratidao-Semanal]]
 - [[Reflexoes-Gratidao]]
-- [[Revisao-Mensal]]
 
-[[Diario]]

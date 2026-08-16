@@ -22,5 +22,12 @@ Fontes, inspirações, moodboards, livros, artigos, vídeos, podcasts e citaçõ
 
 ## Conexões
 - [[Home]]
+- [[Planejamento]]
+- [[Diario]]
+- [[Reflexoes]]
+- [[Faculdade]]
+- [[Trabalho]]
 - [[Pessoal]]
+- [[Projetos]]
+- [[Sistema]]
 - [[Estudos]]

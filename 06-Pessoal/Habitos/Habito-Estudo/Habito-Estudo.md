@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Habito-Leitura]]
 - [[Metas-Idiomas]]
-- [[Estudos]]
-- [[Rituais]]
 
 [[Pessoal]]

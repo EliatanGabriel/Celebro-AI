@@ -15,6 +15,5 @@
 - [[Readability]]
 - [[Padroes]]
 - [[Refatoracao]]
-- [[Qualidade]]
 
 [[Trabalho]]

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Inspiracoes]]
-- [[Minimalismo-Digital]]
 - [[Moodboards]]
 - [[Referencias]]
 
-[[Projetos]]

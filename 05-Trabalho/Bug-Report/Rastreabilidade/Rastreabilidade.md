@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Reproducao]]
 - [[Ambiente]]
-- [[Git]]
-- [[Versionamento]]
 
 [[Trabalho]]

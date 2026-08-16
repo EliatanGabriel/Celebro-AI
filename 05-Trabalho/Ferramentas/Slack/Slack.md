@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Zoom]]
 - [[Comunicacao-com-Devs]]
-- [[Reunioes]]
 - [[Feedback]]
 
 [[Trabalho]]

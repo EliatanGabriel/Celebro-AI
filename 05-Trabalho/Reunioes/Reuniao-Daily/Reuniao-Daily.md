@@ -12,7 +12,6 @@
 - Foco
 
 ## Relacionadas
-- [[Metodologias-Ageis]]
 - [[Reuniao-Planning]]
 - [[Slack]]
 - [[Comunicacao-com-Devs]]

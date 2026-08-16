@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Trimestrais]]
-- [[Metodologias-Ageis]]
 - [[Ciclo-de-Release]]
-- [[Roadmaps]]
 
 [[Trabalho]]

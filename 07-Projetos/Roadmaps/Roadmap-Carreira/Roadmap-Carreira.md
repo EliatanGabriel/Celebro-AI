@@ -12,8 +12,6 @@
 - Ações
 
 ## Relacionadas
-- [[Metas-Carreira]]
-- [[Decisao-Carreira]]
 - [[Roadmaps]]
 - [[Roadmap-2026]]
 

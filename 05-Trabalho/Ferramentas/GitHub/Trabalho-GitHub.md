@@ -12,9 +12,6 @@
 - Reviews
 
 ## Relacionadas
-- [[Git]]
-- [[GitHub-Actions]]
 - [[Code-Review]]
-- [[Versionamento]]
 
 [[Trabalho]]

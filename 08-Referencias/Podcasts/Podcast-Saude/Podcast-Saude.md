@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Podcasts]]
-- [[Saude]]
 - [[Referencias]]
-- [[Anotacao-Podcast]]
 
-[[Projetos]]

@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Podcasts]]
-- [[Metas-Idiomas]]
 - [[Referencias]]
-- [[Anotacao-Podcast]]
 
-[[Projetos]]

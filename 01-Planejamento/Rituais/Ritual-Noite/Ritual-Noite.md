@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Ritual-Manha]]
-- [[Rotina-Noite]]
 - [[Rituais]]
-- [[Sono]]
 
-[[Diario]]

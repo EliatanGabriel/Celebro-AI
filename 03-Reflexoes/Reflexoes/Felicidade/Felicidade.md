@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Gratidao]]
-- [[Metas-Felizes]]
 - [[Reflexoes-Reflexoes]]
 - [[Alegria]]
 
-[[Diario]]

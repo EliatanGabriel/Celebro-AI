@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Fontes]]
-- [[Ideia-Blog]]
 - [[Referencias]]
-- [[Anotacao-Leitura]]
 
-[[Projetos]]

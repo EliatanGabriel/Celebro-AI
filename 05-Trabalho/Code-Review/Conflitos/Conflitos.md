@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Feedback]]
 - [[Comunicacao-com-Devs]]
-- [[Git]]
-- [[Versionamento]]
 
 [[Trabalho]]

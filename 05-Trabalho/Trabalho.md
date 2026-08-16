@@ -33,7 +33,12 @@ Técnicas de QA, metas, anotações, reuniões e ferramentas profissionais.
 
 ## Conexões
 - [[Home]]
+- [[Planejamento]]
+- [[Diario]]
+- [[Reflexoes]]
 - [[Faculdade]]
-- [[Estudos]]
-- [[Projetos]]
 - [[Pessoal]]
+- [[Projetos]]
+- [[Referencias]]
+- [[Sistema]]
+- [[Estudos]]

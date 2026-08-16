@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Videos]]
-- [[Decisao-Curso]]
 - [[Referencias]]
-- [[Anotacao-Video]]
 
-[[Projetos]]

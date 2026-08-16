@@ -12,7 +12,6 @@
 - Estratégia
 
 ## Relacionadas
-- [[Testes]]
 - [[Testes-Automatizados]]
 - [[Caso-de-Teste]]
 - [[Selenium]]

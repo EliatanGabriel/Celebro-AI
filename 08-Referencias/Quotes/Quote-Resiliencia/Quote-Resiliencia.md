@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Quotes]]
-- [[Resiliencia]]
 - [[Referencias]]
-- [[Pensamentos]]
 
-[[Projetos]]

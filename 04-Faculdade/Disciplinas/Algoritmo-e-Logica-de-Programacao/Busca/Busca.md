@@ -12,7 +12,6 @@
 - Aplicações
 
 ## Relacionadas
-- [[Busca-Binaria]]
 - [[Vetores]]
 - [[Complexidade]]
 - [[Matrizes]]

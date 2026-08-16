@@ -15,6 +15,4 @@
 - [[Decisao-Financeira]]
 - [[Decisao-Compras]]
 - [[Decisoes]]
-- [[Anotacao-Passeio]]
 
-[[Diario]]

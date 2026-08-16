@@ -15,6 +15,4 @@
 - [[Inspiracoes]]
 - [[Fonte-Artigo]]
 - [[Referencias]]
-- [[Anotacao-Leitura]]
 
-[[Projetos]]

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Templates]]
-- [[Revisoes]]
 - [[Sistema]]
 - [[Templates]]
 
-[[Projetos]]

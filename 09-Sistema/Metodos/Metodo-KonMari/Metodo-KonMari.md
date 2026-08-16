@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metodos]]
-- [[Habito-Organizacao]]
-- [[Minimalismo-Digital]]
 - [[Sistema]]
 
-[[Projetos]]

@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Podcasts]]
-- [[Roadmap-Carreira]]
 - [[Referencias]]
-- [[Anotacao-Podcast]]
 
-[[Projetos]]

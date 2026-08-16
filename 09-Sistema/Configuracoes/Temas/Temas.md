@@ -15,6 +15,4 @@
 - [[Configuracoes]]
 - [[CSS]]
 - [[Sistema]]
-- [[Design]]
 
-[[Projetos]]

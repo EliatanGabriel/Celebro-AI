@@ -15,6 +15,4 @@
 - [[Revisao-Semanal]]
 - [[Ritual-Planejamento]]
 - [[Rituais]]
-- [[Planejamento-semanal]]
 
-[[Diario]]

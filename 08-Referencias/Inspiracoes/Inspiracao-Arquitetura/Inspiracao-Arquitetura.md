@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Inspiracoes]]
-- [[Design]]
 - [[Moodboards]]
 - [[Referencias]]
 
-[[Projetos]]

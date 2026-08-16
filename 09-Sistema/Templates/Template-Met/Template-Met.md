@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Templates]]
-- [[Metas]]
 - [[Sistema]]
 - [[Templates]]
 
-[[Projetos]]

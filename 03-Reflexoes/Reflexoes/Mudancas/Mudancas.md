@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Autoconhecimento]]
-- [[Decisoes]]
 - [[Reflexoes-Reflexoes]]
 - [[Momentos-marcantes]]
 
-[[Diario]]

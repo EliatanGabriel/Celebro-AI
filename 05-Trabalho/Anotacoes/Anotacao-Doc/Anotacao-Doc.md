@@ -12,7 +12,6 @@
 - Glossário
 
 ## Relacionadas
-- [[Documentacao]]
 - [[Confluence]]
 - [[Documentacao-API]]
 - [[Anotacao-Codigo]]

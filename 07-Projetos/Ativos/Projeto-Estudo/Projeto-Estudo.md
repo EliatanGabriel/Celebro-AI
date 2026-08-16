@@ -12,7 +12,6 @@
 - Revisão
 
 ## Relacionadas
-- [[Metas-Estudos]]
 - [[Roadmap-Estudos]]
 - [[Ativos]]
 - [[Roadmap-2026]]

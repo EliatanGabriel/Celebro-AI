@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Anotacoes]]
 - [[Faculdade]]
-- [[Metodo-Zettelkasten]]
-- [[Habito-Estudo]]
 
 [[Anotacoes]]

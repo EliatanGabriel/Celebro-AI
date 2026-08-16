@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Quotes]]
-- [[Proposito]]
 - [[Referencias]]
-- [[Pensamentos]]
 
-[[Projetos]]

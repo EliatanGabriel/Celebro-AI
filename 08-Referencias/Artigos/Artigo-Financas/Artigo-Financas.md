@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Artigos]]
-- [[Financas-Pessoais]]
 - [[Referencias]]
-- [[Anotacao-Leitura]]
 
-[[Projetos]]

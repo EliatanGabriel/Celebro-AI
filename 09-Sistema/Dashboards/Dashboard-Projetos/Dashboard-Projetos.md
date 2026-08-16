@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Dashboards]]
-- [[Projetos]]
 - [[Sistema]]
-- [[Ativos]]
 
-[[Projetos]]

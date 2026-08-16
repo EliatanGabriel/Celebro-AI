@@ -15,6 +15,5 @@
 - [[Aprovacao]]
 - [[Best-practices]]
 - [[Seguranca-review]]
-- [[Qualidade]]
 
 [[Trabalho]]

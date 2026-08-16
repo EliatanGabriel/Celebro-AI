@@ -15,6 +15,5 @@
 - [[Steps-to-reproduce]]
 - [[Severidade]]
 - [[Prioridade]]
-- [[Testes]]
 
 [[Trabalho]]

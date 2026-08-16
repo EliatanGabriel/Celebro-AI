@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Eisenhower]]
 - [[Planejamento-diario]]
-- [[Foco]]
 - [[Gestao-do-Tempo]]
 
 [[Pessoal]]

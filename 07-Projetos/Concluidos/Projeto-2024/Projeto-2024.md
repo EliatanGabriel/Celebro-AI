@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Concluidos]]
 - [[Projetos]]
-- [[Aprendizados]]
-- [[Revisao-Anual]]
 
 [[Projetos]]

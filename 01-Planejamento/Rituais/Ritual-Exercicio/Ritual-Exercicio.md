@@ -12,9 +12,5 @@
 - Disciplina
 
 ## Relacionadas
-- [[Treino-semana]]
-- [[Habito-Exercicio]]
 - [[Rituais]]
-- [[Saude-e-Exercicio]]
 
-[[Diario]]

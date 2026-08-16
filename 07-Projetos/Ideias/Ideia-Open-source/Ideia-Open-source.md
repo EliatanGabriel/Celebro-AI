@@ -12,9 +12,7 @@
 - Contribuição
 
 ## Relacionadas
-- [[GitHub]]
 - [[Ideia-Ferramenta]]
 - [[Ideias]]
-- [[Code-Review]]
 
 [[Projetos]]

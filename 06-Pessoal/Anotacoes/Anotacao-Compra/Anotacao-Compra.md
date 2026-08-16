@@ -12,7 +12,6 @@
 - Avaliação
 
 ## Relacionadas
-- [[Anotacao-Ideia]]
 - [[Anotacao-Saida]]
 - [[Financas-Pessoais]]
 - [[Orcamento]]

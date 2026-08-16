@@ -12,9 +12,6 @@
 - SLO
 
 ## Relacionadas
-- [[Alerting]]
-- [[Logging]]
 - [[Producao]]
-- [[Dashboards]]
 
 [[Trabalho]]

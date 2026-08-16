@@ -12,9 +12,6 @@
 - Regularidade
 
 ## Relacionadas
-- [[Relacionamentos]]
-- [[Metas-Felizes]]
 - [[Decisao-Relacionamento]]
 - [[Metas]]
 
-[[Diario]]

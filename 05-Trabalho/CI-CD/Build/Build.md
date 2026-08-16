@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Artefatos]]
-- [[Pipeline]]
 - [[Deploy]]
-- [[Docker]]
 
 [[Trabalho]]

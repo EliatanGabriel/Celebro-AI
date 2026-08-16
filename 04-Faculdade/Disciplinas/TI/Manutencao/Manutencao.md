@@ -15,6 +15,5 @@
 - [[Hardware]]
 - [[Suporte]]
 - [[Infraestrutura]]
-- [[Diagnostico]]
 
 [[TI]]

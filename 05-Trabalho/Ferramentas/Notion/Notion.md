@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Confluence]]
-- [[Documentacao]]
 - [[Jira]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

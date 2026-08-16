@@ -15,6 +15,5 @@
 - [[Steps-to-reproduce]]
 - [[Ambiente]]
 - [[Evidencias]]
-- [[Diagnostico]]
 
 [[Trabalho]]

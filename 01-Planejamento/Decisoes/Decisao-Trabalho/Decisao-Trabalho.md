@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Trabalho]]
-- [[Trabalho]]
 - [[Decisoes]]
 - [[Revisoes]]
 
-[[Diario]]

@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Endpoints]]
 - [[Versionamento-API]]
-- [[Postman]]
 - [[Confluence]]
 
 [[Trabalho]]

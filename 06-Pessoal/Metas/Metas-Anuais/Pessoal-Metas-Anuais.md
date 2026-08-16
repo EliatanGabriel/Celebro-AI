@@ -12,9 +12,6 @@
 - Resultados
 
 ## Relacionadas
-- [[Metas-Mensais]]
-- [[Metas-Semanais]]
 - [[Objetivos-de-Vida]]
-- [[Metas]]
 
 [[Pessoal]]

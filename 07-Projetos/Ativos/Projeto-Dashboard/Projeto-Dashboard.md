@@ -12,8 +12,6 @@
 - Progresso
 
 ## Relacionadas
-- [[Dashboard-IoT]]
-- [[Dashboards]]
 - [[Ativos]]
 - [[Roadmap-2026]]
 

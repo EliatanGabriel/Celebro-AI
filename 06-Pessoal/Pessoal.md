@@ -35,8 +35,12 @@ Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 
 ## Conexões
 - [[Home]]
-- [[Trabalho]]
-- [[Faculdade]]
 - [[Planejamento]]
-- [[Projetos]]
+- [[Diario]]
 - [[Reflexoes]]
+- [[Faculdade]]
+- [[Trabalho]]
+- [[Projetos]]
+- [[Referencias]]
+- [[Sistema]]
+- [[Estudos]]

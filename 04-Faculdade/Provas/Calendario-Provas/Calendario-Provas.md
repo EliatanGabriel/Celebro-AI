@@ -15,6 +15,5 @@
 - [[Provas]]
 - [[Revisao-Prova]]
 - [[Faculdade]]
-- [[Planejamento-semanal]]
 
 [[Provas]]

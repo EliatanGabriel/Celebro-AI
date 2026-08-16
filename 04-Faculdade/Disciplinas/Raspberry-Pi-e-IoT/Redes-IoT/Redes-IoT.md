@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[MQTT]]
 - [[ESP32]]
-- [[IoT]]
 - [[Seguranca-IoT]]
 
 [[Raspberry-Pi-e-IoT]]

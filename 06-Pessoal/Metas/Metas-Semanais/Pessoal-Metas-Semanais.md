@@ -12,9 +12,6 @@
 - Consistência
 
 ## Relacionadas
-- [[Metas-Mensais]]
 - [[Planejamento-semanal]]
-- [[Metas-Anuais]]
-- [[Metas]]
 
 [[Pessoal]]

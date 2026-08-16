@@ -12,9 +12,7 @@
 - Produção
 
 ## Relacionadas
-- [[Podcasts]]
 - [[Ideia-YouTube]]
 - [[Ideias]]
-- [[Comunicacao-com-Devs]]
 
 [[Projetos]]

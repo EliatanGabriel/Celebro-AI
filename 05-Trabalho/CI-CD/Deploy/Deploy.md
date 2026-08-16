@@ -15,6 +15,5 @@
 - [[Producao]]
 - [[Staging]]
 - [[Rollback]]
-- [[Pipeline]]
 
 [[Trabalho]]

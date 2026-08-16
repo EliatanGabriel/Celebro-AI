@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metodos]]
-- [[Metas-Trimestrais]]
 - [[Sistema]]
-- [[Revisoes]]
 
-[[Projetos]]

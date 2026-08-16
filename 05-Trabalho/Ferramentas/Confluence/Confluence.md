@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Notion]]
-- [[Documentacao]]
 - [[Documentacao-API]]
-- [[Reunioes]]
 
 [[Trabalho]]

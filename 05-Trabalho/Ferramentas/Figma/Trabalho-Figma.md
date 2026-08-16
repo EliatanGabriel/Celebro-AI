@@ -12,9 +12,6 @@
 - Design system
 
 ## Relacionadas
-- [[Design]]
-- [[Prototipagem]]
 - [[Miro]]
-- [[UI]]
 
 [[Trabalho]]

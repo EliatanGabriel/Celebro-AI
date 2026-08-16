@@ -15,6 +15,5 @@
 - [[Caminhadas]]
 - [[Anotacao-Passeio]]
 - [[Hobbies]]
-- [[Design]]
 
 [[Pessoal]]

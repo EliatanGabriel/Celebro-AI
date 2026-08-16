@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Habitos]]
 - [[Habito-Foco]]
-- [[Rituais]]
 - [[Produtividade]]
 
 [[Pessoal]]

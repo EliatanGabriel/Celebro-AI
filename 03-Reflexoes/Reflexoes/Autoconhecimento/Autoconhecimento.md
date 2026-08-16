@@ -12,9 +12,6 @@
 - Crescimento
 
 ## Relacionadas
-- [[Identidade]]
 - [[Reflexoes-Reflexoes]]
 - [[Roda-das-Emocoes]]
-- [[Habito-Reflexao]]
 
-[[Diario]]

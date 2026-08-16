@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Classes]]
-- [[Metodos]]
 - [[Objetos]]
 - [[Construtores]]
 

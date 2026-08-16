@@ -15,6 +15,5 @@
 - [[Cypress]]
 - [[Playwright]]
 - [[Integration-testing]]
-- [[Testes]]
 
 [[Trabalho]]

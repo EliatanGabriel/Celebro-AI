@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Gestao-do-Tempo]]
-- [[Trabalho]]
-- [[Metas-Leadership]]
 - [[Ritmo]]
 
 [[Pessoal]]

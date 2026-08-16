@@ -12,9 +12,7 @@
 - Prazos
 
 ## Relacionadas
-- [[Faculdade]]
 - [[Metas-Estudos]]
 - [[Metas-Trabalho]]
 - [[Metas]]
 
-[[Diario]]

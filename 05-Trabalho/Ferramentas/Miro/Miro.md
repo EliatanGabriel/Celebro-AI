@@ -12,9 +12,6 @@
 - Retro
 
 ## Relacionadas
-- [[Figma]]
 - [[Reuniao-Retro]]
-- [[Metodologias-Ageis]]
-- [[Reunioes]]
 
 [[Trabalho]]

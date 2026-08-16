@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metodos]]
-- [[Getting-things-done]]
-- [[Produtividade]]
 - [[Sistema]]
 
-[[Projetos]]

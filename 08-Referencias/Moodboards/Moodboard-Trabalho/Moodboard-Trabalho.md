@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Moodboards]]
-- [[Trabalho]]
 - [[Referencias]]
-- [[Design]]
 
-[[Projetos]]

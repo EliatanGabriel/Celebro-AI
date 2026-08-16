@@ -17,4 +17,3 @@
 - [[Identidade]]
 - [[Legado]]
 
-[[Diario]]

@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Agradecimentos]]
-- [[Eventos]]
 - [[Anotacao-Pessoa]]
 - [[Relacionamentos]]
 

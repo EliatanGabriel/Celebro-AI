@@ -12,9 +12,7 @@
 - Workflow
 
 ## Relacionadas
-- [[Metodologias-Ageis]]
 - [[Trello]]
-- [[Reunioes]]
 - [[Prioridade-de-Bugs]]
 
 [[Trabalho]]

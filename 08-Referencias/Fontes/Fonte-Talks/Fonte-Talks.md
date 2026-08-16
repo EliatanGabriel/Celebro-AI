@@ -15,6 +15,4 @@
 - [[Fontes]]
 - [[Videos]]
 - [[Referencias]]
-- [[Anotacao-Video]]
 
-[[Projetos]]

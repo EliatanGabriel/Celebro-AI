@@ -19,3 +19,12 @@ Templates, métodos, configurações, workflows e dashboards do vault.
 
 ## Conexões
 - [[Home]]
+- [[Planejamento]]
+- [[Diario]]
+- [[Reflexoes]]
+- [[Faculdade]]
+- [[Trabalho]]
+- [[Pessoal]]
+- [[Projetos]]
+- [[Referencias]]
+- [[Estudos]]

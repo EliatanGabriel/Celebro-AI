@@ -12,7 +12,6 @@
 - Produtividade
 
 ## Relacionadas
-- [[Foco]]
 - [[Pomodoro]]
 - [[Time-blocking]]
 - [[Deep-work]]

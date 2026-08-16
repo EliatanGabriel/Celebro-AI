@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Metas-Trimestrais]]
 - [[Metas-Projetos-Trab]]
-- [[Planejamento]]
-- [[Revisoes]]
 
 [[Trabalho]]

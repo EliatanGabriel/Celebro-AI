@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Deploy]]
 - [[Producao]]
-- [[Pipeline]]
 - [[Monitoramento]]
 
 [[Trabalho]]

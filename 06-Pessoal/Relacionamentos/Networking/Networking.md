@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Networking-Pessoal]]
 - [[Colegas]]
-- [[Trabalho]]
 - [[Relacionamentos]]
 
 [[Pessoal]]

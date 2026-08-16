@@ -12,7 +12,6 @@
 - Capacidade
 
 ## Relacionadas
-- [[Metodologias-Ageis]]
 - [[Jira]]
 - [[Reuniao-Refinamento]]
 - [[Metas-Trimestrais]]

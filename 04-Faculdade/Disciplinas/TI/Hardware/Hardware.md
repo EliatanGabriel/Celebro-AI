@@ -15,6 +15,5 @@
 - [[Software]]
 - [[Manutencao]]
 - [[Infraestrutura]]
-- [[Sistemas]]
 
 [[TI]]

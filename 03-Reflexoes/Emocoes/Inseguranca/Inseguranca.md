@@ -17,4 +17,3 @@
 - [[Vergonha]]
 - [[Emocoes]]
 
-[[Diario]]

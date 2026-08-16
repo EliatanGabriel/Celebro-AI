@@ -12,8 +12,6 @@
 - Revisão
 
 ## Relacionadas
-- [[Metas-Financeiras]]
-- [[Investimentos]]
 - [[Roadmaps]]
 - [[Roadmap-2026]]
 

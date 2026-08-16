@@ -18,5 +18,11 @@ Memória, daily notes, diário e registros do dia a dia.
 ## Conexões
 - [[Home]]
 - [[Planejamento]]
-- [[Pessoal]]
 - [[Reflexoes]]
+- [[Faculdade]]
+- [[Trabalho]]
+- [[Pessoal]]
+- [[Projetos]]
+- [[Referencias]]
+- [[Sistema]]
+- [[Estudos]]

@@ -15,6 +15,5 @@
 - [[Ideia-Landing]]
 - [[Projeto-Site-pessoal]]
 - [[Ideias]]
-- [[Frontend]]
 
 [[Projetos]]

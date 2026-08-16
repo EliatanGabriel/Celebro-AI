@@ -17,4 +17,3 @@
 - [[Reflexoes-Gratidao]]
 - [[Lista-Gratidao]]
 
-[[Diario]]

@@ -17,4 +17,3 @@
 - [[Sonhos]]
 - [[Plano-de-vida]]
 
-[[Diario]]

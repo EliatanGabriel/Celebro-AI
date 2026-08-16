@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Projeto-Portfolio]]
-- [[Frontend]]
 - [[Ativos]]
 - [[Roadmap-2026]]
 

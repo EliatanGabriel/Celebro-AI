@@ -12,9 +12,7 @@
 - Follow-up
 
 ## Relacionadas
-- [[Reunioes]]
 - [[Anotacao-1on1]]
 - [[Anotacao-Sprint]]
-- [[Metodologias-Ageis]]
 
 [[Trabalho]]

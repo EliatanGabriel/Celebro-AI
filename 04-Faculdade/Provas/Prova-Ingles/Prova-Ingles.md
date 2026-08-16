@@ -15,6 +15,5 @@
 - [[Provas]]
 - [[Ingles-Profissional]]
 - [[Revisao-Prova]]
-- [[Metas-Idiomas]]
 
 [[Provas]]

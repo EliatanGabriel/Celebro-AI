@@ -15,6 +15,4 @@
 - [[Fontes]]
 - [[Podcasts]]
 - [[Referencias]]
-- [[Anotacao-Podcast]]
 
-[[Projetos]]

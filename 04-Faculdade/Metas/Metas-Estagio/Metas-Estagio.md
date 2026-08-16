@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Faculdade-Metas]]
-- [[Metas-Trabalho]]
-- [[Metas-Trabalho]]
-- [[Metas-Carreira]]
 
 [[Faculdade-Metas]]

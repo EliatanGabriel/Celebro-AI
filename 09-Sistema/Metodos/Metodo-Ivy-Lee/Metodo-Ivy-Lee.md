@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Metodos]]
-- [[Prioridades]]
-- [[Planejamento-diario]]
 - [[Sistema]]
 
-[[Projetos]]

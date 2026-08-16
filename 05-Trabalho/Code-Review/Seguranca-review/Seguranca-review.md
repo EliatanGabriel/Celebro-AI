@@ -12,9 +12,7 @@
 - Validação
 
 ## Relacionadas
-- [[Seguranca]]
 - [[Checklist]]
 - [[Best-practices]]
-- [[Firewall]]
 
 [[Trabalho]]

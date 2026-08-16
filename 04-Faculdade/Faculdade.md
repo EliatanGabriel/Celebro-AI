@@ -19,6 +19,12 @@ Disciplinas, metas, anotações, provas e trabalhos da faculdade.
 
 ## Conexões
 - [[Home]]
-- [[Estudos]]
+- [[Planejamento]]
+- [[Diario]]
+- [[Reflexoes]]
 - [[Trabalho]]
 - [[Pessoal]]
+- [[Projetos]]
+- [[Referencias]]
+- [[Sistema]]
+- [[Estudos]]

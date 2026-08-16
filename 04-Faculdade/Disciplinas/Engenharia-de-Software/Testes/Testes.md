@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[CI-CD]]
 - [[Qualidade]]
-- [[Testes-Automatizados]]
 - [[Versionamento]]
 
 [[Engenharia-de-Software]]

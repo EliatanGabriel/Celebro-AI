@@ -17,4 +17,3 @@
 - [[Proposito]]
 - [[Plano-de-vida]]
 
-[[Diario]]

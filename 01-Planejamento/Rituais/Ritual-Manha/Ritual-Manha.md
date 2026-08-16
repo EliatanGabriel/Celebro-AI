@@ -12,9 +12,6 @@
 - Foco
 
 ## Relacionadas
-- [[Rotina-Manha]]
 - [[Ritual-Noite]]
 - [[Rituais]]
-- [[Habito-Rotina-manha]]
 
-[[Diario]]

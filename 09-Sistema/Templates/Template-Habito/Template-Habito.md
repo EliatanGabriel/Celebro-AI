@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Templates]]
-- [[Habitos]]
 - [[Sistema]]
 - [[Templates]]
 
-[[Projetos]]

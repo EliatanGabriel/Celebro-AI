@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Workflows]]
-- [[Ritual-Manha]]
-- [[Daily-Notes]]
 - [[Sistema]]
 
-[[Projetos]]

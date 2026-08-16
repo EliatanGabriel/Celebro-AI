@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Readability]]
 - [[Best-practices]]
-- [[Testes]]
-- [[Qualidade]]
 
 [[Trabalho]]

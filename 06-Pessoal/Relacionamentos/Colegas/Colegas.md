@@ -12,9 +12,7 @@
 - Ambiente
 
 ## Relacionadas
-- [[Trabalho]]
 - [[Networking]]
-- [[Comunicacao-com-Devs]]
 - [[Relacionamentos]]
 
 [[Pessoal]]

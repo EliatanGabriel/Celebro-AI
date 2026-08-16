@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Gratidao]]
 - [[Gratidao-2026]]
-- [[Trabalho]]
 - [[Reflexoes-Gratidao]]
 
-[[Diario]]

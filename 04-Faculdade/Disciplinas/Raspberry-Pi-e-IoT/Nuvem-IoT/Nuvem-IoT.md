@@ -15,6 +15,5 @@
 - [[MQTT]]
 - [[Dashboard-IoT]]
 - [[Cloud]]
-- [[Dados-e-IA]]
 
 [[Raspberry-Pi-e-IoT]]

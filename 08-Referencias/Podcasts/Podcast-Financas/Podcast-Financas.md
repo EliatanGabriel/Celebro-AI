@@ -13,8 +13,5 @@
 
 ## Relacionadas
 - [[Podcasts]]
-- [[Financas-Pessoais]]
 - [[Referencias]]
-- [[Anotacao-Podcast]]
 
-[[Projetos]]

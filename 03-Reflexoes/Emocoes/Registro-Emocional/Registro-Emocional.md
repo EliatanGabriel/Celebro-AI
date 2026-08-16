@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Roda-das-Emocoes]]
-- [[Habito-Journal]]
 - [[Emocoes]]
 - [[Autoconhecimento]]
 
-[[Diario]]

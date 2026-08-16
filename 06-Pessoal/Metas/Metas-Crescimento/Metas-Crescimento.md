@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Metas-Felizes]]
-- [[Metas-Habilidades]]
 - [[Objetivos-de-Vida]]
-- [[Metas]]
 
 [[Pessoal]]

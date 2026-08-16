@@ -12,9 +12,5 @@
 - Acompanhamento
 
 ## Relacionadas
-- [[Metas-financeiras]]
-- [[Investimentos]]
-- [[Poupanca]]
 - [[Metas]]
 
-[[Diario]]

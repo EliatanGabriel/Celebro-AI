@@ -12,7 +12,6 @@
 - Satisfação
 
 ## Relacionadas
-- [[Foco]]
 - [[Deep-work]]
 - [[Hobbies]]
 - [[Produtividade]]
