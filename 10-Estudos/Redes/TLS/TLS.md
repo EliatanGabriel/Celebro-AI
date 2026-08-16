@@ -15,6 +15,5 @@
 - [[HTTPS]]
 - [[Criptografia]]
 - [[Handshake]]
-- [[Seguranca]]
 
 [[Estudos-Redes]]

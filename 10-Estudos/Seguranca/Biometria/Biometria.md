@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Autenticacao]]
 - [[MFA]]
-- [[Seguranca]]
 - [[Mobile]]
 
 [[Estudos-Seguranca]]

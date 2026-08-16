@@ -13,9 +13,6 @@
 
 ## Relacionadas
 - [[Frontend]]
-- [[CSS]]
-- [[HTML]]
 - [[Mobile]]
-- [[Layout]]
 
 [[Frontend]]

@@ -15,6 +15,5 @@
 - [[OSI]]
 - [[TCP]]
 - [[IP]]
-- [[Redes]]
 
 [[Estudos-Redes]]

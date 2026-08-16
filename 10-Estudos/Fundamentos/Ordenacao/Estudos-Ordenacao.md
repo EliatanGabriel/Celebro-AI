@@ -13,9 +13,6 @@
 
 ## Relacionadas
 - [[Fundamentos]]
-- [[Complexidade]]
-- [[Vetores]]
-- [[Busca]]
 - [[Algoritmos]]
 
 [[Fundamentos]]

@@ -12,9 +12,6 @@
 - Polimorfismo
 
 ## Relacionadas
-- [[Padroes-de-Projeto]]
-- [[POO]]
 - [[Arquitetura-de-Software]]
-- [[Polimorfismo]]
 
 [[Arquitetura-e-Design]]

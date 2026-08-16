@@ -15,6 +15,5 @@
 - [[Java]]
 - [[Swift]]
 - [[Backend]]
-- [[POO]]
 
 [[Linguagens]]

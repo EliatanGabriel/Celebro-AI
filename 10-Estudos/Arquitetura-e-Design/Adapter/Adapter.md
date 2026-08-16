@@ -12,9 +12,7 @@
 - Desacoplamento
 
 ## Relacionadas
-- [[Padroes-de-Projeto]]
 - [[Arquitetura-de-Software]]
 - [[APIs]]
-- [[POO]]
 
 [[Arquitetura-e-Design]]

@@ -15,6 +15,5 @@
 - [[Autenticacao]]
 - [[RBAC]]
 - [[Auth]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

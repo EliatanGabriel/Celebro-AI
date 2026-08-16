@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[C]]
-- [[POO]]
 - [[Arquitetura-de-Computadores]]
-- [[Funcoes]]
 
 [[Linguagens]]

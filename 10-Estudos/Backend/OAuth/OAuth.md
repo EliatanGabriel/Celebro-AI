@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Auth]]
 - [[JWT]]
-- [[Seguranca]]
 - [[Backend]]
 
 [[Backend]]

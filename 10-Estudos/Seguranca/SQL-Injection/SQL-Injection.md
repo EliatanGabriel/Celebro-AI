@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[OWASP]]
-- [[SQL]]
-- [[Seguranca]]
 - [[XSS]]
 
 [[Estudos-Seguranca]]

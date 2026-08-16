@@ -15,6 +15,5 @@
 - [[AWS]]
 - [[Azure]]
 - [[Kubernetes]]
-- [[Cloud]]
 
 [[Cloud-e-DevOps]]

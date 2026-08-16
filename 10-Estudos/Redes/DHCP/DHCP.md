@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[IP]]
-- [[Redes]]
 - [[NAT]]
 - [[Subnetting]]
 

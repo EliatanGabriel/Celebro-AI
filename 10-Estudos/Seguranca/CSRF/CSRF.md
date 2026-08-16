@@ -15,6 +15,5 @@
 - [[OWASP]]
 - [[Sessions]]
 - [[Cookies]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

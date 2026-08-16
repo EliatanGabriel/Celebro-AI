@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[ACID]]
-- [[SQL]]
 - [[Bancos-de-Dados]]
 - [[PostgreSQL]]
 

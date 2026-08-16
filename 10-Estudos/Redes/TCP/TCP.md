@@ -15,6 +15,5 @@
 - [[UDP]]
 - [[IP]]
 - [[Handshake]]
-- [[Redes]]
 
 [[Estudos-Redes]]

@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[HTTP]]
-- [[Redes]]
 - [[IP]]
 - [[Navegação]]
 

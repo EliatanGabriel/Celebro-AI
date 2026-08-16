@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Figma]]
-- [[UX]]
 - [[Frontend]]
-- [[Moodboards]]
 
 [[Ferramentas]]

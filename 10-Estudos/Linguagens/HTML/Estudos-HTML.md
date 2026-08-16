@@ -12,10 +12,7 @@
 - SEO
 
 ## Relacionadas
-- [[CSS]]
 - [[Frontend]]
-- [[Acessibilidade]]
 - [[HTTP]]
-- [[Responsividade]]
 
 [[Linguagens]]

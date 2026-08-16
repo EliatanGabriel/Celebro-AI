@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[NoSQL]]
 - [[Auth]]
-- [[Cloud]]
 - [[Frontend]]
 
 [[Bancos-de-Dados]]

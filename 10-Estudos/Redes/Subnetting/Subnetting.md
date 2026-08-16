@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[IP]]
 - [[VPC]]
-- [[Redes]]
 - [[NAT]]
 
 [[Estudos-Redes]]

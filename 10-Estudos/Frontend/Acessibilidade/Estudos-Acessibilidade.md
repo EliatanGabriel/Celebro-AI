@@ -13,9 +13,5 @@
 
 ## Relacionadas
 - [[Frontend]]
-- [[HTML]]
-- [[UI]]
-- [[UX]]
-- [[Responsividade]]
 
 [[Frontend]]

@@ -12,9 +12,6 @@
 - Dependency inversion
 
 ## Relacionadas
-- [[POO]]
-- [[Padroes-de-Projeto]]
 - [[Clean-Architecture]]
-- [[Engenharia-de-Software]]
 
 [[Arquitetura-e-Design]]

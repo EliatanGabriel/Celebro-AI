@@ -12,9 +12,7 @@
 - Segurança
 
 ## Relacionadas
-- [[Seguranca]]
 - [[Criptografia]]
-- [[Redes]]
 - [[Firewall]]
 
 [[Estudos-Redes]]

@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[AWS]]
 - [[GCP]]
-- [[Cloud]]
 - [[PowerShell]]
 
 [[Cloud-e-DevOps]]

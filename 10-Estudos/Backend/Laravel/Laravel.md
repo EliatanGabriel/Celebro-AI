@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[PHP]]
 - [[Backend]]
-- [[SQL]]
 - [[Composer]]
 
 [[Backend]]

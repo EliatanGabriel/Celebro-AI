@@ -13,9 +13,5 @@
 
 ## Relacionadas
 - [[Fundamentos]]
-- [[Tipos-de-dados]]
-- [[Funcoes]]
-- [[Condicionais]]
-- [[Lacos]]
 
 [[Fundamentos]]

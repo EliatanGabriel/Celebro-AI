@@ -15,6 +15,5 @@
 - [[Pentest]]
 - [[Patch]]
 - [[OWASP]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

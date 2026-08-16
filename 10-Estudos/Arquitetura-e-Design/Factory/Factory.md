@@ -12,9 +12,7 @@
 - Desacoplamento
 
 ## Relacionadas
-- [[Padroes-de-Projeto]]
 - [[Singleton]]
-- [[POO]]
 - [[Arquitetura-de-Software]]
 
 [[Arquitetura-e-Design]]

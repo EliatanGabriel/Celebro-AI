@@ -15,6 +15,5 @@
 - [[HTTP]]
 - [[TLS]]
 - [[Criptografia]]
-- [[Seguranca]]
 
 [[Estudos-Redes]]

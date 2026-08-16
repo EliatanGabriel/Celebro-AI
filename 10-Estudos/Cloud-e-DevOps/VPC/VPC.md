@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[AWS]]
-- [[Redes]]
 - [[Firewall]]
 - [[EC2]]
 

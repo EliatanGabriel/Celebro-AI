@@ -14,8 +14,5 @@
 ## Relacionadas
 - [[Arquitetura-e-Design]]
 - [[MVC]]
-- [[POO]]
-- [[Interfaces]]
-- [[Classes]]
 
 [[Arquitetura-e-Design]]

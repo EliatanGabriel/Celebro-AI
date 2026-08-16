@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Listas]]
 - [[Estruturas-de-Dados]]
-- [[Vetores]]
 - [[Algoritmos]]
 
 [[Fundamentos]]

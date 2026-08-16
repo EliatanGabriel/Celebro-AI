@@ -14,8 +14,6 @@
 ## Relacionadas
 - [[APIs]]
 - [[HTTP]]
-- [[Endpoints]]
-- [[Metodos-HTTP]]
 - [[JSON]]
 
 [[Backend]]

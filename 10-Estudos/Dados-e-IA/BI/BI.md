@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Data-Science]]
-- [[Dashboards]]
 - [[ETL]]
 - [[Bancos-de-Dados]]
 

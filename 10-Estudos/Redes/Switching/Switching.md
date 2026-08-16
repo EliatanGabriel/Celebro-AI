@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Roteamento]]
-- [[Redes]]
 - [[OSI]]
 - [[Ethernet]]
 

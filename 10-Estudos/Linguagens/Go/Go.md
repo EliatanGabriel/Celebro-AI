@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Rust]]
 - [[Backend]]
-- [[Cloud]]
 - [[Microservicos]]
 
 [[Linguagens]]

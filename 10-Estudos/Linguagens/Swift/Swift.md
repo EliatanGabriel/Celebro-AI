@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Kotlin]]
-- [[POO]]
 - [[Frontend]]
 
 [[Linguagens]]

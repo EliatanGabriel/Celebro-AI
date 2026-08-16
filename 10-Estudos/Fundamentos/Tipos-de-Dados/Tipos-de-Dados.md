@@ -12,9 +12,7 @@
 - Memória
 
 ## Relacionadas
-- [[Variaveis]]
 - [[Linguagens]]
-- [[Funcoes]]
 - [[Memoria]]
 
 [[Fundamentos]]

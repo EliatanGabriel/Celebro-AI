@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Lambda]]
 - [[AWS]]
-- [[Cloud]]
 - [[Microservicos]]
 
 [[Cloud-e-DevOps]]

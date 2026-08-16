@@ -15,6 +15,5 @@
 - [[Replication]]
 - [[Load-Balancer]]
 - [[Resiliencia]]
-- [[Cloud]]
 
 [[Arquitetura-e-Design]]

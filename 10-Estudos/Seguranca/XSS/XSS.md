@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[OWASP]]
 - [[CSRF]]
-- [[Seguranca]]
 - [[Frontend]]
 
 [[Estudos-Seguranca]]

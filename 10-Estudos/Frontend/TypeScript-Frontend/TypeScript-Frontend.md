@@ -15,6 +15,5 @@
 - [[TypeScript]]
 - [[React]]
 - [[Frontend]]
-- [[Interfaces-TS]]
 
 [[Frontend]]

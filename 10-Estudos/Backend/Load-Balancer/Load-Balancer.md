@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Proxy]]
-- [[Cloud]]
 - [[Alta-Disponibilidade]]
-- [[Redes]]
 
 [[Backend]]

@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Logging]]
-- [[Testes-Automatizados]]
 - [[Editor]]
 - [[Programacao]]
 

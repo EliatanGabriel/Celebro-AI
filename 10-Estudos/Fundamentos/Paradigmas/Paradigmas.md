@@ -15,6 +15,5 @@
 - [[Orientacao-a-Objetos]]
 - [[Programacao-Funcional]]
 - [[Programacao]]
-- [[POO]]
 
 [[Fundamentos]]

@@ -12,9 +12,7 @@
 - Identidade
 
 ## Relacionadas
-- [[Seguranca]]
 - [[RBAC]]
 - [[Firewall]]
-- [[Redes]]
 
 [[Estudos-Seguranca]]

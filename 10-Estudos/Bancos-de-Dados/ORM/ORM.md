@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Prisma]]
 - [[Django]]
-- [[SQL]]
 - [[Backend]]
 
 [[Bancos-de-Dados]]

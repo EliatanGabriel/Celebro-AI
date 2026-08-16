@@ -12,9 +12,7 @@
 - Eficiência
 
 ## Relacionadas
-- [[Complexidade]]
 - [[Algoritmos]]
-- [[Ordenacao]]
 - [[Busca-Binaria]]
 
 [[Fundamentos]]

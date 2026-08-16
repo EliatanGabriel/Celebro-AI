@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[C]]
 - [[Paradigmas]]
-- [[Funcoes]]
 - [[Programacao]]
 
 [[Fundamentos]]

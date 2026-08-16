@@ -15,6 +15,5 @@
 - [[Terraform]]
 - [[Ansible]]
 - [[DevOps]]
-- [[Cloud]]
 
 [[Cloud-e-DevOps]]

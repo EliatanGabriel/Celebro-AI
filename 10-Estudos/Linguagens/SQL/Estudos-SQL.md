@@ -13,9 +13,6 @@
 
 ## Relacionadas
 - [[Bancos-de-Dados]]
-- [[JOIN]]
 - [[Transactions]]
-- [[Indices]]
-- [[Normalizacao]]
 
 [[Linguagens]]

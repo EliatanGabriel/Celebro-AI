@@ -15,6 +15,5 @@
 - [[OWASP]]
 - [[Phishing]]
 - [[Ransomware]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

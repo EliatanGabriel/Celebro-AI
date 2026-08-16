@@ -15,6 +15,5 @@
 - [[TCP]]
 - [[TLS]]
 - [[HTTPS]]
-- [[Redes]]
 
 [[Estudos-Redes]]

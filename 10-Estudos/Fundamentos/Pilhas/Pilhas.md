@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Filas]]
-- [[Recursao]]
 - [[Estruturas-de-Dados]]
 - [[Stack-Heap]]
 

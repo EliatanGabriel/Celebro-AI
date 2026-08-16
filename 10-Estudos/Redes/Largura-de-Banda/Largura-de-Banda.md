@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Latencia]]
 - [[CDN]]
-- [[Redes]]
 - [[Performance]]
 
 [[Estudos-Redes]]

@@ -12,9 +12,7 @@
 - Organização
 
 ## Relacionadas
-- [[CSS]]
 - [[Frontend]]
-- [[Layout]]
 - [[Tailwind]]
 
 [[Frontend]]

@@ -15,6 +15,5 @@
 - [[ORM]]
 - [[Node-js]]
 - [[TypeScript]]
-- [[SQL]]
 
 [[Bancos-de-Dados]]

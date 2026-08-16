@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Next-js]]
 - [[Frontend]]
-- [[HTML]]
 - [[Performance-Frontend]]
 
 [[Frontend]]

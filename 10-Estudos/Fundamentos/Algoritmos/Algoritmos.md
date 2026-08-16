@@ -12,7 +12,6 @@
 - Complexidade
 
 ## Relacionadas
-- [[Complexidade]]
 - [[Big-O]]
 - [[Estruturas-de-Dados]]
 - [[Programacao]]

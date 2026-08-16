@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[IP]]
 - [[Switching]]
-- [[Redes]]
 - [[OSI]]
 
 [[Estudos-Redes]]

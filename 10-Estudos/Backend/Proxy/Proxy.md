@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Load-Balancer]]
 - [[CDN]]
-- [[Redes]]
 - [[Firewall]]
 
 [[Backend]]

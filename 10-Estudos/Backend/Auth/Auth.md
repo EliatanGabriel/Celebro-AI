@@ -15,7 +15,6 @@
 - [[JWT]]
 - [[OAuth]]
 - [[Sessions]]
-- [[Seguranca]]
 - [[Backend]]
 
 [[Backend]]

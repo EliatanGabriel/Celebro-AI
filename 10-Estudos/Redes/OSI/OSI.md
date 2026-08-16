@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[TCP-IP]]
-- [[Redes]]
 - [[HTTP]]
 - [[Protocolos]]
 

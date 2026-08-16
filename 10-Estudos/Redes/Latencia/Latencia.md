@@ -15,6 +15,5 @@
 - [[Largura-de-Banda]]
 - [[CDN]]
 - [[Performance]]
-- [[Redes]]
 
 [[Estudos-Redes]]

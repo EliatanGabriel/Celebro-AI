@@ -15,6 +15,5 @@
 - [[Segredos]]
 - [[Credenciais]]
 - [[Docker]]
-- [[CI-CD]]
 
 [[Estudos-Seguranca]]

@@ -13,8 +13,6 @@
 
 ## Relacionadas
 - [[Firewall]]
-- [[Redes]]
 - [[Zero-Trust]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

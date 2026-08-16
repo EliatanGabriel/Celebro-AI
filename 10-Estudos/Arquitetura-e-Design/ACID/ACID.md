@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Transactions]]
 - [[Bancos-de-Dados]]
-- [[SQL]]
 - [[CAP]]
 
 [[Arquitetura-e-Design]]

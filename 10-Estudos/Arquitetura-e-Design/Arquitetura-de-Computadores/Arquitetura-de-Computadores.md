@@ -15,6 +15,5 @@
 - [[Assembly]]
 - [[C]]
 - [[Memoria]]
-- [[Hardware]]
 
 [[Arquitetura-e-Design]]

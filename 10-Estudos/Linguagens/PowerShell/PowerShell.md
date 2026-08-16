@@ -15,6 +15,5 @@
 - [[Shell]]
 - [[Bash]]
 - [[Windows]]
-- [[Cloud]]
 
 [[Linguagens]]

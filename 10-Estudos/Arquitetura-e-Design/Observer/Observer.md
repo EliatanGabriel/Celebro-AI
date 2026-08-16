@@ -12,7 +12,6 @@
 - Reatividade
 
 ## Relacionadas
-- [[Padroes-de-Projeto]]
 - [[Eventos]]
 - [[Event-Driven]]
 - [[Arquitetura-de-Software]]

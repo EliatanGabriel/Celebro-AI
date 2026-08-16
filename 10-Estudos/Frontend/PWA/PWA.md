@@ -15,6 +15,5 @@
 - [[Frontend]]
 - [[JavaScript]]
 - [[Performance-Frontend]]
-- [[HTML]]
 
 [[Frontend]]

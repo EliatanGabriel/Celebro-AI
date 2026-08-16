@@ -15,6 +15,5 @@
 - [[HTTP]]
 - [[Sessions]]
 - [[Frontend]]
-- [[Seguranca]]
 
 [[Backend]]

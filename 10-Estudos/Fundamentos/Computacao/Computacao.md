@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Teoria-da-Computacao]]
 - [[Algoritmos]]
-- [[Complexidade]]
 - [[Ciência-da-Computacao]]
 
 [[Fundamentos]]

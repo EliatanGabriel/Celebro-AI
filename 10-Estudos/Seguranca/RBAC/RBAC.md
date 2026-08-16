@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Autorizacao]]
-- [[Seguranca]]
 - [[Auth]]
 - [[Zero-Trust]]
 

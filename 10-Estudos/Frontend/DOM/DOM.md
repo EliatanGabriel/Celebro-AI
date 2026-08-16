@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[JavaScript]]
-- [[HTML]]
 - [[Eventos]]
 - [[Frontend]]
 

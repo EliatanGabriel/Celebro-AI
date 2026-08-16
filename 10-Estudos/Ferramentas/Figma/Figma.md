@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Frontend]]
 - [[Design]]
-- [[Prototipagem]]
-- [[UX]]
 
 [[Ferramentas]]

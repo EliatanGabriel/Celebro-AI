@@ -12,7 +12,6 @@
 - Trade-off
 
 ## Relacionadas
-- [[SQL]]
 - [[Performance]]
 - [[Bancos-de-Dados]]
 - [[PostgreSQL]]

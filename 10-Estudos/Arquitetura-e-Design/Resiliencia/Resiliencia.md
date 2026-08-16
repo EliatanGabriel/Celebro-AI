@@ -15,6 +15,5 @@
 - [[Alta-Disponibilidade]]
 - [[Microservicos]]
 - [[Tolerancia-a-Falhas]]
-- [[Cloud]]
 
 [[Arquitetura-e-Design]]

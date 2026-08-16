@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Vulnerabilidades]]
-- [[Seguranca]]
 - [[DevOps]]
 - [[CI-CD-Conceito]]
 

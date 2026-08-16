@@ -13,9 +13,6 @@
 
 ## Relacionadas
 - [[Fundamentos]]
-- [[Funcoes]]
-- [[Ordenacao]]
 - [[Algoritmos]]
-- [[Complexidade]]
 
 [[Fundamentos]]

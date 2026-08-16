@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[APIs]]
 - [[REST]]
-- [[Testes-API]]
 - [[Ferramentas]]
 
 [[Ferramentas]]

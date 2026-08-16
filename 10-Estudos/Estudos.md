@@ -33,7 +33,12 @@ Tecnologia e computação organizados por categorias.
 
 ## Conexões
 - [[Home]]
+- [[Planejamento]]
+- [[Diario]]
+- [[Reflexoes]]
 - [[Faculdade]]
 - [[Trabalho]]
 - [[Pessoal]]
 - [[Projetos]]
+- [[Referencias]]
+- [[Sistema]]

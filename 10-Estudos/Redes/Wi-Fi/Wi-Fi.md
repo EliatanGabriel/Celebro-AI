@@ -12,8 +12,6 @@
 - Cobertura
 
 ## Relacionadas
-- [[Redes]]
-- [[Seguranca]]
 - [[DHCP]]
 - [[Dispositivos]]
 

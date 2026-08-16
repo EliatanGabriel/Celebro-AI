@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Python]]
 - [[C]]
-- [[Arduino]]
 - [[Games]]
 
 [[Linguagens]]

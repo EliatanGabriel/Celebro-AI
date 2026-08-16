@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Criptografia]]
 - [[Hash]]
-- [[Seguranca]]
 - [[Senhas]]
 
 [[Estudos-Seguranca]]

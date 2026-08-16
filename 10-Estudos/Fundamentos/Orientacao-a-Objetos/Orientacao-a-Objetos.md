@@ -12,9 +12,6 @@
 - Polimorfismo
 
 ## Relacionadas
-- [[POO]]
-- [[Classes]]
-- [[Heranca]]
 - [[Paradigmas]]
 
 [[Fundamentos]]

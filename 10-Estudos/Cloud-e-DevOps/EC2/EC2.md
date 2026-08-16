@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[AWS]]
-- [[Cloud]]
 - [[VPC]]
 - [[Servidores]]
 

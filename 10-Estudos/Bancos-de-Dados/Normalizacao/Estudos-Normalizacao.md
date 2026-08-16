@@ -13,9 +13,5 @@
 
 ## Relacionadas
 - [[Bancos-de-Dados]]
-- [[SQL]]
-- [[Chaves]]
-- [[Modelagem-ER]]
-- [[Indices]]
 
 [[Bancos-de-Dados]]

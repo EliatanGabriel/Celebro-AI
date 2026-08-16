@@ -12,7 +12,6 @@
 - Ecosistema
 
 ## Relacionadas
-- [[Cloud]]
 - [[Lambda]]
 - [[S3]]
 - [[EC2]]

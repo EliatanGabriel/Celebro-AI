@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[ORM]]
-- [[SQL]]
 - [[DevOps]]
 - [[Bancos-de-Dados]]
 

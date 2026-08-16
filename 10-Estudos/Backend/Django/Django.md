@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Python]]
 - [[Backend]]
-- [[SQL]]
 - [[REST]]
 
 [[Backend]]

@@ -13,9 +13,5 @@
 
 ## Relacionadas
 - [[Fundamentos]]
-- [[Variaveis]]
-- [[Recursao]]
-- [[Metodos]]
-- [[Modulos]]
 
 [[Fundamentos]]

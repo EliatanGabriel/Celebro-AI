@@ -15,6 +15,5 @@
 - [[Hashing]]
 - [[TLS]]
 - [[HTTPS]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

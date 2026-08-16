@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[5G]]
 - [[Wi-Fi]]
-- [[MQTT]]
 - [[Mobile]]
 
 [[Estudos-Redes]]

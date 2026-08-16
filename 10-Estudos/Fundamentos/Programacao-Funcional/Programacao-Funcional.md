@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Scala]]
 - [[Paradigmas]]
-- [[Funcoes]]
 - [[JavaScript]]
 
 [[Fundamentos]]

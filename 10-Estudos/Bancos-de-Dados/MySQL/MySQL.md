@@ -12,9 +12,7 @@
 - LAMP
 
 ## Relacionadas
-- [[SQL]]
 - [[Bancos-de-Dados]]
-- [[JOIN]]
 - [[PHP]]
 
 [[Bancos-de-Dados]]

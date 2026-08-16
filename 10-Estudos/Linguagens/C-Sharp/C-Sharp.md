@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Java]]
-- [[POO]]
 - [[Backend]]
 - [[Componentes]]
 

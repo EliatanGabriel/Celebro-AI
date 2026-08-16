@@ -12,9 +12,7 @@
 - Config
 
 ## Relacionadas
-- [[Padroes-de-Projeto]]
 - [[Factory]]
-- [[POO]]
 - [[Arquitetura-de-Software]]
 
 [[Arquitetura-e-Design]]

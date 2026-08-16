@@ -15,6 +15,5 @@
 - [[GitHub]]
 - [[GitLab]]
 - [[DevOps]]
-- [[Versionamento]]
 
 [[Ferramentas]]

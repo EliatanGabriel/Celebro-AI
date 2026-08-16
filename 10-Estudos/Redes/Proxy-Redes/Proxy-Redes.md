@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Proxy]]
 - [[CDN]]
-- [[Redes]]
 - [[Firewall]]
 
 [[Estudos-Redes]]

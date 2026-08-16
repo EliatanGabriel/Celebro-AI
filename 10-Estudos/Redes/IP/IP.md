@@ -15,6 +15,5 @@
 - [[TCP]]
 - [[Subnetting]]
 - [[DNS]]
-- [[Redes]]
 
 [[Estudos-Redes]]

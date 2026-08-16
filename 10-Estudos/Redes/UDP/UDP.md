@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[TCP]]
-- [[Redes]]
 - [[HTTP]]
 - [[Streaming]]
 

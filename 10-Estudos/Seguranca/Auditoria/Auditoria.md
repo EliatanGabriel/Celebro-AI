@@ -12,7 +12,6 @@
 - Compliance
 
 ## Relacionadas
-- [[Seguranca]]
 - [[Logging]]
 - [[RBAC]]
 - [[GDPR]]

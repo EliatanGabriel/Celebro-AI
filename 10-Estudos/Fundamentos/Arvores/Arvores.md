@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Grafos]]
 - [[Estruturas-de-Dados]]
-- [[Recursao]]
 - [[Algoritmos]]
 
 [[Fundamentos]]

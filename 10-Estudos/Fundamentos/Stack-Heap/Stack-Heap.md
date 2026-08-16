@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Memoria]]
-- [[Recursao]]
 - [[Ponteiros]]
 - [[Linguagens]]
 

@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Docker]]
 - [[Microservicos]]
-- [[Cloud]]
 - [[Alta-Disponibilidade]]
 
 [[Cloud-e-DevOps]]

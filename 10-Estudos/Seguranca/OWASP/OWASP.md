@@ -15,6 +15,5 @@
 - [[SQL-Injection]]
 - [[XSS]]
 - [[CSRF]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

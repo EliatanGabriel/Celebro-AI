@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[JavaScript]]
-- [[Interfaces-TS]]
 - [[Frontend]]
 - [[Componentes]]
 

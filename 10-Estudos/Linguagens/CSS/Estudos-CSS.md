@@ -12,10 +12,6 @@
 - Responsividade
 
 ## Relacionadas
-- [[HTML]]
 - [[Frontend]]
-- [[Responsividade]]
-- [[Layout]]
-- [[UI]]
 
 [[Linguagens]]

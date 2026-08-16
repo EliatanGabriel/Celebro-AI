@@ -12,7 +12,6 @@
 - Integrado a bundlers
 
 ## Relacionadas
-- [[CSS]]
 - [[Frontend]]
 - [[Sass]]
 - [[Componentes]]

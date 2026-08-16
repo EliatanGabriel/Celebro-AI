@@ -12,7 +12,6 @@
 - Trade-offs
 
 ## Relacionadas
-- [[Padroes-de-Projeto]]
 - [[Clean-Architecture]]
 - [[Microservicos]]
 - [[SOLID]]

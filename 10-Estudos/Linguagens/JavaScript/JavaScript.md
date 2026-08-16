@@ -16,6 +16,5 @@
 - [[Frontend]]
 - [[Node-js]]
 - [[DOM]]
-- [[HTML]]
 
 [[Linguagens]]

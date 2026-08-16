@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Privacidade]]
-- [[Seguranca]]
 - [[Auditoria]]
 - [[Dados]]
 

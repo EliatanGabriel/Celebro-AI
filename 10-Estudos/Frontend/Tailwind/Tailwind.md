@@ -12,9 +12,7 @@
 - Comunidade
 
 ## Relacionadas
-- [[CSS]]
 - [[Frontend]]
-- [[Layout]]
 - [[Componentes]]
 
 [[Frontend]]

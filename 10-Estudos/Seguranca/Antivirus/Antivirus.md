@@ -13,7 +13,6 @@
 
 ## Relacionadas
 - [[Ransomware]]
-- [[Seguranca]]
 - [[Patch]]
 - [[Sistemas]]
 

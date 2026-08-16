@@ -15,6 +15,5 @@
 - [[PostgreSQL]]
 - [[Firebase]]
 - [[Backend]]
-- [[SQL]]
 
 [[Bancos-de-Dados]]

@@ -12,7 +12,6 @@
 - Vault
 
 ## Relacionadas
-- [[Seguranca]]
 - [[DevOps]]
 - [[Env]]
 - [[Credenciais]]

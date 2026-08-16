@@ -12,9 +12,7 @@
 - Recuperação
 
 ## Relacionadas
-- [[Backup]]
 - [[Ransomware]]
 - [[Alta-Disponibilidade]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

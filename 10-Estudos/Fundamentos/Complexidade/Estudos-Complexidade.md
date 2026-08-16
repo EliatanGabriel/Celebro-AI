@@ -13,9 +13,6 @@
 
 ## Relacionadas
 - [[Fundamentos]]
-- [[Ordenacao]]
-- [[Recursao]]
 - [[Algoritmos]]
-- [[Lacos]]
 
 [[Fundamentos]]

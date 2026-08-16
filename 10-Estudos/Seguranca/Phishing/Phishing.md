@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Ataques]]
 - [[Ransomware]]
-- [[Seguranca]]
 - [[Engenharia-Social]]
 
 [[Estudos-Seguranca]]

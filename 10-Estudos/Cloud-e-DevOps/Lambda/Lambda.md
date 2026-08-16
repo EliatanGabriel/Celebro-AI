@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Serverless]]
 - [[AWS]]
-- [[Cloud]]
 - [[Backend]]
 
 [[Cloud-e-DevOps]]

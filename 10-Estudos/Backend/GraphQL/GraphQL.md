@@ -15,6 +15,5 @@
 - [[APIs]]
 - [[REST]]
 - [[Backend]]
-- [[Typescript]]
 
 [[Backend]]

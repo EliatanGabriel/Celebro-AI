@@ -14,6 +14,5 @@
 ## Relacionadas
 - [[gRPC]]
 - [[JSON]]
-- [[API-REST]]
 
 [[Ferramentas]]

@@ -12,9 +12,7 @@
 - Mobile/web
 
 ## Relacionadas
-- [[SQL]]
 - [[Bancos-de-Dados]]
 - [[Transactions]]
-- [[JOIN]]
 
 [[Bancos-de-Dados]]

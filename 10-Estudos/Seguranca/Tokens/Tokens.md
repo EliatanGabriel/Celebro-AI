@@ -15,6 +15,5 @@
 - [[JWT]]
 - [[Auth]]
 - [[Autenticacao]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

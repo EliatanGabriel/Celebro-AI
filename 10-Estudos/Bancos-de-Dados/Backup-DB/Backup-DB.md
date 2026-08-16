@@ -12,7 +12,6 @@
 - Off-site
 
 ## Relacionadas
-- [[Backup]]
 - [[Bancos-de-Dados]]
 - [[DevOps]]
 - [[Alta-Disponibilidade]]

@@ -15,6 +15,5 @@
 - [[Python]]
 - [[C++]]
 - [[Backend]]
-- [[POO]]
 
 [[Linguagens]]

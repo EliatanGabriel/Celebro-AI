@@ -12,7 +12,6 @@
 - Cache-like
 
 ## Relacionadas
-- [[Normalizacao]]
 - [[Indexes]]
 - [[Bancos-de-Dados]]
 - [[Caching]]

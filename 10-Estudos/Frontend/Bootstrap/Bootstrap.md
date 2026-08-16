@@ -12,9 +12,6 @@
 - Rápido
 
 ## Relacionadas
-- [[CSS]]
-- [[HTML]]
 - [[Frontend]]
-- [[Layout]]
 
 [[Frontend]]

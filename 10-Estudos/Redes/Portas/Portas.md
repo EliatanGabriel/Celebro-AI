@@ -15,6 +15,5 @@
 - [[Firewall]]
 - [[TCP]]
 - [[HTTP]]
-- [[Redes]]
 
 [[Estudos-Redes]]

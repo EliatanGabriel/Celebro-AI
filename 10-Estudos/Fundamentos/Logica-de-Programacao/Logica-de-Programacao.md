@@ -14,7 +14,6 @@
 ## Relacionadas
 - [[Logica]]
 - [[Algoritmos]]
-- [[Condicionais]]
 - [[Programacao]]
 
 [[Fundamentos]]

@@ -14,7 +14,5 @@
 ## Relacionadas
 - [[Antivirus]]
 - [[Phishing]]
-- [[Backup]]
-- [[Seguranca]]
 
 [[Estudos-Seguranca]]

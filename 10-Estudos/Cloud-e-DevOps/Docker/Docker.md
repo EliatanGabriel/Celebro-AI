@@ -15,6 +15,5 @@
 - [[Kubernetes]]
 - [[DevOps]]
 - [[CI-CD-Conceito]]
-- [[Cloud]]
 
 [[Cloud-e-DevOps]]

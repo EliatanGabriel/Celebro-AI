@@ -12,9 +12,7 @@
 - Proteção
 
 ## Relacionadas
-- [[Seguranca]]
 - [[VPN]]
-- [[Redes]]
 - [[Zero-Trust]]
 
 [[Estudos-Redes]]

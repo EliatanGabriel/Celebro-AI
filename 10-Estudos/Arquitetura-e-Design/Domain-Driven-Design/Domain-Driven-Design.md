@@ -15,6 +15,5 @@
 - [[Clean-Architecture]]
 - [[Microservicos]]
 - [[Arquitetura-de-Software]]
-- [[Requisitos]]
 
 [[Arquitetura-e-Design]]

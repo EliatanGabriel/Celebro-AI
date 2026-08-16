@@ -15,6 +15,5 @@
 - [[Load-Balancer]]
 - [[Sharding]]
 - [[Microservicos]]
-- [[Cloud]]
 
 [[Arquitetura-e-Design]]

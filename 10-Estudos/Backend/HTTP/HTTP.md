@@ -16,6 +16,5 @@
 - [[APIs]]
 - [[HTTPS]]
 - [[TLS]]
-- [[Status-Codes]]
 
 [[Backend]]
