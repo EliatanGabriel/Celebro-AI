@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Artigo-Carreira
 
 #area/referencias #conceito

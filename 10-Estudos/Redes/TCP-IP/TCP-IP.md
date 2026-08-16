@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # TCP-IP
 
 #area/estudos #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Comandos
 
 #area/sistema #conceito
@@ -14,5 +20,3 @@
 ## Relacionadas
 - [[Configuracoes]]
 - [[Sistema]]
-- [[Comandos]]
-

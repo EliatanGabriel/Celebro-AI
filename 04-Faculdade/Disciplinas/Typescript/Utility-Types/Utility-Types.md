@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Utility-Types
 
 #area/faculdade #conceito

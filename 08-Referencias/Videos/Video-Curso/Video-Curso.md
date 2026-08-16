@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Video-Curso
 
 #area/referencias #conceito

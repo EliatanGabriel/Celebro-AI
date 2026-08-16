@@ -1,3 +1,9 @@
+---
+type: moc
+area: trabalho
+status: active
+---
+
 # Bug-Report
 
 #area/trabalho #hub

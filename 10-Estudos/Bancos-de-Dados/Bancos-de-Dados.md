@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Bancos-de-Dados
 
 #area/estudos
@@ -19,10 +25,11 @@ Subárea de **Estudos**.
 - [[Migrations]]
 - [[Indexes]]
 - [[Transactions]]
-- 
 - [[Denormalizacao]]
 - [[Sharding]]
 - [[Replication]]
 - [[Backup-DB]]
 - [[NoSQL]]
+- [[Estudos-Normalizacao]]
+
 [[Estudos]]

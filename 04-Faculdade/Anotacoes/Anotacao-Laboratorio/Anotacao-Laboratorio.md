@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Anotacao-Laboratorio
 
 #area/faculdade #conceito

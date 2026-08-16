@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Metodo-GTD
 
 #area/sistema #conceito

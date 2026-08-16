@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Plano-de-vida
 
 #area/planejamento #conceito

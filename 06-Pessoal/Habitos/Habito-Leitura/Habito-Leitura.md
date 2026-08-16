@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Habito-Leitura
 
 #area/pessoal #conceito

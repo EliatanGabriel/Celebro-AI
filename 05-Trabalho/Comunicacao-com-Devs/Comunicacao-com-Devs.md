@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Comunicacao com Devs
 
 #area/trabalho #conceito

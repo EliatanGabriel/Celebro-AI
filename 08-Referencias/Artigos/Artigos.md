@@ -1,3 +1,9 @@
+---
+type: moc
+area: referencias
+status: active
+---
+
 # Artigos
 
 #area/referencias

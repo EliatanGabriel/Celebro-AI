@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Comunicacao-Serial
 
 #area/faculdade #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: reflexoes
+status: active
+---
+
 # Vergonha
 
 #area/reflexoes #conceito

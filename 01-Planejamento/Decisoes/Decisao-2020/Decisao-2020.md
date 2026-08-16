@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Decisao-2020
 
 #area/planejamento #conceito

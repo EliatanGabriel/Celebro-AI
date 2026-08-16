@@ -1,3 +1,9 @@
+---
+type: concept
+area: diario
+status: active
+---
+
 # Registro-Leitura
 
 #area/diario #conceito

@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Ferramentas
 
 #area/estudos
@@ -30,4 +36,10 @@ Subárea de **Estudos**.
 - [[Cron]]
 - [[Curl]]
 - [[Wget]]
+- [[Composer]]
+- [[Design]]
+- [[Editor]]
+- [[Mobile]]
+- [[Protocol-Buffers]]
+
 [[Estudos]]

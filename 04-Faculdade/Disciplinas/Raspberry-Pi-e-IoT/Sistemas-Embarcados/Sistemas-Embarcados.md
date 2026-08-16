@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Sistemas-Embarcados
 
 #area/faculdade #conceito

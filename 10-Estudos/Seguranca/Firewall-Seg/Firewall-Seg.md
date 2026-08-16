@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Firewall-Seg
 
 #area/estudos #conceito

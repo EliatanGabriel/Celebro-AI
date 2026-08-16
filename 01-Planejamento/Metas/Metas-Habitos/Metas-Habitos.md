@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Metas-Habitos
 
 #area/planejamento #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Inspiracao-Arte
 
 #area/referencias #conceito

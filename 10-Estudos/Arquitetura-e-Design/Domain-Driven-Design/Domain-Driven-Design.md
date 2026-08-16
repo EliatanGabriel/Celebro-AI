@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Domain-Driven-Design
 
 #area/estudos #conceito

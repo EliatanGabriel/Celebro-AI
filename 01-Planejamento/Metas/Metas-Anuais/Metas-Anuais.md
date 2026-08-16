@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Metas-Anuais
 
 #area/planejamento #conceito

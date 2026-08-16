@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Livro-Ficcao
 
 #area/referencias #conceito

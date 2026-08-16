@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Feedback
 
 #area/trabalho #conceito
@@ -15,6 +21,5 @@
 - [[Aprovacao]]
 - [[Checklist]]
 - [[Comunicacao-com-Devs]]
-- [[Feedback]]
 
 [[Trabalho]]

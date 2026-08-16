@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Metodo-2-minute
 
 #area/sistema #conceito

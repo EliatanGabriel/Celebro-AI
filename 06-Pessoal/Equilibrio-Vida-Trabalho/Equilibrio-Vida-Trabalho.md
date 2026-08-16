@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Equilibrio Vida Trabalho
 
 #area/pessoal #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Backup-Seg
 
 #area/estudos #conceito

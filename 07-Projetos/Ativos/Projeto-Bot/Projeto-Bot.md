@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Projeto-Bot
 
 #area/projetos #conceito

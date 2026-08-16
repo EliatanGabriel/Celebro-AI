@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Decisao-Relacionamento
 
 #area/planejamento #conceito

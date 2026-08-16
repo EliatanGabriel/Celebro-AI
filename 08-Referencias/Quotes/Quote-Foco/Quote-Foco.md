@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Quote-Foco
 
 #area/referencias #conceito

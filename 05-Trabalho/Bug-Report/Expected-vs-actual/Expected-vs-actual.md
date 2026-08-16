@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Expected-vs-actual
 
 #area/trabalho #conceito

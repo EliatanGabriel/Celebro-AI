@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Time-blocking
 
 #area/pessoal #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Renda-passiva
 
 #area/pessoal #conceito

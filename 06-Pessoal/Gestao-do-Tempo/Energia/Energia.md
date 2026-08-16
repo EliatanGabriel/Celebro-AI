@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Energia
 
 #area/pessoal #conceito
@@ -12,7 +18,7 @@
 - Descanso
 
 ## Relacionadas
-- [[Energia]]
+
 - [[Sono]]
 - [[Ritmo]]
 - [[Habito-Exercicio]]

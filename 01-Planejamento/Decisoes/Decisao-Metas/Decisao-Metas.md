@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Decisao-Metas
 
 #area/planejamento #conceito

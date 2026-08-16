@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Decisao-Investimento
 
 #area/planejamento #conceito

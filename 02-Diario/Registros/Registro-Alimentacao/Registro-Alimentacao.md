@@ -1,3 +1,9 @@
+---
+type: concept
+area: diario
+status: active
+---
+
 # Registro-Alimentacao
 
 #area/diario #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Hotkeys
 
 #area/sistema #conceito
@@ -15,5 +21,3 @@
 - [[Configuracoes]]
 - [[Atalhos]]
 - [[Sistema]]
-- [[Hotkeys]]
-

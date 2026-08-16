@@ -1,3 +1,9 @@
+---
+type: moc
+area: faculdade
+status: active
+---
+
 # Typescript
 
 #area/faculdade #hub

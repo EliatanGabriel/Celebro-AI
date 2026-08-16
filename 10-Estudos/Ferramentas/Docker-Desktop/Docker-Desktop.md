@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Docker-Desktop
 
 #area/estudos #conceito

@@ -1,3 +1,9 @@
+---
+type: moc
+area: trabalho
+status: active
+---
+
 # API-REST
 
 #area/trabalho #hub

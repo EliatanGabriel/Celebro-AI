@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Metas-Semestrais
 
 #area/planejamento #conceito

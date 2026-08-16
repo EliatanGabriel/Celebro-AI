@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Revisao-Out-2026
 
 #area/planejamento #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Decisao-Financeira
 
 #area/planejamento #conceito

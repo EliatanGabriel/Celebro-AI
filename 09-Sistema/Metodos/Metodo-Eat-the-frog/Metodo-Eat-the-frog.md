@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Metodo-Eat-the-frog
 
 #area/sistema #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Ambiente Local Laravel Vite
 
 #area/trabalho #conceito

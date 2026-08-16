@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Tipos-de-Dados
 
 #area/estudos #conceito

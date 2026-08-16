@@ -1,3 +1,9 @@
+---
+type: moc
+area: faculdade
+status: active
+---
+
 # Arduino
 
 #area/faculdade #hub

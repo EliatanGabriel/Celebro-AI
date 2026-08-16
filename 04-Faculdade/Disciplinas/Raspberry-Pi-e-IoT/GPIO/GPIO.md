@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # GPIO
 
 #area/faculdade #conceito

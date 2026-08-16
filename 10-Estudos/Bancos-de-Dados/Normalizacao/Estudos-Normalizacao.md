@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Normalizacao
 
 #area/estudos #conceito

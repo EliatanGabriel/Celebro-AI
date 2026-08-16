@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Getting-things-done
 
 #area/pessoal #conceito

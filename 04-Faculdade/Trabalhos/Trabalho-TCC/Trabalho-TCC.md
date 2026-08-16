@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Trabalho-TCC
 
 #area/faculdade #conceito

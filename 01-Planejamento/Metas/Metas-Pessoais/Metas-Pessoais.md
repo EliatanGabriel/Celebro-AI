@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Metas-Pessoais
 
 #area/planejamento #conceito

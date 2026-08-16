@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Frontend
 
 #area/estudos
@@ -25,9 +31,10 @@ Subárea de **Estudos**.
 - [[Hooks]]
 - [[DOM]]
 - [[Eventos]]
-- 
-- 
 - [[SEO]]
 - [[Performance-Frontend]]
 - [[PWA]]
+- [[Estudos-Acessibilidade]]
+- [[Estudos-Responsividade]]
+
 [[Estudos]]

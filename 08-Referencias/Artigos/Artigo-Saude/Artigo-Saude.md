@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Artigo-Saude
 
 #area/referencias #conceito

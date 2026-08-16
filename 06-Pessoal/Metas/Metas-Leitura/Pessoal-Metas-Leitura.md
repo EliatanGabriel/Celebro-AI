@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Metas-Leitura
 
 #area/pessoal #conceito

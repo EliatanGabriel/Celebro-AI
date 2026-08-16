@@ -1,3 +1,9 @@
+---
+type: concept
+area: reflexoes
+status: active
+---
+
 # Pensamento-1
 
 #area/reflexoes #conceito

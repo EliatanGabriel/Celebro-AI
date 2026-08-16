@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Roadmap-2026
 
 #area/projetos #conceito

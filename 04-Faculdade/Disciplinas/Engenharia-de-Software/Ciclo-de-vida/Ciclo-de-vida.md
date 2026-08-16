@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Ciclo-de-vida
 
 #area/faculdade #conceito

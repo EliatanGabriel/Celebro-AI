@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Prova-Algoritmos
 
 #area/faculdade #conceito

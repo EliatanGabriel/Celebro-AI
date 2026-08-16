@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Anotacao-Trabalho
 
 #area/faculdade #conceito

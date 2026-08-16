@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Roadmap-Carreira
 
 #area/projetos #conceito

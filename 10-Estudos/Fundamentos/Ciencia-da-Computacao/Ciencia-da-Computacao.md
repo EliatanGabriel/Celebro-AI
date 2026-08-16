@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Ciência-da-Computacao
 
 #area/estudos #conceito

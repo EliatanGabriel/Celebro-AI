@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Nuvem-IoT
 
 #area/faculdade #conceito

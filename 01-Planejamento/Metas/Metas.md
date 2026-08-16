@@ -1,3 +1,9 @@
+---
+type: moc
+area: planejamento
+status: active
+---
+
 # Metas
 
 #area/planejamento

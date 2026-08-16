@@ -1,3 +1,9 @@
+---
+type: concept
+area: reflexoes
+status: active
+---
+
 # Gratidao-2026
 
 #area/reflexoes #conceito

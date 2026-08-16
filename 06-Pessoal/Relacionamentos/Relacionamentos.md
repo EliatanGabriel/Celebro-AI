@@ -1,3 +1,9 @@
+---
+type: moc
+area: pessoal
+status: active
+---
+
 # Relacionamentos
 
 #area/pessoal #conceito
@@ -17,4 +23,11 @@
 - [[Parceiro]]
 - [[Pessoal]]
 
-[[Relacionamentos]]
+## Notas
+- [[Agradecimentos]]
+- [[Colegas]]
+- [[Conversas-importantes]]
+- [[Networking]]
+- [[Pessoal-Eventos]]
+
+[[Pessoal]]

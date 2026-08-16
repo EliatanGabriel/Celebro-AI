@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Podcast-Tech
 
 #area/referencias #conceito

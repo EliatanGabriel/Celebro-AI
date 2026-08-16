@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Aprendizado Continuo
 
 #area/pessoal #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Minimalismo Digital
 
 #area/pessoal #conceito

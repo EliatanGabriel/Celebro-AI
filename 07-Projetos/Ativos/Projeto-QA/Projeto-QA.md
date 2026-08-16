@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Projeto-QA
 
 #area/projetos #conceito

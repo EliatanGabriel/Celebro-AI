@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Exames-2026
 
 #area/pessoal #conceito

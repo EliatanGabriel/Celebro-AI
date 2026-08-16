@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Anotacao-Musica
 
 #area/pessoal #conceito

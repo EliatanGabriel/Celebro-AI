@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Deadlines
 
 #area/pessoal #conceito
@@ -14,6 +20,5 @@
 ## Relacionadas
 - [[Planejamento-semanal]]
 - [[Gestao-do-Tempo]]
-- [[Deadlines]]
 
 [[Pessoal]]

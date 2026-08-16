@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Linguagens
 
 #area/estudos
@@ -18,9 +24,6 @@ Subárea de **Estudos**.
 - [[PHP]]
 - [[Swift]]
 - [[Kotlin]]
-- 
-- 
-- 
 - [[Shell]]
 - [[Bash]]
 - [[PowerShell]]
@@ -30,4 +33,8 @@ Subárea de **Estudos**.
 - [[Scala]]
 - [[Perl]]
 - [[Assembly]]
+- [[Estudos-CSS]]
+- [[Estudos-HTML]]
+- [[Estudos-SQL]]
+
 [[Estudos]]

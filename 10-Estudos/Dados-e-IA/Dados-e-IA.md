@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Dados-e-IA
 
 #area/estudos
@@ -30,4 +36,8 @@ Subárea de **Estudos**.
 - [[Agentes-IA]]
 - [[BI]]
 - [[ETL]]
+- [[IA]]
+- [[K-means]]
+- [[Modelos]]
+
 [[Estudos]]

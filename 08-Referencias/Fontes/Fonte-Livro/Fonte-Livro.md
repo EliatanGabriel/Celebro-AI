@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Fonte-Livro
 
 #area/referencias #conceito

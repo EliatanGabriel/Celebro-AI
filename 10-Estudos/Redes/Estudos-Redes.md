@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Redes
 
 #area/estudos
@@ -30,4 +36,13 @@ Subárea de **Estudos**.
 - [[ICMP]]
 - [[Wi-Fi]]
 - [[5G]]
+- [[Diagnostico]]
+- [[Dispositivos]]
+- [[Ethernet]]
+- [[IoT]]
+- [[Navegacao]]
+- [[Protocolos]]
+- [[Sockets]]
+- [[Streaming]]
+
 [[Estudos]]

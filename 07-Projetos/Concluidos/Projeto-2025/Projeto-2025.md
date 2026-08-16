@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Projeto-2025
 
 #area/projetos #conceito

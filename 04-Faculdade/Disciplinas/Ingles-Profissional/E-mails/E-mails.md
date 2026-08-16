@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # E-mails
 
 #area/faculdade #conceito

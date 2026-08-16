@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Planejamento-diario
 
 #area/pessoal #conceito

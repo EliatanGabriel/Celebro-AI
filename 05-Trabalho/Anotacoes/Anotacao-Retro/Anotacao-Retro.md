@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Anotacao-Retro
 
 #area/trabalho #conceito

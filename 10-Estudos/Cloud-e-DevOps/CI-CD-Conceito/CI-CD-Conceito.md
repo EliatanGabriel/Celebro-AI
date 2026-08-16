@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # CI-CD-Conceito
 
 #area/estudos #conceito

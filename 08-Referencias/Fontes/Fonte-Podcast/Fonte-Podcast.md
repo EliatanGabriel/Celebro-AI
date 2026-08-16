@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Fonte-Podcast
 
 #area/referencias #conceito

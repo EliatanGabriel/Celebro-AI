@@ -1,3 +1,9 @@
+---
+type: moc
+area: diario
+status: active
+---
+
 # Anotações-Livres
 
 #area/diario
@@ -16,4 +22,6 @@ Subárea de **Diario**.
 - [[Anotacao-Ideia]]
 - [[Anotacao-Sonho]]
 - [[Anotacao-Filme]]
+- [[Diario-Anotacao-Aula]]
+
 [[Diario]]

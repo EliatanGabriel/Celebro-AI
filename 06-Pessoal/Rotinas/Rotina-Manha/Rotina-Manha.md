@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Rotina-Manha
 
 #area/pessoal #conceito

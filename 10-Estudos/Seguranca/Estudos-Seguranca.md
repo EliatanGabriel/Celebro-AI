@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Seguranca
 
 #area/estudos
@@ -29,4 +35,12 @@ Subárea de **Estudos**.
 - [[Auditoria]]
 - [[GDPR]]
 - [[Backup-Seg]]
+- [[Credenciais]]
+- [[Dados]]
+- [[Engenharia-Social]]
+- [[Env]]
+- [[MFA]]
+- [[Privacidade]]
+- [[Senhas]]
+
 [[Estudos]]

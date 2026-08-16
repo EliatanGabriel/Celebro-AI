@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Moodboard-Trabalho
 
 #area/referencias #conceito

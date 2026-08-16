@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Projetos-IoT
 
 #area/faculdade #conceito

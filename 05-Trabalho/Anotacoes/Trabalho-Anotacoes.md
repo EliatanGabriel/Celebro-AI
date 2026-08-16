@@ -1,3 +1,9 @@
+---
+type: moc
+area: trabalho
+status: active
+---
+
 # Trabalho-Anotacoes
 
 #area/trabalho
@@ -14,5 +20,6 @@ Subárea de **Trabalho**.
 - [[Anotacao-Dica]]
 - [[Anotacao-Cli]]
 - [[Anotacao-Doc]]
+- [[Trabalho-Anotacao-Reuniao]]
 
 [[Trabalho]]

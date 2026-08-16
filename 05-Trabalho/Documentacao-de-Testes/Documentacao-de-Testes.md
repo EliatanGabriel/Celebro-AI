@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Documentacao de Testes
 
 #area/trabalho #conceito

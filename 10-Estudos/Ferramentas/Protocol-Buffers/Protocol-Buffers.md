@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Protocol-Buffers
 
 #area/estudos #conceito

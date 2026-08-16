@@ -1,3 +1,9 @@
+---
+type: concept
+area: reflexoes
+status: active
+---
+
 # Aprendizados
 
 #area/reflexoes #conceito
@@ -12,7 +18,7 @@
 - Compartilhar
 
 ## Relacionadas
-- [[Lições-de-vida]]
+- [[Licoes-de-vida]]
 - [[Autoconhecimento]]
 - [[Reflexoes-Reflexoes]]
 - [[Momentos-marcantes]]

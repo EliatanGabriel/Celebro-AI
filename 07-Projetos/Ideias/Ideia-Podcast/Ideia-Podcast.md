@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Ideia-Podcast
 
 #area/projetos #conceito

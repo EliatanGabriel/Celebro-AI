@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Ideia-App
 
 #area/projetos #conceito

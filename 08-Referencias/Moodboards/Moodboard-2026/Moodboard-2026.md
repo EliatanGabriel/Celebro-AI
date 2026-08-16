@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Moodboard-2026
 
 #area/referencias #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Podcast-Carreira
 
 #area/referencias #conceito

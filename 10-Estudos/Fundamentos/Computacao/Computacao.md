@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Computacao
 
 #area/estudos #conceito
@@ -14,6 +20,6 @@
 ## Relacionadas
 - [[Teoria-da-Computacao]]
 - [[Algoritmos]]
-- [[Ciência-da-Computacao]]
+- [[Ciencia-da-Computacao]]
 
 [[Fundamentos]]

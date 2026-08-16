@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # SQL-Injection
 
 #area/estudos #conceito

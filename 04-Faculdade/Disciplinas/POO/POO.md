@@ -1,6 +1,6 @@
 ---
-type: concept
-area: computacao
+type: moc
+area: faculdade
 status: active
 ---
 
@@ -8,5 +8,18 @@ status: active
 
 #area/faculdade
 
-Nota de conceito sobre **POO**.
+Subárea de **Faculdade**.
+
+## Notas
+- [[Abstracao]]
+- [[Classes]]
+- [[Composicao]]
+- [[Construtores]]
+- [[Encapsulamento]]
+- [[Faculdade-Metodos]]
+- [[Heranca]]
+- [[Interfaces]]
+- [[Objetos]]
+- [[Polimorfismo]]
+
 [[Disciplinas]]

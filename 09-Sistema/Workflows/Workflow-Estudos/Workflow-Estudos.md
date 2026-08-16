@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Workflow-Estudos
 
 #area/sistema #conceito

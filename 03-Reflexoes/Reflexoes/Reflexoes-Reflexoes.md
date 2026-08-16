@@ -1,3 +1,9 @@
+---
+type: moc
+area: reflexoes
+status: active
+---
+
 # Reflexoes-Reflexoes
 
 #area/reflexoes
@@ -7,8 +13,8 @@ Subárea de **Reflexoes**.
 ## Notas
 - [[Aprendizados]]
 - [[Autoconhecimento]]
-- [[Propósito]]
-- [[Lições-de-vida]]
+- [[Proposito]]
+- [[Licoes-de-vida]]
 - [[Momentos-marcantes]]
 - [[Dificuldades]]
 - [[Superacao]]

@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Metas-Estagio
 
 #area/faculdade #conceito

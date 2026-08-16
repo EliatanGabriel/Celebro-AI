@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Event-Driven
 
 #area/estudos #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Caso de Teste
 
 #area/trabalho #conceito

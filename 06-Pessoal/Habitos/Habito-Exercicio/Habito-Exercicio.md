@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Habito-Exercicio
 
 #area/pessoal #conceito

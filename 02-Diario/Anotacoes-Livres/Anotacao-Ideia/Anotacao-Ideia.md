@@ -1,3 +1,9 @@
+---
+type: concept
+area: diario
+status: active
+---
+
 # Anotacao-Ideia
 
 #area/diario #conceito
@@ -12,9 +18,9 @@
 - Ações
 
 ## Relacionadas
-- [[Anotações-Livres]]
+- [[Anotacoes-Livres]]
 - [[Registro-Anotacoes]]
-- [[Anotacao-Ideia]]
+
 - [[Diario]]
 
 [[Diario]]

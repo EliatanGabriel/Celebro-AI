@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Quote-Criatividade
 
 #area/referencias #conceito

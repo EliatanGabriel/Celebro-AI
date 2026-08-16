@@ -1,3 +1,9 @@
+---
+type: moc
+area: faculdade
+status: active
+---
+
 # Raspberry-Pi-e-IoT
 
 #area/faculdade #hub

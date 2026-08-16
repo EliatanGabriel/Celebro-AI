@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Multi-tarefas
 
 #area/pessoal #conceito

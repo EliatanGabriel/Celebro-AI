@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Reuniao-Cliente
 
 #area/trabalho #conceito

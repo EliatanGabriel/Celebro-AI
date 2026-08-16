@@ -1,3 +1,9 @@
+---
+type: moc
+area: reflexoes
+status: active
+---
+
 # Pensamentos
 
 #area/reflexoes

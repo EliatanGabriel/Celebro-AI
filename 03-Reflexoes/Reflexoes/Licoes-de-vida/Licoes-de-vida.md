@@ -1,3 +1,9 @@
+---
+type: concept
+area: reflexoes
+status: active
+---
+
 # Lições-de-vida
 
 #area/reflexoes #conceito

@@ -1,12 +1,26 @@
 ---
-type: concept
-area: computacao
+type: moc
+area: faculdade
 status: active
 ---
 
 # Algoritmo e Lógica de Programação
 
-#area/faculdade #conceito
+#area/faculdade
 
-Nota de conceito sobre **Algoritmo e Lógica de Programação**.
+Subárea de **Faculdade**.
+
+## Notas
+- [[Busca]]
+- [[Complexidade]]
+- [[Condicionais]]
+- [[Funcoes]]
+- [[Lacos]]
+- [[Matrizes]]
+- [[Ordenacao]]
+- [[Recursao]]
+- [[Tipos-de-dados]]
+- [[Variaveis]]
+- [[Vetores]]
+
 [[Disciplinas]]

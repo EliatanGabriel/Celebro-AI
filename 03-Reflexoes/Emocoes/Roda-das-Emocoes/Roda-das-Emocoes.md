@@ -1,3 +1,9 @@
+---
+type: concept
+area: reflexoes
+status: active
+---
+
 # Roda-das-Emocoes
 
 #area/reflexoes #conceito

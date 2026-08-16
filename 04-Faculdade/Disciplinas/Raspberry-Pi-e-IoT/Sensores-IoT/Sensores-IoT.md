@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Sensores-IoT
 
 #area/faculdade #conceito

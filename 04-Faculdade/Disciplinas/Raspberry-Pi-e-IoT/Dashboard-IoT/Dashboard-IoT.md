@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Dashboard-IoT
 
 #area/faculdade #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Foco
 
 #area/planejamento #conceito
@@ -13,7 +19,6 @@
 
 ## Relacionadas
 - [[Prioridades]]
-- [[Foco]]
+
 - [[Proposito]]
 - [[Plano-de-vida]]
-

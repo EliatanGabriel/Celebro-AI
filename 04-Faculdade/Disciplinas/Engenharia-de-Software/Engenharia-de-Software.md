@@ -1,6 +1,6 @@
 ---
-type: concept
-area: computacao
+type: moc
+area: faculdade
 status: active
 ---
 
@@ -8,5 +8,18 @@ status: active
 
 #area/faculdade
 
-Nota de conceito sobre **Engenharia de Software**.
+Subárea de **Faculdade**.
+
+## Notas
+- [[Arquitetura]]
+- [[CI-CD]]
+- [[Ciclo-de-vida]]
+- [[Documentacao]]
+- [[Metodologias-Ageis]]
+- [[Padroes-de-Projeto]]
+- [[Qualidade]]
+- [[Requisitos]]
+- [[Testes]]
+- [[Versionamento]]
+
 [[Disciplinas]]

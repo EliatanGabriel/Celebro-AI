@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Alta-Disponibilidade
 
 #area/estudos #conceito

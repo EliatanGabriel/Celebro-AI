@@ -1,3 +1,9 @@
+---
+type: moc
+area: sistema
+status: active
+---
+
 # Workflows
 
 #area/sistema

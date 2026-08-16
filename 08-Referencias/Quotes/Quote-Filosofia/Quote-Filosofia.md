@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Quote-Filosofia
 
 #area/referencias #conceito

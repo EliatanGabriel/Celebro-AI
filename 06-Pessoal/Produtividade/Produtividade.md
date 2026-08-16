@@ -1,3 +1,9 @@
+---
+type: moc
+area: pessoal
+status: active
+---
+
 # Produtividade
 
 #area/pessoal #conceito
@@ -16,4 +22,14 @@
 - [[Getting-things-done]]
 - [[Pessoal]]
 
-[[Produtividade]]
+## Notas
+- [[Deep-work]]
+- [[Eisenhower]]
+- [[Flow]]
+- [[Habitos-produtivos]]
+- [[Kanban-pessoal]]
+- [[Pessoal-Foco]]
+- [[Procastinacao]]
+- [[Time-blocking]]
+
+[[Pessoal]]

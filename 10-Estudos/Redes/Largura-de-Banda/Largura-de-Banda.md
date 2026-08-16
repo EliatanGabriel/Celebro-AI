@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Largura-de-Banda
 
 #area/estudos #conceito

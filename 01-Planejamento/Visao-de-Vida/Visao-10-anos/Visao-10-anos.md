@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Visao-10-anos
 
 #area/planejamento #conceito

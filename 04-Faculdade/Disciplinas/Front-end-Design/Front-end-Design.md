@@ -1,3 +1,9 @@
+---
+type: moc
+area: faculdade
+status: active
+---
+
 # Front-end-Design
 
 #area/faculdade #hub

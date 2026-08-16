@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Dashboard-Estudos
 
 #area/sistema #conceito

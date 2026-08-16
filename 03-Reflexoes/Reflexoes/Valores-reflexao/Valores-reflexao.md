@@ -1,3 +1,9 @@
+---
+type: concept
+area: reflexoes
+status: active
+---
+
 # Valores-reflexao
 
 #area/reflexoes #conceito

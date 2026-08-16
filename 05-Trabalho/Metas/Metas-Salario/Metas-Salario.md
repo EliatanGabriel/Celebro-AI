@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Metas-Salario
 
 #area/trabalho #conceito

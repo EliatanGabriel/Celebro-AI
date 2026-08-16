@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Quote-Resiliencia
 
 #area/referencias #conceito

@@ -1,3 +1,9 @@
+---
+type: moc
+area: pessoal
+status: active
+---
+
 # Saude e Exercicio
 
 #area/pessoal #conceito
@@ -17,4 +23,13 @@
 - [[Descanso]]
 - [[Pessoal]]
 
-[[Saude-e-Exercicio]]
+## Notas
+- [[Acompanhamento]]
+- [[Alongamento]]
+- [[Cardio]]
+- [[Hidratacao]]
+- [[Mobilidade]]
+- [[Musculacao]]
+- [[Postura]]
+
+[[Pessoal]]

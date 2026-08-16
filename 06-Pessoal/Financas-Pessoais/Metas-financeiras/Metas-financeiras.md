@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Metas-financeiras
 
 #area/pessoal #conceito

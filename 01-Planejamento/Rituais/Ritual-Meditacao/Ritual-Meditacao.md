@@ -1,3 +1,9 @@
+---
+type: concept
+area: planejamento
+status: active
+---
+
 # Ritual-Meditacao
 
 #area/planejamento #conceito

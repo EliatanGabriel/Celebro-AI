@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Livro-Biografia
 
 #area/referencias #conceito

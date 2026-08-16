@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Metas-Mensais
 
 #area/pessoal #conceito

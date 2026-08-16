@@ -1,3 +1,9 @@
+---
+type: moc
+area: trabalho
+status: active
+---
+
 # CI/CD
 
 #area/trabalho #hub
@@ -12,6 +18,9 @@ Subárea de **Trabalho** com integração e entrega contínuas.
 - [[Producao]]
 - [[Rollback]]
 - [[Staging]]
+- [[Trabalho-GitHub-Actions]]
+- [[Trabalho-Jenkins]]
+- [[Trabalho-Pipeline]]
 
 ## Conexões
 - [[Trabalho]]

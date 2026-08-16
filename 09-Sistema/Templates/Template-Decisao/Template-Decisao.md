@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Template-Decisao
 
 #area/sistema #conceito

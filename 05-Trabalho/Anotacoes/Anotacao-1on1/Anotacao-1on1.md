@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Anotacao-1on1
 
 #area/trabalho #conceito

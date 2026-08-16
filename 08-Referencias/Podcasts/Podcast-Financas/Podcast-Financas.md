@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Podcast-Financas
 
 #area/referencias #conceito

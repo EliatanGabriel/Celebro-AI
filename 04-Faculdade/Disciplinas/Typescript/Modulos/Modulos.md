@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Modulos
 
 #area/faculdade #conceito
@@ -12,7 +18,7 @@
 - Árvore
 
 ## Relacionadas
-- [[Modulos]]
+
 - [[Compilacao]]
 - [[Tipagem]]
 - [[Classes-TS]]

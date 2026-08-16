@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Prova-1-Semestre
 
 #area/faculdade #conceito

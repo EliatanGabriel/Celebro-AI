@@ -1,3 +1,9 @@
+---
+type: moc
+area: trabalho
+status: active
+---
+
 # Testes-Automatizados
 
 #area/trabalho #hub

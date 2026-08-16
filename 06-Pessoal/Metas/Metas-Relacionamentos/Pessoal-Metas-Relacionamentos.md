@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Metas-Relacionamentos
 
 #area/pessoal #conceito

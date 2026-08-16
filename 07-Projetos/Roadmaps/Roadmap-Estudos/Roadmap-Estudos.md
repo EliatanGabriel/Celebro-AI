@@ -1,3 +1,9 @@
+---
+type: concept
+area: projetos
+status: active
+---
+
 # Roadmap-Estudos
 
 #area/projetos #conceito

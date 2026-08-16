@@ -1,3 +1,9 @@
+---
+type: concept
+area: sistema
+status: active
+---
+
 # Workflow-Captura
 
 #area/sistema #conceito

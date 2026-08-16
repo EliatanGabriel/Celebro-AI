@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Redis-DB
 
 #area/estudos #conceito

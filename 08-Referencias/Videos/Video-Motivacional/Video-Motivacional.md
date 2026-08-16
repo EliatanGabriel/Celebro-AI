@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Video-Motivacional
 
 #area/referencias #conceito

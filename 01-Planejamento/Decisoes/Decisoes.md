@@ -1,3 +1,9 @@
+---
+type: moc
+area: planejamento
+status: active
+---
+
 # Decisoes
 
 #area/planejamento

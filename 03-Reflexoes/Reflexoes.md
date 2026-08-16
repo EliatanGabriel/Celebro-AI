@@ -1,6 +1,6 @@
 ---
 type: hub
-area: reflexões
+area: reflexoes
 status: active
 ---
 

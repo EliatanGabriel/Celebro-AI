@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Saude-mental
 
 #area/pessoal #conceito

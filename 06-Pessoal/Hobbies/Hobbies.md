@@ -1,3 +1,9 @@
+---
+type: moc
+area: pessoal
+status: active
+---
+
 # Hobbies
 
 #area/pessoal

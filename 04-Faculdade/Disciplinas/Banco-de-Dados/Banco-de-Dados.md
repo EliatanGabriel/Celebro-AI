@@ -1,6 +1,6 @@
 ---
-type: concept
-area: computacao
+type: moc
+area: faculdade
 status: active
 ---
 
@@ -8,5 +8,18 @@ status: active
 
 #area/faculdade
 
-Nota de conceito sobre **Banco de Dados**.
+Subárea de **Faculdade**.
+
+## Notas
+- [[Chaves]]
+- [[Indices]]
+- [[JOIN]]
+- [[Modelagem-ER]]
+- [[Normalizacao]]
+- [[Procedures]]
+- [[SQL]]
+- [[Transacoes]]
+- [[Triggers]]
+- [[Views]]
+
 [[Disciplinas]]

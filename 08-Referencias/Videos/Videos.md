@@ -1,3 +1,9 @@
+---
+type: moc
+area: referencias
+status: active
+---
+
 # Videos
 
 #area/referencias

@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Apresentacoes
 
 #area/faculdade #conceito

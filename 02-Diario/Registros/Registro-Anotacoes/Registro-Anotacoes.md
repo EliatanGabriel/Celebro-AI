@@ -1,3 +1,9 @@
+---
+type: concept
+area: diario
+status: active
+---
+
 # Registro-Anotacoes
 
 #area/diario #conceito
@@ -13,6 +19,5 @@
 
 ## Relacionadas
 - [[Registros]]
-- [[Registro-Anotacoes]]
 
 [[Diario]]

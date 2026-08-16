@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Livro-Dev
 
 #area/referencias #conceito

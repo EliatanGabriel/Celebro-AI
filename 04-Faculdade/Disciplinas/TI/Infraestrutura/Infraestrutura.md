@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Infraestrutura
 
 #area/faculdade #conceito

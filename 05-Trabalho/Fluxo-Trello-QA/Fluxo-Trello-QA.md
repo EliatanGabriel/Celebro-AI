@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Fluxo Trello QA
 
 #area/trabalho #conceito

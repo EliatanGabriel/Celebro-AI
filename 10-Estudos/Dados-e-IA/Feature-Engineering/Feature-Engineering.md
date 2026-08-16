@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Feature-Engineering
 
 #area/estudos #conceito

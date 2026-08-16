@@ -1,3 +1,9 @@
+---
+type: moc
+area: planejamento
+status: active
+---
+
 # Visao-de-Vida
 
 #area/planejamento

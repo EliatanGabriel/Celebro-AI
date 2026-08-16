@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Padroes-de-Projeto
 
 #area/faculdade #conceito

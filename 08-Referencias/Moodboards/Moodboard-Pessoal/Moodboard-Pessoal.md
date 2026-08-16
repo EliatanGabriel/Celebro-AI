@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Moodboard-Pessoal
 
 #area/referencias #conceito

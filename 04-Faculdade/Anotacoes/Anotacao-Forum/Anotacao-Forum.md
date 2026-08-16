@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Anotacao-Forum
 
 #area/faculdade #conceito

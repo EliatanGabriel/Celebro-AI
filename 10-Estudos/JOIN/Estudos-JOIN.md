@@ -1,6 +1,6 @@
 ---
 type: concept
-area: computacao
+area: estudos
 status: active
 ---
 

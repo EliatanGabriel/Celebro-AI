@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Programacao-Procedural
 
 #area/estudos #conceito

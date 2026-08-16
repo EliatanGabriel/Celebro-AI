@@ -1,3 +1,9 @@
+---
+type: concept
+area: diario
+status: active
+---
+
 # Modelo-Daily-Notes
 
 #area/diario #conceito

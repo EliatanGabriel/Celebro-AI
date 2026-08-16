@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Anotacao-Filme
 
 #area/pessoal #conceito

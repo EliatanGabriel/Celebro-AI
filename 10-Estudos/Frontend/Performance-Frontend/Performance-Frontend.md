@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Performance-Frontend
 
 #area/estudos #conceito

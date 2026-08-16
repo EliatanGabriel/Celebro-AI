@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # DNS
 
 #area/estudos #conceito
@@ -14,6 +20,6 @@
 ## Relacionadas
 - [[HTTP]]
 - [[IP]]
-- [[Navegação]]
+- [[Navegacao]]
 
 [[Estudos-Redes]]

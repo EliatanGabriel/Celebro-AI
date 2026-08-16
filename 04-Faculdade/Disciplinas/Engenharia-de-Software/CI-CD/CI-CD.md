@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # CI-CD
 
 #area/faculdade #conceito

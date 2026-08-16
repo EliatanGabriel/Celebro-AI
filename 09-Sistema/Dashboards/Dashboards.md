@@ -1,3 +1,9 @@
+---
+type: moc
+area: sistema
+status: active
+---
+
 # Dashboards
 
 #area/sistema

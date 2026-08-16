@@ -1,5 +1,5 @@
 ---
-type: concept
+type: moc
 area: pessoal
 status: active
 ---
@@ -8,5 +8,18 @@ status: active
 
 #area/pessoal
 
-Nota de conceito sobre **Financas Pessoais**.
+Subárea de **Pessoal**.
+
+## Notas
+- [[Cartao]]
+- [[Dividas]]
+- [[Emergencia]]
+- [[Impostos]]
+- [[Investimentos]]
+- [[Metas-financeiras]]
+- [[Orcamento]]
+- [[Poupanca]]
+- [[Renda]]
+- [[Renda-passiva]]
+
 [[Pessoal]]

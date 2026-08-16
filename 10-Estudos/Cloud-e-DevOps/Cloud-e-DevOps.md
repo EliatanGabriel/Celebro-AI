@@ -1,3 +1,9 @@
+---
+type: moc
+area: estudos
+status: active
+---
+
 # Cloud-e-DevOps
 
 #area/estudos
@@ -30,4 +36,6 @@ Subárea de **Estudos**.
 - [[Alerting]]
 - [[IaC]]
 - [[Pipeline]]
+- [[Containers]]
+
 [[Estudos]]

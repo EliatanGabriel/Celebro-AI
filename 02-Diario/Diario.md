@@ -13,7 +13,7 @@ Memória, daily notes, diário e registros do dia a dia.
 ## Subáreas
 - [[Daily-Notes]]
 - [[Registros]]
-- [[Anotações-Livres]]
+- [[Anotacoes-Livres]]
 
 ## Conexões
 - [[Home]]

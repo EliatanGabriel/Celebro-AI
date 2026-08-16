@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Planejamento-semanal
 
 #area/pessoal #conceito

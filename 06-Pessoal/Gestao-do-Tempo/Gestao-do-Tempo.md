@@ -1,3 +1,9 @@
+---
+type: moc
+area: pessoal
+status: active
+---
+
 # Gestao do Tempo
 
 #area/pessoal #conceito
@@ -16,4 +22,15 @@
 - [[Pomodoro]]
 - [[Pessoal]]
 
-[[Gestao-do-Tempo]]
+## Notas
+- [[Agenda]]
+- [[Deadlines]]
+- [[Delegacao]]
+- [[Energia]]
+- [[Multi-tarefas]]
+- [[Pessoal-Prioridades]]
+- [[Planejamento-semanal]]
+- [[Revisao]]
+- [[Ritmo]]
+
+[[Pessoal]]

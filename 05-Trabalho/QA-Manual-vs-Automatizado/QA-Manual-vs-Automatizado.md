@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # QA Manual vs Automatizado
 
 #area/trabalho #conceito

@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Tipos-de-dados
 
 #area/faculdade #conceito

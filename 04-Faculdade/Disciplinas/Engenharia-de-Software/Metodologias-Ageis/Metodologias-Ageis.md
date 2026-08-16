@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Metodologias-Ageis
 
 #area/faculdade #conceito

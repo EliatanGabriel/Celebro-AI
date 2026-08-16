@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Rotina-Domingo
 
 #area/pessoal #conceito

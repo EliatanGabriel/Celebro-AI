@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Rate-Limiting
 
 #area/trabalho #conceito

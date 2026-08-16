@@ -1,3 +1,9 @@
+---
+type: moc
+area: diario
+status: active
+---
+
 # Registros
 
 #area/diario

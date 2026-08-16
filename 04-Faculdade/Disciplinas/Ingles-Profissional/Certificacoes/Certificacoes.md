@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Certificacoes
 
 #area/faculdade #conceito

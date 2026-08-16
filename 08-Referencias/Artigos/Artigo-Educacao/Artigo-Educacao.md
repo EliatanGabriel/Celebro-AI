@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Artigo-Educacao
 
 #area/referencias #conceito

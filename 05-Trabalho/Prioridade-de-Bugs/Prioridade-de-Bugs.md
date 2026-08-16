@@ -1,3 +1,9 @@
+---
+type: concept
+area: trabalho
+status: active
+---
+
 # Prioridade de Bugs
 
 #area/trabalho #conceito

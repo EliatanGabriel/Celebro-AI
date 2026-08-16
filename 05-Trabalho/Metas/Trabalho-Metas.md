@@ -1,3 +1,9 @@
+---
+type: moc
+area: trabalho
+status: active
+---
+
 # Trabalho-Metas
 
 #area/trabalho
@@ -11,5 +17,7 @@ Subárea de **Trabalho**.
 - [[Metas-Salario]]
 - [[Metas-Projetos-Trab]]
 - [[Metas-Leadership]]
+- [[Trabalho-Metas-Anuais]]
+- [[Trabalho-Metas-Habilidades]]
 
 [[Trabalho]]

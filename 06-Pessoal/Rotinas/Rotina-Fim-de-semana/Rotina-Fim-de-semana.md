@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Rotina-Fim-de-semana
 
 #area/pessoal #conceito

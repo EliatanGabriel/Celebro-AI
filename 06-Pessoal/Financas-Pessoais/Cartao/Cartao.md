@@ -1,3 +1,9 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
 # Cartao
 
 #area/pessoal #conceito
@@ -13,7 +19,7 @@
 
 ## Relacionadas
 - [[Orcamento]]
-- [[Dívidas]]
+- [[Dividas]]
 - [[Poupanca]]
 - [[Financas-Pessoais]]
 

@@ -1,3 +1,9 @@
+---
+type: concept
+area: estudos
+status: active
+---
+
 # Message-Queue
 
 #area/estudos #conceito

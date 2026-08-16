@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Metas-Semestre-1
 
 #area/faculdade #conceito

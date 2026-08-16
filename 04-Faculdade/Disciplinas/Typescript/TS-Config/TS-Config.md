@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # TS-Config
 
 #area/faculdade #conceito

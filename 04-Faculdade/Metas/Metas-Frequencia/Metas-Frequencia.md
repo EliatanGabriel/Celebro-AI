@@ -1,3 +1,9 @@
+---
+type: concept
+area: faculdade
+status: active
+---
+
 # Metas-Frequencia
 
 #area/faculdade #conceito

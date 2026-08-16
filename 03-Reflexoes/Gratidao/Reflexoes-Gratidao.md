@@ -1,3 +1,9 @@
+---
+type: moc
+area: reflexoes
+status: active
+---
+
 # Reflexoes-Gratidao
 
 #area/reflexoes

@@ -1,3 +1,9 @@
+---
+type: concept
+area: referencias
+status: active
+---
+
 # Inspiracao-Tech
 
 #area/referencias #conceito
