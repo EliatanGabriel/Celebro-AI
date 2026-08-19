@@ -2,6 +2,8 @@
 type: moc
 area: faculdade
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Provas
@@ -11,16 +13,16 @@ status: active
 Subárea de **Faculdade**.
 
 ## Notas
+- [[Calendario-Provas]]
 - [[Prova-1-Semestre]]
 - [[Prova-2-Semestre]]
-- [[Prova-Final]]
-- [[Prova-Substitutiva]]
 - [[Prova-Algoritmos]]
-- [[Prova-POO]]
 - [[Prova-BD]]
 - [[Prova-Eng-Soft]]
-- [[Prova-TI]]
+- [[Prova-Final]]
 - [[Prova-Ingles]]
+- [[Prova-POO]]
+- [[Prova-Substitutiva]]
+- [[Prova-TI]]
 - [[Revisao-Prova]]
-- [[Calendario-Provas]]
 [[Faculdade]]

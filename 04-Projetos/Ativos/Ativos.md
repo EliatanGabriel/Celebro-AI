@@ -2,6 +2,8 @@
 type: moc
 area: projetos
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Projetos Ativos
@@ -11,17 +13,17 @@ status: active
 Subárea de **Projetos**.
 
 ## Notas
-- [[Projeto-QA]]
-- [[Projeto-Estudo]]
-- [[Projeto-Pessoal]]
 - [[Projeto-API]]
 - [[Projeto-Blog]]
 - [[Projeto-Bot]]
 - [[Projeto-Crawler]]
 - [[Projeto-Dashboard]]
+- [[Projeto-Estudo]]
 - [[Projeto-Faculdade]]
 - [[Projeto-IoT]]
+- [[Projeto-Pessoal]]
 - [[Projeto-Portfolio]]
+- [[Projeto-QA]]
 - [[Projeto-Site-pessoal]]
 
 [[Projetos]]

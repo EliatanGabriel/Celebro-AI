@@ -4,6 +4,8 @@ area: todas
 status: active
 tags:
   - home
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Home
@@ -18,3 +20,6 @@ Bem-vindo ao Celebro AI — o cérebro do seu conhecimento.
 - [[Pessoal]]
 - [[Projetos]]
 - [[Estudos]]
+
+## Guia
+- [[Guia-de-Uso]]

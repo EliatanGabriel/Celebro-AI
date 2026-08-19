@@ -2,6 +2,8 @@
 type: moc
 area: projetos
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Ideias
@@ -12,10 +14,10 @@ Subárea de **Projetos**.
 
 ## Notas
 - [[Ideia-App]]
-- [[Ideia-Blog]]
-- [[Ideia-Curso]]
 - [[Ideia-Artigo]]
 - [[Ideia-Automacao]]
+- [[Ideia-Blog]]
+- [[Ideia-Curso]]
 - [[Ideia-Extensao]]
 - [[Ideia-Ferramenta]]
 - [[Ideia-Landing]]

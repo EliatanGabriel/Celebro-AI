@@ -2,6 +2,8 @@
 type: concept
 area: faculdade
 status: active
+created: "2026-08-19"
+updated: "2026-08-19"
 ---
 
 # Corporate Communication and Tech Workplace English
@@ -529,6 +531,9 @@ O domínio do inglês em tecnologia vai além das regras gramaticais. O inglês 
 ## 36. Palavras-chave
 
 Corporate Communication · Tech Workplace English · Technical English · Business English · Sine qua non · Global teams · Technical terminology · Jargon · Acronyms · Neologisms · Communication · Documentation · Slack · Microsoft Teams · Intercultural Communication · Feedback · Q&A · Clarity · Precision · Conciseness · Functional Communication · Global Technology Market
+
+## Tópicos
+- 
 
 ## Relacionadas
 

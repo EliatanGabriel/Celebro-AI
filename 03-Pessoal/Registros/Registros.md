@@ -2,6 +2,8 @@
 type: moc
 area: pessoal
 status: active
+created: "2026-08-19"
+updated: "2026-08-19"
 ---
 
 # Registros
@@ -11,21 +13,21 @@ status: active
 Subárea de **Pessoal**.
 
 ## Notas
-- [[Registro-Habitos]]
-- [[Registro-Sono]]
-- [[Registro-Financeiro]]
-- [[Registro-Humor]]
-- [[Registro-Exercicio]]
 - [[Registro-Alimentacao]]
-- [[Registro-Leitura]]
-- [[Registro-Estudos]]
-- [[Registro-Trabalho]]
+- [[Registro-Anotacoes]]
+- [[Registro-Compras]]
 - [[Registro-Energia]]
+- [[Registro-Estudos]]
+- [[Registro-Exercicio]]
+- [[Registro-Financeiro]]
 - [[Registro-Foco]]
 - [[Registro-Gratidao]]
-- [[Registro-Anotacoes]]
+- [[Registro-Habitos]]
+- [[Registro-Humor]]
 - [[Registro-Ideias]]
+- [[Registro-Leitura]]
 - [[Registro-Projetos]]
-- [[Registro-Compras]]
+- [[Registro-Sono]]
+- [[Registro-Trabalho]]
 
 [[Pessoal]]

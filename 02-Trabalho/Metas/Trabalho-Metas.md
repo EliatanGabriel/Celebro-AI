@@ -2,6 +2,8 @@
 type: moc
 area: trabalho
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Trabalho-Metas
@@ -11,12 +13,12 @@ status: active
 Subárea de **Trabalho**.
 
 ## Notas
-- [[Metas-Trimestrais]]
-- [[Metas-Promocao]]
 - [[Metas-Certificacoes]]
-- [[Metas-Salario]]
-- [[Metas-Projetos-Trab]]
 - [[Metas-Leadership]]
+- [[Metas-Projetos-Trab]]
+- [[Metas-Promocao]]
+- [[Metas-Salario]]
+- [[Metas-Trimestrais]]
 - [[Trabalho-Metas-Anuais]]
 - [[Trabalho-Metas-Habilidades]]
 

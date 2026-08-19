@@ -2,6 +2,8 @@
 type: hub
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Estudos
@@ -11,20 +13,20 @@ status: active
 Tecnologia e computação organizados por categorias.
 
 ## Subáreas
-- [[Linguagens]]
 - [[Backend]]
-- [[Frontend]]
 - [[Bancos-de-Dados]]
+- [[Busca-Binaria]]
 - [[Cloud-e-DevOps]]
-- [[Fundamentos]]
+- [[Dados-e-IA]]
+- [[DevOps]]
+- [[Estudos-Cloud]]
+- [[Estudos-JOIN]]
 - [[Estudos-Redes]]
 - [[Estudos-Seguranca]]
-- [[Dados-e-IA]]
 - [[Ferramentas]]
-- [[Busca-Binaria]]
-- [[Estudos-Cloud]]
-- [[DevOps]]
-- [[Estudos-JOIN]]
+- [[Frontend]]
+- [[Fundamentos]]
+- [[Linguagens]]
 - [[Programacao]]
 - [[Servidores]]
 - [[Teoria-da-Computacao]]

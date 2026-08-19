@@ -2,6 +2,8 @@
 type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Frontend
@@ -11,30 +13,30 @@ status: active
 Subárea de **Estudos**.
 
 ## Notas
-- [[React]]
-- [[Vue]]
 - [[Angular]]
-- [[Svelte]]
-- [[Next-js]]
-- [[Nuxt]]
-- [[Redux]]
-- [[Tailwind]]
-- [[Bootstrap]]
-- [[Vite]]
-- [[Webpack]]
 - [[Babel]]
-- [[CSS-Modules]]
-- [[Sass]]
-- [[TypeScript-Frontend]]
+- [[Bootstrap]]
 - [[Componentes]]
-- [[Props]]
-- [[Hooks]]
+- [[CSS-Modules]]
 - [[DOM]]
-- [[Eventos]]
-- [[SEO]]
-- [[Performance-Frontend]]
-- [[PWA]]
 - [[Estudos-Acessibilidade]]
 - [[Estudos-Responsividade]]
+- [[Eventos]]
+- [[Hooks]]
+- [[Next-js]]
+- [[Nuxt]]
+- [[Performance-Frontend]]
+- [[Props]]
+- [[PWA]]
+- [[React]]
+- [[Redux]]
+- [[Sass]]
+- [[SEO]]
+- [[Svelte]]
+- [[Tailwind]]
+- [[TypeScript-Frontend]]
+- [[Vite]]
+- [[Vue]]
+- [[Webpack]]
 
 [[Estudos]]

@@ -2,6 +2,8 @@
 type: moc
 area: trabalho
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Trabalho-Anotacoes
@@ -11,15 +13,15 @@ status: active
 Subárea de **Trabalho**.
 
 ## Notas
-- [[Anotacao-Codigo]]
-- [[Anotacao-Sprint]]
-- [[Anotacao-Retro]]
-- [[Anotacao-Daily]]
 - [[Anotacao-1on1]]
-- [[Anotacao-Erro]]
-- [[Anotacao-Dica]]
 - [[Anotacao-Cli]]
+- [[Anotacao-Codigo]]
+- [[Anotacao-Daily]]
+- [[Anotacao-Dica]]
 - [[Anotacao-Doc]]
+- [[Anotacao-Erro]]
+- [[Anotacao-Retro]]
+- [[Anotacao-Sprint]]
 - [[Trabalho-Anotacao-Reuniao]]
 
 [[Trabalho]]

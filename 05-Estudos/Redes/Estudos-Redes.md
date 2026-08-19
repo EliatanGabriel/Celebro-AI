@@ -2,6 +2,8 @@
 type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Redes
@@ -11,38 +13,38 @@ status: active
 Subárea de **Estudos**.
 
 ## Notas
-- [[OSI]]
-- [[TCP-IP]]
-- [[DNS]]
-- [[DHCP]]
-- [[TCP]]
-- [[UDP]]
-- [[IP]]
-- [[Subnetting]]
-- [[NAT]]
-- [[VPN]]
-- [[Firewall]]
-- [[Roteamento]]
-- [[Switching]]
-- [[Latencia]]
-- [[Largura-de-Banda]]
-- [[Proxy-Redes]]
-- [[CDN]]
-- [[HTTPS]]
-- [[TLS]]
-- [[Handshake]]
-- [[Portas]]
-- [[ARP]]
-- [[ICMP]]
-- [[Wi-Fi]]
 - [[5G]]
+- [[ARP]]
+- [[CDN]]
+- [[DHCP]]
 - [[Diagnostico]]
 - [[Dispositivos]]
+- [[DNS]]
 - [[Ethernet]]
+- [[Firewall]]
+- [[Handshake]]
+- [[HTTPS]]
+- [[ICMP]]
 - [[IoT]]
+- [[IP]]
+- [[Largura-de-Banda]]
+- [[Latencia]]
+- [[NAT]]
 - [[Navegacao]]
+- [[OSI]]
+- [[Portas]]
 - [[Protocolos]]
+- [[Proxy-Redes]]
+- [[Roteamento]]
 - [[Sockets]]
 - [[Streaming]]
+- [[Subnetting]]
+- [[Switching]]
+- [[TCP]]
+- [[TCP-IP]]
+- [[TLS]]
+- [[UDP]]
+- [[VPN]]
+- [[Wi-Fi]]
 
 [[Estudos]]

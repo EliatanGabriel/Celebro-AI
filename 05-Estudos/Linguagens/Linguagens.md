@@ -2,6 +2,8 @@
 type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Linguagens
@@ -11,30 +13,30 @@ status: active
 Subárea de **Estudos**.
 
 ## Notas
-- [[Python]]
-- [[Java]]
-- [[JavaScript]]
-- [[TypeScript]]
+- [[Assembly]]
+- [[Bash]]
 - [[C]]
 - [[C++]]
 - [[C-Sharp]]
-- [[Go]]
-- [[Rust]]
-- [[Ruby]]
-- [[PHP]]
-- [[Swift]]
-- [[Kotlin]]
-- [[Shell]]
-- [[Bash]]
-- [[PowerShell]]
-- [[R]]
 - [[Dart]]
-- [[Lua]]
-- [[Scala]]
-- [[Perl]]
-- [[Assembly]]
 - [[Estudos-CSS]]
 - [[Estudos-HTML]]
 - [[Estudos-SQL]]
+- [[Go]]
+- [[Java]]
+- [[JavaScript]]
+- [[Kotlin]]
+- [[Lua]]
+- [[Perl]]
+- [[PHP]]
+- [[PowerShell]]
+- [[Python]]
+- [[R]]
+- [[Ruby]]
+- [[Rust]]
+- [[Scala]]
+- [[Shell]]
+- [[Swift]]
+- [[TypeScript]]
 
 [[Estudos]]

@@ -2,6 +2,8 @@
 type: moc
 area: pessoal
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Rotinas
@@ -11,19 +13,19 @@ status: active
 Subárea de **Pessoal**.
 
 ## Notas
-- [[Rotina-Manha]]
-- [[Rotina-Noite]]
-- [[Rotina-Semanal]]
 - [[Rotina-Digital]]
 - [[Rotina-Domingo]]
 - [[Rotina-Estudos]]
 - [[Rotina-Exercicio]]
 - [[Rotina-Fim-de-semana]]
+- [[Rotina-Manha]]
 - [[Rotina-Mensal]]
+- [[Rotina-Noite]]
 - [[Rotina-Quarta]]
 - [[Rotina-Quinta]]
 - [[Rotina-Sabado]]
 - [[Rotina-Segunda]]
+- [[Rotina-Semanal]]
 - [[Rotina-Sexta]]
 - [[Rotina-Terca]]
 - [[Rotina-Trabalho]]

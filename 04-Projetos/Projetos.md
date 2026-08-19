@@ -2,6 +2,8 @@
 type: hub
 area: projetos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Projetos
@@ -11,9 +13,9 @@ status: active
 Ideias, projetos ativos, concluídos e roadmaps.
 
 ## Subáreas
-- [[Ideias]]
 - [[Ativos]]
 - [[Concluidos]]
+- [[Ideias]]
 - [[Roadmaps]]
 
 ## Conexões

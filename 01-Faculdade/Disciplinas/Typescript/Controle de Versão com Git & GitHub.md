@@ -2,6 +2,8 @@
 type: concept
 area: faculdade
 status: active
+created: "2026-08-19"
+updated: "2026-08-19"
 ---
 
 # Controle de Versão com Git & GitHub
@@ -493,6 +495,9 @@ Ou seja: **criar → preparar → registrar → publicar**.
 ```
 
 **Frase para decorar:** eu edito → adiciono → commito → faço push. Working Directory → Staging Area → HEAD → GitHub.
+
+## Tópicos
+- 
 
 ## Relacionadas
 

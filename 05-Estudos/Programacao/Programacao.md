@@ -1,12 +1,17 @@
 ---
-type: concept
+type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Programacao
 
 #area/estudos
 
-Nota de conceito sobre **Programacao**.
+**Resumo:** Subárea de **Estudos** sobre Programação em geral.
+
+## Notas
+
 [[Estudos]]

@@ -1,12 +1,17 @@
 ---
-type: concept
+type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Teoria da Computacao
 
 #area/estudos
 
-Nota de conceito sobre **Teoria da Computacao**.
+**Resumo:** Subárea de **Estudos** sobre Teoria da computação.
+
+## Notas
+
 [[Estudos]]

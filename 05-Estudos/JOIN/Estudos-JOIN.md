@@ -1,12 +1,17 @@
 ---
-type: concept
+type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # JOIN
 
 #area/estudos
 
-Nota de conceito sobre **JOIN**.
+**Resumo:** Subárea de **Estudos** sobre Consultas JOIN em SQL.
+
+## Notas
+
 [[Estudos]]

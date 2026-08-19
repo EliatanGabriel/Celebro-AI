@@ -2,6 +2,8 @@
 type: moc
 area: faculdade
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Faculdade-Metas
@@ -11,13 +13,13 @@ status: active
 Subárea de **Faculdade**.
 
 ## Notas
+- [[Metas-Estagio]]
+- [[Metas-Frequencia]]
+- [[Metas-Intercambio]]
+- [[Metas-Notas]]
+- [[Metas-Projetos-Facul]]
 - [[Metas-Semestre-1]]
 - [[Metas-Semestre-2]]
-- [[Metas-Notas]]
-- [[Metas-Frequencia]]
-- [[Metas-Projetos-Facul]]
-- [[Metas-Intercambio]]
-- [[Metas-Estagio]]
 - [[Metas-TCC]]
 
 [[Faculdade]]

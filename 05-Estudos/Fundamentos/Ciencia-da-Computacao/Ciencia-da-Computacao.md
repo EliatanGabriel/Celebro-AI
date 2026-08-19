@@ -2,6 +2,8 @@
 type: concept
 area: estudos
 status: active
+created: "2026-08-16"
+updated: "2026-08-19"
 ---
 
 # Ciência-da-Computacao

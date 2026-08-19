@@ -2,6 +2,8 @@
 type: concept
 area: faculdade
 status: active
+created: "2026-08-19"
+updated: "2026-08-19"
 ---
 
 # Aula 01 — Fundamentos de Banco de Dados, Dados, Informação e Sistemas
@@ -304,6 +306,9 @@ Informação de qualidade
     ↓
 Melhores decisões
 ```
+
+## Tópicos
+- 
 
 ## Relacionadas
 

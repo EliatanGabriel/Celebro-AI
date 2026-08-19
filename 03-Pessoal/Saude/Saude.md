@@ -2,6 +2,8 @@
 type: moc
 area: pessoal
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Saude
@@ -11,13 +13,13 @@ status: active
 Subárea de **Pessoal**.
 
 ## Notas
+- [[Alergias]]
+- [[Checkup]]
 - [[Consulta-2026]]
 - [[Exames-2026]]
-- [[Medicamentos]]
-- [[Alergias]]
 - [[Historico-saude]]
-- [[Vacinas]]
+- [[Medicamentos]]
 - [[Saude-mental]]
-- [[Checkup]]
+- [[Vacinas]]
 
 [[Pessoal]]

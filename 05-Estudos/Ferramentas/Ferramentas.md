@@ -2,6 +2,8 @@
 type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Ferramentas
@@ -11,35 +13,35 @@ status: active
 Subárea de **Estudos**.
 
 ## Notas
+- [[Browsers-DevTools]]
+- [[Chrome]]
+- [[Composer]]
+- [[Cron]]
+- [[Curl]]
+- [[Design]]
+- [[Docker-Desktop]]
+- [[Eclipse]]
+- [[Editor]]
+- [[Ferramentas-CLI]]
+- [[Figma]]
+- [[Firefox]]
 - [[Git]]
 - [[GitHub]]
 - [[GitLab]]
-- [[Terminal]]
-- [[Linux]]
-- [[VS-Code]]
-- [[Postman]]
-- [[Figma]]
-- [[Docker-Desktop]]
-- [[Kubernetes-CLI]]
-- [[Jupyter]]
-- [[Notebooks]]
-- [[Zsh]]
-- [[Vim]]
 - [[IntelliJ]]
-- [[Eclipse]]
-- [[Browsers-DevTools]]
-- [[Chrome]]
-- [[Firefox]]
-- [[Ferramentas-CLI]]
+- [[Jupyter]]
+- [[Kubernetes-CLI]]
+- [[Linux]]
 - [[Makefile]]
-- [[Scripts]]
-- [[Cron]]
-- [[Curl]]
-- [[Wget]]
-- [[Composer]]
-- [[Design]]
-- [[Editor]]
 - [[Mobile]]
+- [[Notebooks]]
+- [[Postman]]
 - [[Protocol-Buffers]]
+- [[Scripts]]
+- [[Terminal]]
+- [[Vim]]
+- [[VS-Code]]
+- [[Wget]]
+- [[Zsh]]
 
 [[Estudos]]

@@ -2,6 +2,8 @@
 type: moc
 area: pessoal
 status: active
+created: "2026-08-19"
+updated: "2026-08-19"
 ---
 
 # Reflexoes-Reflexoes
@@ -13,17 +15,17 @@ Subárea de **Pessoal**.
 ## Notas
 - [[Aprendizados]]
 - [[Autoconhecimento]]
-- [[Licoes-de-vida]]
-- [[Momentos-marcantes]]
-- [[Dificuldades]]
-- [[Superacao]]
-- [[Mudancas]]
-- [[Habitos-reflexao]]
-- [[Metas-reflexao]]
-- [[Medo-reflexao]]
-- [[Valores-reflexao]]
 - [[Crencas-reflexao]]
+- [[Dificuldades]]
 - [[Felicidade]]
+- [[Habitos-reflexao]]
+- [[Licoes-de-vida]]
+- [[Medo-reflexao]]
+- [[Metas-reflexao]]
+- [[Momentos-marcantes]]
+- [[Mudancas]]
 - [[Proposito-reflexao]]
+- [[Superacao]]
+- [[Valores-reflexao]]
 
 [[Pessoal]]

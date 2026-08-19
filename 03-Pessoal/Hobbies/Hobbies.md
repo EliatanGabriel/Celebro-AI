@@ -2,6 +2,8 @@
 type: moc
 area: pessoal
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Hobbies
@@ -11,15 +13,15 @@ status: active
 Subárea de **Pessoal**.
 
 ## Notas
-- [[Leitura]]
-- [[Filmes]]
-- [[Series]]
-- [[Musica]]
-- [[Jogos]]
 - [[Caminhadas]]
-- [[Fotografia]]
 - [[Cozinha]]
+- [[Filmes]]
+- [[Fotografia]]
 - [[Futebol]]
+- [[Jogos]]
+- [[Leitura]]
 - [[Livros-favoritos]]
+- [[Musica]]
+- [[Series]]
 
 [[Pessoal]]

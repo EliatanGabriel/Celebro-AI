@@ -2,6 +2,8 @@
 type: concept
 area: pessoal
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Metas-Mensais
@@ -16,5 +18,8 @@ status: active
 - Prioridades
 - Revisão
 - Resultados
+
+## Relacionadas
+- 
 
 [[Pessoal]]

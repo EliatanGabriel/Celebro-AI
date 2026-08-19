@@ -2,6 +2,8 @@
 type: hub
 area: faculdade
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Faculdade
@@ -11,9 +13,9 @@ status: active
 Disciplinas, metas, anotações, provas e trabalhos da faculdade.
 
 ## Subáreas
+- [[Anotacoes]]
 - [[Disciplinas]]
 - [[Faculdade-Metas]]
-- [[Anotacoes]]
 - [[Provas]]
 - [[Trabalhos]]
 

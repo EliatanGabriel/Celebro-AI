@@ -2,6 +2,8 @@
 type: moc
 area: pessoal
 status: active
+created: "2026-08-19"
+updated: "2026-08-19"
 ---
 
 # Anotações-Livres
@@ -11,17 +13,17 @@ status: active
 Subárea de **Pessoal**.
 
 ## Notas
-- [[Anotacao-Diaria]]
 - [[Anotacao-Conversa]]
-- [[Anotacao-Leitura]]
-- [[Anotacao-Podcast]]
-- [[Anotacao-Video]]
-- [[Anotacao-Pensamento]]
-- [[Anotacao-Observacao]]
-- [[Anotacao-Reuniao]]
-- [[Anotacao-Ideia]]
-- [[Anotacao-Sonho]]
+- [[Anotacao-Diaria]]
 - [[Anotacao-Filme]]
+- [[Anotacao-Ideia]]
+- [[Anotacao-Leitura]]
+- [[Anotacao-Observacao]]
+- [[Anotacao-Pensamento]]
+- [[Anotacao-Podcast]]
+- [[Anotacao-Reuniao]]
+- [[Anotacao-Sonho]]
+- [[Anotacao-Video]]
 - [[Diario-Anotacao-Aula]]
 
 [[Pessoal]]

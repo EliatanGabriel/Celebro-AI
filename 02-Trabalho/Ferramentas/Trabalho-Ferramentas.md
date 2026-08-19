@@ -2,6 +2,8 @@
 type: moc
 area: trabalho
 status: active
+created: "2026-08-15"
+updated: "2026-08-16"
 ---
 
 # Ferramentas
@@ -11,13 +13,11 @@ status: active
 Subárea de **Trabalho**.
 
 ## Notas
-- [[Jira]]
 - [[Confluence]]
-- [[Trello]]
-- [[Slack]]
-- [[Zoom]]
+- [[Jira]]
 - [[Miro]]
 - [[Notion]]
+- [[Slack]]
 - [[Trabalho-Docker]]
 - [[Trabalho-Figma]]
 - [[Trabalho-Git]]
@@ -25,5 +25,7 @@ Subárea de **Trabalho**.
 - [[Trabalho-Postman]]
 - [[Trabalho-Terminal]]
 - [[Trabalho-VS-Code]]
+- [[Trello]]
+- [[Zoom]]
 
 [[Trabalho]]

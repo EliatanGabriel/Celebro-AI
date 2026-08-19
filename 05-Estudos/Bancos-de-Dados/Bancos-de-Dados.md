@@ -2,6 +2,8 @@
 type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Bancos-de-Dados
@@ -11,25 +13,25 @@ status: active
 Subárea de **Estudos**.
 
 ## Notas
-- [[SQLite]]
-- [[PostgreSQL]]
-- [[MySQL]]
-- [[MongoDB]]
-- [[Redis-DB]]
-- [[Elasticsearch]]
-- [[Neo4j]]
-- [[Firebase]]
-- [[Supabase]]
-- [[ORM]]
-- [[Prisma]]
-- [[Migrations]]
-- [[Indexes]]
-- [[Transactions]]
-- [[Denormalizacao]]
-- [[Sharding]]
-- [[Replication]]
 - [[Backup-DB]]
-- [[NoSQL]]
+- [[Denormalizacao]]
+- [[Elasticsearch]]
 - [[Estudos-Normalizacao]]
+- [[Firebase]]
+- [[Indexes]]
+- [[Migrations]]
+- [[MongoDB]]
+- [[MySQL]]
+- [[Neo4j]]
+- [[NoSQL]]
+- [[ORM]]
+- [[PostgreSQL]]
+- [[Prisma]]
+- [[Redis-DB]]
+- [[Replication]]
+- [[Sharding]]
+- [[SQLite]]
+- [[Supabase]]
+- [[Transactions]]
 
 [[Estudos]]

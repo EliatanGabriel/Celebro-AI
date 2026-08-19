@@ -2,6 +2,8 @@
 type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Seguranca
@@ -11,36 +13,36 @@ status: active
 Subárea de **Estudos**.
 
 ## Notas
-- [[Criptografia]]
-- [[Hashing]]
+- [[Antivirus]]
 - [[Ataques]]
-- [[OWASP]]
-- [[SQL-Injection]]
-- [[XSS]]
-- [[CSRF]]
+- [[Auditoria]]
 - [[Autenticacao]]
 - [[Autorizacao]]
-- [[RBAC]]
-- [[Tokens]]
-- [[Biometria]]
-- [[Firewall-Seg]]
-- [[Antivirus]]
-- [[Phishing]]
-- [[Ransomware]]
-- [[Pentest]]
-- [[Vulnerabilidades]]
-- [[Patch]]
-- [[Zero-Trust]]
-- [[Segredos]]
-- [[Auditoria]]
-- [[GDPR]]
 - [[Backup-Seg]]
+- [[Biometria]]
 - [[Credenciais]]
+- [[Criptografia]]
+- [[CSRF]]
 - [[Dados]]
 - [[Engenharia-Social]]
 - [[Env]]
+- [[Firewall-Seg]]
+- [[GDPR]]
+- [[Hashing]]
 - [[MFA]]
+- [[OWASP]]
+- [[Patch]]
+- [[Pentest]]
+- [[Phishing]]
 - [[Privacidade]]
+- [[Ransomware]]
+- [[RBAC]]
+- [[Segredos]]
 - [[Senhas]]
+- [[SQL-Injection]]
+- [[Tokens]]
+- [[Vulnerabilidades]]
+- [[XSS]]
+- [[Zero-Trust]]
 
 [[Estudos]]

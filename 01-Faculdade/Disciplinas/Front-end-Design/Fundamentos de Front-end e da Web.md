@@ -2,6 +2,8 @@
 type: concept
 area: faculdade
 status: active
+created: "2026-08-19"
+updated: "2026-08-19"
 ---
 
 # Fundamentos de Front-end e da Web
@@ -448,6 +450,9 @@ As Media Queries permitem aplicar estilos de acordo com características do disp
 ### Unidades e imagens flexíveis
 
 O design responsivo também utiliza unidades flexíveis e imagens ajustáveis. O objetivo é tornar a página mais confortável em diferentes dispositivos.
+
+## Tópicos
+- 
 
 ## Relacionadas
 

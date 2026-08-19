@@ -2,6 +2,8 @@
 type: moc
 area: estudos
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Backend
@@ -12,28 +14,28 @@ Subárea de **Estudos**.
 
 ## Notas
 - [[APIs]]
-- [[REST]]
-- [[GraphQL]]
-- [[HTTP]]
-- [[Node-js]]
-- [[Express]]
+- [[Auth]]
+- [[Caching]]
+- [[Cookies]]
 - [[Django]]
-- [[Flask]]
-- [[Spring]]
-- [[Laravel]]
+- [[Express]]
 - [[FastAPI]]
-- [[NestJS]]
+- [[Flask]]
+- [[GraphQL]]
 - [[gRPC]]
-- [[WebSocket]]
+- [[HTTP]]
+- [[JWT]]
+- [[Laravel]]
+- [[Load-Balancer]]
+- [[Middleware]]
+- [[NestJS]]
+- [[Node-js]]
+- [[OAuth]]
+- [[Proxy]]
 - [[Queue]]
 - [[Redis]]
-- [[Caching]]
-- [[Middleware]]
-- [[Auth]]
-- [[JWT]]
-- [[OAuth]]
+- [[REST]]
 - [[Sessions]]
-- [[Cookies]]
-- [[Proxy]]
-- [[Load-Balancer]]
+- [[Spring]]
+- [[WebSocket]]
 [[Estudos]]

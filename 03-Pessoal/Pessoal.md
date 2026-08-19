@@ -2,6 +2,8 @@
 type: hub
 area: pessoal
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Pessoal
@@ -11,23 +13,23 @@ status: active
 Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 
 ## Subáreas
-- [[Produtividade]]
-- [[Financas-Pessoais]]
-- [[Saude-e-Exercicio]]
-- [[Sono]]
 - [[Alimentacao]]
-- [[Desenvolvimento-Pessoal]]
 - [[Aprendizado-Continuo]]
-- [[Pessoal-Habito-Leitura]]
+- [[Desenvolvimento-Pessoal]]
+- [[Financas-Pessoais]]
+- [[Habitos]]
+- [[Hobbies]]
 - [[Meditacao]]
 - [[Objetivos-de-Vida]]
-- [[Relacionamentos]]
-- [[Habitos]]
-- [[Rotinas]]
-- [[Pessoal-Metas]]
 - [[Pessoal-Anotacoes]]
-- [[Hobbies]]
+- [[Pessoal-Habito-Leitura]]
+- [[Pessoal-Metas]]
+- [[Produtividade]]
+- [[Relacionamentos]]
+- [[Rotinas]]
 - [[Saude]]
+- [[Saude-e-Exercicio]]
+- [[Sono]]
 
 ## Conexões
 - [[Home]]

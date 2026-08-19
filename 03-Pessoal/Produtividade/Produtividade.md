@@ -2,32 +2,25 @@
 type: moc
 area: pessoal
 status: active
+created: "2026-08-15"
+updated: "2026-08-19"
 ---
 
 # Produtividade
 
-#area/pessoal #conceito
+#area/pessoal
 
 **Resumo:** Subárea de **Pessoal** com métodos de alta produtividade.
-
-## Tópicos
-- Foco
-- Técnicas
-- Hábitos
-- Planejamento
-- Energia
-
-## Relacionadas
-- [[Pomodoro]]
-- [[Getting-things-done]]
 
 ## Notas
 - [[Deep-work]]
 - [[Eisenhower]]
 - [[Flow]]
+- [[Getting-things-done]]
 - [[Habitos-produtivos]]
 - [[Kanban-pessoal]]
 - [[Pessoal-Foco]]
+- [[Pomodoro]]
 - [[Procastinacao]]
 - [[Time-blocking]]
 
