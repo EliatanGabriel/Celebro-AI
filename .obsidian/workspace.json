@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61bf15f341e11ba5",
+        "id": "c861a7de6e0a73ee",
         "type": "tabs",
         "children": [
           {
-            "id": "8116653d87afe2fc",
+            "id": "037deea044459e42",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -31,6 +31,7 @@
       {
         "id": "8900cbd115bee772",
         "type": "tabs",
+        "dimension": 68.97880539499036,
         "children": [
           {
             "id": "da448eae0f58cc00",
@@ -78,10 +79,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "4c516d717573bd8b",
+        "type": "tabs",
+        "dimension": 31.021194605009633,
+        "children": [
+          {
+            "id": "8116653d87afe2fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.6484375
+    "width": 277.03515625
   },
   "right": {
     "id": "66fe95f10b814bcb",
@@ -90,6 +110,7 @@
       {
         "id": "3456e63e166cb084",
         "type": "tabs",
+        "dimension": 67.87037037037037,
         "children": [
           {
             "id": "9e05b411c86e9ca1",
@@ -123,6 +144,20 @@
             }
           },
           {
+            "id": "428a8440b928454d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
             "id": "376d29f6bdd9115d",
             "type": "leaf",
             "state": {
@@ -138,20 +173,6 @@
             }
           },
           {
-            "id": "428a8440b928454d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
-            }
-          },
-          {
             "id": "f361105e46317c86",
             "type": "leaf",
             "state": {
@@ -163,6 +184,24 @@
               },
               "icon": "lucide-list",
               "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "00c467ff2219ba04",
+        "type": "tabs",
+        "dimension": 32.12962962962963,
+        "children": [
+          {
+            "id": "ee58fd274e21a352",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -180,11 +219,38 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "realclaudian:Open Claudian": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8116653d87afe2fc",
+  "active": "037deea044459e42",
   "lastOpenFiles": [
+    "03-Pessoal/Saude/Saude-mental/Saude-mental.md",
+    "03-Pessoal/Saude/Saude-mental",
+    "03-Pessoal/Saude/Saude.md",
+    "03-Pessoal/Saude",
+    "03-Pessoal/Meditacao/Meditacao.md",
+    "03-Pessoal/Meditacao",
+    "03-Pessoal/Alimentacao/Alimentacao.md",
+    "03-Pessoal/Alimentacao",
+    "03-Pessoal/Metas/Metas-Saude/Pessoal-Metas-Saude.md",
+    "03-Pessoal/Metas/Metas-Relacionamentos/Pessoal-Metas-Relacionamentos.md",
+    "03-Pessoal/Metas/Metas-Felizes/Metas-Felizes.md",
+    "03-Pessoal/Metas/Metas-Felizes",
+    "03-Pessoal/Metas/Metas-Saude/Metas-Saude.md",
+    "03-Pessoal/Metas/Metas-Saude",
+    "03-Pessoal/Metas/Metas-Relacionamentos/Metas-Relacionamentos.md",
+    "03-Pessoal/Metas/Metas-Relacionamentos",
+    "03-Pessoal/Metas/Metas-Habitos/Metas-Habitos.md",
+    "03-Pessoal/Metas/Metas-Habitos",
+    "03-Pessoal/Metas/Metas-Habilidades/Metas-Habilidades.md",
+    "03-Pessoal/Metas/Metas-Habilidades",
+    "Excalidraw/Drawing 2026-08-19 11.28.52.excalidraw.md",
+    "Excalidraw",
     "05-Estudos/Seguranca/Estudos-Seguranca.md",
     "05-Estudos/Estudos-Desenvolvimento.md",
     "05-Estudos/Estudos-Ferramentas.md",
@@ -199,28 +265,6 @@
     "05-Estudos/Seguranca/Tokens/Tokens.md",
     "05-Estudos/Seguranca/Senhas/Senhas.md",
     "05-Estudos/Seguranca/Segredos/Segredos.md",
-    "05-Estudos/Seguranca/SQL-Injection/SQL-Injection.md",
-    "05-Estudos/Seguranca/Ransomware/Ransomware.md",
-    "05-Estudos/Seguranca/Privacidade/Privacidade.md",
-    "05-Estudos/Seguranca/RBAC/RBAC.md",
-    "05-Estudos/Seguranca/Phishing/Phishing.md",
-    "05-Estudos/Seguranca/Pentest/Pentest.md",
-    "05-Estudos/Seguranca/Patch/Patch.md",
-    "05-Estudos/Seguranca/OWASP/OWASP.md",
-    "05-Estudos/Seguranca/MFA/MFA.md",
-    "05-Estudos/Seguranca/Hashing/Hashing.md",
-    "05-Estudos/Seguranca/GDPR/GDPR.md",
-    "05-Estudos/Seguranca/Criptografia/Criptografia.md",
-    "05-Estudos/Seguranca/Zero-Trust",
-    "05-Estudos/Seguranca/XSS",
-    "05-Estudos/Seguranca/Vulnerabilidades",
-    "05-Estudos/Seguranca/Tokens",
-    "05-Estudos/Seguranca/Senhas",
-    "05-Estudos/Seguranca/Segredos",
-    "05-Estudos/Seguranca/SQL-Injection",
-    "05-Estudos/Seguranca/Ransomware",
-    "05-Estudos/Seguranca/RBAC",
-    "05-Estudos/Seguranca/Privacidade",
     "Sem título.canvas"
   ]
 }

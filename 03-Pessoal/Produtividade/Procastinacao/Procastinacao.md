@@ -20,4 +20,3 @@ updated: "2026-08-19"
 - Autoconsciência
 
 ## Relacionadas
-- [[Saude-mental]]

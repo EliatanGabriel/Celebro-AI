@@ -13,7 +13,6 @@ updated: "2026-08-19"
 Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 
 ## Subáreas
-- [[Alimentacao]]
 - [[Aprendizado-Continuo]]
 - [[Desenvolvimento-Pessoal]]
 - [[Financas-Pessoais]]
@@ -23,11 +22,6 @@ Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 - [[Pessoal-Metas]]
 - [[Produtividade]]
 - [[Reflexoes-Reflexoes]]
-- [[Registros]]
-- [[Relacionamentos]]
-- [[Saude]]
-- [[Saude-e-Exercicio]]
-- [[Sono]]
 - [[Visao-de-Vida]]
 
 ## Conexões
