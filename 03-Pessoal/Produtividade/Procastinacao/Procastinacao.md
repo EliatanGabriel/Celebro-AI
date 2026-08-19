@@ -1,0 +1,23 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
+# Procastinacao
+
+#area/pessoal #conceito
+
+**Resumo:** Adiamento de tarefas e estratégias para evitá-lo.
+
+## Tópicos
+- Adiamento
+- Causas
+- Distração
+- Ações
+- Autoconsciência
+
+## Relacionadas
+- [[Saude-mental]]
+
+[[Pessoal]]

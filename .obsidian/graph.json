@@ -36,14 +36,7 @@
       }
     },
     {
-      "query": "tag:#area/sistema  ",
-      "color": {
-        "a": 1,
-        "rgb": 7039851
-      }
-    },
-    {
-      "query": "tag:#area/pessoal  ",
+      "query": "tag:#area/pessoal ",
       "color": {
         "a": 1,
         "rgb": 7026944
@@ -74,6 +67,6 @@
   "repelStrength": 12.3945115031466,
   "linkStrength": 0.692103190232375,
   "linkDistance": 242,
-  "scale": 0.0889892578125,
+  "scale": 0.200225830078125,
   "close": true
 }

@@ -1,0 +1,23 @@
+---
+type: concept
+area: pessoal
+status: active
+---
+
+# Felicidade
+
+#area/pessoal #conceito
+
+**Resumo:** Reflexão sobre o que traz felicidade e bem-estar.
+
+## Tópicos
+- Felicidade
+- Bem-estar
+- Pessoas
+- Momentos
+- Gratidão
+
+## Relacionadas
+- [[Reflexoes-Reflexoes]]
+
+[[Pessoal]]
