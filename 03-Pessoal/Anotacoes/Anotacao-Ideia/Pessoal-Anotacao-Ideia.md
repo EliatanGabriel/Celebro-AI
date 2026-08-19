@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Ideia
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes #conceito
 
 **Resumo:** Captura de ideias para projetos, hobbies ou melhorias pessoais.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Anotacao-Compra]]
 - [[Objetivos-de-Vida]]
-
-[[Pessoal]]

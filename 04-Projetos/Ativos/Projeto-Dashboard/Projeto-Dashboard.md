@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Dashboard
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo de construção de um dashboard.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Ativos]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

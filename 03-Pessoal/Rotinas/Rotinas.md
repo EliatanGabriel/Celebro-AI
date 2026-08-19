@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotinas
 
-#area/pessoal
+#area/pessoal #pessoal/rotinas
 
 Subárea de **Pessoal**.
 
@@ -31,3 +31,4 @@ Subárea de **Pessoal**.
 - [[Rotina-Trabalho]]
 
 [[Pessoal]]
+

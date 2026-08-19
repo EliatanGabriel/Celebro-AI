@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Algoritmos
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Sequências finitas de passos para resolver problemas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Big-O]]
 - [[Estruturas-de-Dados]]
 - [[Programacao]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Subnetting
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Divisão de redes IP em sub-redes menores para organização e segurança.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[IP]]
 - [[VPC]]
 - [[NAT]]
-
-[[Estudos]]

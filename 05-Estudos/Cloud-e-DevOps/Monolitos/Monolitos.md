@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Monolitos
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Arquitetura onde toda a aplicação roda em um único processo.
 
@@ -21,6 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Microservicos]]
-- [[Backend]]
-
-[[Estudos]]

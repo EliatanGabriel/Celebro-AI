@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Desenvolvimento Pessoal
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/desenvolvimento-pessoal #conceito
 
 **Resumo:** Processo de melhorar habilidades e autoconhecimento.
 
@@ -26,3 +26,4 @@ updated: "2026-08-16"
 - [[Pessoal]]
 
 [[Pessoal]]
+

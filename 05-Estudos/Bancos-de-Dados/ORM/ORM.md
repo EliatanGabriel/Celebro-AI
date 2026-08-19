@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # ORM
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Object-Relational Mapping: mapeia tabelas para objetos de código.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Prisma]]
 - [[Django]]
 - [[Backend]]
-
-[[Estudos]]

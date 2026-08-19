@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # APIs
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Interfaces de programação que permitem que sistemas se comuniquem.
 
@@ -23,7 +23,3 @@ updated: "2026-08-19"
 - [[REST]]
 - [[HTTP]]
 - [[GraphQL]]
-- [[JSON]]
-- [[Microservicos]]
-
-[[Estudos]]

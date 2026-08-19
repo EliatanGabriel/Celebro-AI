@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Ideia
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes-livres #conceito
 
 **Resumo:** Anotação livre sobre ideia: ideias e reflexões.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Anotacoes-Livres]]
 - [[Registro-Anotacoes]]
-
-[[Pessoal]]

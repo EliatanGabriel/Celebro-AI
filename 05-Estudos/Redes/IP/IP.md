@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # IP
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Protocolo de internet que endereça e roteia pacotes entre redes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[TCP]]
 - [[Subnetting]]
 - [[DNS]]
-
-[[Estudos]]

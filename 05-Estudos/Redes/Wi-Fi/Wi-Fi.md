@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Wi-Fi
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Tecnologia de rede sem fio baseada em IEEE 802.11.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[DHCP]]
 - [[Dispositivos]]
-
-[[Estudos]]

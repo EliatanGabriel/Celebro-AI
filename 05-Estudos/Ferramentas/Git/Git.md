@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Git
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Sistema de controle de versão distribuído, padrão da indústria.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[GitHub]]
 - [[GitLab]]
-- [[DevOps]]
-
-[[Estudos]]

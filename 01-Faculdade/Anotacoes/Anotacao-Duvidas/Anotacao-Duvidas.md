@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Duvidas
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/anotacoes #conceito
 
 **Resumo:** Registro de dúvidas para esclarecer com professores.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Anotacao-Aula]]
 - [[Faculdade]]
 - [[Anotacao-Resumo]]
-
-[[Faculdade]]

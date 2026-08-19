@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Identidade
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Reflexão sobre quem você é e sua essência.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Valores]]
 - [[Crencas]]
-
-[[Pessoal]]

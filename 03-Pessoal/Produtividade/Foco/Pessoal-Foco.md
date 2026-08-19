@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Foco
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Capacidade de manter atenção concentrada em uma tarefa.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Deep-work]]
 - [[Pomodoro]]
 - [[Time-blocking]]
-
-[[Pessoal]]

@@ -13,23 +13,11 @@ updated: "2026-08-19"
 Tecnologia e computação organizados por categorias.
 
 ## Subáreas
-- [[Backend]]
-- [[Bancos-de-Dados]]
-- [[Busca-Binaria]]
-- [[Cloud-e-DevOps]]
-- [[Dados-e-IA]]
-- [[DevOps]]
-- [[Estudos-Cloud]]
-- [[Estudos-JOIN]]
-- [[Estudos-Redes]]
-- [[Estudos-Seguranca]]
-- [[Ferramentas]]
-- [[Frontend]]
-- [[Fundamentos]]
-- [[Linguagens]]
-- [[Programacao]]
-- [[Servidores]]
-- [[Teoria-da-Computacao]]
+- [[Estudos-Desenvolvimento]]
+- [[Estudos-Infraestrutura]]
+- [[Estudos-Dados]]
+- [[Estudos-Fundamentos]]
+- [[Estudos-Ferramentas]]
 
 ## Conexões
 - [[Home]]

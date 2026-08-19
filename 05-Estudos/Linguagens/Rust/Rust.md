@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Rust
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem de sistemas focada em segurança de memória e performance sem garbage collector.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Go]]
 - [[C]]
-- [[Memoria]]
-- [[Ponteiros]]
-
-[[Estudos]]

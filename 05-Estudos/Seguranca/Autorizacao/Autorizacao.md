@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Autorizacao
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Processo de definir o que o usuário autenticado pode fazer.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Autenticacao]]
 - [[RBAC]]
-- [[Auth]]
-
-[[Estudos]]

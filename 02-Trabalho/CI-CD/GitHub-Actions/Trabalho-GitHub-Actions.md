@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # GitHub-Actions
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Plataforma de CI/CD integrada ao GitHub via workflows.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Deploy]]
-
-[[Trabalho]]

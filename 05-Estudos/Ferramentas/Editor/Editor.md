@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Editor
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Ferramenta de edição de código, desde editores simples a IDEs completas.
 
@@ -21,7 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Vim]]
-- [[Debug]]
-- [[Programacao]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Redis
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Banco de dados em memória usado como cache, fila e store chave-valor.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Queue]]
 - [[Bancos-de-Dados]]
 - [[NoSQL]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Typescript
 
-#area/faculdade #hub
+#area/faculdade #faculdade/disciplinas #hub
 
 Subárea de **Faculdade** com conceitos da linguagem TypeScript.
 
@@ -18,5 +18,3 @@ Subárea de **Faculdade** com conceitos da linguagem TypeScript.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-
-[[Faculdade]]

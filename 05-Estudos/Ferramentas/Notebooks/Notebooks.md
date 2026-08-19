@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Notebooks
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Documentos que combinam código, texto e resultados.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Jupyter]]
-- [[Data-Science]]
-- [[Python]]
-- [[Pandas]]
-
-[[Estudos]]

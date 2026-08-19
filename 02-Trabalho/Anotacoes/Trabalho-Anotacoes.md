@@ -8,13 +8,12 @@ updated: "2026-08-16"
 
 # Trabalho-Anotacoes
 
-#area/trabalho
+#area/trabalho #trabalho/anotacoes
 
 Subárea de **Trabalho**.
 
 ## Notas
 - [[Anotacao-1on1]]
-- [[Anotacao-Cli]]
 - [[Anotacao-Codigo]]
 - [[Anotacao-Daily]]
 - [[Anotacao-Dica]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Diaria
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes-livres #conceito
 
 **Resumo:** Anotação livre sobre diaria: ideias e reflexões.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Anotacoes-Livres]]
 - [[Registro-Anotacoes]]
 - [[Anotacao-Ideia]]
-
-[[Pessoal]]

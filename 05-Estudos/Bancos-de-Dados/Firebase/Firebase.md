@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Firebase
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Plataforma da Google com banco em tempo real, auth e hosting.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[NoSQL]]
 - [[Auth]]
 - [[Frontend]]
-
-[[Estudos]]

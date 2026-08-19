@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Leitura
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Hobby de ler livros por prazer e conhecimento.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Habito-Leitura]]
 - [[Hobbies]]
-
-[[Pessoal]]

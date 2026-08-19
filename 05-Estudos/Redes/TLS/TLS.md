@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # TLS
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Protocolo de criptografia que protege a comunicação na internet.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[HTTPS]]
 - [[Criptografia]]
 - [[Handshake]]
-
-[[Estudos]]

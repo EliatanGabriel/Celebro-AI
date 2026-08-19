@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Rotina-Mensal
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de planejamento e revisão mensal.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Rotina-Semanal]]
 - [[Rotinas]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-Demo
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Apresentação das entregas da sprint para stakeholders.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Reuniao-Cliente]]
 - [[Reuniao-Planning]]
-
-[[Trabalho]]

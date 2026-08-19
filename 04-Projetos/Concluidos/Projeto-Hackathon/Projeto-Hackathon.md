@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Hackathon
 
-#area/projetos #conceito
+#area/projetos #projetos/concluidos #conceito
 
 **Resumo:** Projeto concluído sobre hackathon: resumo e aprendizados.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Concluidos]]
 - [[Projetos]]
 - [[Ativos]]
-
-[[Projetos]]

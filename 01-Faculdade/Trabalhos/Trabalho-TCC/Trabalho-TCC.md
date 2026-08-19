@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Trabalho-TCC
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/trabalhos #conceito
 
 **Resumo:** Trabalho de Conclusão de Curso.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Trabalhos]]
 - [[Metas-TCC]]
 - [[Faculdade]]
-
-[[Faculdade]]

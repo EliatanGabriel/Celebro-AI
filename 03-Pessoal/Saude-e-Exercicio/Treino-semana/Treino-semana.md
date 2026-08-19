@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Treino-semana
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Planejamento dos treinos da semana.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Cardio]]
 - [[Alongamento]]
 - [[Saude-e-Exercicio]]
-
-[[Pessoal]]

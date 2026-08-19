@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Staging
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Ambiente de testes que espelha produção antes do deploy final.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Producao]]
 - [[Deploy]]
 - [[Testes-API]]
-
-[[Trabalho]]

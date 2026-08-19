@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Componentes
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Blocos reutilizáveis de UI com estado e props.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Vue]]
 - [[Hooks]]
 - [[Frontend]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Landing
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de landing page ou página de conversão.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Projeto-Site-pessoal]]
 - [[Ideia-Site]]
 - [[Ideias]]
-
-[[Projetos]]

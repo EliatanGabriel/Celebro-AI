@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-App
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de aplicativo a desenvolver.
 
@@ -20,9 +20,6 @@ updated: "2026-08-16"
 - Viabilidade
 
 ## Relacionadas
-- [[Ideia-Negocio]]
 - [[Ideia-Saas]]
 - [[Ideias]]
 - [[Projeto-API]]
-
-[[Projetos]]

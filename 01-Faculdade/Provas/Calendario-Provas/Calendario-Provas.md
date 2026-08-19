@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Calendario-Provas
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Calendário com datas e disciplinas das provas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Provas]]
 - [[Revisao-Prova]]
 - [[Faculdade]]
-
-[[Faculdade]]

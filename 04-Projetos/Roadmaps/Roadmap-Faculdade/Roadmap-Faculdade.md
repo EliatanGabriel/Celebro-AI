@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Roadmap-Faculdade
 
-#area/projetos #conceito
+#area/projetos #projetos/roadmaps #conceito
 
 **Resumo:** Plano acadêmico da faculdade por semestre.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Roadmaps]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

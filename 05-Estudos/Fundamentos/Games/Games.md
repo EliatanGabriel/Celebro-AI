@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Games
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Desenvolvimento de jogos digitais combinando lógica, gráficos e interação.
 
@@ -20,9 +20,4 @@ updated: "2026-08-19"
 - Multijogador
 
 ## Relacionadas
-- [[Lua]]
-- [[JavaScript]]
-- [[IA]]
 - [[Performance]]
-
-[[Estudos]]

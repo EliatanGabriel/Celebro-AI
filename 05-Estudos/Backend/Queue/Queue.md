@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Queue
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Sistema de filas para processamento assíncrono de tarefas.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Redis]]
 - [[Backend]]
-- [[Microservicos]]
 - [[Caching]]
-
-[[Estudos]]

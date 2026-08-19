@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # PostgreSQL
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Banco relacional open-source robusto e avançado, referência em SQL.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Bancos-de-Dados]]
 - [[Transactions]]
-
-[[Estudos]]

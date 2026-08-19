@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Mobile
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Desenvolvimento de aplicativos para smartphones e tablets (Android/iOS).
 
@@ -20,9 +20,4 @@ updated: "2026-08-19"
 - App stores
 
 ## Relacionadas
-- [[5G]]
-- [[Biometria]]
-- [[PWA]]
-- [[Frontend]]
-
-[[Estudos]]
+- [[Ferramentas]]

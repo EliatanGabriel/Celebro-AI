@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Site
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de site ou página web.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Ideia-Landing]]
 - [[Projeto-Site-pessoal]]
 - [[Ideias]]
-
-[[Projetos]]

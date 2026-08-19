@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Aula 01 — Fundamentos de Banco de Dados, Dados, Informação e Sistemas
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/disciplinas #conceito
 
 **Resumo:** Conceitos fundamentais de bancos de dados: dado, conhecimento, processo e informação, além das características de uma boa informação e do princípio ELSL/GIGO.
 
@@ -315,5 +315,3 @@ Melhores decisões
 - [[Banco-de-Dados]]
 - [[Anotacoes]]
 - [[Faculdade]]
-
-[[Faculdade]]

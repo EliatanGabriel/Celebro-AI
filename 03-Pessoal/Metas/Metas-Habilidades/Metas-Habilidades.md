@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Habilidades
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de desenvolvimento de novas competências.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Metas-Estudos]]
 - [[Metas]]
-
-[[Pessoal]]

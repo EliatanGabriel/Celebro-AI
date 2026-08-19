@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Shell
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Interpretador de comandos do Unix (bash, zsh) para automação de tarefas.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Bash]]
-- [[Linux]]
-- [[Terminal]]
-- [[Scripts]]
-
-[[Estudos]]

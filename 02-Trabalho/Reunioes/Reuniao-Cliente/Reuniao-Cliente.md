@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-Cliente
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Reunião com cliente para alinhar expectativas e requisitos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Comunicacao-com-Devs]]
 - [[Reuniao-Demo]]
-
-[[Trabalho]]

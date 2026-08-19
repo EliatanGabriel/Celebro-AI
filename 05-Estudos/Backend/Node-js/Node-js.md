@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Node-js
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Runtime JavaScript no servidor baseado no motor V8, assíncrono e event-driven.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Express]]
 - [[Backend]]
 - [[APIs]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Faculdade
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo ligado à faculdade.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Ativos]]
 - [[Roadmap-Faculdade]]
-
-[[Projetos]]

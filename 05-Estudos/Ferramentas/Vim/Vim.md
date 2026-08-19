@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Vim
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Editor de texto modal e altamente configurável no terminal.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Linux]]
 - [[Editor]]
 - [[Zsh]]
-
-[[Estudos]]

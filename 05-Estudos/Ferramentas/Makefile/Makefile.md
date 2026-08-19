@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Makefile
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Arquivo de automação de builds e tarefas com make.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Terminal]]
 - [[Scripts]]
-- [[DevOps]]
 - [[Cron]]
-
-[[Estudos]]

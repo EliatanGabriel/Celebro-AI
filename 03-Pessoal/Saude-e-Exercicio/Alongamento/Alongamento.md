@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Alongamento
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Prática de alongar músculos para flexibilidade e recuperação.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Postura]]
 - [[Treino-semana]]
 - [[Habito-Postura]]
-
-[[Pessoal]]

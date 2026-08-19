@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Postman
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Ferramenta para testar e documentar APIs.
 
@@ -20,8 +20,4 @@ updated: "2026-08-19"
 - Documentação
 
 ## Relacionadas
-- [[APIs]]
-- [[REST]]
 - [[Ferramentas]]
-
-[[Estudos]]

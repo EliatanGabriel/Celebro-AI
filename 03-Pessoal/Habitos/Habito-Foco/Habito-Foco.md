@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Foco
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de concentrar a atenção em uma tarefa por vez.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Pomodoro]]
 - [[Deep-work]]
 - [[Habitos]]
-
-[[Pessoal]]

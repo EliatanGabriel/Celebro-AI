@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Paradigmas
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Estilos de programação: imperativo, funcional, OO, declarativo.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Orientacao-a-Objetos]]
 - [[Programacao-Funcional]]
 - [[Programacao]]
-
-[[Estudos]]

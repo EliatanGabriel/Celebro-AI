@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Networking
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Construção de rede de contatos profissionais e pessoais.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Colegas]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

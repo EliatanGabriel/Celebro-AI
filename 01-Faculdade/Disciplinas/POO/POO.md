@@ -8,8 +8,9 @@ updated: "2026-08-19"
 
 # POO
 
-#area/faculdade
+#area/faculdade #faculdade/disciplinas
 
 Subárea de **Faculdade**.
 
-[[Faculdade]]
+[[Disciplinas]]
+

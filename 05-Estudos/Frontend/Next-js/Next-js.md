@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Next-js
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Framework React para SSR, SSG e rotas baseadas em arquivos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[SEO]]
 - [[Frontend]]
 - [[Performance-Frontend]]
-
-[[Estudos]]

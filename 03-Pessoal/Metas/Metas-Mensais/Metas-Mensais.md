@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Mensais
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas definidas e acompanhadas a cada mês.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Metas-Semanais]]
 - [[Metas-Anuais]]
 - [[Metas]]
-
-[[Pessoal]]

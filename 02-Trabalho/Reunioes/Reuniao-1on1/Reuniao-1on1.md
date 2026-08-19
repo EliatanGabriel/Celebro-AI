@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-1on1
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Reunião individual entre gestor e colaborador para alinhamento.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Feedback]]
 - [[Metas-Leadership]]
-
-[[Trabalho]]

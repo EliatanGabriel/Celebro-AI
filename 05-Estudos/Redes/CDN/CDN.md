@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # CDN
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Rede de distribuição de conteúdo que serve dados de pontos próximos.
 
@@ -21,8 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[CloudFront]]
-- [[Caching]]
-- [[Performance-Frontend]]
 - [[Latencia]]
-
-[[Estudos]]

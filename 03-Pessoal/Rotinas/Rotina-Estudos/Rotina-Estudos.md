@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Estudos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de estudos com regularidade e foco.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Semanal]]
 - [[Rotina-Trabalho]]
 - [[Rotinas]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # HTTPS
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** HTTP com criptografia TLS, padrão de segurança para sites.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - SEO
 
 ## Relacionadas
-- [[HTTP]]
 - [[TLS]]
 - [[Criptografia]]
-
-[[Estudos]]

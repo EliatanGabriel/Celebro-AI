@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Musica
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Hobby de ouvir e descobrir música.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Hobbies]]
 - [[Series]]
 - [[Habito-Meditacao]]
-
-[[Pessoal]]

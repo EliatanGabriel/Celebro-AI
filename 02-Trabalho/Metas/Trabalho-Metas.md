@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Trabalho-Metas
 
-#area/trabalho
+#area/trabalho #trabalho/metas
 
 Subárea de **Trabalho**.
 
@@ -23,3 +23,4 @@ Subárea de **Trabalho**.
 - [[Trabalho-Metas-Habilidades]]
 
 [[Trabalho]]
+

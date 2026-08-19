@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Firewall
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Dispositivo que controla tráfego de rede por regras de segurança.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[VPN]]
 - [[Zero-Trust]]
-
-[[Estudos]]

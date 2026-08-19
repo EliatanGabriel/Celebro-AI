@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Habito-Sono
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de dormir e acordar em horários regulares.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Sono]]
 - [[Habito-Rotina-noite]]
 - [[Habitos]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Protocolos
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Regras e formatos que padronizam a comunicação entre sistemas na rede.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[OSI]]
 - [[TCP]]
 - [[UDP]]
-- [[HTTP]]
-
-[[Estudos]]

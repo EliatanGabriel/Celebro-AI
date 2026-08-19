@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # CI-CD-Conceito
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Integração e entrega contínuas: automatizar build, teste e deploy.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[DevOps]]
 - [[GitHub-Actions]]
 - [[Jenkins]]
-
-[[Estudos]]

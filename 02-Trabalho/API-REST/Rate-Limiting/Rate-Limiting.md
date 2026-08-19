@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rate-Limiting
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Controle do número de requisições permitidas por janela de tempo.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Status-Codes]]
 - [[Endpoints]]
 - [[Paginacao]]
-
-[[Trabalho]]

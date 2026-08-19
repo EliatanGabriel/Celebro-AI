@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Renda
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Fontes de receita mensal e gestão dos ganhos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Renda-passiva]]
 - [[Impostos]]
 - [[Metas-financeiras]]
-
-[[Pessoal]]

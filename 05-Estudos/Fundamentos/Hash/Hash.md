@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Hash
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Função que mapeia dados para índices, base de hash tables e criptografia.
 
@@ -20,9 +20,4 @@ updated: "2026-08-19"
 - Criptografia
 
 ## Relacionadas
-- [[Criptografia]]
-- [[Hashing]]
 - [[Estruturas-de-Dados]]
-- [[Redis]]
-
-[[Estudos]]

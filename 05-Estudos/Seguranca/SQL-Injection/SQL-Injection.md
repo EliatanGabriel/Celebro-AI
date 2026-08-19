@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # SQL-Injection
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Ataque que injeta comandos SQL maliciosos em queries.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[OWASP]]
 - [[XSS]]
-
-[[Estudos]]

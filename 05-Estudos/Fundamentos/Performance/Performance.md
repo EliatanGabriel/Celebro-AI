@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Performance
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Capacidade de um sistema executar tarefas com bom uso de tempo e recursos.
 
@@ -20,9 +20,4 @@ updated: "2026-08-19"
 - Escalabilidade
 
 ## Relacionadas
-- [[Latencia]]
-- [[Indexes]]
 - [[Memoria]]
-- [[Caching]]
-
-[[Estudos]]

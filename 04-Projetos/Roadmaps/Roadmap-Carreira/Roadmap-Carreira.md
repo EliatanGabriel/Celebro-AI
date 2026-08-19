@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Roadmap-Carreira
 
-#area/projetos #conceito
+#area/projetos #projetos/roadmaps #conceito
 
 **Resumo:** Plano de evolução da carreira em etapas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Roadmaps]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

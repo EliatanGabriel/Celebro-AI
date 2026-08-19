@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Navegação
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Processo de acessar recursos na web via navegadores e resolução de DNS.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[DNS]]
-- [[HTTP]]
-- [[Browsers-DevTools]]
-- [[Firefox]]
-
-[[Estudos]]

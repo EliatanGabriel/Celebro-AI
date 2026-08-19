@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # PHP
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem server-side dominante em sites dinâmicos, base do WordPress.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[JavaScript]]
 - [[Backend]]
 - [[HTTP]]
-
-[[Estudos]]

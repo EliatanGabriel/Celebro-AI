@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ferramentas
 
-#area/trabalho
+#area/trabalho #trabalho/ferramentas
 
 Subárea de **Trabalho**.
 
@@ -18,10 +18,7 @@ Subárea de **Trabalho**.
 - [[Miro]]
 - [[Notion]]
 - [[Slack]]
-- [[Trabalho-Docker]]
-- [[Trabalho-Figma]]
 - [[Trabalho-Git]]
-- [[Trabalho-GitHub]]
 - [[Trabalho-Postman]]
 - [[Trabalho-Terminal]]
 - [[Trabalho-VS-Code]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Scikit-Learn
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Biblioteca Python de ML com algoritmos prontos e APIs simples.
 
@@ -21,8 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Machine-Learning]]
-- [[Python]]
 - [[Regressao]]
 - [[Classificacao]]
-
-[[Estudos]]

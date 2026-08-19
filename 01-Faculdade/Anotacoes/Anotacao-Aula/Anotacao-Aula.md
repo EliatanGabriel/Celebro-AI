@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Aula
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/anotacoes #conceito
 
 **Resumo:** Anotações das aulas das disciplinas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Anotacoes]]
 - [[Faculdade]]
-
-[[Faculdade]]

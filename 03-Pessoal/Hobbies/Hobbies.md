@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Hobbies
 
-#area/pessoal
+#area/pessoal #pessoal/hobbies
 
 Subárea de **Pessoal**.
 
@@ -25,3 +25,4 @@ Subárea de **Pessoal**.
 - [[Series]]
 
 [[Pessoal]]
+

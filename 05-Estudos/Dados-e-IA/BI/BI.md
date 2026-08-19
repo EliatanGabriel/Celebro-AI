@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # BI
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Business Intelligence: análise de dados para decisões de negócio.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Data-Science]]
 - [[ETL]]
-- [[Bancos-de-Dados]]
-
-[[Estudos]]

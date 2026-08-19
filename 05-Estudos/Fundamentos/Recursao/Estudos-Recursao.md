@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Recursao
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Técnica em que uma função chama a si mesma para resolver subproblemas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Fundamentos]]
 - [[Algoritmos]]
-
-[[Estudos]]

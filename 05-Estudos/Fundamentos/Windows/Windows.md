@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Windows
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Sistema operacional da Microsoft amplamente usado em desktops e servidores.
 
@@ -20,9 +20,4 @@ updated: "2026-08-19"
 - Active Directory
 
 ## Relacionadas
-- [[PowerShell]]
 - [[Sistemas]]
-- [[Linux]]
-- [[Servidores]]
-
-[[Estudos]]

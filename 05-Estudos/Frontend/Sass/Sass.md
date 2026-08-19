@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Sass
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Pré-processador CSS com variáveis, nesting e mixins.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Frontend]]
 - [[Tailwind]]
-
-[[Estudos]]

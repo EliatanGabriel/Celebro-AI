@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # TCP-IP
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Conjunto de protocolos da internet, modelo em 4 camadas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[OSI]]
 - [[TCP]]
 - [[IP]]
-
-[[Estudos]]

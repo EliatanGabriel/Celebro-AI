@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Saude
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de saúde física e mental.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Metas]]
-
-[[Pessoal]]

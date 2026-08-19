@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # TCP
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Protocolo confiável orientado a conexão, com garantia de entrega.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[UDP]]
 - [[IP]]
 - [[Handshake]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Procastinacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Adiamento de tarefas e estratégias para evitá-lo.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Saude-mental]]
-
-[[Pessoal]]

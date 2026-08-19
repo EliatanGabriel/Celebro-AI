@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ambiente Local Laravel Vite
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ambiente-local-laravel-vite #conceito
 
 **Resumo:** Configuração de ambiente de desenvolvimento Laravel com Vite.
 
@@ -22,3 +22,4 @@ updated: "2026-08-16"
 ## Relacionadas
 
 [[Trabalho]]
+

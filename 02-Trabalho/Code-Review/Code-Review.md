@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Code-Review
 
-#area/trabalho #hub
+#area/trabalho #trabalho/code-review #hub
 
 Subárea de **Trabalho** com práticas de revisão de código.
 
@@ -30,3 +30,4 @@ Subárea de **Trabalho** com práticas de revisão de código.
 - [[Trabalho-CI-CD]]
 
 [[Trabalho]]
+

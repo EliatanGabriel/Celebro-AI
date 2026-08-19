@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Daily
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/anotacoes #conceito
 
 **Resumo:** Anotações rápidas da reunião diária.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Reuniao-Daily]]
 - [[Comunicacao-com-Devs]]
-
-[[Trabalho]]

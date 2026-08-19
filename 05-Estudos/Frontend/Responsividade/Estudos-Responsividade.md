@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Responsividade
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Capacidade de uma interface se adaptar a diferentes tamanhos de tela.
 
@@ -21,6 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Frontend]]
-- [[Mobile]]
-
-[[Estudos]]

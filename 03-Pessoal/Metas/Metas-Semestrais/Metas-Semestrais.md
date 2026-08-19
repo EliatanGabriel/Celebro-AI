@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Semestrais
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de médio prazo para o semestre.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Metas-Anuais]]
 - [[Metas-Mensais]]
 - [[Metas]]
-
-[[Pessoal]]

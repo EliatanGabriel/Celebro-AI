@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Elasticsearch
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Motor de busca distribuído baseado em Lucene, usado em logs e pesquisa.
 
@@ -21,8 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Bancos-de-Dados]]
-- [[Observability]]
-- [[Logging]]
 - [[NoSQL]]
-
-[[Estudos]]

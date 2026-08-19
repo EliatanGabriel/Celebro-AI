@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Financas Pessoais
 
-#area/pessoal
+#area/pessoal #pessoal/financas-pessoais
 
 Subárea de **Pessoal**.
 
@@ -25,3 +25,4 @@ Subárea de **Pessoal**.
 - [[Renda-passiva]]
 
 [[Pessoal]]
+

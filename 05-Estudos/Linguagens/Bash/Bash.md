@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Bash
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Shell mais comum em sistemas Unix/Linux, usado para scripts de automação.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Shell]]
-- [[Linux]]
-- [[Cron]]
-- [[Scripts]]
-
-[[Estudos]]

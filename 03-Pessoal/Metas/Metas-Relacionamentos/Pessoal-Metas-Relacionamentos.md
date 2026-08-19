@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Relacionamentos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas para nutrir relações com pessoas queridas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Relacionamentos]]
 - [[Agradecimentos]]
 - [[Metas-Felizes]]
-
-[[Pessoal]]

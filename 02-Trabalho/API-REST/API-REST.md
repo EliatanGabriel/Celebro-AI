@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # API-REST
 
-#area/trabalho #hub
+#area/trabalho #trabalho/api-rest #hub
 
 Subárea de **Trabalho** com conceitos de desenvolvimento e consumo de APIs REST.
 
@@ -31,3 +31,4 @@ Subárea de **Trabalho** com conceitos de desenvolvimento e consumo de APIs REST
 - [[Testes-Automatizados]]
 
 [[Trabalho]]
+

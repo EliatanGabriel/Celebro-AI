@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projetos Ativos
 
-#area/projetos
+#area/projetos #projetos/ativos
 
 Subárea de **Projetos**.
 
@@ -27,3 +27,4 @@ Subárea de **Projetos**.
 - [[Projeto-Site-pessoal]]
 
 [[Projetos]]
+

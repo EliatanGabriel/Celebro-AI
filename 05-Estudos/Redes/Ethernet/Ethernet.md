@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ethernet
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Tecnologia de rede com fio mais usada em LANs, definida pelo padrão IEEE 802.3.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Switching]]
 - [[Wi-Fi]]
 - [[Protocolos]]
-
-[[Estudos]]

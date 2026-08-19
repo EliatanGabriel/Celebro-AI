@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Agentes-IA
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Sistemas autônomos que planejam e executam tarefas com ferramentas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Prompts]]
 - [[IA]]
 - [[RAG]]
-
-[[Estudos]]

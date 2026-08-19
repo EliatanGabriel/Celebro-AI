@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # EC2
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Amazon Elastic Compute Cloud: servidores virtuais na AWS.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[AWS]]
 - [[VPC]]
 - [[Servidores]]
-
-[[Estudos]]

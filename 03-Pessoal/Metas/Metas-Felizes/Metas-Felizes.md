@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Felizes
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas voltadas à felicidade, bem-estar e qualidade de vida.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Metas-Crescimento]]
-
-[[Pessoal]]

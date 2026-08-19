@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Passeio
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes #conceito
 
 **Resumo:** Registro de passeios e lugares visitados.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Caminhadas]]
 - [[Hobbies]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

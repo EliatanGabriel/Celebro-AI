@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Salario
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Metas de remuneração e negociação salarial.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Metas-Promocao]]
 - [[Metas-Trimestrais]]
-
-[[Trabalho]]

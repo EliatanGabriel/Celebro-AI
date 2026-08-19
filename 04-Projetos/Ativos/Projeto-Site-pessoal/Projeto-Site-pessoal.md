@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Site-pessoal
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo de desenvolvimento do site pessoal.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Projeto-Portfolio]]
 - [[Ativos]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

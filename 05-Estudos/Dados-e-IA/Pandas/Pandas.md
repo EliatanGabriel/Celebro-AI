@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Pandas
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Biblioteca Python para manipulação e análise de dados tabulares.
 
@@ -20,9 +20,6 @@ updated: "2026-08-19"
 - Séries
 
 ## Relacionadas
-- [[Python]]
 - [[Data-Science]]
 - [[NumPy]]
 - [[Datasets]]
-
-[[Estudos]]

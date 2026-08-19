@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ambiente
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Contexto de hardware, sistema e configuração onde o bug foi reproduzido.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Steps-to-reproduce]]
 - [[Evidencias]]
 - [[Reproducao]]
-
-[[Trabalho]]

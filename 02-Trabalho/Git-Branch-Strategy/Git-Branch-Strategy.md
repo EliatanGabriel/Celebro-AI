@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Git Branch Strategy
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/git-branch-strategy #conceito
 
 **Resumo:** Convenções de branches para organização do desenvolvimento.
 
@@ -23,3 +23,4 @@ updated: "2026-08-16"
 - [[Conflitos]]
 
 [[Trabalho]]
+

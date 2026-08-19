@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # VS-Code
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Editor de código leve e extensível da Microsoft.
 
@@ -21,4 +21,5 @@ updated: "2026-08-16"
 
 ## Relacionadas
 
-[[Trabalho]]
+[[Trabalho-Ferramentas]]
+

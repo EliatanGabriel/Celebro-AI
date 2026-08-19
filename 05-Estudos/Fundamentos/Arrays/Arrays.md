@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Arrays
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Coleção ordenada de elementos acessados por índice.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Listas]]
 - [[Estruturas-de-Dados]]
 - [[Algoritmos]]
-
-[[Estudos]]

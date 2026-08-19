@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Flask
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Micro-framework do Python, leve e flexível para APIs e aplicações pequenas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Backend]]
 - [[REST]]
 - [[FastAPI]]
-
-[[Estudos]]

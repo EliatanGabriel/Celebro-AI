@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Acessibilidade
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Práticas que tornam interfaces utilizáveis por todas as pessoas.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Frontend]]
-
-[[Estudos]]

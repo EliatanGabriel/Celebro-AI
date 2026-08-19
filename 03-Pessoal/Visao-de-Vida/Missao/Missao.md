@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Missao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Declaração do propósito que guia suas ações.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Visao-10-anos]]
 - [[Identidade]]
 - [[Plano-de-vida]]
-
-[[Pessoal]]

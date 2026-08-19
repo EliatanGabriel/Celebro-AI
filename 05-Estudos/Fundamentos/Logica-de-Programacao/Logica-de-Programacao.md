@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Logica-de-Programacao
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Capacidade de estruturar sequências de instruções para resolver problemas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Logica]]
 - [[Algoritmos]]
 - [[Programacao]]
-
-[[Estudos]]

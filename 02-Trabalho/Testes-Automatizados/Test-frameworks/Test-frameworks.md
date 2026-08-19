@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Test-frameworks
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Bases que fornecem estrutura, asserções e execução de testes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Unit-testing]]
 - [[Mocks]]
 - [[Cypress]]
-
-[[Trabalho]]

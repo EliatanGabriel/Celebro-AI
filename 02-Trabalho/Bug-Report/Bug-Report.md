@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Bug-Report
 
-#area/trabalho #hub
+#area/trabalho #trabalho/bug-report #hub
 
 Subárea de **Trabalho** com conceitos e boas práticas de reporte de bugs.
 
@@ -31,3 +31,4 @@ Subárea de **Trabalho** com conceitos e boas práticas de reporte de bugs.
 - [[Testes-Automatizados]]
 
 [[Trabalho]]
+

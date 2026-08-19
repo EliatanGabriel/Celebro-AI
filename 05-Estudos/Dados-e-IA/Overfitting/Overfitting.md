@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Overfitting
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Modelo que decora o treino e falha em dados novos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Datasets]]
 - [[Feature-Engineering]]
 - [[Modelos]]
-
-[[Estudos]]

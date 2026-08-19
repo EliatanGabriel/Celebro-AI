@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Corporate Communication and Tech Workplace English
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/disciplinas #conceito
 
 **Resumo:** Comunicação corporativa e inglês técnico para o ambiente de trabalho em tecnologia: comunicação interna e externa, terminologia, inglês como língua franca, e-mail, reuniões, apresentações e comunicação intercultural.
 
@@ -539,5 +539,3 @@ Corporate Communication · Tech Workplace English · Technical English · Busine
 
 - [[Ingles-Profissional]]
 - [[Faculdade]]
-
-[[Faculdade]]

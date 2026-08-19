@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Git
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Sistema de controle de versão distribuído usado em projetos de software.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Git-Branch-Strategy]]
 - [[Conflitos]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Trabalhos
 
-#area/faculdade
+#area/faculdade #faculdade/trabalhos
 
 Subárea de **Faculdade**.
 
@@ -25,3 +25,4 @@ Subárea de **Faculdade**.
 - [[Trabalho-TCC]]
 
 [[Faculdade]]
+

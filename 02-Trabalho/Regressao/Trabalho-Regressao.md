@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Regressao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/regressao #conceito
 
 **Resumo:** Verificação de que mudanças não quebraram funcionalidades existentes.
 
@@ -24,3 +24,4 @@ updated: "2026-08-16"
 - [[Testes-Automatizados]]
 
 [[Trabalho]]
+

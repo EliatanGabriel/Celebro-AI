@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Leitura
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de quantidade e qualidade de leitura.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Leitura]]
 - [[Habito-Leitura]]
-
-[[Pessoal]]

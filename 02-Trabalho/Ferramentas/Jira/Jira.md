@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Jira
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Ferramenta de gestão de projetos ágeis com issues e boards.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Trello]]
 - [[Prioridade-de-Bugs]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Cypress
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Framework de testes E2E moderno para aplicações web.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[E2E]]
 - [[Test-frameworks]]
 - [[Testes-Automatizados]]
-
-[[Trabalho]]

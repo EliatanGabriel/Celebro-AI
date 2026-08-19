@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Forum
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/anotacoes #conceito
 
 **Resumo:** Anotações de participações em fóruns acadêmicos.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Anotacoes]]
 - [[Anotacao-Aula]]
 - [[Faculdade]]
-
-[[Faculdade]]

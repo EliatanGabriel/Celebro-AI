@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Programacao-Funcional
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Paradigma baseado em funções puras e imutabilidade.
 
@@ -20,8 +20,4 @@ updated: "2026-08-19"
 - Sem efeitos colaterais
 
 ## Relacionadas
-- [[Scala]]
 - [[Paradigmas]]
-- [[JavaScript]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Filme
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes #conceito
 
 **Resumo:** Registro de filmes assistidos, com impressões e recomendações.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Series]]
 - [[Anotacao-Musica]]
 - [[Hobbies]]
-
-[[Pessoal]]

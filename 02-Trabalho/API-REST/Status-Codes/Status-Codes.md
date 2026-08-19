@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Status-Codes
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Códigos padronizados que indicam o resultado de uma requisição.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Metodos-HTTP]]
 - [[Endpoints]]
 - [[Rate-Limiting]]
-
-[[Trabalho]]

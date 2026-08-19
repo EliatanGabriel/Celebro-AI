@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Leitura
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de ler regularmente para crescimento e lazer.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Leitura]]
 - [[Habitos]]
-
-[[Pessoal]]

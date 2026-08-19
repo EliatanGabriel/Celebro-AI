@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Checkup
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude #conceito
 
 **Resumo:** Exames e consultas regulares de rotina.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Consulta-2026]]
 - [[Historico-saude]]
 - [[Saude]]
-
-[[Pessoal]]

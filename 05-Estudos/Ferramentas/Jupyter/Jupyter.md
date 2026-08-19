@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Jupyter
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Ambiente interativo de notebooks para ciência de dados.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Notebooks]]
-- [[Python]]
-- [[Data-Science]]
-- [[Pandas]]
-
-[[Estudos]]

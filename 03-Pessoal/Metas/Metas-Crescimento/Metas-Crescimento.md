@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Crescimento
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de desenvolvimento pessoal e evolução contínua.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Metas-Felizes]]
 - [[Objetivos-de-Vida]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Eventos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Ocasões sociais e encontros com pessoas importantes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Amigos]]
 - [[Anotacao-Saida]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

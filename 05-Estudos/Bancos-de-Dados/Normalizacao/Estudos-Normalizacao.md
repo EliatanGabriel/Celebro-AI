@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Normalizacao
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Processo de organizar tabelas para reduzir redundância e anomalias.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Bancos-de-Dados]]
-
-[[Estudos]]

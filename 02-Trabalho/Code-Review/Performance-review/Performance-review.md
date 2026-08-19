@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Performance-review
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Revisão focada em eficiência e uso de recursos do código.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Refatoracao]]
 - [[Monitoramento]]
-
-[[Trabalho]]

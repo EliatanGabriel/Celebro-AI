@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Habito-Reflexao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de refletir sobre o dia e os aprendizados.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Habito-Journal]]
 - [[Habito-Gratidao]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Carreira
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de evolução e direção profissional.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Metas-Trabalho]]
 - [[Metas-Habilidades]]
 - [[Metas]]
-
-[[Pessoal]]

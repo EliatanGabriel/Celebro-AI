@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Manha
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina matinal que prepara para um bom dia.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Semanal]]
 - [[Rotina-Trabalho]]
 - [[Rotinas]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Cozinha
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Hobby de cozinhar e explorar receitas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Alimentacao]]
 - [[Nutricao]]
 - [[Hobbies]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Credenciais
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Conjunto de identificadores (usuário/senha, chaves, tokens) que provam identidade.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[MFA]]
 - [[Senhas]]
 - [[Env]]
-
-[[Estudos]]

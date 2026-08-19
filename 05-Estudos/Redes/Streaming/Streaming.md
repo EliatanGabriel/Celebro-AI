@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Streaming
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Entrega contínua de mídia sob demanda pela rede, sensível a latência.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[CDN]]
 - [[Latencia]]
 - [[Largura-de-Banda]]
-
-[[Estudos]]

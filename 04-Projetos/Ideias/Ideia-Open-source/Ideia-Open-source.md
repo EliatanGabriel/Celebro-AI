@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Open-source
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de projeto open source para contribuir ou criar.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Ideia-Ferramenta]]
 - [[Ideias]]
-
-[[Projetos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Registro-Anotacoes
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/registros #conceito
 
 **Resumo:** Registro contínuo de anotacoes para acompanhamento e reflexão.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Registros]]
-
-[[Pessoal]]

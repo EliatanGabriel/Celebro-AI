@@ -8,8 +8,9 @@ updated: "2026-08-19"
 
 # Algoritmo e Lógica de Programação
 
-#area/faculdade
+#area/faculdade #faculdade/disciplinas
 
 Subárea de **Faculdade**.
 
-[[Faculdade]]
+[[Disciplinas]]
+

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Containers
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Unidades leves de software que empacotam código e dependências para rodar em qualquer lugar.
 
@@ -21,8 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Docker]]
-- [[Docker-Desktop]]
 - [[Kubernetes]]
 - [[DevOps]]
-
-[[Estudos]]

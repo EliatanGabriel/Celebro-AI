@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # XSS
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Cross-Site Scripting: injeta scripts no navegador da vítima.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[OWASP]]
 - [[CSRF]]
-- [[Frontend]]
-
-[[Estudos]]

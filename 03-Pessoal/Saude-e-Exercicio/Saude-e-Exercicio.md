@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Saude e Exercicio
 
-#area/pessoal
+#area/pessoal #pessoal/saude-e-exercicio
 
 **Resumo:** Subárea de **Pessoal** com saúde física e exercícios.
 

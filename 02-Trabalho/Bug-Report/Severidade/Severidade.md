@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Severidade
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Grau de impacto do bug no funcionamento do sistema.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Prioridade]]
 - [[Expected-vs-actual]]
 - [[Bug-Report]]
-
-[[Trabalho]]

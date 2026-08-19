@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Roadmap-Estudos
 
-#area/projetos #conceito
+#area/projetos #projetos/roadmaps #conceito
 
 **Resumo:** Plano de estudos com trilhas e metas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Roadmaps]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

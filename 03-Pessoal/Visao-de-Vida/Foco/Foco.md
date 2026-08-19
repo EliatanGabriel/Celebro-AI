@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Foco
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Definição das prioridades que devem receber sua atenção.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Prioridades]]
 
 - [[Plano-de-vida]]
-
-[[Pessoal]]

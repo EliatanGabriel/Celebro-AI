@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Fotografia
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Hobby de fotografar e registrar momentos.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Caminhadas]]
 - [[Anotacao-Passeio]]
 - [[Hobbies]]
-
-[[Pessoal]]

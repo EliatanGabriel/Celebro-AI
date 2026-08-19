@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Build
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Compilação e empacotamento do código em artefatos executáveis.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Artefatos]]
 - [[Deploy]]
-
-[[Trabalho]]

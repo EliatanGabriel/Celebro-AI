@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Monitoring
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Coleta de métricas e estado dos sistemas para acompanhamento.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Logging]]
 - [[Alerting]]
 - [[DevOps]]
-
-[[Estudos]]

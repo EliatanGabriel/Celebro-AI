@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Terminal
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Interface de linha de comando para executar comandos e scripts.
 
@@ -21,4 +21,5 @@ updated: "2026-08-16"
 
 ## Relacionadas
 
-[[Trabalho]]
+[[Trabalho-Ferramentas]]
+

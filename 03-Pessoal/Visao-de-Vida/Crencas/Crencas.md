@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Crencas
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Crenças que sustentam ou limitam sua jornada.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Identidade]]
 - [[Valores]]
-
-[[Pessoal]]

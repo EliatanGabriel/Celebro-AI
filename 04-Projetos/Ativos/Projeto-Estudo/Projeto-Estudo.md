@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Estudo
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo voltado ao estudo e aprendizado.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Roadmap-Estudos]]
 - [[Ativos]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

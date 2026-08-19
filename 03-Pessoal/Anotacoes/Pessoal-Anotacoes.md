@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Pessoal-Anotacoes
 
-#area/pessoal
+#area/pessoal #pessoal/anotacoes
 
 Subárea de **Pessoal**.
 
@@ -23,3 +23,4 @@ Subárea de **Pessoal**.
 - [[Pessoal-Anotacao-Ideia]]
 
 [[Pessoal]]
+

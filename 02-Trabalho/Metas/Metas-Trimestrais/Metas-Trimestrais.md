@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Trimestrais
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Objetivos de curto prazo revisados a cada trimestre.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Metas-Projetos-Trab]]
-
-[[Trabalho]]

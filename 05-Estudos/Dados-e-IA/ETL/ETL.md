@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # ETL
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Extract, Transform, Load: pipeline de dados entre sistemas.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[BI]]
 - [[Data-Science]]
-- [[Pipeline]]
-- [[Bancos-de-Dados]]
-
-[[Estudos]]

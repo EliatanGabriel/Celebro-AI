@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Agua
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de manter hidratação adequada ao longo do dia.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Hidratacao]]
 - [[Nutricao]]
 - [[Habitos]]
-
-[[Pessoal]]

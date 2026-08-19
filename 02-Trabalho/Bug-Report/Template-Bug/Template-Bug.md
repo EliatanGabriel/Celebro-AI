@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Template-Bug
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Modelo padronizado para reportar bugs de forma completa e clara.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Steps-to-reproduce]]
 - [[Severidade]]
 - [[Prioridade]]
-
-[[Trabalho]]

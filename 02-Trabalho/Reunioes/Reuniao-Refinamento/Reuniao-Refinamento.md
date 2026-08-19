@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-Refinamento
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Sessão para detalhar e priorizar itens do backlog.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Reuniao-Planning]]
 - [[Jira]]
-
-[[Trabalho]]

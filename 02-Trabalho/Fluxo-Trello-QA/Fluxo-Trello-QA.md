@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Fluxo Trello QA
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/fluxo-trello-qa #conceito
 
 **Resumo:** Fluxo de trabalho do time de QA usando o Trello.
 
@@ -25,3 +25,4 @@ updated: "2026-08-16"
 - [[Bug-Report]]
 
 [[Trabalho]]
+

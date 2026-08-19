@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Backend
 
-#area/estudos
+#area/estudos #estudos/backend
 
 Subárea de **Estudos**.
 
@@ -16,7 +16,6 @@ Subárea de **Estudos**.
 - [[APIs]]
 - [[Auth]]
 - [[Caching]]
-- [[Cookies]]
 - [[Django]]
 - [[Express]]
 - [[FastAPI]]
@@ -38,4 +37,4 @@ Subárea de **Estudos**.
 - [[Sessions]]
 - [[Spring]]
 - [[WebSocket]]
-[[Estudos]]
+[[Estudos-Desenvolvimento]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Eclipse
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** IDE open-source clássica, usada em Java e outras linguagens.
 
@@ -21,8 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[IntelliJ]]
-- [[Java]]
 - [[Ferramentas]]
 - [[VS-Code]]
-
-[[Estudos]]

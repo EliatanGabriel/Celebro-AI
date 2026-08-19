@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ataques
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Tipos de ameaças: phishing, DoS, malware, engenharia social etc.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[OWASP]]
 - [[Phishing]]
 - [[Ransomware]]
-
-[[Estudos]]

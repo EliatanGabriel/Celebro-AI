@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Hooks
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Funções React que permitem usar estado e efeitos em componentes funcionais.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Componentes]]
 - [[Props]]
 - [[Frontend]]
-
-[[Estudos]]

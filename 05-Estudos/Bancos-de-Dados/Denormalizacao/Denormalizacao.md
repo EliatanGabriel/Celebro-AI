@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Denormalizacao
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Introduzir redundância controlada para melhorar performance de leitura.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Indexes]]
 - [[Bancos-de-Dados]]
 - [[Caching]]
-
-[[Estudos]]

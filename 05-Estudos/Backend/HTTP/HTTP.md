@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # HTTP
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Protocolo de comunicação da web que define como clientes e servidores trocam dados.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[REST]]
 - [[APIs]]
-- [[HTTPS]]
-- [[TLS]]
-
-[[Estudos]]

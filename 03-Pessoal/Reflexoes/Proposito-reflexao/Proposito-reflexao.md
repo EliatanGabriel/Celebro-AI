@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Proposito-reflexao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão contínua sobre propósito e direção.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Reflexoes-Reflexoes]]
-
-[[Pessoal]]

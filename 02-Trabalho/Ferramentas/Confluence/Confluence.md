@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Confluence
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Wiki corporativa para documentação colaborativa da equipe.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Notion]]
 - [[Documentacao-API]]
-
-[[Trabalho]]

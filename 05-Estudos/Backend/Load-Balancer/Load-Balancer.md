@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Load-Balancer
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Distribui tráfego entre múltiplos servidores para alta disponibilidade.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Proxy]]
-
-[[Estudos]]

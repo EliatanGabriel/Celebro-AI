@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Diagnostico
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Identificação de falhas de rede usando ferramentas de teste e monitoramento.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[ICMP]]
 - [[TCP]]
 - [[Latencia]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Time-blocking
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Técnica de alocar blocos de tempo para tarefas específicas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Pomodoro]]
 - [[Deep-work]]
-
-[[Pessoal]]

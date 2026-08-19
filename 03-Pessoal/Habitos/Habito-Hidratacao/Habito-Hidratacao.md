@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Hidratacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de beber água em intervalos regulares.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Hidratacao]]
 - [[Nutricao]]
 - [[Habitos]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ransomware
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Malware que sequestra dados e exige resgate.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Antivirus]]
 - [[Phishing]]
-
-[[Estudos]]

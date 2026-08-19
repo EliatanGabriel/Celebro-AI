@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Renda-passiva
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Ganhos recorrentes gerados sem trabalho ativo contínuo.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Renda]]
 - [[Metas-financeiras]]
 - [[Poupanca]]
-
-[[Pessoal]]

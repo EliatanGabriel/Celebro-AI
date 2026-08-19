@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Dica
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/anotacoes #conceito
 
 **Resumo:** Registro de dicas e truques úteis aprendidos no dia a dia.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Anotacao-Codigo]]
 - [[Anotacao-Erro]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Futebol
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Prática e acompanhamento de futebol como hobby.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Cardio]]
 - [[Hobbies]]
 - [[Amigos]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reunioes
 
-#area/trabalho
+#area/trabalho #trabalho/reunioes
 
 Subárea de **Trabalho**.
 
@@ -22,3 +22,4 @@ Subárea de **Trabalho**.
 - [[Reuniao-Retro]]
 - [[Reuniao-Tecnica]]
 [[Trabalho]]
+

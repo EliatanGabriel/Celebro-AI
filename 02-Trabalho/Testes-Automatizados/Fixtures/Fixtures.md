@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Fixtures
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Dados fixos usados para manter testes determinísticos.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Mocks]]
 - [[Test-frameworks]]
 - [[Testes-Automatizados]]
-
-[[Trabalho]]

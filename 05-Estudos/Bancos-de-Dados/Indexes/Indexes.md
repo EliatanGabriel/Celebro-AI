@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Indexes
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Estruturas que aceleram buscas no banco às custas de espaço/escrita.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - Trade-off
 
 ## Relacionadas
-- [[Performance]]
 - [[Bancos-de-Dados]]
 - [[PostgreSQL]]
-
-[[Estudos]]

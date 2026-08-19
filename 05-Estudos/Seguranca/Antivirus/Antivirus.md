@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Antivirus
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Software que detecta e remove malware do sistema.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Ransomware]]
 - [[Patch]]
-- [[Sistemas]]
-
-[[Estudos]]

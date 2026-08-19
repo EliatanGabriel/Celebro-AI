@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Saida
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes #conceito
 
 **Resumo:** Registro de saídas e eventos sociais.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Anotacao-Passeio]]
 - [[Amigos]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

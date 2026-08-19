@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # GDPR
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Regulamento europeu de proteção de dados pessoais.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Privacidade]]
 - [[Auditoria]]
 - [[Dados]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Java
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem compilada para JVM, orientada a objetos, usada em aplicações enterprise e Android.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Python]]
 - [[C++]]
 - [[Backend]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Webpack
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Empacotador de módulos JS amplamente usado em builds.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Babel]]
 - [[Frontend]]
 - [[JavaScript]]
-
-[[Estudos]]

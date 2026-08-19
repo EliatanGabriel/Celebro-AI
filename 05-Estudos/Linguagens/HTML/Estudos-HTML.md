@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # HTML
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem de marcação que estrutura o conteúdo de páginas web.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Frontend]]
 - [[HTTP]]
-
-[[Estudos]]

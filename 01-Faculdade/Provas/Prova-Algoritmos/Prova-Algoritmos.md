@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-Algoritmos
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova de Algoritmos e Lógica de Programação.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Algoritmo-e-Logica-de-Programacao]]
 - [[Revisao-Prova]]
 - [[Metas-Notas]]
-
-[[Faculdade]]

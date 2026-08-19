@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Pipeline
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Sequência automatizada de etapas: build, teste, deploy.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[GitHub-Actions]]
 - [[Jenkins]]
 - [[DevOps]]
-
-[[Estudos]]

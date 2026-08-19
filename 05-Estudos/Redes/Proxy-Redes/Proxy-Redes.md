@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Proxy-Redes
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Servidor intermediário de rede para cache, filtro e anonimato.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - Controle
 
 ## Relacionadas
-- [[Proxy]]
 - [[CDN]]
 - [[Firewall]]
-
-[[Estudos]]

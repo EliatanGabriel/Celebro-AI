@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Express
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Framework web minimalista para Node.js, padrão de fato para APIs REST.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[REST]]
 - [[APIs]]
 - [[Backend]]
-
-[[Estudos]]

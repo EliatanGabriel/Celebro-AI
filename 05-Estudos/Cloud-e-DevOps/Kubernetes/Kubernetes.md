@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Kubernetes
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Orquestrador de containers para deploy, escala e operação automática.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Docker]]
 - [[Microservicos]]
-
-[[Estudos]]

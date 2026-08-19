@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Redes-Neurais
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Modelos inspirados no cérebro com neurônios e pesos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[TensorFlow]]
 - [[Machine-Learning]]
 - [[PyTorch]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideias
 
-#area/projetos
+#area/projetos #projetos/ideias
 
 Subárea de **Projetos**.
 
@@ -21,9 +21,7 @@ Subárea de **Projetos**.
 - [[Ideia-Extensao]]
 - [[Ideia-Ferramenta]]
 - [[Ideia-Landing]]
-- [[Ideia-Negocio]]
 - [[Ideia-Open-source]]
-- [[Ideia-Podcast]]
 - [[Ideia-Saas]]
 - [[Ideia-Site]]
 - [[Ideia-YouTube]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Crencas-reflexao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão sobre crenças que influenciam decisões.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Autoconhecimento]]
 - [[Reflexoes-Reflexoes]]
-
-[[Pessoal]]

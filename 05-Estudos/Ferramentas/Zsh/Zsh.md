@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Zsh
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Shell moderna e poderosa, padrão no macOS com Oh My Zsh.
 
@@ -20,9 +20,5 @@ updated: "2026-08-19"
 - Produtividade
 
 ## Relacionadas
-- [[Bash]]
-- [[Shell]]
 - [[Terminal]]
 - [[Linux]]
-
-[[Estudos]]

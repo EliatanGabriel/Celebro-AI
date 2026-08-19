@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # IoT
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Internet das Coisas: dispositivos conectados que trocam dados na rede.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[5G]]
 - [[Wi-Fi]]
-- [[Mobile]]
-
-[[Estudos]]

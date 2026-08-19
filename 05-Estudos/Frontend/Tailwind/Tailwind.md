@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Tailwind
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Framework CSS utilitário-first para construir UIs rapidamente.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Frontend]]
 - [[Componentes]]
-
-[[Estudos]]

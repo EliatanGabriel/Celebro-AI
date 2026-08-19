@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Browsers-DevTools
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Ferramentas de desenvolvimento embutidas nos navegadores.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Chrome]]
 - [[Firefox]]
-- [[Frontend]]
-- [[Debug]]
-
-[[Estudos]]

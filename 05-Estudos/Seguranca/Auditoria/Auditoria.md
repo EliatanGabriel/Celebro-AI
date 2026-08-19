@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Auditoria
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Revisão de registros e permissões para garantir conformidade.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Logging]]
 - [[RBAC]]
 - [[GDPR]]
-
-[[Estudos]]

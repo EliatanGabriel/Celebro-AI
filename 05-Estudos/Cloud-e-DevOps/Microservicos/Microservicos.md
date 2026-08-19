@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Microservicos
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Arquitetura que divide a aplicação em serviços independentes e pequenos.
 
@@ -20,7 +20,4 @@ updated: "2026-08-19"
 - Complexidade
 
 ## Relacionadas
-- [[APIs]]
 - [[Kubernetes]]
-
-[[Estudos]]

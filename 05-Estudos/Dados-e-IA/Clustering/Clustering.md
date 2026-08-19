@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Clustering
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Técnica não supervisionada que agrupa dados similares.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Machine-Learning]]
 - [[Data-Science]]
 - [[K-means]]
-
-[[Estudos]]

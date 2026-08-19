@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ingles-Profissional
 
-#area/faculdade #hub
+#area/faculdade #faculdade/disciplinas #hub
 
 Subárea de **Faculdade** com habilidades de inglês profissional.
 
@@ -18,5 +18,3 @@ Subárea de **Faculdade** com habilidades de inglês profissional.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-
-[[Faculdade]]

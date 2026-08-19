@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Testes-Automatizados
 
-#area/trabalho #hub
+#area/trabalho #trabalho/testes-automatizados #hub
 
 Subárea de **Trabalho** com ferramentas e conceitos de automação de testes.
 
@@ -32,3 +32,4 @@ Subárea de **Trabalho** com ferramentas e conceitos de automação de testes.
 - [[Trabalho-CI-CD]]
 
 [[Trabalho]]
+

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Cardio
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Exercícios aeróbicos para saúde cardiovascular.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Caminhadas]]
 - [[Futebol]]
 - [[Saude-e-Exercicio]]
-
-[[Pessoal]]

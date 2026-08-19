@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # C
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem de baixo nível, procedural, base dos sistemas operacionais e de software embarcado.
 
@@ -21,7 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[C++]]
-- [[Ponteiros]]
-- [[Memoria]]
-
-[[Estudos]]

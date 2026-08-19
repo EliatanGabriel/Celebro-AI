@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Scripts
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Programas pequenos que automatizam tarefas repetitivas.
 
@@ -20,9 +20,5 @@ updated: "2026-08-19"
 - Reuso
 
 ## Relacionadas
-- [[Bash]]
-- [[Shell]]
 - [[Cron]]
 - [[Makefile]]
-
-[[Estudos]]

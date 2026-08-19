@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Swift
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem da Apple para iOS e macOS, moderna e segura.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Kotlin]]
 - [[Frontend]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Filas
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Estrutura FIFO: primeiro a entrar, primeiro a sair.
 
@@ -20,9 +20,5 @@ updated: "2026-08-19"
 - Processos
 
 ## Relacionadas
-- [[Pilhas]]
 - [[Listas]]
 - [[Estruturas-de-Dados]]
-- [[Queue]]
-
-[[Estudos]]

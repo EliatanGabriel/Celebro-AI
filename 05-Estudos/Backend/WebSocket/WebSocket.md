@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # WebSocket
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Protocolo que mantém conexão bidirecional contínua entre cliente e servidor.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[HTTP]]
 - [[Node-js]]
 - [[Frontend]]
-- [[Sockets]]
-
-[[Estudos]]

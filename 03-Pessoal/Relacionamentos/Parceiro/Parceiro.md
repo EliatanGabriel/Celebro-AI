@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Parceiro
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Relacionamento amoroso e sua manutenção.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Agradecimentos]]
 - [[Amigos]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

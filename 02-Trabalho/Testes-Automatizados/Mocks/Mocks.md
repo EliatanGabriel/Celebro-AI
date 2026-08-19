@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Mocks
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Objetos simulados que imitam dependências reais em testes.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Unit-testing]]
 - [[Integration-testing]]
 - [[Test-frameworks]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Largura-de-Banda
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Capacidade máxima de transmissão de dados por segundo.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Latencia]]
 - [[CDN]]
-- [[Performance]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # GCP
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Google Cloud Platform: nuvem do Google com Kubernetes nativo.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[AWS]]
 - [[Azure]]
 - [[Kubernetes]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Sono
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/sono #conceito
 
 **Resumo:** Importância do sono e boas práticas para dormir bem.
 
@@ -25,3 +25,4 @@ updated: "2026-08-19"
 - [[Saude-mental]]
 
 [[Pessoal]]
+

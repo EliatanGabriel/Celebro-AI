@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prisma
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** ORM moderno para Node.js/TS com type-safety e migrações.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[ORM]]
 - [[Node-js]]
 - [[TypeScript]]
-
-[[Estudos]]

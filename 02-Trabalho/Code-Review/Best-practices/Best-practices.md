@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Best-practices
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Boas práticas de codificação adotadas para legibilidade e qualidade.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Readability]]
 - [[Padroes]]
 - [[Refatoracao]]
-
-[[Trabalho]]

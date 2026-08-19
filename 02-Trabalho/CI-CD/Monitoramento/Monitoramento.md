@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Monitoramento
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Observação de builds, deploys e aplicações em produção.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Producao]]
-
-[[Trabalho]]

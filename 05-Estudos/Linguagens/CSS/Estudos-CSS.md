@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # CSS
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem de estilo que define a apresentação visual de páginas web.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Frontend]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Automacao
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de automação de tarefas ou processos.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Ideia-Ferramenta]]
 - [[Projeto-Bot]]
 - [[Ideias]]
-
-[[Projetos]]

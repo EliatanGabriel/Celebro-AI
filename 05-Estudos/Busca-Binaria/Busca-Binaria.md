@@ -8,10 +8,10 @@ updated: "2026-08-19"
 
 # Busca Binaria
 
-#area/estudos
+#area/estudos #estudos/busca-binaria
 
 **Resumo:** Subárea de **Estudos** sobre Busca binária e algoritmos.
 
 ## Notas
 
-[[Estudos]]
+[[Estudos-Fundamentos]]

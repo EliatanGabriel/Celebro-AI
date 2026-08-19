@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Variaveis
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Espaços nomeados na memória que armazenam valores que podem mudar.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Fundamentos]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Dart
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem otimizada para UI, usada no framework Flutter.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Kotlin]]
 - [[Frontend]]
 - [[Componentes]]
-
-[[Estudos]]

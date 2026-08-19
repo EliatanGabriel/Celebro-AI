@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Conversas-importantes
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Diálogos significativos que fortalecem vínculos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Amigos]]
 - [[Familia]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

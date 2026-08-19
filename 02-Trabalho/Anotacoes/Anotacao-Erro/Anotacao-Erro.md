@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Erro
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/anotacoes #conceito
 
 **Resumo:** Registro de erros encontrados e como foram resolvidos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Anotacao-Codigo]]
 - [[Bug-Report]]
-
-[[Trabalho]]

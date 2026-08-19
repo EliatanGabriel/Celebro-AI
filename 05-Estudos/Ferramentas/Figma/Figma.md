@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Figma
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Ferramenta colaborativa de design de interfaces.
 
@@ -20,7 +20,4 @@ updated: "2026-08-19"
 - Dev mode
 
 ## Relacionadas
-- [[Frontend]]
 - [[Design]]
-
-[[Estudos]]

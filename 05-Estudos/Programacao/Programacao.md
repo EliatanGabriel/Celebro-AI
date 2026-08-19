@@ -8,10 +8,10 @@ updated: "2026-08-19"
 
 # Programacao
 
-#area/estudos
+#area/estudos #estudos/programacao
 
 **Resumo:** Subárea de **Estudos** sobre Programação em geral.
 
 ## Notas
 
-[[Estudos]]
+[[Estudos-Fundamentos]]

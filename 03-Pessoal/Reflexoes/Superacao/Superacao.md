@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Superacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão sobre momentos de superação pessoal.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Dificuldades]]
 - [[Aprendizados]]
 - [[Reflexoes-Reflexoes]]
-
-[[Pessoal]]

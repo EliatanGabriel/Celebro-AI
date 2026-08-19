@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Gratidao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de reconhecer e registrar motivos de gratidão.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Habito-Reflexao]]
 - [[Agradecimentos]]
 - [[Habitos]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-Retro
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Reunião retrospectiva para avaliar a sprint e melhorar o processo.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Reuniao-Planning]]
 - [[Miro]]
 - [[Feedback]]
-
-[[Trabalho]]

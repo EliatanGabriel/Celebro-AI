@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Dados
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Informações processadas e armazenadas, cuja proteção é crítica em sistemas.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[GDPR]]
 - [[Privacidade]]
-- [[Hashing]]
-- [[Bancos-de-Dados]]
-
-[[Estudos]]

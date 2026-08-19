@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Idiomas
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de aprendizado e evolução em idiomas.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Metas-Crescimento]]
-
-[[Pessoal]]

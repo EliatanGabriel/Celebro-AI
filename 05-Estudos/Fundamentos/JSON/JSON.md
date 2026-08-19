@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # JSON
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Formato leve de troca de dados baseado em texto, padrão em APIs e configurações.
 
@@ -20,8 +20,4 @@ updated: "2026-08-19"
 - Web
 
 ## Relacionadas
-- [[APIs]]
-- [[REST]]
-- [[JavaScript]]
-
-[[Estudos]]
+- [[Fundamentos]]

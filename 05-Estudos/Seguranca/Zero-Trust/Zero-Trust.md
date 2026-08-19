@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Zero-Trust
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Modelo de segurança que nunca confia implicitamente em ninguém.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[RBAC]]
 - [[Firewall]]
-
-[[Estudos]]

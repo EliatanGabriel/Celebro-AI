@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Fundamentos
 
-#area/estudos
+#area/estudos #estudos/fundamentos
 
 Subárea de **Estudos**.
 
@@ -19,7 +19,6 @@ Subárea de **Estudos**.
 - [[Big-O]]
 - [[Ciencia-da-Computacao]]
 - [[Computacao]]
-- [[Debug]]
 - [[Estruturas-de-Dados]]
 - [[Estudos-Complexidade]]
 - [[Estudos-Funcoes]]
@@ -39,7 +38,6 @@ Subárea de **Estudos**.
 - [[Orientacao-a-Objetos]]
 - [[Paradigmas]]
 - [[Performance]]
-- [[Pilhas]]
 - [[Ponteiros]]
 - [[Programacao-Funcional]]
 - [[Programacao-Procedural]]
@@ -48,4 +46,4 @@ Subárea de **Estudos**.
 - [[Tipos-de-Dados]]
 - [[Windows]]
 
-[[Estudos]]
+[[Estudos-Fundamentos]]

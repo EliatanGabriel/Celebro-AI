@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-Eng-Soft
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova de Engenharia de Software.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Engenharia-de-Software]]
 - [[Revisao-Prova]]
 - [[Metas-Notas]]
-
-[[Faculdade]]

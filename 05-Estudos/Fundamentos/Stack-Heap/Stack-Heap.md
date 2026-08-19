@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Stack-Heap
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Duas regiões de memória: stack (chamadas) e heap (alocação dinâmica).
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Memoria]]
 - [[Ponteiros]]
-- [[Linguagens]]
-
-[[Estudos]]

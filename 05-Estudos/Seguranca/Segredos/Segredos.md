@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Segredos
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Chaves, senhas e tokens que devem ser protegidos e nunca versionados.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[DevOps]]
 - [[Env]]
 - [[Credenciais]]
-
-[[Estudos]]

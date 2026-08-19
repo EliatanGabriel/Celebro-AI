@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Anuais
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Objetivos de longo prazo definidos no início do ano.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Metas-Trimestrais]]
 - [[Metas-Projetos-Trab]]
-
-[[Trabalho]]

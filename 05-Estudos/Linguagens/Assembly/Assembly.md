@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Assembly
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem de baixo nível mais próxima do hardware, usada em sistemas embarcados.
 
@@ -21,7 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[C]]
-- [[Ponteiros]]
-- [[Memoria]]
-
-[[Estudos]]

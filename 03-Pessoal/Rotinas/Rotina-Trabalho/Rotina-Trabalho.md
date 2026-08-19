@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Rotina-Trabalho
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de trabalho com foco e pausas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Habito-Trabalho]]
 - [[Rotina-Semanal]]
 - [[Rotinas]]
-
-[[Pessoal]]

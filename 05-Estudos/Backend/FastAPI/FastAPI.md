@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # FastAPI
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Framework Python moderno para APIs, com tipagem, OpenAPI e alta performance.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[APIs]]
 - [[REST]]
 - [[Backend]]
-
-[[Estudos]]

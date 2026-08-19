@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # GitLab
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Plataforma Git com CI/CD integrado e autohospedável.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Git]]
 - [[GitHub]]
-- [[CI-CD-Conceito]]
-- [[DevOps]]
-
-[[Estudos]]

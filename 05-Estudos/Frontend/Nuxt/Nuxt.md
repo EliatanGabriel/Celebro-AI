@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Nuxt
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Framework Vue para aplicações universais com SSR e SSG.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Next-js]]
 - [[Frontend]]
 - [[SEO]]
-
-[[Estudos]]

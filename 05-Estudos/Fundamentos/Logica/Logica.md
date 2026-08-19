@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Logica
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Raciocínio estruturado que fundamenta a programação.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Algoritmos]]
 - [[Programacao]]
 - [[Logica-de-Programacao]]
-
-[[Estudos]]

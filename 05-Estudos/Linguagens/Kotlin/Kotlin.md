@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Kotlin
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem moderna da JetBrains para JVM, oficial para Android, interoperável com Java.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Java]]
 - [[Swift]]
 - [[Backend]]
-
-[[Estudos]]

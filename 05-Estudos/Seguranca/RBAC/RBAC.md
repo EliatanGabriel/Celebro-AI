@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # RBAC
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Role-Based Access Control: controle de acesso por papéis.
 
@@ -21,7 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Autorizacao]]
-- [[Auth]]
 - [[Zero-Trust]]
-
-[[Estudos]]

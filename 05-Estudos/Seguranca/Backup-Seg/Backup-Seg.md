@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Backup-Seg
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Backups como estratégia de resiliência contra perda e ransomware.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Ransomware]]
-
-[[Estudos]]

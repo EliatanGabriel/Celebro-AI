@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Arvores
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Estrutura hierárquica com nós e arestas, sem ciclos.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Grafos]]
 - [[Estruturas-de-Dados]]
 - [[Algoritmos]]
-
-[[Estudos]]

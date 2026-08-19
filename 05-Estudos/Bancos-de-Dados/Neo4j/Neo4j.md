@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Neo4j
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Banco de dados de grafos para dados altamente conectados.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - Recomendação
 
 ## Relacionadas
-- [[Grafos]]
 - [[Bancos-de-Dados]]
 - [[NoSQL]]
-
-[[Estudos]]

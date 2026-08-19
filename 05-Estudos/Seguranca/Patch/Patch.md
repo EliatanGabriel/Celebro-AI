@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Patch
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Correção de software que elimina vulnerabilidades.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Vulnerabilidades]]
 - [[DevOps]]
 - [[CI-CD-Conceito]]
-
-[[Estudos]]

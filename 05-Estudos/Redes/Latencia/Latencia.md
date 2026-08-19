@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Latencia
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Tempo de atraso na transmissão de dados entre origem e destino.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Largura-de-Banda]]
 - [[CDN]]
-- [[Performance]]
-
-[[Estudos]]

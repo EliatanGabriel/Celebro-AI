@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Sabado
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de sábado com espaço para lazer e tarefas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Domingo]]
 - [[Rotina-Semanal]]
 - [[Rotinas]]
-
-[[Pessoal]]

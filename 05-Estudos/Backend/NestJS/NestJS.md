@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # NestJS
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Framework Node.js progressivo com arquitetura modular, inspirado no Angular.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[TypeScript]]
 - [[Node-js]]
 - [[Backend]]
-- [[Microservicos]]
-
-[[Estudos]]

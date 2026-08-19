@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Historico-saude
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude #conceito
 
 **Resumo:** Histórico completo de saúde e eventos relevantes.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Alergias]]
 - [[Checkup]]
 - [[Saude]]
-
-[[Pessoal]]

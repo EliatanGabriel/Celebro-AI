@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Postura
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Manutenção de postura correta no dia a dia.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Mobilidade]]
 - [[Treino-semana]]
 - [[Saude-e-Exercicio]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Redux
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Biblioteca de gerenciamento de estado previsível para apps JS.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[JavaScript]]
 - [[Componentes]]
 - [[Hooks]]
-
-[[Estudos]]

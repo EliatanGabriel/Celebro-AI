@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Vulnerabilidades
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Falhas exploráveis em software ou configuração.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Pentest]]
 - [[Patch]]
 - [[OWASP]]
-
-[[Estudos]]

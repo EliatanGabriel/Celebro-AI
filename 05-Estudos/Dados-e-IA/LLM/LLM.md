@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # LLM
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Large Language Models: modelos gigantes de linguagem (GPT etc.).
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Prompts]]
 - [[IA]]
 - [[Fine-tuning]]
-
-[[Estudos]]

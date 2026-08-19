@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Complexidade
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Medida de eficiência de algoritmos em tempo e espaço, com notação Big-O.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Fundamentos]]
 - [[Algoritmos]]
-
-[[Estudos]]

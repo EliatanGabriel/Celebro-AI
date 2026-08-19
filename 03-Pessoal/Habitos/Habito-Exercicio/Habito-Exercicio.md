@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Exercicio
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de praticar exercícios físicos regularmente.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Habito-Caminhada]]
 - [[Musculacao]]
 - [[Habitos]]
-
-[[Pessoal]]

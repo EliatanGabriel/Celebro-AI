@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Familia
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Vínculos familiares e sua valorização.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Agradecimentos]]
 - [[Conversas-importantes]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

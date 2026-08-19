@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Sessions
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Mecanismo de manter estado do usuário entre requisições no servidor.
 
@@ -21,8 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Auth]]
-- [[Cookies]]
 - [[Backend]]
 - [[HTTP]]
-
-[[Estudos]]

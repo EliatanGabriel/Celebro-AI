@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Endpoints
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** URLs que representam recursos e ações disponíveis em uma API.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Status-Codes]]
 - [[Documentacao-API]]
 - [[API-REST]]
-
-[[Trabalho]]

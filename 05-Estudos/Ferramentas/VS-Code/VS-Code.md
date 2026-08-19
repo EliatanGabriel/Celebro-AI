@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # VS-Code
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Editor de código leve e extensível, o mais popular da atualidade.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Terminal]]
 - [[Git]]
-- [[Frontend]]
 - [[Ferramentas]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reproducao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Conjunto de passos capazes de gerar o bug de forma consistente.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Steps-to-reproduce]]
 - [[Ambiente]]
 - [[Evidencias]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Orcamento
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Planejamento de receitas e despesas para controle financeiro.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Cartao]]
 - [[Metas-financeiras]]
 - [[Poupanca]]
-
-[[Pessoal]]

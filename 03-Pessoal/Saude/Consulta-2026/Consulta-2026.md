@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Consulta-2026
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude #conceito
 
 **Resumo:** Registro das consultas médicas de 2026.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Exames-2026]]
 - [[Historico-saude]]
 - [[Saude]]
-
-[[Pessoal]]

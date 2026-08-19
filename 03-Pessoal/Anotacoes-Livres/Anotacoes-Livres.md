@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotações-Livres
 
-#area/pessoal
+#area/pessoal #pessoal/anotacoes-livres
 
 Subárea de **Pessoal**.
 

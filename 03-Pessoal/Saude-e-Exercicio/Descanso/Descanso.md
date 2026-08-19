@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Descanso
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Importância do descanso para recuperação e desempenho.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Sono]]
 - [[Treino-semana]]
-
-[[Pessoal]]

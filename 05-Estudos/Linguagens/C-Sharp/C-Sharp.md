@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # C-Sharp
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem da Microsoft orientada a objetos, principal do ecossistema .NET.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Java]]
 - [[Backend]]
 - [[Componentes]]
-
-[[Estudos]]

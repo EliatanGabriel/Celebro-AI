@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Flow
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Estado de imersão total em uma atividade desafiadora.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Deep-work]]
 - [[Hobbies]]
 - [[Produtividade]]
-
-[[Pessoal]]

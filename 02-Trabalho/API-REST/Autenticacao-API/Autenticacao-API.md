@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Autenticacao-API
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Processo de validar a identidade de quem acessa uma API.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Endpoints]]
 - [[Status-Codes]]
 - [[Metodos-HTTP]]
-
-[[Trabalho]]

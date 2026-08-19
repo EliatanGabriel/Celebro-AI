@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Relacionamentos
 
-#area/pessoal
+#area/pessoal #pessoal/relacionamentos
 
 **Resumo:** Subárea de **Pessoal** com vínculos e relações importantes.
 

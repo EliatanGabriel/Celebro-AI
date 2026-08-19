@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # AWS
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Amazon Web Services: maior nuvem pública, com dezenas de serviços.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Lambda]]
 - [[S3]]
 - [[EC2]]
-
-[[Estudos]]

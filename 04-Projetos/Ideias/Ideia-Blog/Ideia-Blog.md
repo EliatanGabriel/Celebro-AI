@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Blog
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de postagem ou tema para o blog.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Projeto-Blog]]
 - [[Ideias]]
 - [[Projeto-Blog]]
-
-[[Projetos]]

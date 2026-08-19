@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Meditacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/meditacao #conceito
 
 **Resumo:** Prática de meditação para foco, calma e autoconhecimento.
 
@@ -24,3 +24,4 @@ updated: "2026-08-19"
 - [[Saude-mental]]
 
 [[Pessoal]]
+

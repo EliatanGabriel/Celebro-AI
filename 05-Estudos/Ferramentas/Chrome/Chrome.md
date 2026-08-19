@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Chrome
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Navegador da Google, padrão de mercado com DevTools poderosas.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Browsers-DevTools]]
 - [[Firefox]]
-- [[Frontend]]
-- [[JavaScript]]
-
-[[Estudos]]

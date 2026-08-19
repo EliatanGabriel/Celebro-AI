@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Backup-DB
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Estratégias para proteger dados contra perda e permitir recuperação.
 
@@ -21,6 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Bancos-de-Dados]]
-- [[DevOps]]
-
-[[Estudos]]

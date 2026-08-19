@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Tokens
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Dados (ex.: JWT) que representam autorização sem manter estado.
 
@@ -20,8 +20,4 @@ updated: "2026-08-19"
 - Sessões
 
 ## Relacionadas
-- [[JWT]]
-- [[Auth]]
 - [[Autenticacao]]
-
-[[Estudos]]

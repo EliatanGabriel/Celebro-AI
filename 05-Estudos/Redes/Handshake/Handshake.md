@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Handshake
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Negociação inicial entre cliente e servidor para estabelecer conexão segura.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[TCP]]
 - [[TLS]]
 - [[HTTPS]]
-
-[[Estudos]]

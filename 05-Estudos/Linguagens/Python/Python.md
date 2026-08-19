@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Python
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem de alto nível, interpretada e multiparadigma, famosa por sua sintaxe limpa e enorme ecossistema.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[JavaScript]]
 - [[Java]]
-- [[Dados-e-IA]]
 - [[Backend]]
-
-[[Estudos]]

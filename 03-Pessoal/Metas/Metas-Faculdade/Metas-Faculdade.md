@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Faculdade
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas acadêmicas ligadas à faculdade.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Metas-Estudos]]
 - [[Metas-Trabalho]]
 - [[Metas]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Producao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Ambiente real usado por usuários finais do software.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Staging]]
 - [[Deploy]]
 - [[Monitoramento]]
-
-[[Trabalho]]

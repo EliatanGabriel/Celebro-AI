@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rastreabilidade
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Vínculo do bug com código, versão, ticket e usuário afetado.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Reproducao]]
 - [[Ambiente]]
-
-[[Trabalho]]

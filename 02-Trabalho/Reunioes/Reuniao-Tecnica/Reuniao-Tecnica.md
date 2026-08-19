@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-Tecnica
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Reunião focada em decisões e discussões técnicas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Code-Review]]
 - [[Comunicacao-com-Devs]]
-
-[[Trabalho]]

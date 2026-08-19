@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Estruturas-de-Dados
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Formas de organizar e armazenar dados para acesso eficiente.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Arrays]]
 - [[Listas]]
-- [[Pilhas]]
 - [[Arvores]]
-
-[[Estudos]]

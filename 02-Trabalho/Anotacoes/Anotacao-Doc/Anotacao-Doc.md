@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Doc
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/anotacoes #conceito
 
 **Resumo:** Anotações de documentação técnica lida ou produzida.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Confluence]]
 - [[Documentacao-API]]
 - [[Anotacao-Codigo]]
-
-[[Trabalho]]

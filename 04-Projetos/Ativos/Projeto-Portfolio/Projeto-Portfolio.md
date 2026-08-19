@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Portfolio
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo de construção de portfólio profissional.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Projeto-Blog]]
 - [[Ativos]]
 - [[Roadmap-Carreira]]
-
-[[Projetos]]

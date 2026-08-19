@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Big-O
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Notação matemática que descreve o crescimento assintótico de algoritmos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Algoritmos]]
 - [[Busca-Binaria]]
-
-[[Estudos]]

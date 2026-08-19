@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Provas
 
-#area/faculdade
+#area/faculdade #faculdade/provas
 
 Subárea de **Faculdade**.
 
@@ -20,7 +20,6 @@ Subárea de **Faculdade**.
 - [[Prova-BD]]
 - [[Prova-Eng-Soft]]
 - [[Prova-Final]]
-- [[Prova-Ingles]]
 - [[Prova-POO]]
 - [[Prova-Substitutiva]]
 - [[Prova-TI]]

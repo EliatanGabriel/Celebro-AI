@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Dívidas
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Registro e estratégias para quitar dívidas com planejamento.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Orcamento]]
 - [[Metas-financeiras]]
 - [[Investimentos]]
-
-[[Pessoal]]

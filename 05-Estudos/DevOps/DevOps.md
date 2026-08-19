@@ -8,10 +8,10 @@ updated: "2026-08-19"
 
 # DevOps
 
-#area/estudos
+#area/estudos #estudos/devops
 
 **Resumo:** Subárea de **Estudos** sobre Práticas de DevOps.
 
 ## Notas
 
-[[Estudos]]
+[[Estudos-Infraestrutura]]

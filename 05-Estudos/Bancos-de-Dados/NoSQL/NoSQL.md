@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # NoSQL
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Família de bancos não relacionais: chave-valor, documento, grafos, colunas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Redis]]
 - [[Neo4j]]
 - [[Bancos-de-Dados]]
-
-[[Estudos]]

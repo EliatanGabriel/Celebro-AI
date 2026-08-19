@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Dados-e-IA
 
-#area/estudos
+#area/estudos #estudos/dados-e-ia
 
 Subárea de **Estudos**.
 
@@ -42,4 +42,4 @@ Subárea de **Estudos**.
 - [[Scikit-Learn]]
 - [[TensorFlow]]
 
-[[Estudos]]
+[[Estudos-Dados]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # RDS
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Serviço gerenciado de banco de dados relacional na AWS.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[AWS]]
-- [[PostgreSQL]]
-- [[MySQL]]
-- [[Bancos-de-Dados]]
-
-[[Estudos]]

@@ -8,16 +8,14 @@ updated: "2026-08-19"
 
 # Pensamentos
 
-#area/pessoal
+#area/pessoal #pessoal/pensamentos
 
 Subárea de **Pessoal**.
 
 ## Notas
-- [[Pensamento-1]]
 - [[Pensamento-10]]
 - [[Pensamento-11]]
 - [[Pensamento-12]]
-- [[Pensamento-2]]
 - [[Pensamento-3]]
 - [[Pensamento-4]]
 - [[Pensamento-5]]

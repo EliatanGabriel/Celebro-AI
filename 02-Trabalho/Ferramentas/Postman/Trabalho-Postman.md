@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Postman
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Cliente de API para testar, documentar e depurar endpoints.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Documentacao-API]]
 - [[Endpoints]]
 - [[Serializacao]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # MySQL
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Banco relacional popular em aplicações web, usado com PHP e Node.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Bancos-de-Dados]]
 - [[PHP]]
-
-[[Estudos]]

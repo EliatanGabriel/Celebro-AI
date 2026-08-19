@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Expected-vs-actual
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Comparação entre o comportamento esperado e o observado.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Steps-to-reproduce]]
 - [[Severidade]]
 - [[Prioridade]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Computacao
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Ciência que estuda processos de informação e cálculo por máquinas.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - Abstração
 
 ## Relacionadas
-- [[Teoria-da-Computacao]]
 - [[Algoritmos]]
 - [[Ciencia-da-Computacao]]
-
-[[Estudos]]

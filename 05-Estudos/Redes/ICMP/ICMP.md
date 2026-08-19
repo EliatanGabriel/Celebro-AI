@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # ICMP
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Protocolo de controle e diagnóstico (ping), reporta erros de rede.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[IP]]
 - [[Latencia]]
 - [[Diagnostico]]
-
-[[Estudos]]

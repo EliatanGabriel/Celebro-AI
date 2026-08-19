@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-1on1
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/anotacoes #conceito
 
 **Resumo:** Anotações de reuniões individuais com gestor.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Reuniao-1on1]]
 - [[Feedback]]
-
-[[Trabalho]]

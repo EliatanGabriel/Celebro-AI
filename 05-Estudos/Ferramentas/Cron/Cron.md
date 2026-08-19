@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Cron
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Agendador de tarefas do Unix para executar scripts periodicamente.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Scripts]]
 - [[Linux]]
-- [[Bash]]
-- [[DevOps]]
-
-[[Estudos]]

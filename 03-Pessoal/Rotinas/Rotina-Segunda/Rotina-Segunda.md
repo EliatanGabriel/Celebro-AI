@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Segunda
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina específica de segunda-feira.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Terca]]
 - [[Rotina-Domingo]]
 - [[Rotinas]]
-
-[[Pessoal]]

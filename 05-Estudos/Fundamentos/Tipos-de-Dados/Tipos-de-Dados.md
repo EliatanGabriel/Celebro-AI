@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Tipos-de-Dados
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Categorias de valores: inteiros, floats, strings, booleanos, etc.
 
@@ -20,7 +20,4 @@ updated: "2026-08-19"
 - Memória
 
 ## Relacionadas
-- [[Linguagens]]
 - [[Memoria]]
-
-[[Estudos]]

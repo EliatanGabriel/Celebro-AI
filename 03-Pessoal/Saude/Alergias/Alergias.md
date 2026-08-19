@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Alergias
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude #conceito
 
 **Resumo:** Registro de alergias e formas de evitá-las.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Historico-saude]]
 - [[Alimentacao]]
 - [[Saude]]
-
-[[Pessoal]]

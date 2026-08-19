@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Trabalho-PI
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/trabalhos #conceito
 
 **Resumo:** Trabalho de Projeto Integrador.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Trabalhos]]
 - [[Metas-Projetos-Facul]]
-
-[[Faculdade]]

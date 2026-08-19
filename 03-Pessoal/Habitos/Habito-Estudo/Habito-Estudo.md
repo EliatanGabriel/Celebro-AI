@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Estudo
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de estudar com regularidade e constância.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Habito-Leitura]]
 - [[Metas-Idiomas]]
-
-[[Pessoal]]

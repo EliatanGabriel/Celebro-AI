@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Leadership
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Metas de desenvolvimento de habilidades de liderança.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Metas-Promocao]]
 - [[Feedback]]
 - [[Comunicacao-com-Devs]]
-
-[[Trabalho]]

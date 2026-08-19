@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Proposito-de-Vida
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Descoberta e declaração do seu propósito de vida.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Visao-10-anos]]
 - [[Identidade]]
 - [[Legado]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ponteiros
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Variáveis que armazenam endereços de memória de outras variáveis.
 
@@ -21,8 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Memoria]]
-- [[C]]
-- [[C++]]
 - [[Stack-Heap]]
-
-[[Estudos]]

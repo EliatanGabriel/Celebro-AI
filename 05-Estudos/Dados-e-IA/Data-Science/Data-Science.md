@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Data-Science
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Ciência de extrair conhecimento e insights de dados.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Estatistica]]
 - [[Machine-Learning]]
-- [[Python]]
 - [[BI]]
-
-[[Estudos]]

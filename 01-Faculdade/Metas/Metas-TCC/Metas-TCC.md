@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-TCC
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/metas #conceito
 
 **Resumo:** Metas de desenvolvimento do Trabalho de Conclusão de Curso.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Faculdade-Metas]]
 - [[Trabalho-TCC]]
-
-[[Faculdade]]

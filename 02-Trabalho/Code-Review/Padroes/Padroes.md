@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Padroes
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Convenções de código e arquitetura seguidas pelo time.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Best-practices]]
 - [[Refatoracao]]
 - [[Readability]]
-
-[[Trabalho]]

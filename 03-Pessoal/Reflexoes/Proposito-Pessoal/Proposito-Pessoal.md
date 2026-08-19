@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Proposito-Pessoal
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão aprofundada sobre propósito de vida.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Reflexoes-Reflexoes]]
-
-[[Pessoal]]

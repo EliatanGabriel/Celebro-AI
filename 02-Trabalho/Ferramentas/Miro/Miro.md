@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Miro
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Quadro branco colaborativo online para brainstorming e planejamento.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Reuniao-Retro]]
-
-[[Trabalho]]

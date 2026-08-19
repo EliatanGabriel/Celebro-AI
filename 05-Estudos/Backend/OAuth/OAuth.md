@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # OAuth
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Protocolo de autorização delegada, base dos logins com Google, GitHub etc.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Auth]]
 - [[JWT]]
 - [[Backend]]
-
-[[Estudos]]

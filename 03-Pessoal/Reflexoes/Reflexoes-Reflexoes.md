@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Reflexoes-Reflexoes
 
-#area/pessoal
+#area/pessoal #pessoal/reflexoes
 
 Subárea de **Pessoal**.
 

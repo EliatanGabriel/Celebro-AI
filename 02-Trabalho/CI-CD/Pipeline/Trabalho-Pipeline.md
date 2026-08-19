@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Pipeline
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Sequência automatizada de etapas de integração, teste e entrega.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Build]]
 - [[Deploy]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Biometria
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Autenticação por características físicas: digital, facial, íris.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Autenticacao]]
 - [[MFA]]
-- [[Mobile]]
-
-[[Estudos]]

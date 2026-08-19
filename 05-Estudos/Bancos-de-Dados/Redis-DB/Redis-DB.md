@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Redis-DB
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Uso do Redis como banco, além de cache, com estruturas ricas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[NoSQL]]
 - [[Caching]]
 - [[Bancos-de-Dados]]
-
-[[Estudos]]

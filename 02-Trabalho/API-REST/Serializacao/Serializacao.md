@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Serializacao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Conversão de objetos em formato de dados transferível (JSON, XML).
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Endpoints]]
 - [[Metodos-HTTP]]
-
-[[Trabalho]]

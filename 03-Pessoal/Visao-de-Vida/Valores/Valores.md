@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Valores
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Princípios que orientam suas decisões e comportamento.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Crencas]]
 - [[Identidade]]
 - [[Prioridades]]
-
-[[Pessoal]]

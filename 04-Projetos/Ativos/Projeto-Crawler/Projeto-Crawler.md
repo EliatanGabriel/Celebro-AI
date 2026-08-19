@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Crawler
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo de desenvolvimento de um crawler de dados.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Projeto-API]]
 - [[Ativos]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

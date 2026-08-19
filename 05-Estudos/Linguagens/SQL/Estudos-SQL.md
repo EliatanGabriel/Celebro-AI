@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # SQL
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem padrão para consultar e manipular dados em bancos relacionais.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Bancos-de-Dados]]
 - [[Transactions]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Organizacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de manter espaços e tarefas organizados.
 
@@ -20,9 +20,6 @@ updated: "2026-08-16"
 - Consistência
 
 ## Relacionadas
-- [[Habito-Planejamento]]
 - [[Kanban-pessoal]]
 - [[Rotinas]]
 - [[Habitos]]
-
-[[Pessoal]]

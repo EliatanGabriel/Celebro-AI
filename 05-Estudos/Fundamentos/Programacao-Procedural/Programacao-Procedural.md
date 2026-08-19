@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Programacao-Procedural
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Paradigma baseado em sequência de procedimentos/funções.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - Simples
 
 ## Relacionadas
-- [[C]]
 - [[Paradigmas]]
 - [[Programacao]]
-
-[[Estudos]]

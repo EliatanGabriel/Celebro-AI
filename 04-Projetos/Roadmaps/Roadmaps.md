@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Roadmaps
 
-#area/projetos
+#area/projetos #projetos/roadmaps
 
 Subárea de **Projetos**.
 
@@ -18,5 +18,4 @@ Subárea de **Projetos**.
 - [[Roadmap-Estudos]]
 - [[Roadmap-Faculdade]]
 - [[Roadmap-Financeiro]]
-- [[Roadmap-Saude]]
 [[Projetos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Observability
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Capacidade de entender sistemas pela combinação de métricas, logs e traces.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Logging]]
 - [[Alerting]]
 - [[DevOps]]
-
-[[Estudos]]

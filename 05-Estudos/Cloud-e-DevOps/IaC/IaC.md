@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # IaC
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Infraestrutura como Código: gerenciar infra por código versionável.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Terraform]]
 - [[Ansible]]
 - [[DevOps]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Deep-Learning
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Subcampo de ML baseado em redes neurais profundas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[TensorFlow]]
 - [[PyTorch]]
 - [[Machine-Learning]]
-
-[[Estudos]]

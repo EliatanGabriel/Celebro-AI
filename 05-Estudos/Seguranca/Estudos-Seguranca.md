@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Seguranca
 
-#area/estudos
+#area/estudos #estudos/seguranca
 
 Subárea de **Estudos**.
 
@@ -28,7 +28,6 @@ Subárea de **Estudos**.
 - [[Env]]
 - [[Firewall-Seg]]
 - [[GDPR]]
-- [[Hashing]]
 - [[MFA]]
 - [[OWASP]]
 - [[Patch]]
@@ -45,4 +44,4 @@ Subárea de **Estudos**.
 - [[XSS]]
 - [[Zero-Trust]]
 
-[[Estudos]]
+[[Estudos-Infraestrutura]]

@@ -8,10 +8,10 @@ updated: "2026-08-19"
 
 # Servidores
 
-#area/estudos
+#area/estudos #estudos/servidores
 
 **Resumo:** Subárea de **Estudos** sobre Servidores e infraestrutura.
 
 ## Notas
 
-[[Estudos]]
+[[Estudos-Infraestrutura]]

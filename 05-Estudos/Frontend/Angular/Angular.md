@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Angular
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Framework completo da Google para aplicações web enterprise.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Frontend]]
 - [[Componentes]]
 - [[NestJS]]
-
-[[Estudos]]

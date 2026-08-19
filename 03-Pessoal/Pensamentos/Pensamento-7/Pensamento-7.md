@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Pensamento-7
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/pensamentos #conceito
 
 **Resumo:** Registro de um pensamento ou insight pessoal.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Pensamentos]]
 - [[Autoconhecimento]]
-
-[[Pessoal]]

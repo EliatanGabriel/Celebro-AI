@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Terraform
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Infraestrutura como código (IaC) para provisionar recursos em nuvem.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[AWS]]
 - [[GCP]]
 - [[DevOps]]
-
-[[Estudos]]

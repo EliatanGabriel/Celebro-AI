@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Props
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Dados passados de um componente pai para filho.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[React]]
 - [[Hooks]]
 - [[TypeScript-Frontend]]
-
-[[Estudos]]

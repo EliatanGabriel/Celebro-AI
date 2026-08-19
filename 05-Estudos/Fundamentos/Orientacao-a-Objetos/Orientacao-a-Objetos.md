@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Orientacao-a-Objetos
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Paradigma baseado em objetos que combinam dados e comportamento.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Paradigmas]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-Planning
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Reunião de planejamento da sprint com o time.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Jira]]
 - [[Reuniao-Refinamento]]
 - [[Metas-Trimestrais]]
-
-[[Trabalho]]

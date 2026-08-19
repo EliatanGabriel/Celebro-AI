@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Phishing
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Golpe que engana usuários para roubar credenciais ou dados.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Ataques]]
 - [[Ransomware]]
 - [[Engenharia-Social]]
-
-[[Estudos]]

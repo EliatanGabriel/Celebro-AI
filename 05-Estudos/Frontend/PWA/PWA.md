@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # PWA
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Progressive Web App: aplicações web com capacidades nativas (offline, push).
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Frontend]]
 - [[JavaScript]]
 - [[Performance-Frontend]]
-
-[[Estudos]]

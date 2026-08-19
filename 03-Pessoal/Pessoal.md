@@ -14,6 +14,7 @@ Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 
 ## Subáreas
 - [[Alimentacao]]
+- [[Anotacoes-Livres]]
 - [[Aprendizado-Continuo]]
 - [[Desenvolvimento-Pessoal]]
 - [[Financas-Pessoais]]
@@ -21,15 +22,19 @@ Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 - [[Hobbies]]
 - [[Meditacao]]
 - [[Objetivos-de-Vida]]
+- [[Pensamentos]]
 - [[Pessoal-Anotacoes]]
 - [[Pessoal-Habito-Leitura]]
 - [[Pessoal-Metas]]
 - [[Produtividade]]
+- [[Reflexoes-Reflexoes]]
+- [[Registros]]
 - [[Relacionamentos]]
 - [[Rotinas]]
 - [[Saude]]
 - [[Saude-e-Exercicio]]
 - [[Sono]]
+- [[Visao-de-Vida]]
 
 ## Conexões
 - [[Home]]

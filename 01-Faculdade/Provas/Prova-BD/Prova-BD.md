@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-BD
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova de Banco de Dados.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Banco-de-Dados]]
 - [[Revisao-Prova]]
 - [[Metas-Notas]]
-
-[[Faculdade]]

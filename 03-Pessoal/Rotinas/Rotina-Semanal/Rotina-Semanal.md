@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Rotina-Semanal
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Estrutura geral da semana com rotinas e prioridades.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Rotina-Segunda]]
 - [[Rotina-Trabalho]]
 - [[Rotinas]]
-
-[[Pessoal]]

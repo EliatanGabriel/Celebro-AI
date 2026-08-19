@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Registros
 
-#area/pessoal
+#area/pessoal #pessoal/registros
 
 Subárea de **Pessoal**.
 
@@ -23,7 +23,6 @@ Subárea de **Pessoal**.
 - [[Registro-Foco]]
 - [[Registro-Gratidao]]
 - [[Registro-Habitos]]
-- [[Registro-Humor]]
 - [[Registro-Ideias]]
 - [[Registro-Leitura]]
 - [[Registro-Projetos]]

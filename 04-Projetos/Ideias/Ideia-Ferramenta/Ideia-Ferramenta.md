@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Ferramenta
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de ferramenta ou utilitário para criar.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Ideia-App]]
 - [[Ideias]]
 - [[Projeto-API]]
-
-[[Projetos]]

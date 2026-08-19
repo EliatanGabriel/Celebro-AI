@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Trello
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Ferramenta de gestão visual de tarefas com quadros, listas e cards.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Jira]]
 - [[Fluxo-Trello-QA]]
 - [[Prioridade-de-Bugs]]
-
-[[Trabalho]]

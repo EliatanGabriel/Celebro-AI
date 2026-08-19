@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # CloudFront
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** CDN da AWS que acelera entrega de conteúdo globalmente.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[CDN]]
 - [[AWS]]
-- [[Caching]]
-- [[Performance-Frontend]]
-
-[[Estudos]]

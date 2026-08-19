@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Grafos
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Conjunto de nós conectados por arestas, representando relações.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Arvores]]
 - [[Algoritmos]]
-- [[Neo4j]]
-
-[[Estudos]]

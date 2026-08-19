@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Noite
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina noturna que prepara para um sono de qualidade.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Sono]]
 - [[Rotina-Semanal]]
 - [[Rotinas]]
-
-[[Pessoal]]

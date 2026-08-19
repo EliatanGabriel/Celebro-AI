@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Django
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Framework web full-stack do Python, com ORM, admin e segurança embutidas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Python]]
 - [[Backend]]
 - [[REST]]
-
-[[Estudos]]

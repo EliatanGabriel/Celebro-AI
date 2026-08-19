@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Laravel
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Framework PHP elegante com ORM (Eloquent), Blade e ecossistema rico.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[PHP]]
 - [[Backend]]
-- [[Composer]]
-
-[[Estudos]]

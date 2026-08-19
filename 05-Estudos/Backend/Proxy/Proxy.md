@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Proxy
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Servidor intermediário entre cliente e destino que filtra e encaminha tráfego.
 
@@ -21,7 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Load-Balancer]]
-- [[CDN]]
-- [[Firewall]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Habito-Trabalho
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de manter foco e organização no ambiente de trabalho.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Rotina-Trabalho]]
 - [[Habito-Foco]]
 - [[Habitos]]
-
-[[Pessoal]]

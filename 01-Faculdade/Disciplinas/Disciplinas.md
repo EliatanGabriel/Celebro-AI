@@ -8,7 +8,7 @@ updated: "2026-08-15"
 
 # Disciplinas
 
-#area/faculdade
+#area/faculdade #faculdade/disciplinas
 
 Pastas das disciplinas da faculdade.
 
@@ -24,3 +24,4 @@ Pastas das disciplinas da faculdade.
 - [[TI]]
 - [[Typescript]]
 [[Faculdade]]
+

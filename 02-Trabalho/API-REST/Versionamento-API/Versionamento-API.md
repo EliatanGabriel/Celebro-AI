@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Versionamento-API
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Estratégias para evoluir uma API sem quebrar consumidores.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Endpoints]]
 - [[Git-Branch-Strategy]]
 - [[Ciclo-de-Release]]
-
-[[Trabalho]]

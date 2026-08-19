@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Roadmap-Financeiro
 
-#area/projetos #conceito
+#area/projetos #projetos/roadmaps #conceito
 
 **Resumo:** Plano financeiro com metas e investimentos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Roadmaps]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

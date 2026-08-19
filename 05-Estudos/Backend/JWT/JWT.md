@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # JWT
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** JSON Web Token: token assinado usado para autenticação stateless.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[Auth]]
 - [[OAuth]]
 - [[Backend]]
-- [[Tokens]]
-
-[[Estudos]]

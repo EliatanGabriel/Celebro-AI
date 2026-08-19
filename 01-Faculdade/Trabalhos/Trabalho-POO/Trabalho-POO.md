@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Trabalho-POO
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/trabalhos #conceito
 
 **Resumo:** Trabalho da disciplina de POO.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[POO]]
 - [[Metas-Projetos-Facul]]
 - [[Prova-POO]]
-
-[[Faculdade]]

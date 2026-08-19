@@ -14,7 +14,7 @@ updated: "2026-08-19"
 
 ## Estrutura
 
-- [[Home]] é o centro. Só ela conecta as áreas (topologia em estrela).
+- [[Home]] é o centro e conecta as áreas principais. Cada área orbita ao redor (como constelações); dentro de Estudos há grupos temáticos orbitando.
 - Cada área é um **hub** (`type: hub`): Faculdade, Trabalho, Pessoal, Projetos, Estudos.
 - Cada hub lista suas **subáreas** em `## Subáreas`, e as subáreas são **MOCs** (`type: moc`) com `## Notas`.
 - Notas de conceito (`type: concept`) têm `## Tópicos` e `## Relacionadas`.
@@ -24,7 +24,7 @@ updated: "2026-08-19"
 1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept ou Daily).
 2. Troque `AREA` pelo nome da área (ex.: `estudos`) no back-link.
 3. `created` e `updated` são preenchidos automaticamente.
-4. Termine a nota com o back-link único para a área pai (ex.: `[[Estudos]]`).
+4. Termine a nota com o back-link para a área ou subárea pai (ex.: `Backend`).
 
 ## Diário
 
@@ -32,7 +32,7 @@ updated: "2026-08-19"
 
 ## Regras do grafo
 
-- Cores por tag `#area/<area>`: home, estudos, faculdade, trabalho, pessoal, projetos.
+- Cores por tag `#<area>/<subarea>` (ex.: `#estudos/backend`, `#pessoal/habitos`). O Home fica isolado com o Guia.
 - Toda nota pertence a uma única área (uma única `#area/`).
 
 [[Home]]

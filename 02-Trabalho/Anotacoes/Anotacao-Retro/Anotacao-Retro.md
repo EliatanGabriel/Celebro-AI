@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Retro
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/anotacoes #conceito
 
 **Resumo:** Anotações de retrospectivas e melhorias acordadas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Reuniao-Retro]]
 - [[Feedback]]
-
-[[Trabalho]]

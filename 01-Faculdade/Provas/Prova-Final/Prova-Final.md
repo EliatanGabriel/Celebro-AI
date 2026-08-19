@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-Final
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova final da disciplina: conteúdo e revisão.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Revisao-Prova]]
 - [[Metas-Notas]]
 - [[Faculdade]]
-
-[[Faculdade]]

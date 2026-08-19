@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Prova
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/anotacoes #conceito
 
 **Resumo:** Anotações de revisão para provas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Revisao-Prova]]
 - [[Provas]]
 - [[Metas-Notas]]
-
-[[Faculdade]]

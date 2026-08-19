@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Eisenhower
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Matriz de priorização por importância e urgência.
 
@@ -22,4 +22,5 @@ updated: "2026-08-19"
 ## Relacionadas
 - 
 
-[[Pessoal]]
+[[Produtividade]]
+

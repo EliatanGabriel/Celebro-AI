@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Produtividade
 
-#area/pessoal
+#area/pessoal #pessoal/produtividade
 
 **Resumo:** Subárea de **Pessoal** com métodos de alta produtividade.
 

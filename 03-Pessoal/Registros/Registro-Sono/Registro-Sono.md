@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Registro-Sono
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/registros #conceito
 
 **Resumo:** Registro contínuo de sono para acompanhamento e reflexão.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Registros]]
 - [[Registro-Anotacoes]]
-
-[[Pessoal]]

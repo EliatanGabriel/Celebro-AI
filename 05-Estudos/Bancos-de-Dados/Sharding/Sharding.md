@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Sharding
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Dividir dados entre múltiplos servidores para escalar horizontalmente.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Replication]]
 - [[Bancos-de-Dados]]
 - [[NoSQL]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Curso-2024
 
-#area/projetos #conceito
+#area/projetos #projetos/concluidos #conceito
 
 **Resumo:** Projeto concluído sobre curso-2024: resumo e aprendizados.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Concluidos]]
 - [[Projetos]]
 - [[Ativos]]
-
-[[Projetos]]

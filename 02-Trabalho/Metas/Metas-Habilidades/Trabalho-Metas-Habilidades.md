@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Habilidades
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Metas de desenvolvimento de novas competências técnicas e soft skills.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Metas-Certificacoes]]
 - [[Metas-Promocao]]
-
-[[Trabalho]]

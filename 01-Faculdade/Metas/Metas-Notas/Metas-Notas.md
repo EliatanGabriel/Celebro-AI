@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Notas
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/metas #conceito
 
 **Resumo:** Metas de desempenho acadêmico em provas e trabalhos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Provas]]
 - [[Trabalhos]]
 - [[Revisao-Prova]]
-
-[[Faculdade]]

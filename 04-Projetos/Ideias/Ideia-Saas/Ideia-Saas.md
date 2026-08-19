@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Saas
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de software como serviço.
 
@@ -20,9 +20,6 @@ updated: "2026-08-16"
 - Viabilidade
 
 ## Relacionadas
-- [[Ideia-Negocio]]
 - [[Ideia-App]]
 - [[Ideias]]
 - [[Projeto-API]]
-
-[[Projetos]]

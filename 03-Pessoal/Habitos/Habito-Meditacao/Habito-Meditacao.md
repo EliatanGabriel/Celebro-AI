@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Meditacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de meditar para acalmar a mente e aumentar foco.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Habito-Foco]]
 - [[Saude-mental]]
 - [[Habitos]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-1-Semestre
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova do primeiro semestre: conteúdo e preparação.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Metas-Notas]]
 - [[Revisao-Prova]]
 - [[Metas-Semestre-1]]
-
-[[Faculdade]]

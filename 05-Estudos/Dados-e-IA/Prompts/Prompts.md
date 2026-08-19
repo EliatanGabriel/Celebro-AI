@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prompts
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Instruções dadas a modelos de IA para guiar respostas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Agentes-IA]]
 - [[IA]]
 - [[RAG]]
-
-[[Estudos]]

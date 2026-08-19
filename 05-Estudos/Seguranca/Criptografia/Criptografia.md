@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Criptografia
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Técnica de transformar dados para que apenas quem tem a chave leia.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - Sigilo
 
 ## Relacionadas
-- [[Hashing]]
 - [[TLS]]
 - [[HTTPS]]
-
-[[Estudos]]

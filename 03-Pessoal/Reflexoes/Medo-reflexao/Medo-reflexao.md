@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Medo-reflexao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão sobre medos e como enfrentá-los.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Reflexoes-Reflexoes]]
 - [[Superacao]]
-
-[[Pessoal]]

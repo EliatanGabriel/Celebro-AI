@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Logging
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Registro estruturado de eventos dos sistemas para diagnóstico.
 
@@ -21,8 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Observability]]
-- [[Elasticsearch]]
 - [[Monitoring]]
-- [[Debug]]
-
-[[Estudos]]

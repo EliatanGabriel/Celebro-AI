@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Extensao
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de extensão de navegador ou plugin.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Ideia-Ferramenta]]
 - [[Ideia-App]]
 - [[Ideias]]
-
-[[Projetos]]

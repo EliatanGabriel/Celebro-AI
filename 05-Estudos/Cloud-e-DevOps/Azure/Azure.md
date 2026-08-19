@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Azure
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Nuvem da Microsoft, forte em integração com Windows e enterprise.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[AWS]]
 - [[GCP]]
-- [[PowerShell]]
-
-[[Estudos]]

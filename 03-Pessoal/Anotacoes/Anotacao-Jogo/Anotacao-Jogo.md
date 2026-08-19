@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Jogo
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes #conceito
 
 **Resumo:** Registro de jogos jogados, com progresso e impressões.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Jogos]]
 - [[Hobbies]]
-
-[[Pessoal]]

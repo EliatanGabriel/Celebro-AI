@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # gRPC
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Framework de RPC do Google baseado em HTTP/2 e Protocol Buffers.
 
@@ -21,8 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[APIs]]
-- [[Microservicos]]
 - [[HTTP]]
-- [[Protocol-Buffers]]
-
-[[Estudos]]

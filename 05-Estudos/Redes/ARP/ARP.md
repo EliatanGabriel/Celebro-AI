@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # ARP
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Protocolo que resolve endereço IP para MAC na rede local.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[IP]]
 - [[Switching]]
 - [[OSI]]
-
-[[Estudos]]

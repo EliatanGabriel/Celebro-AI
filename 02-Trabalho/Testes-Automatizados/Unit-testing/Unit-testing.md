@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Unit-testing
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Testes de unidades isoladas de código (funções, classes).
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Mocks]]
 - [[Integration-testing]]
 - [[Test-frameworks]]
-
-[[Trabalho]]

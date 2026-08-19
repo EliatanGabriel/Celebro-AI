@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-2020
 
-#area/projetos #conceito
+#area/projetos #projetos/concluidos #conceito
 
 **Resumo:** Projeto concluído em 2020: resumo, aprendizados e resultados.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Concluidos]]
 - [[Projetos]]
-
-[[Projetos]]

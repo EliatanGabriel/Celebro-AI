@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Refatoracao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Melhoria da estrutura do código sem alterar seu comportamento.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Readability]]
 - [[Best-practices]]
-
-[[Trabalho]]

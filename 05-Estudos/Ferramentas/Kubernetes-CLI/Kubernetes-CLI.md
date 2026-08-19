@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Kubernetes-CLI
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** kubectl: ferramenta de linha de comando para gerenciar Kubernetes.
 
@@ -20,9 +20,5 @@ updated: "2026-08-19"
 - Port-forward
 
 ## Relacionadas
-- [[Kubernetes]]
 - [[Terminal]]
-- [[DevOps]]
 - [[Ferramentas]]
-
-[[Estudos]]

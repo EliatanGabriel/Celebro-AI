@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Visao-de-Vida
 
-#area/pessoal
+#area/pessoal #pessoal/visao-de-vida
 
 Subárea de **Pessoal**.
 

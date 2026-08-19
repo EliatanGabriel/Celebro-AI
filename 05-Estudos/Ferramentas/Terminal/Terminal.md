@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Terminal
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Interface de linha de comando para interagir com o sistema.
 
@@ -20,9 +20,5 @@ updated: "2026-08-19"
 - Produtividade
 
 ## Relacionadas
-- [[Shell]]
-- [[Bash]]
 - [[Linux]]
 - [[Zsh]]
-
-[[Estudos]]

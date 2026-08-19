@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Sprint
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/anotacoes #conceito
 
 **Resumo:** Anotações sobre sprints: planejamento, progresso e entregas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Reuniao-Planning]]
 - [[Reuniao-Retro]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Vue
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Framework progressivo e leve para interfaces, fácil de adotar.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Frontend]]
 - [[Componentes]]
 - [[React]]
-
-[[Estudos]]

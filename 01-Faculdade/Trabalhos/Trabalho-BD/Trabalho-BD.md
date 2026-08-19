@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Trabalho-BD
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/trabalhos #conceito
 
 **Resumo:** Trabalho da disciplina de Banco de Dados.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Banco-de-Dados]]
 - [[Metas-Projetos-Facul]]
 - [[Prova-BD]]
-
-[[Faculdade]]

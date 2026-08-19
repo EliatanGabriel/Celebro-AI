@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # C++
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Extensão do C com orientação a objetos e templates, usada em jogos, sistemas e aplicações de alta performance.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[C]]
-
-[[Estudos]]

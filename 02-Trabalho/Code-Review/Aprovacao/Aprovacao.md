@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Aprovacao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Consenso da equipe de que a mudança está pronta para integrar.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Feedback]]
 - [[Best-practices]]
 - [[Padroes]]
-
-[[Trabalho]]

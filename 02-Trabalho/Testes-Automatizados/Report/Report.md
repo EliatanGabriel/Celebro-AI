@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Report
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Relatório que consolida resultados e evidências dos testes.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Monitoramento]]
 - [[Testes-API]]
 - [[Documentacao-de-Testes]]
-
-[[Trabalho]]

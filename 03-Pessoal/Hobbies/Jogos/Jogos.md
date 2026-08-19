@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Jogos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Hobby de jogar videogames e outros jogos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Anotacao-Jogo]]
 - [[Hobbies]]
-
-[[Pessoal]]

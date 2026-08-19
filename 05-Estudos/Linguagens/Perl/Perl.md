@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Perl
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem madura conhecida por processamento de texto e scripts.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[Python]]
 - [[Bash]]
 - [[Shell]]
-- [[Scripts]]
-
-[[Estudos]]

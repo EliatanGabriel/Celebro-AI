@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Sonhos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Registro dos sonhos e desejos de longo prazo.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Visao-10-anos]]
 - [[Legado]]
 - [[Plano-de-vida]]
-
-[[Pessoal]]

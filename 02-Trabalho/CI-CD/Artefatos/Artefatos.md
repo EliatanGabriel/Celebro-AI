@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Artefatos
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Produtos gerados pelo build que são armazenados e usados em deploys.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Build]]
 - [[Deploy]]
-
-[[Trabalho]]

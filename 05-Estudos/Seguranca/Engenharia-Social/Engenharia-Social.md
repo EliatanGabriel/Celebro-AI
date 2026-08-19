@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Engenharia-Social
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Ataques que manipulam pessoas para obter informações ou acessos indevidos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Firewall]]
 - [[Credenciais]]
 - [[Privacidade]]
-
-[[Estudos]]

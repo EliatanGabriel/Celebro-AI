@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # SQLite
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Banco relacional embutido, leve, sem servidor, usado em apps locais e dispositivos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Bancos-de-Dados]]
 - [[Transactions]]
-
-[[Estudos]]

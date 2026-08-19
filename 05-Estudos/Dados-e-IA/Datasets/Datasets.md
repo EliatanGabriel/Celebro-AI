@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Datasets
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Conjuntos de dados usados para treinar e avaliar modelos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Feature-Engineering]]
 - [[Pandas]]
 - [[Machine-Learning]]
-
-[[Estudos]]

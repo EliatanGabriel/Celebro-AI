@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # SEO
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Search Engine Optimization: otimizar páginas para buscadores.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Next-js]]
 - [[Frontend]]
 - [[Performance-Frontend]]
-
-[[Estudos]]

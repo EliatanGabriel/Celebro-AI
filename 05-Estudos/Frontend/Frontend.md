@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Frontend
 
-#area/estudos
+#area/estudos #estudos/frontend
 
 Subárea de **Estudos**.
 
@@ -39,4 +39,4 @@ Subárea de **Estudos**.
 - [[Vue]]
 - [[Webpack]]
 
-[[Estudos]]
+[[Estudos-Desenvolvimento]]

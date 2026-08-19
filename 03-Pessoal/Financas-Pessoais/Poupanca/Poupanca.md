@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Poupanca
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Dinheiro guardado de forma segura e de fácil acesso.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Orcamento]]
 - [[Investimentos]]
 - [[Renda]]
-
-[[Pessoal]]

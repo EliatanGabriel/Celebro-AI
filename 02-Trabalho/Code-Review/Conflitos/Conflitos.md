@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Conflitos
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Divergências entre revisores ou entre versões do código.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Feedback]]
 - [[Comunicacao-com-Devs]]
-
-[[Trabalho]]

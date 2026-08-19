@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # NAT
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Tradução de endereços, permite que muitos dispositivos compartilhem um IP público.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[IP]]
 - [[Firewall]]
 - [[Subnetting]]
-
-[[Estudos]]

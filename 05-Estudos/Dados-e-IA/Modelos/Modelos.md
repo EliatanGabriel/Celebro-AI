@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Modelos
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Representações matemáticas treinadas para fazer previsões ou gerar conteúdo.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Machine-Learning]]
 - [[LLM]]
 - [[Fine-tuning]]
-
-[[Estudos]]

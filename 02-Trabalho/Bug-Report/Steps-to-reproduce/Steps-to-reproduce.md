@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Steps-to-reproduce
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Sequência numerada de passos que levam à ocorrência do bug.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Reproducao]]
 - [[Expected-vs-actual]]
 - [[Evidencias]]
-
-[[Trabalho]]

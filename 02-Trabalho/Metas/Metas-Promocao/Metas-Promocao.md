@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Promocao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Objetivos de carreira para alcançar uma promoção.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Metas-Leadership]]
 - [[Metas-Projetos-Trab]]
 - [[Feedback]]
-
-[[Trabalho]]

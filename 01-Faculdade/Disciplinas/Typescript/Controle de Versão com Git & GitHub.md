@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Controle de Versão com Git & GitHub
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/disciplinas #conceito
 
 **Resumo:** Controle de versão com Git e GitHub: conceitos, configuração, autenticação SSH, repositórios, as três árvores do Git, ciclo prático de comandos e fluxo completo do zero à nuvem.
 
@@ -503,5 +503,3 @@ Ou seja: **criar → preparar → registrar → publicar**.
 
 - [[Typescript]]
 - [[Faculdade]]
-
-[[Faculdade]]

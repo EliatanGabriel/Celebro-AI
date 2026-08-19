@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # TypeScript-Frontend
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Uso de TypeScript no frontend para código mais seguro e manutenível.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[TypeScript]]
 - [[React]]
 - [[Frontend]]
-
-[[Estudos]]

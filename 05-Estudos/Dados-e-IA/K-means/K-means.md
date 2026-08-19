@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # K-means
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Algoritmo não supervisionado de clusterização que agrupa dados por similaridade.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Clustering]]
 - [[Machine-Learning]]
-- [[Dados]]
-
-[[Estudos]]

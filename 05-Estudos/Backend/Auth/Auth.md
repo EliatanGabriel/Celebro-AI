@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Auth
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Autenticação: verificação de identidade do usuário em um sistema.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[OAuth]]
 - [[Sessions]]
 - [[Backend]]
-
-[[Estudos]]

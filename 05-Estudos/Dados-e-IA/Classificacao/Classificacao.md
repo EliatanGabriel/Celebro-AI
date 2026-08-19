@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Classificacao
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Modelo que atribui categorias a dados (spam/não-spam).
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Scikit-Learn]]
 - [[Machine-Learning]]
 - [[Clustering]]
-
-[[Estudos]]

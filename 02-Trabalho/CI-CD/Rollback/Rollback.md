@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rollback
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Retorno a uma versão anterior quando o deploy apresenta problemas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Deploy]]
 - [[Producao]]
 - [[Monitoramento]]
-
-[[Trabalho]]

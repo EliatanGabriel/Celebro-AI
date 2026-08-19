@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Pomodoro
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Técnica de foco em blocos de 25 minutos com pausas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Time-blocking]]
 - [[Deep-work]]
 - [[Habito-Foco]]
-
-[[Pessoal]]

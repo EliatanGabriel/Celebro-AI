@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Protocol-Buffers
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Formato binário de serialização de dados criado pelo Google, eficiente e tipado.
 
@@ -20,7 +20,4 @@ updated: "2026-08-19"
 - Tipagem
 
 ## Relacionadas
-- [[gRPC]]
-- [[JSON]]
-
-[[Estudos]]
+- [[Ferramentas]]

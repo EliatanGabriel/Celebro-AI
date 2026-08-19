@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Habitos-reflexao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão sobre hábitos e seu impacto na vida.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Reflexoes-Reflexoes]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Seguranca-review
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Revisão do código sob a ótica de vulnerabilidades e riscos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Checklist]]
 - [[Best-practices]]
-
-[[Trabalho]]

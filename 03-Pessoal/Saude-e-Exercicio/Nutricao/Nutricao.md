@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Nutricao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Alimentação adequada para saúde e desempenho.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Hidratacao]]
 - [[Treino-semana]]
 - [[Habito-Alimentacao]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Colegas
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Relacionamentos profissionais com colegas de trabalho.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Networking]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

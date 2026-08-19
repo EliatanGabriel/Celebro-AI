@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Firefox
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Navegador da Mozilla, open-source e focado em privacidade.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Chrome]]
 - [[Browsers-DevTools]]
-- [[Frontend]]
-- [[Privacidade]]
-
-[[Estudos]]

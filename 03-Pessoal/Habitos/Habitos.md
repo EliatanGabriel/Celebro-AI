@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Hábitos
 
-#area/pessoal
+#area/pessoal #pessoal/habitos
 
 Subárea de **Pessoal**.
 
@@ -27,7 +27,6 @@ Subárea de **Pessoal**.
 - [[Habito-Meditacao]]
 - [[Habito-Novos]]
 - [[Habito-Organizacao]]
-- [[Habito-Planejamento]]
 - [[Habito-Postura]]
 - [[Habito-Quebra]]
 - [[Habito-Reflexao]]

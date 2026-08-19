@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # QA Manual vs Automatizado
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/qa-manual-vs-automatizado #conceito
 
 **Resumo:** Comparação entre testes manuais e automatizados.
 
@@ -25,3 +25,4 @@ updated: "2026-08-16"
 - [[Selenium]]
 
 [[Trabalho]]
+

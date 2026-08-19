@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Trabalho-Eng-Soft
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/trabalhos #conceito
 
 **Resumo:** Trabalho da disciplina de Engenharia de Software.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Engenharia-de-Software]]
 - [[Metas-Projetos-Facul]]
 - [[Prova-Eng-Soft]]
-
-[[Faculdade]]

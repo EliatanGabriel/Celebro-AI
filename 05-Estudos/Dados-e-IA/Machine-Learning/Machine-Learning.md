@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Machine-Learning
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Campo da IA onde modelos aprendem padrões a partir de dados.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Data-Science]]
 - [[IA]]
 - [[Scikit-Learn]]
-
-[[Estudos]]

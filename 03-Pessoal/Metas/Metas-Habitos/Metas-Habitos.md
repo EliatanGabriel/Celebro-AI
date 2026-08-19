@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Habitos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de construção e manutenção de hábitos.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Metas-Pessoais]]
 - [[Metas]]
-
-[[Pessoal]]

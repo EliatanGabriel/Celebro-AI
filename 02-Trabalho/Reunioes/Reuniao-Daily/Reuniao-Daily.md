@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Reuniao-Daily
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/reunioes #conceito
 
 **Resumo:** Reunião diária rápida de alinhamento do time (stand-up).
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Reuniao-Planning]]
 - [[Slack]]
 - [[Comunicacao-com-Devs]]
-
-[[Trabalho]]

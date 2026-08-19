@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Linguagens
 
-#area/estudos
+#area/estudos #estudos/linguagens
 
 Subárea de **Estudos**.
 
@@ -26,7 +26,6 @@ Subárea de **Estudos**.
 - [[Java]]
 - [[JavaScript]]
 - [[Kotlin]]
-- [[Lua]]
 - [[Perl]]
 - [[PHP]]
 - [[PowerShell]]
@@ -39,4 +38,4 @@ Subárea de **Estudos**.
 - [[Swift]]
 - [[TypeScript]]
 
-[[Estudos]]
+[[Estudos-Desenvolvimento]]

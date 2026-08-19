@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # MFA
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Autenticação multifator: exige duas ou mais provas de identidade no acesso.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Senhas]]
 - [[Credenciais]]
 - [[Segredos]]
-
-[[Estudos]]

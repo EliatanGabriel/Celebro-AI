@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # GitHub-Actions
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** CI/CD nativo do GitHub com workflows baseados em YAML.
 
@@ -20,9 +20,6 @@ updated: "2026-08-19"
 - Integração GitHub
 
 ## Relacionadas
-- [[GitHub]]
 - [[CI-CD-Conceito]]
 - [[Pipeline]]
 - [[DevOps]]
-
-[[Estudos]]

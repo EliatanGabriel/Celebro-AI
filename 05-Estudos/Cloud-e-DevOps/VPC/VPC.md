@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # VPC
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Virtual Private Cloud: rede isolada e configurável dentro da AWS.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[AWS]]
 - [[Firewall]]
 - [[EC2]]
-
-[[Estudos]]

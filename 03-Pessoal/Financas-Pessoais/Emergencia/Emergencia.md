@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Emergencia
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Reserva financeira para imprevistos e emergências.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Orcamento]]
 - [[Metas-financeiras]]
 - [[Renda]]
-
-[[Pessoal]]

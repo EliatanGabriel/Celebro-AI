@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Zoom
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Plataforma de videoconferência para reuniões remotas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Reuniao-1on1]]
 - [[Reuniao-Daily]]
 - [[Comunicacao-com-Devs]]
-
-[[Trabalho]]

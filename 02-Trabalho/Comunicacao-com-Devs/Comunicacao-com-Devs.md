@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Comunicacao com Devs
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/comunicacao-com-devs #conceito
 
 **Resumo:** Habilidades de comunicação eficaz com desenvolvedores.
 
@@ -26,3 +26,4 @@ updated: "2026-08-16"
 - [[Slack]]
 
 [[Trabalho]]
+

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # MongoDB
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Banco NoSQL document-based, flexível e escalável horizontalmente.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Bancos-de-Dados]]
 - [[APIs]]
 - [[Backend]]
-
-[[Estudos]]

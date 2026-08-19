@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Linux
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Sistema operacional open-source, padrão em servidores e dev.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Terminal]]
-- [[Shell]]
-- [[Servidores]]
-- [[DevOps]]
-
-[[Estudos]]

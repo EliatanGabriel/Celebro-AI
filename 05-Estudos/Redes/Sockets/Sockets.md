@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Sockets
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Endpoint de comunicação bidirecional entre processos, base de WebSocket e TCP/IP.
 
@@ -20,9 +20,5 @@ updated: "2026-08-19"
 - WebSocket
 
 ## Relacionadas
-- [[WebSocket]]
 - [[TCP]]
 - [[UDP]]
-- [[APIs]]
-
-[[Estudos]]

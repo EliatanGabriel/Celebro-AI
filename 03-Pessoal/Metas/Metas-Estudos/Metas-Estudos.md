@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Estudos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de estudo e aprendizado técnico.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Metas-Habilidades]]
 - [[Metas]]
-
-[[Pessoal]]

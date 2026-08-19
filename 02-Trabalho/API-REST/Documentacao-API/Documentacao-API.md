@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Documentacao-API
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Guia que descreve endpoints, parâmetros, respostas e erros de uma API.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Endpoints]]
 - [[Versionamento-API]]
 - [[Confluence]]
-
-[[Trabalho]]

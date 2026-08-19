@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Deploy
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Publicação de uma versão do software em um ambiente.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Producao]]
 - [[Staging]]
 - [[Rollback]]
-
-[[Trabalho]]

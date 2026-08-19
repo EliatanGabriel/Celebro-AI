@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Readability
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Facilidade de ler e compreender o código por outros desenvolvedores.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Best-practices]]
 - [[Padroes]]
 - [[Refatoracao]]
-
-[[Trabalho]]

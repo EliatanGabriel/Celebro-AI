@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Bootstrap
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Framework CSS clássico com componentes prontos e grid responsivo.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Frontend]]
-
-[[Estudos]]

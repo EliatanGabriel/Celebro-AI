@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # NumPy
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Biblioteca Python para computação numérica e arrays eficientes.
 
@@ -20,9 +20,6 @@ updated: "2026-08-19"
 - Base do ecossistema
 
 ## Relacionadas
-- [[Python]]
 - [[Pandas]]
 - [[Data-Science]]
 - [[Machine-Learning]]
-
-[[Estudos]]

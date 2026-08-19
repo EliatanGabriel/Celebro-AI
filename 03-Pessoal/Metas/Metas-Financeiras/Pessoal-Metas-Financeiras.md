@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Financeiras
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas financeiras pessoais de curto e longo prazo.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Metas-financeiras]]
 - [[Investimentos]]
 - [[Poupanca]]
-
-[[Pessoal]]

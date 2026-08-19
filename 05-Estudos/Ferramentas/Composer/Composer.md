@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Composer
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Gerenciador de dependências do PHP, similar ao npm para JavaScript.
 
@@ -20,8 +20,4 @@ updated: "2026-08-19"
 - PHP
 
 ## Relacionadas
-- [[PHP]]
-- [[Laravel]]
-- [[Docker]]
-
-[[Estudos]]
+- [[Ferramentas]]

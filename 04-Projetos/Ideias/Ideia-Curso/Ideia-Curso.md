@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Curso
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de curso ou trilha de aprendizado.
 
@@ -20,8 +20,5 @@ updated: "2026-08-16"
 - Viabilidade
 
 ## Relacionadas
-- [[Ideia-Negocio]]
 - [[Ideias]]
 - [[Roadmap-Estudos]]
-
-[[Projetos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Feature-Engineering
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Criar e transformar variáveis para melhorar modelos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Machine-Learning]]
 - [[Overfitting]]
 - [[Data-Science]]
-
-[[Estudos]]

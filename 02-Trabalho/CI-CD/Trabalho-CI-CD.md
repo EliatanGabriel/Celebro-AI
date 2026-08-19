@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # CI/CD
 
-#area/trabalho #hub
+#area/trabalho #trabalho/ci-cd #hub
 
 Subárea de **Trabalho** com integração e entrega contínuas.
 
@@ -31,3 +31,4 @@ Subárea de **Trabalho** com integração e entrega contínuas.
 - [[Testes-Automatizados]]
 
 [[Trabalho]]
+

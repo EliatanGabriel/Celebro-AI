@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # OSI
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Modelo de referência de redes em 7 camadas.
 
@@ -21,7 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[TCP-IP]]
-- [[HTTP]]
 - [[Protocolos]]
-
-[[Estudos]]

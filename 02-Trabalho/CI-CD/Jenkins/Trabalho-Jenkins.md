@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Jenkins
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ci-cd #conceito
 
 **Resumo:** Servidor de automação open source para CI/CD com pipelines declarativas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Build]]
 - [[Deploy]]
-
-[[Trabalho]]

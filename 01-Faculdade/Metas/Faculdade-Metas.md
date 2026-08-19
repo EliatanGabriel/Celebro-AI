@@ -8,14 +8,12 @@ updated: "2026-08-16"
 
 # Faculdade-Metas
 
-#area/faculdade
+#area/faculdade #faculdade/metas
 
 Subárea de **Faculdade**.
 
 ## Notas
-- [[Metas-Estagio]]
 - [[Metas-Frequencia]]
-- [[Metas-Intercambio]]
 - [[Metas-Notas]]
 - [[Metas-Projetos-Facul]]
 - [[Metas-Semestre-1]]

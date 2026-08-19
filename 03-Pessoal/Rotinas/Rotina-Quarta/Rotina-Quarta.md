@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Quarta
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina específica de quarta-feira.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Quinta]]
 - [[Rotina-Terca]]
 - [[Rotinas]]
-
-[[Pessoal]]

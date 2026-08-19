@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Selenium
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Framework clássico de automação de navegador via WebDriver.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Cypress]]
 - [[E2E]]
 - [[Test-frameworks]]
-
-[[Trabalho]]

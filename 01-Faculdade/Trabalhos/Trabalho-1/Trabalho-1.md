@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Trabalho-1
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/trabalhos #conceito
 
 **Resumo:** Primeiro trabalho acadêmico: tema, escopo e entrega.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Trabalhos]]
 - [[Metas-Projetos-Facul]]
 - [[Faculdade]]
-
-[[Faculdade]]

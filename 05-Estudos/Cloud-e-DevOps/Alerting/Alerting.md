@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Alerting
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Notificações automáticas quando métricas atingem limites.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[Monitoring]]
 - [[Observability]]
 - [[DevOps]]
-- [[Sistemas]]
-
-[[Estudos]]

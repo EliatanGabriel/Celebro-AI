@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Mobilidade
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Trabalho de amplitude de movimento das articulações.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Postura]]
 - [[Treino-semana]]
 - [[Saude-e-Exercicio]]
-
-[[Pessoal]]

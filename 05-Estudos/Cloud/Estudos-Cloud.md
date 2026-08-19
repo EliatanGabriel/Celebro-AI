@@ -8,10 +8,10 @@ updated: "2026-08-19"
 
 # Cloud
 
-#area/estudos
+#area/estudos #estudos/cloud
 
 **Resumo:** Subárea de **Estudos** sobre Computação em nuvem.
 
 ## Notas
 
-[[Estudos]]
+[[Estudos-Infraestrutura]]

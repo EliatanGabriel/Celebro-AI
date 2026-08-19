@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Funcoes
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Blocos reutilizáveis de código que recebem parâmetros e retornam valores.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Fundamentos]]
-
-[[Estudos]]

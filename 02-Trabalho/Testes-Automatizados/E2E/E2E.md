@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # E2E
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Testes ponta a ponta que validam fluxos completos do usuário.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Cypress]]
 - [[Playwright]]
 - [[Integration-testing]]
-
-[[Trabalho]]

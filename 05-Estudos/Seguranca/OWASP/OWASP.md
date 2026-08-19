@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # OWASP
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Projeto aberto de segurança de aplicações web, mantém Top 10.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[SQL-Injection]]
 - [[XSS]]
 - [[CSRF]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Journal
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de escrever um diário pessoal com regularidade.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Habito-Reflexao]]
 - [[Habito-Gratidao]]
-
-[[Pessoal]]

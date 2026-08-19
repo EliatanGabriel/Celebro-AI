@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metodos-HTTP
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Verbos que definem a operação a executar sobre um recurso.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Endpoints]]
 - [[Status-Codes]]
 - [[Serializacao]]
-
-[[Trabalho]]

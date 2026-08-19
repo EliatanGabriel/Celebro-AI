@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Checklist
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Lista de verificação antes de aprovar uma mudança.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Aprovacao]]
 - [[Best-practices]]
 - [[Seguranca-review]]
-
-[[Trabalho]]

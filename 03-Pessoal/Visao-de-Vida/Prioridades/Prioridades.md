@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prioridades
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Definição clara do que importa mais na vida.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Valores]]
 - [[Foco]]
 - [[Plano-de-vida]]
-
-[[Pessoal]]

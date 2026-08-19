@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Kanban-pessoal
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Quadro visual de tarefas pessoais em colunas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Time-blocking]]
 - [[Habito-Organizacao]]
 - [[Produtividade]]
-
-[[Pessoal]]

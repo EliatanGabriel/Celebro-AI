@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Alimentacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de se alimentar de forma equilibrada e consciente.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Alimentacao]]
 - [[Habito-Agua]]
 - [[Habitos]]
-
-[[Pessoal]]

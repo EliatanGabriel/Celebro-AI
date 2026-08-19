@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Memoria
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Espaço onde dados e instruções são armazenados em execução.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Stack-Heap]]
 - [[Ponteiros]]
 - [[Performance]]
-
-[[Estudos]]

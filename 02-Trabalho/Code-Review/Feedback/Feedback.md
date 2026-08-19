@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Feedback
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/code-review #conceito
 
 **Resumo:** Comentários construtivos para melhorar a qualidade da mudança.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Aprovacao]]
 - [[Checklist]]
 - [[Comunicacao-com-Devs]]
-
-[[Trabalho]]

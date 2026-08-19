@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Autoconhecimento
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão sobre si mesmo, pontos fortes e crescimento.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Reflexoes-Reflexoes]]
-
-[[Pessoal]]

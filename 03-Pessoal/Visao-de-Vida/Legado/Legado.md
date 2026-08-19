@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Legado
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Reflexão sobre a marca que você quer deixar.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Visao-10-anos]]
 - [[Sonhos]]
 - [[Missao]]
-
-[[Pessoal]]

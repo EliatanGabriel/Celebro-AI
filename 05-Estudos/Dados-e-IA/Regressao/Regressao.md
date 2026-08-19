@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Regressao
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Modelo que prevê valores contínuos a partir de variáveis.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Scikit-Learn]]
 - [[Estatistica]]
 - [[Machine-Learning]]
-
-[[Estudos]]

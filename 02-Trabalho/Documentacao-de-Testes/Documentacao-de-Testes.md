@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Documentacao de Testes
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/documentacao-de-testes #conceito
 
 **Resumo:** Registros que descrevem planos, casos e resultados de testes.
 
@@ -25,3 +25,4 @@ updated: "2026-08-16"
 - [[Testes-Automatizados]]
 
 [[Trabalho]]
+

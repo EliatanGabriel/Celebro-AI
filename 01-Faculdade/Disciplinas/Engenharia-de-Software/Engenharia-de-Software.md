@@ -8,8 +8,9 @@ updated: "2026-08-19"
 
 # Engenharia de Software
 
-#area/faculdade
+#area/faculdade #faculdade/disciplinas
 
 Subárea de **Faculdade**.
 
-[[Faculdade]]
+[[Disciplinas]]
+

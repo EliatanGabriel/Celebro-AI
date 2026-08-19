@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Evidencias
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Registros (prints, vídeos, logs) que comprovam a ocorrência do bug.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Steps-to-reproduce]]
 - [[Ambiente]]
 - [[Expected-vs-actual]]
-
-[[Trabalho]]

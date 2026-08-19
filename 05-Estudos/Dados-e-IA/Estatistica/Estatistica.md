@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Estatistica
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Ciência de coletar, analisar e interpretar dados.
 
@@ -21,8 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Data-Science]]
-- [[R]]
 - [[Regressao]]
 - [[Datasets]]
-
-[[Estudos]]

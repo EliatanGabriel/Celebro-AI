@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # DOM
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Document Object Model: representação em árvore da página manipulada por JS.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[JavaScript]]
 - [[Eventos]]
 - [[Frontend]]
-
-[[Estudos]]

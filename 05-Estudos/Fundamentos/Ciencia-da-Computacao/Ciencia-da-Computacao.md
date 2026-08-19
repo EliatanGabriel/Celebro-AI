@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ciência-da-Computacao
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Estudo dos fundamentos teóricos da computação: algoritmos, estruturas e modelos.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Computacao]]
 - [[Algoritmos]]
-- [[Teoria-da-Computacao]]
 - [[Programacao]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Go
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem compilada do Google, simples e eficiente, criada para sistemas concorrentes e cloud.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Rust]]
 - [[Backend]]
-- [[Microservicos]]
-
-[[Estudos]]

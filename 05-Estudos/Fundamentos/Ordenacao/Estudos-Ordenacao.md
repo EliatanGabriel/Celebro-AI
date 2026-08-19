@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ordenacao
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Algoritmos que organizam elementos em ordem crescente ou decrescente.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Fundamentos]]
 - [[Algoritmos]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-TI
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova de Tecnologia da Informação.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[TI]]
 - [[Revisao-Prova]]
 - [[Metas-Notas]]
-
-[[Faculdade]]

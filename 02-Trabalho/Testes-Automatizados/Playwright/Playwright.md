@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Playwright
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Framework de automação web moderno da Microsoft, multi-navegador.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[E2E]]
 - [[Test-frameworks]]
 - [[Testes-Automatizados]]
-
-[[Trabalho]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Rotina-Digital
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de uso de dispositivos e redes de forma saudável.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Habito-Desconexao]]
 - [[Rotina-Semanal]]
 - [[Rotinas]]
-
-[[Pessoal]]

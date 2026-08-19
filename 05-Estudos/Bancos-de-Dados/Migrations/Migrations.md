@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Migrations
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Versionamento de mudanças no esquema do banco de dados.
 
@@ -21,7 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[ORM]]
-- [[DevOps]]
 - [[Bancos-de-Dados]]
-
-[[Estudos]]

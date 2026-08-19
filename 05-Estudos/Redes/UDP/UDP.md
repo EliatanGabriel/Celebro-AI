@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # UDP
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Protocolo não confiável, rápido, sem conexão, usado em streaming.
 
@@ -21,7 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[TCP]]
-- [[HTTP]]
 - [[Streaming]]
-
-[[Estudos]]

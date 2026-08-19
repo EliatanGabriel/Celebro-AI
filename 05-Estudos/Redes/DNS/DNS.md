@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # DNS
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Sistema que traduz nomes de domínio em endereços IP.
 
@@ -20,8 +20,5 @@ updated: "2026-08-19"
 - Cache
 
 ## Relacionadas
-- [[HTTP]]
 - [[IP]]
 - [[Navegacao]]
-
-[[Estudos]]

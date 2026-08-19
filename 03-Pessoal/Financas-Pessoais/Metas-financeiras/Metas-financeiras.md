@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-financeiras
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Objetivos de dinheiro com valor, prazo e plano de ação.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Poupanca]]
 - [[Investimentos]]
 - [[Emergencia]]
-
-[[Pessoal]]

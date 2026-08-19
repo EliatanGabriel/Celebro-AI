@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-POO
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova de Programação Orientada a Objetos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[POO]]
 - [[Revisao-Prova]]
 - [[Metas-Notas]]
-
-[[Faculdade]]

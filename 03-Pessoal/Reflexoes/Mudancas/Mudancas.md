@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Mudancas
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão sobre mudanças e transições de vida.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Autoconhecimento]]
 - [[Reflexoes-Reflexoes]]
 - [[Momentos-marcantes]]
-
-[[Pessoal]]

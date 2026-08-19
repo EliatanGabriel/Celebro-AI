@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Front-end-Design
 
-#area/faculdade #hub
+#area/faculdade #faculdade/disciplinas #hub
 
 Subárea de **Faculdade** com conceitos de design e desenvolvimento front-end.
 
@@ -18,5 +18,3 @@ Subárea de **Faculdade** com conceitos de design e desenvolvimento front-end.
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
-
-[[Faculdade]]

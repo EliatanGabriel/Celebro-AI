@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Performance-Frontend
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Otimizações para carregamento e interação rápidos no navegador.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Next-js]]
 - [[Caching]]
 - [[Frontend]]
-
-[[Estudos]]

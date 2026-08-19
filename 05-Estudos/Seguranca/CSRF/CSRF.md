@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # CSRF
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Cross-Site Request Forgery: força a vítima a executar ações sem consentimento.
 
@@ -21,7 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[OWASP]]
-- [[Sessions]]
-- [[Cookies]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Cartao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Gestão de cartões de crédito: limites, faturas e uso consciente.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Dividas]]
 - [[Poupanca]]
 - [[Financas-Pessoais]]
-
-[[Pessoal]]

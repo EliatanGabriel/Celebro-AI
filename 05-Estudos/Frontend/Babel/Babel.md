@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Babel
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Transpilador que converte JS moderno para versões compatíveis.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[JavaScript]]
 - [[TypeScript]]
 - [[Frontend]]
-
-[[Estudos]]

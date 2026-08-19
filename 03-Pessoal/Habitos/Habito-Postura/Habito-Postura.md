@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Postura
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de manter boa postura ao longo do dia.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Alongamento]]
 - [[Mobilidade]]
 - [[Habitos]]
-
-[[Pessoal]]

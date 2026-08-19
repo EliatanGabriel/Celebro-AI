@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Hábitos-produtivos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Hábitos que sustentam alta produtividade diária.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Habitos]]
 - [[Habito-Foco]]
 - [[Produtividade]]
-
-[[Pessoal]]

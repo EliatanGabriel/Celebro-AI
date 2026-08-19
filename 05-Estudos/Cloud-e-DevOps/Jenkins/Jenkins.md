@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Jenkins
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Servidor de CI/CD open-source clássico para pipelines de build e deploy.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Pipeline]]
 - [[DevOps]]
 - [[GitHub-Actions]]
-
-[[Estudos]]

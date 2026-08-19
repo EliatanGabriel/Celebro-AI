@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Investimentos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/financas-pessoais #conceito
 
 **Resumo:** Aplicações de dinheiro para gerar retorno ao longo do tempo.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Poupanca]]
 - [[Emergencia]]
 - [[Metas-financeiras]]
-
-[[Pessoal]]

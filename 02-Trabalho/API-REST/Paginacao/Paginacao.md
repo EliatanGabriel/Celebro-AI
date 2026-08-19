@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Paginacao
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Divisão de grandes conjuntos de resultados em páginas menores.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Endpoints]]
 - [[Rate-Limiting]]
 - [[Serializacao]]
-
-[[Trabalho]]

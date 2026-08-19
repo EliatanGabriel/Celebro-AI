@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Habito-Desconexao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de se desconectar de telas e redes por períodos.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Habito-Foco]]
 - [[Sono]]
 - [[Habitos]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-Artigo
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de artigo técnico ou pessoal.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Ideia-Blog]]
 - [[Ideias]]
-
-[[Projetos]]

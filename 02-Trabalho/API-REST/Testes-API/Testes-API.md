@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Testes-API
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/api-rest #conceito
 
 **Resumo:** Verificação de que endpoints respondem corretamente em diversos cenários.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Endpoints]]
 - [[Status-Codes]]
 - [[Testes-Automatizados]]
-
-[[Trabalho]]

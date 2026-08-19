@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Plano-de-vida
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Plano abrangente conectando visão, metas e ações.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Visao-10-anos]]
 - [[Missao]]
-
-[[Pessoal]]

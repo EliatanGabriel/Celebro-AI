@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Frequencia
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/metas #conceito
 
 **Resumo:** Metas de presença e participação nas aulas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Faculdade-Metas]]
 - [[Disciplinas]]
-
-[[Faculdade]]

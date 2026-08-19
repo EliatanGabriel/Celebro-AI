@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Trabalho
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/anotacoes #conceito
 
 **Resumo:** Anotações de desenvolvimento de trabalhos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Trabalhos]]
 - [[Faculdade]]
 - [[Metas-Projetos-Facul]]
-
-[[Faculdade]]

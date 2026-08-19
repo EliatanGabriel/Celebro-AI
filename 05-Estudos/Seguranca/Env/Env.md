@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Env
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Variáveis de ambiente que carregam configurações e segredos fora do código.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Segredos]]
 - [[Credenciais]]
 - [[Docker]]
-
-[[Estudos]]

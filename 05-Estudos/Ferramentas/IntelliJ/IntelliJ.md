@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # IntelliJ
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** IDE da JetBrains, referência para Java/Kotlin.
 
@@ -20,9 +20,5 @@ updated: "2026-08-19"
 - Debug
 
 ## Relacionadas
-- [[Java]]
-- [[Kotlin]]
 - [[Eclipse]]
 - [[Ferramentas]]
-
-[[Estudos]]

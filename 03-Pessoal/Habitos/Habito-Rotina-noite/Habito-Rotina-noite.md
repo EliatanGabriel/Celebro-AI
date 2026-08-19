@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Rotina-noite
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de encerrar o dia com uma rotina relaxante.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Habito-Sono]]
 - [[Sono]]
 - [[Habitos]]
-
-[[Pessoal]]

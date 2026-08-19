@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # GraphQL
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Linguagem de consulta para APIs que permite pedir exatamente os dados necessários.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[APIs]]
 - [[REST]]
 - [[Backend]]
-
-[[Estudos]]

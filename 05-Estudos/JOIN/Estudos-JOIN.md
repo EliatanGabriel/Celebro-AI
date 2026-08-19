@@ -8,10 +8,10 @@ updated: "2026-08-19"
 
 # JOIN
 
-#area/estudos
+#area/estudos #estudos/join
 
 **Resumo:** Subárea de **Estudos** sobre Consultas JOIN em SQL.
 
 ## Notas
 
-[[Estudos]]
+[[Estudos-Ferramentas]]

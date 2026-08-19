@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # React
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Biblioteca JS para interfaces, baseada em componentes e estado.
 
@@ -25,5 +25,3 @@ updated: "2026-08-19"
 - [[Componentes]]
 - [[Frontend]]
 - [[Redux]]
-
-[[Estudos]]

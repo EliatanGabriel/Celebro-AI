@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Amigos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Vínculos de amizade e sua manutenção.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Agradecimentos]]
 - [[Anotacao-Pessoa]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

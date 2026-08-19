@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Medicamentos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude #conceito
 
 **Resumo:** Registro de medicamentos em uso e posologias.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Alergias]]
 - [[Consulta-2026]]
 - [[Saude]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Aprendizado Continuo
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/aprendizado-continuo #conceito
 
 **Resumo:** Compromisso de aprender e evoluir constantemente.
 
@@ -24,3 +24,4 @@ updated: "2026-08-19"
 - [[Habito-Estudo]]
 
 [[Pessoal]]
+

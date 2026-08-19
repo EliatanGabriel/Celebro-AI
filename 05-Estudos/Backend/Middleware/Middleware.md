@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Middleware
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Camada de software entre requisição e resposta que processa, valida ou modifica dados.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Node-js]]
 - [[Backend]]
 - [[Auth]]
-
-[[Estudos]]

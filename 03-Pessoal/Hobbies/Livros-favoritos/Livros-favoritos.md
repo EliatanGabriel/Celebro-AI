@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Livros-favoritos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Lista e reflexões sobre livros marcantes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Leitura]]
 - [[Habito-Leitura]]
 - [[Hobbies]]
-
-[[Pessoal]]

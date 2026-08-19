@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Blog
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo de criação e manutenção de um blog.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Projeto-Site-pessoal]]
 - [[Ativos]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

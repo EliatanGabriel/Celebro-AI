@@ -1,72 +1,541 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:home",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14726143
       }
     },
     {
-      "query": "tag:#area/estudos  ",
+      "query": "tag:#estudos/backend",
       "color": {
         "a": 1,
-        "rgb": 1540866
+        "rgb": 15022389
       }
     },
     {
-      "query": "tag:#area/faculdade  ",
+      "query": "tag:#estudos/bancos-de-dados",
       "color": {
         "a": 1,
-        "rgb": 1575409
+        "rgb": 2001125
       }
     },
     {
-      "query": "tag:#area/trabalho  ",
+      "query": "tag:#estudos/busca-binaria",
       "color": {
         "a": 1,
-        "rgb": 4915277
+        "rgb": 16635957
       }
     },
     {
-      "query": "tag:#area/pessoal ",
+      "query": "tag:#estudos/cloud",
       "color": {
         "a": 1,
-        "rgb": 7026944
+        "rgb": 9315498
       }
     },
     {
-      "query": "tag:#area/referencias  ",
+      "query": "tag:#estudos/cloud-e-devops",
+      "color": {
+        "a": 1,
+        "rgb": 6953882
+      }
+    },
+    {
+      "query": "tag:#estudos/dados-e-ia",
+      "color": {
+        "a": 1,
+        "rgb": 4431943
+      }
+    },
+    {
+      "query": "tag:#estudos/devops",
+      "color": {
+        "a": 1,
+        "rgb": 16485376
+      }
+    },
+    {
+      "query": "tag:#estudos/ferramentas",
+      "color": {
+        "a": 1,
+        "rgb": 35195
+      }
+    },
+    {
+      "query": "tag:#estudos/frontend",
+      "color": {
+        "a": 1,
+        "rgb": 3754411
+      }
+    },
+    {
+      "query": "tag:#estudos/fundamentos",
+      "color": {
+        "a": 1,
+        "rgb": 14162784
+      }
+    },
+    {
+      "query": "tag:#estudos/join",
+      "color": {
+        "a": 1,
+        "rgb": 7697781
+      }
+    },
+    {
+      "query": "tag:#estudos/linguagens",
+      "color": {
+        "a": 1,
+        "rgb": 44225
+      }
+    },
+    {
+      "query": "tag:#estudos/programacao",
+      "color": {
+        "a": 1,
+        "rgb": 6174129
+      }
+    },
+    {
+      "query": "tag:#estudos/redes",
+      "color": {
+        "a": 1,
+        "rgb": 16011550
+      }
+    },
+    {
+      "query": "tag:#estudos/seguranca",
+      "color": {
+        "a": 1,
+        "rgb": 12986408
+      }
+    },
+    {
+      "query": "tag:#estudos/servidores",
+      "color": {
+        "a": 1,
+        "rgb": 236517
+      }
+    },
+    {
+      "query": "tag:#estudos/teoria-da-computacao",
+      "color": {
+        "a": 1,
+        "rgb": 8172354
+      }
+    },
+    {
+      "query": "tag:#area/estudos",
+      "color": {
+        "a": 1,
+        "rgb": 11583173
+      }
+    },
+    {
+      "query": "tag:#faculdade/anotacoes",
+      "color": {
+        "a": 1,
+        "rgb": 2396123
+      }
+    },
+    {
+      "query": "tag:#faculdade/disciplinas",
+      "color": {
+        "a": 1,
+        "rgb": 2387163
+      }
+    },
+    {
+      "query": "tag:#faculdade/metas",
+      "color": {
+        "a": 1,
+        "rgb": 2378459
+      }
+    },
+    {
+      "query": "tag:#faculdade/provas",
+      "color": {
+        "a": 1,
+        "rgb": 2369755
+      }
+    },
+    {
+      "query": "tag:#faculdade/trabalhos",
+      "color": {
+        "a": 1,
+        "rgb": 4334811
+      }
+    },
+    {
+      "query": "tag:#area/faculdade",
+      "color": {
+        "a": 1,
+        "rgb": 2380507
+      }
+    },
+    {
+      "query": "tag:#trabalho/ambiente-local-laravel-vite",
+      "color": {
+        "a": 1,
+        "rgb": 14361651
+      }
+    },
+    {
+      "query": "tag:#trabalho/api-rest",
+      "color": {
+        "a": 1,
+        "rgb": 14361642
+      }
+    },
+    {
+      "query": "tag:#trabalho/bug-report",
+      "color": {
+        "a": 1,
+        "rgb": 14361892
+      }
+    },
+    {
+      "query": "tag:#trabalho/caso-de-teste",
+      "color": {
+        "a": 1,
+        "rgb": 14364196
+      }
+    },
+    {
+      "query": "tag:#trabalho/ciclo-de-release",
+      "color": {
+        "a": 1,
+        "rgb": 14366244
+      }
+    },
+    {
+      "query": "tag:#trabalho/code-review",
+      "color": {
+        "a": 1,
+        "rgb": 14368548
+      }
+    },
+    {
+      "query": "tag:#trabalho/comunicacao-com-devs",
+      "color": {
+        "a": 1,
+        "rgb": 14370596
+      }
+    },
+    {
+      "query": "tag:#trabalho/documentacao-de-testes",
+      "color": {
+        "a": 1,
+        "rgb": 14372900
+      }
+    },
+    {
+      "query": "tag:#trabalho/fluxo-trello-qa",
+      "color": {
+        "a": 1,
+        "rgb": 14374948
+      }
+    },
+    {
+      "query": "tag:#trabalho/git-branch-strategy",
+      "color": {
+        "a": 1,
+        "rgb": 14377252
+      }
+    },
+    {
+      "query": "tag:#trabalho/prioridade-de-bugs",
+      "color": {
+        "a": 1,
+        "rgb": 14379300
+      }
+    },
+    {
+      "query": "tag:#trabalho/qa-manual-vs-automatizado",
+      "color": {
+        "a": 1,
+        "rgb": 14381604
+      }
+    },
+    {
+      "query": "tag:#trabalho/testes-automatizados",
+      "color": {
+        "a": 1,
+        "rgb": 14383652
+      }
+    },
+    {
+      "query": "tag:#trabalho/trabalho-anotacoes",
+      "color": {
+        "a": 1,
+        "rgb": 14385956
+      }
+    },
+    {
+      "query": "tag:#trabalho/trabalho-ci-cd",
+      "color": {
+        "a": 1,
+        "rgb": 14388004
+      }
+    },
+    {
+      "query": "tag:#trabalho/trabalho-ferramentas",
+      "color": {
+        "a": 1,
+        "rgb": 14390308
+      }
+    },
+    {
+      "query": "tag:#trabalho/trabalho-metas",
+      "color": {
+        "a": 1,
+        "rgb": 14392356
+      }
+    },
+    {
+      "query": "tag:#trabalho/trabalho-regressao",
+      "color": {
+        "a": 1,
+        "rgb": 14394660
+      }
+    },
+    {
+      "query": "tag:#trabalho/trabalho-reunioes",
+      "color": {
+        "a": 1,
+        "rgb": 14396708
+      }
+    },
+    {
+      "query": "tag:#area/trabalho",
+      "color": {
+        "a": 1,
+        "rgb": 14381092
+      }
+    },
+    {
+      "query": "tag:#pessoal/alimentacao",
+      "color": {
+        "a": 1,
+        "rgb": 10410788
+      }
+    },
+    {
+      "query": "tag:#pessoal/anotacoes-livres",
+      "color": {
+        "a": 1,
+        "rgb": 9493284
+      }
+    },
+    {
+      "query": "tag:#pessoal/aprendizado-continuo",
+      "color": {
+        "a": 1,
+        "rgb": 8510244
+      }
+    },
+    {
+      "query": "tag:#pessoal/desenvolvimento-pessoal",
+      "color": {
+        "a": 1,
+        "rgb": 7527204
+      }
+    },
+    {
+      "query": "tag:#pessoal/financas-pessoais",
+      "color": {
+        "a": 1,
+        "rgb": 6609700
+      }
+    },
+    {
+      "query": "tag:#pessoal/habitos",
+      "color": {
+        "a": 1,
+        "rgb": 5626660
+      }
+    },
+    {
+      "query": "tag:#pessoal/hobbies",
+      "color": {
+        "a": 1,
+        "rgb": 4709156
+      }
+    },
+    {
+      "query": "tag:#pessoal/meditacao",
+      "color": {
+        "a": 1,
+        "rgb": 3726116
+      }
+    },
+    {
+      "query": "tag:#pessoal/objetivos-de-vida",
+      "color": {
+        "a": 1,
+        "rgb": 2808612
+      }
+    },
+    {
+      "query": "tag:#pessoal/pensamentos",
+      "color": {
+        "a": 1,
+        "rgb": 2415404
+      }
+    },
+    {
+      "query": "tag:#pessoal/pessoal-anotacoes",
+      "color": {
+        "a": 1,
+        "rgb": 2415419
+      }
+    },
+    {
+      "query": "tag:#pessoal/pessoal-habito-leitura",
+      "color": {
+        "a": 1,
+        "rgb": 2415434
+      }
+    },
+    {
+      "query": "tag:#pessoal/pessoal-metas",
+      "color": {
+        "a": 1,
+        "rgb": 2415448
+      }
+    },
+    {
+      "query": "tag:#pessoal/produtividade",
+      "color": {
+        "a": 1,
+        "rgb": 2415463
+      }
+    },
+    {
+      "query": "tag:#pessoal/reflexoes",
+      "color": {
+        "a": 1,
+        "rgb": 2415477
+      }
+    },
+    {
+      "query": "tag:#pessoal/registros",
+      "color": {
+        "a": 1,
+        "rgb": 2415492
+      }
+    },
+    {
+      "query": "tag:#pessoal/relacionamentos",
+      "color": {
+        "a": 1,
+        "rgb": 2415506
+      }
+    },
+    {
+      "query": "tag:#pessoal/rotinas",
+      "color": {
+        "a": 1,
+        "rgb": 2415521
+      }
+    },
+    {
+      "query": "tag:#pessoal/saude",
+      "color": {
+        "a": 1,
+        "rgb": 2415536
+      }
+    },
+    {
+      "query": "tag:#pessoal/saude-e-exercicio",
+      "color": {
+        "a": 1,
+        "rgb": 2415550
+      }
+    },
+    {
+      "query": "tag:#pessoal/sono",
+      "color": {
+        "a": 1,
+        "rgb": 2415565
+      }
+    },
+    {
+      "query": "tag:#pessoal/visao-de-vida",
+      "color": {
+        "a": 1,
+        "rgb": 2415579
+      }
+    },
+    {
+      "query": "tag:#area/pessoal",
+      "color": {
+        "a": 1,
+        "rgb": 2415426
+      }
+    },
+    {
+      "query": "tag:#projetos/ativos",
+      "color": {
+        "a": 1,
+        "rgb": 2414043
+      }
+    },
+    {
+      "query": "tag:#projetos/concluidos",
+      "color": {
+        "a": 1,
+        "rgb": 2408411
+      }
+    },
+    {
+      "query": "tag:#projetos/ideias",
+      "color": {
+        "a": 1,
+        "rgb": 2402523
+      }
+    },
+    {
+      "query": "tag:#projetos/roadmaps",
+      "color": {
+        "a": 1,
+        "rgb": 2396891
+      }
+    },
+    {
+      "query": "tag:#area/projetos",
+      "color": {
+        "a": 1,
+        "rgb": 2405595
+      }
+    },
+    {
+      "query": "tag:#area/referencias",
       "color": {
         "a": 1,
         "rgb": 16759552
-      }
-    },
-    {
-      "query": "tag:#area/projetos  ",
-      "color": {
-        "a": 1,
-        "rgb": 31743
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 0.939503741630563,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.15,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.447223316266247,
-  "repelStrength": 12.3945115031466,
-  "linkStrength": 0.692103190232375,
-  "linkDistance": 242,
-  "scale": 0.059326171875,
+  "centerStrength": 0.346691610870421,
+  "repelStrength": 20,
+  "linkStrength": 0.85,
+  "linkDistance": 320,
+  "scale": 0.017578125,
   "close": true
 }

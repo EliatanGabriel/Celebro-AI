@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Saude-mental
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude #conceito
 
 **Resumo:** Cuidados com o bem-estar emocional e psicológico.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Sono]]
 - [[Habito-Reflexao]]
 - [[Saude]]
-
-[[Pessoal]]

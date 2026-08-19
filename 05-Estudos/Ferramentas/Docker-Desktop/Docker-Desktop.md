@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Docker-Desktop
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** App que traz Docker para desktop, facilitando containers locais.
 
@@ -20,9 +20,4 @@ updated: "2026-08-19"
 - Dev
 
 ## Relacionadas
-- [[Docker]]
-- [[DevOps]]
-- [[Containers]]
 - [[Ferramentas]]
-
-[[Estudos]]

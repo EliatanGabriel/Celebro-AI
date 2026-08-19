@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Acompanhamento
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude-e-exercicio #conceito
 
 **Resumo:** Registro e acompanhamento do progresso físico.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Treino-semana]]
 - [[Saude-e-Exercicio]]
 - [[Saude]]
-
-[[Pessoal]]

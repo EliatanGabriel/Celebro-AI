@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Serverless
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Modelo onde a nuvem gerencia a infraestrutura e cobra por execução.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Lambda]]
 - [[AWS]]
 - [[Microservicos]]
-
-[[Estudos]]

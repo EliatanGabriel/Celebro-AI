@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Vacinas
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/saude #conceito
 
 **Resumo:** Registro de vacinas e imunizações.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Checkup]]
 - [[Saude]]
 - [[Alergias]]
-
-[[Pessoal]]

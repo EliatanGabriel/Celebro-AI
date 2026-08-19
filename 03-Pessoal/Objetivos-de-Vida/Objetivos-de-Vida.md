@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Objetivos de Vida
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/objetivos-de-vida #conceito
 
 **Resumo:** Propósitos e metas de longo prazo para a vida.
 
@@ -23,3 +23,4 @@ updated: "2026-08-19"
 - [[Desenvolvimento-Pessoal]]
 
 [[Pessoal]]
+

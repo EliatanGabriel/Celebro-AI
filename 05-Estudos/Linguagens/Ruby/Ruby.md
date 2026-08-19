@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ruby
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem dinâmica e elegante, famosa pelo framework web Rails.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Python]]
 - [[PHP]]
 - [[Backend]]
-
-[[Estudos]]

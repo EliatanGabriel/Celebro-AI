@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ciclo de Release
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ciclo-de-release #conceito
 
 **Resumo:** Processo de levar mudanças de desenvolvimento até produção.
 
@@ -24,3 +24,4 @@ updated: "2026-08-16"
 - [[Versionamento-API]]
 
 [[Trabalho]]
+

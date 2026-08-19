@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Listas
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Estrutura dinâmica de elementos com operações de inserção/remoção.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Arrays]]
 - [[Estruturas-de-Dados]]
-- [[Pilhas]]
 - [[Filas]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Framework
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Conjunto de ferramentas e convenções que estrutura o desenvolvimento de aplicações.
 
@@ -20,8 +20,4 @@ updated: "2026-08-19"
 - Ecosistema
 
 ## Relacionadas
-- [[Laravel]]
-- [[React]]
 - [[Programacao]]
-
-[[Estudos]]

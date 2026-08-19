@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Firewall-Seg
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Filtro de tráfego por regras para proteger a rede.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Firewall]]
 - [[Zero-Trust]]
-
-[[Estudos]]

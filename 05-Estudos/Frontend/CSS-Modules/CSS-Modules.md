@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # CSS-Modules
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Padrão de escopo local para classes CSS, evitando colisões.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Frontend]]
 - [[Sass]]
 - [[Componentes]]
-
-[[Estudos]]

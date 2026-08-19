@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Projetos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas ligadas ao avanço de projetos pessoais.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Metas-Trabalho]]
 - [[Metas]]
-
-[[Pessoal]]

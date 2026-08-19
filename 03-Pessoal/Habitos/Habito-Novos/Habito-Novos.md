@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Novos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Prática de introduzir e consolidar novos hábitos.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Habitos]]
 - [[Habito-Quebra]]
 - [[Metas-Crescimento]]
-
-[[Pessoal]]

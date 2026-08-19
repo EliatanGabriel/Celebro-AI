@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # R
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem especializada em estatística e análise de dados.
 
@@ -20,9 +20,4 @@ updated: "2026-08-19"
 - Pacotes
 
 ## Relacionadas
-- [[Estatistica]]
-- [[Data-Science]]
 - [[Python]]
-- [[Dados-e-IA]]
-
-[[Estudos]]

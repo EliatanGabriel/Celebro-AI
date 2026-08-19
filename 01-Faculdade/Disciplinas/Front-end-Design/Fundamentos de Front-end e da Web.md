@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Fundamentos de Front-end e da Web
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/disciplinas #conceito
 
 **Resumo:** Fundamentos de front-end e da web: papel do front-end, as camadas da interface (HTML, CSS e JavaScript), DOM, CSS3, Flexbox, Grid e design responsivo.
 
@@ -458,5 +458,3 @@ O design responsivo também utiliza unidades flexíveis e imagens ajustáveis. O
 
 - [[Front-end-Design]]
 - [[Faculdade]]
-
-[[Faculdade]]

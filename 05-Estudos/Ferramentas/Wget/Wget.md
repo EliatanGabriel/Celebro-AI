@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Wget
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Ferramenta de download de arquivos via linha de comando.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Curl]]
 - [[Terminal]]
-- [[HTTP]]
 - [[Scripts]]
-
-[[Estudos]]

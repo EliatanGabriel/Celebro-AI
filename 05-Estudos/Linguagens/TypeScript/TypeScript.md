@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # TypeScript
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Superset do JavaScript que adiciona tipagem estática e melhores ferramentas de desenvolvimento.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[JavaScript]]
 - [[Frontend]]
 - [[Componentes]]
-
-[[Estudos]]

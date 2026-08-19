@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ferramentas
 
-#area/estudos
+#area/estudos #estudos/ferramentas
 
 Subárea de **Estudos**.
 
@@ -44,4 +44,4 @@ Subárea de **Estudos**.
 - [[Wget]]
 - [[Zsh]]
 
-[[Estudos]]
+[[Estudos-Ferramentas]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Deep-work
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Trabalho profundo e focado em tarefas cognitivamente exigentes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Time-blocking]]
 - [[Pomodoro]]
 - [[Flow]]
-
-[[Pessoal]]

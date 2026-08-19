@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Vite
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Build tool moderna e rápida para frontend com HMR instantâneo.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Webpack]]
 - [[React]]
 - [[Vue]]
-
-[[Estudos]]

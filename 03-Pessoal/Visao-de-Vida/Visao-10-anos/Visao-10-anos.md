@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Visao-10-anos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/visao-de-vida #conceito
 
 **Resumo:** Imagem de onde você quer estar em 10 anos.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Sonhos]]
 - [[Legado]]
 - [[Plano-de-vida]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Fine-tuning
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Treinar um modelo base em dados específicos para um domínio.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Machine-Learning]]
 - [[Datasets]]
 - [[IA]]
-
-[[Estudos]]

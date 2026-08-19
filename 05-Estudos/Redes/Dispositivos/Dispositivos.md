@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Dispositivos
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Equipamentos que se conectam à rede: roteadores, switches, celulares e IoT.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[Wi-Fi]]
 - [[Ethernet]]
 - [[IoT]]
-- [[Mobile]]
-
-[[Estudos]]

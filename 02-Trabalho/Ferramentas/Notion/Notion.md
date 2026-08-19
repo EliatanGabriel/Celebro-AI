@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Notion
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Espaço de trabalho tudo-em-um para notas, docs, wikis e banco de dados.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Confluence]]
 - [[Jira]]
-
-[[Trabalho]]

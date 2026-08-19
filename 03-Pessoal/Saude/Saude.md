@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Saude
 
-#area/pessoal
+#area/pessoal #pessoal/saude
 
 Subárea de **Pessoal**.
 
@@ -23,3 +23,4 @@ Subárea de **Pessoal**.
 - [[Vacinas]]
 
 [[Pessoal]]
+

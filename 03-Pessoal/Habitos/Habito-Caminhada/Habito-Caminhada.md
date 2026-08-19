@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Caminhada
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Hábito de caminhar regularmente para saúde e mente.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Habito-Exercicio]]
 - [[Cardio]]
 - [[Habitos]]
-
-[[Pessoal]]

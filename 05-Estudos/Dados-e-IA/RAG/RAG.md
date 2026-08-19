@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # RAG
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Retrieval-Augmented Generation: combina busca com geração para respostas precisas.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[LLM]]
 - [[Prompts]]
 - [[Agentes-IA]]
-- [[Bancos-de-Dados]]
-
-[[Estudos]]

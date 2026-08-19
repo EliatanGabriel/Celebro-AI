@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Prioridade de Bugs
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/prioridade-de-bugs #conceito
 
 **Resumo:** Critérios para priorizar correções de bugs.
 
@@ -26,3 +26,4 @@ updated: "2026-08-16"
 - [[Jira]]
 
 [[Trabalho]]
+

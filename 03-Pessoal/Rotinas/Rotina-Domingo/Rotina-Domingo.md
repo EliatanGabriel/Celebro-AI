@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Domingo
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de domingo para descanso e preparação.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Semanal]]
 - [[Rotina-Sabado]]
 - [[Rotinas]]
-
-[[Pessoal]]

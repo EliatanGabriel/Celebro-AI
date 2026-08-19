@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # NLP
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Processamento de linguagem natural: máquinas entendem texto.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[LLM]]
 - [[IA]]
-- [[Python]]
 - [[Data-Science]]
-
-[[Estudos]]

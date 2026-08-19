@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ferramentas-CLI
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Utilitários de linha de comando que aceleram o desenvolvimento.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Curl]]
 - [[Scripts]]
 - [[Zsh]]
-
-[[Estudos]]

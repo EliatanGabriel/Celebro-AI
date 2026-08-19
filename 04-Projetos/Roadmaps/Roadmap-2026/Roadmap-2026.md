@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Roadmap-2026
 
-#area/projetos #conceito
+#area/projetos #projetos/roadmaps #conceito
 
 **Resumo:** Plano de projetos e metas para 2026.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Ativos]]
 - [[Roadmaps]]
-
-[[Projetos]]

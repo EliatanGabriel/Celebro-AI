@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Certificacoes
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Metas de obtenção de certificações profissionais.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Metas-Trimestrais]]
-
-[[Trabalho]]

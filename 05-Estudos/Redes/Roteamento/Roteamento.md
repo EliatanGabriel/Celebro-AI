@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Roteamento
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Processo de escolher caminhos para enviar pacotes entre redes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[IP]]
 - [[Switching]]
 - [[OSI]]
-
-[[Estudos]]

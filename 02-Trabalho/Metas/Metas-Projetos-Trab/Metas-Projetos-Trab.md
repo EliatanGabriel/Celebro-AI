@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Projetos-Trab
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/metas #conceito
 
 **Resumo:** Metas ligadas à entrega e sucesso de projetos no trabalho.
 
@@ -22,5 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Metas-Trimestrais]]
 - [[Ciclo-de-Release]]
-
-[[Trabalho]]

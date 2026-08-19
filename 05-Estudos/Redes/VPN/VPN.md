@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # VPN
 
-#area/estudos #conceito
+#area/estudos #estudos/redes #conceito
 
 **Resumo:** Rede privada virtual que cria túnel criptografado sobre a internet.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Criptografia]]
 - [[Firewall]]
-
-[[Estudos]]

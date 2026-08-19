@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Slack
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/ferramentas #conceito
 
 **Resumo:** Plataforma de comunicação em canais para equipes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Zoom]]
 - [[Comunicacao-com-Devs]]
 - [[Feedback]]
-
-[[Trabalho]]

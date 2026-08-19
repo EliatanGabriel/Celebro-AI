@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # PowerShell
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Shell e linguagem de script da Microsoft, integrada ao Windows e Azure.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Shell]]
 - [[Bash]]
-- [[Windows]]
-
-[[Estudos]]

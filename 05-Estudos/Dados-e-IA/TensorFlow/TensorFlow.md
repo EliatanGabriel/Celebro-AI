@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # TensorFlow
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Framework de deep learning do Google.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Deep-Learning]]
 - [[Redes-Neurais]]
 - [[Machine-Learning]]
-
-[[Estudos]]

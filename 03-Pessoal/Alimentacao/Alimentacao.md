@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Alimentacao
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/alimentacao #conceito
 
 **Resumo:** Gestão da alimentação diária para saúde e bem-estar.
 
@@ -25,3 +25,4 @@ updated: "2026-08-19"
 - [[Cozinha]]
 
 [[Pessoal]]
+

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Supabase
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Alternativa open-source ao Firebase baseada em PostgreSQL.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[PostgreSQL]]
 - [[Firebase]]
 - [[Backend]]
-
-[[Estudos]]

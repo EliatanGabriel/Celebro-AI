@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Fim-de-semana
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de fim de semana equilibrando lazer e descanso.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Domingo]]
 - [[Rotina-Semanal]]
 - [[Rotinas]]
-
-[[Pessoal]]

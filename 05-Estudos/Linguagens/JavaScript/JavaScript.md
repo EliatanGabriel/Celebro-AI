@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # JavaScript
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem da web que roda no navegador e no servidor (Node.js), base de quase todo frontend.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Frontend]]
 - [[Node-js]]
 - [[DOM]]
-
-[[Estudos]]

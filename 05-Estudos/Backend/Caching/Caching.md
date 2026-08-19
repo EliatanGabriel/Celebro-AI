@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Caching
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Técnica de armazenar resultados para acelerar respostas e reduzir carga.
 
@@ -21,8 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Redis]]
-- [[CDN]]
 - [[Performance-Frontend]]
 - [[Load-Balancer]]
-
-[[Estudos]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Lambda
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Função serverless da AWS executada sob demanda sem provisionar servidores.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Serverless]]
 - [[AWS]]
-- [[Backend]]
-
-[[Estudos]]

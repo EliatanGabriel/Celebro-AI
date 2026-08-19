@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Bancos-de-Dados
 
-#area/estudos
+#area/estudos #estudos/bancos-de-dados
 
 Subárea de **Estudos**.
 
@@ -34,4 +34,4 @@ Subárea de **Estudos**.
 - [[Supabase]]
 - [[Transactions]]
 
-[[Estudos]]
+[[Estudos-Desenvolvimento]]

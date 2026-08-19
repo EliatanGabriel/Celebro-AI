@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Cloud-e-DevOps
 
-#area/estudos
+#area/estudos #estudos/cloud-e-devops
 
 Subárea de **Estudos**.
 
@@ -40,4 +40,4 @@ Subárea de **Estudos**.
 - [[Terraform]]
 - [[VPC]]
 
-[[Estudos]]
+[[Estudos-Infraestrutura]]

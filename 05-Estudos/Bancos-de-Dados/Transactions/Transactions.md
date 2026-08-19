@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Transactions
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Grupo de operações que executam com garantia de atomicidade e consistência (ACID).
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Bancos-de-Dados]]
 - [[PostgreSQL]]
-
-[[Estudos]]

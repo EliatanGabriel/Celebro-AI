@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Semestre-2
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/metas #conceito
 
 **Resumo:** Metas para o segundo semestre letivo.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Faculdade-Metas]]
 - [[Metas-Semestre-1]]
-
-[[Faculdade]]

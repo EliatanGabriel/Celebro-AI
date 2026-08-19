@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Eventos
 
-#area/estudos #conceito
+#area/estudos #estudos/frontend #conceito
 
 **Resumo:** Ações do usuário ou do sistema que o JS pode capturar e responder.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[JavaScript]]
 - [[Frontend]]
 - [[Componentes]]
-
-[[Estudos]]

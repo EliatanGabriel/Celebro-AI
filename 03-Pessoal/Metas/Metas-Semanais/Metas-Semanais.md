@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Semanais
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de curto prazo definidas para cada semana.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Metas-Mensais]]
 - [[Metas]]
-
-[[Pessoal]]

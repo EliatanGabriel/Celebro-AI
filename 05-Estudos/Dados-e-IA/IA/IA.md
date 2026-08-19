@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # IA
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Campo da computação que busca criar sistemas capazes de simular inteligência.
 
@@ -25,5 +25,3 @@ updated: "2026-08-19"
 - [[NLP]]
 - [[Prompts]]
 - [[Agentes-IA]]
-
-[[Estudos]]

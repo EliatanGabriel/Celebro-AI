@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Pessoal-Metas
 
-#area/pessoal
+#area/pessoal #pessoal/metas
 
 Subárea de **Pessoal**.
 
@@ -25,3 +25,4 @@ Subárea de **Pessoal**.
 - [[Pessoal-Metas-Semanais]]
 
 [[Pessoal]]
+

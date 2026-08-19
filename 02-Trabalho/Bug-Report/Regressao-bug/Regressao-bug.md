@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Regressao-bug
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Bug que reaparece após correção ou nova funcionalidade.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Deploy]]
-
-[[Trabalho]]

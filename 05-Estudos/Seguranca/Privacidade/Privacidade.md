@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Privacidade
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Controle sobre dados pessoais e proteção contra exposição não autorizada.
 
@@ -21,8 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[GDPR]]
-- [[Firefox]]
 - [[Firewall]]
 - [[Dados]]
-
-[[Estudos]]

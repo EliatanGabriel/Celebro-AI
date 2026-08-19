@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projetos Concluídos
 
-#area/projetos
+#area/projetos #projetos/concluidos
 
 Subárea de **Projetos**.
 
@@ -17,7 +17,6 @@ Subárea de **Projetos**.
 - [[Projeto-2020]]
 - [[Projeto-2021]]
 - [[Projeto-2022]]
-- [[Projeto-2023]]
 - [[Projeto-2024]]
 - [[Projeto-2025]]
 - [[Projeto-Curso-2024]]

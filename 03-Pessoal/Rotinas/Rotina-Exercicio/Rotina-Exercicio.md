@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Rotina-Exercicio
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/rotinas #conceito
 
 **Resumo:** Rotina de exercícios físicos ao longo da semana.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Rotina-Semanal]]
 - [[Habito-Exercicio]]
 - [[Rotinas]]
-
-[[Pessoal]]

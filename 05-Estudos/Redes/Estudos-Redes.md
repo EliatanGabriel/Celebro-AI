@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Redes
 
-#area/estudos
+#area/estudos #estudos/redes
 
 Subárea de **Estudos**.
 
@@ -32,7 +32,6 @@ Subárea de **Estudos**.
 - [[NAT]]
 - [[Navegacao]]
 - [[OSI]]
-- [[Portas]]
 - [[Protocolos]]
 - [[Proxy-Redes]]
 - [[Roteamento]]
@@ -47,4 +46,4 @@ Subárea de **Estudos**.
 - [[VPN]]
 - [[Wi-Fi]]
 
-[[Estudos]]
+[[Estudos-Infraestrutura]]

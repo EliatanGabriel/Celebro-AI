@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Caminhadas
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Prática de caminhar ao ar livre como lazer e saúde.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Anotacao-Passeio]]
 - [[Hobbies]]
 - [[Cardio]]
-
-[[Pessoal]]

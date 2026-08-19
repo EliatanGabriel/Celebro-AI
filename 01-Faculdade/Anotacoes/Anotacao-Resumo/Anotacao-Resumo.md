@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Anotacao-Resumo
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/anotacoes #conceito
 
 **Resumo:** Resumos de conteúdos estudados.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Anotacoes]]
 - [[Anotacao-Aula]]
 - [[Faculdade]]
-
-[[Faculdade]]

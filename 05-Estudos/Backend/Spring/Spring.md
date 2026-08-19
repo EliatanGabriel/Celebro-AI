@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Spring
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Framework enterprise do Java para aplicações robustas e escaláveis.
 
@@ -22,7 +22,4 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Java]]
 - [[Backend]]
-- [[Microservicos]]
 - [[JWT]]
-
-[[Estudos]]

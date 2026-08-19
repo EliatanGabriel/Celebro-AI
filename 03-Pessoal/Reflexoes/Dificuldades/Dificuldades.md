@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Dificuldades
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Reflexão sobre dificuldades e superação.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Superacao]]
 - [[Reflexoes-Reflexoes]]
 - [[Aprendizados]]
-
-[[Pessoal]]

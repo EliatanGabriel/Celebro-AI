@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Docker
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Plataforma de containers que empacota apps com suas dependências.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Kubernetes]]
 - [[DevOps]]
 - [[CI-CD-Conceito]]
-
-[[Estudos]]

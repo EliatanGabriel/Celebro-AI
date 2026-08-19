@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Ansible
 
-#area/estudos #conceito
+#area/estudos #estudos/cloud-e-devops #conceito
 
 **Resumo:** Ferramenta de automação de configuração e provisionamento agente-less.
 
@@ -23,6 +23,3 @@ updated: "2026-08-19"
 - [[DevOps]]
 - [[IaC]]
 - [[Terraform]]
-- [[Linux]]
-
-[[Estudos]]

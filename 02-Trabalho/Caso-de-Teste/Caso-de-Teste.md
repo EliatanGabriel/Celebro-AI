@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Caso de Teste
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/caso-de-teste #conceito
 
 **Resumo:** Descrição estruturada de um cenário a ser validado.
 
@@ -25,3 +25,4 @@ updated: "2026-08-16"
 - [[Documentacao-de-Testes]]
 
 [[Trabalho]]
+

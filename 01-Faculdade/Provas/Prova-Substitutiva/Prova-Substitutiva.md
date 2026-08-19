@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Prova-Substitutiva
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Prova substitutiva: critérios e conteúdo.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Prova-Final]]
 - [[Revisao-Prova]]
 - [[Metas-Notas]]
-
-[[Faculdade]]

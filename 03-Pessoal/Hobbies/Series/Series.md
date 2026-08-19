@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Series
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/hobbies #conceito
 
 **Resumo:** Hobby de assistir e acompanhar séries.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Filmes]]
 - [[Hobbies]]
 - [[Leitura]]
-
-[[Pessoal]]

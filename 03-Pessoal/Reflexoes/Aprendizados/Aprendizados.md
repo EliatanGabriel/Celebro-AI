@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Aprendizados
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/reflexoes #conceito
 
 **Resumo:** Compilação de aprendizados de vida.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Autoconhecimento]]
 - [[Reflexoes-Reflexoes]]
 - [[Momentos-marcantes]]
-
-[[Pessoal]]

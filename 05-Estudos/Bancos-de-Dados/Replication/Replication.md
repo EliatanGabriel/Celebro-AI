@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Replication
 
-#area/estudos #conceito
+#area/estudos #estudos/bancos-de-dados #conceito
 
 **Resumo:** Copiar dados para múltiplas réplicas para disponibilidade e leitura.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Sharding]]
 - [[Bancos-de-Dados]]
 - [[Backup-DB]]
-
-[[Estudos]]

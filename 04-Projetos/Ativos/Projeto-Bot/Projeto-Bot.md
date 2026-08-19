@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Projeto-Bot
 
-#area/projetos #conceito
+#area/projetos #projetos/ativos #conceito
 
 **Resumo:** Projeto ativo de desenvolvimento de um bot.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Ideia-Automacao]]
 - [[Ativos]]
 - [[Roadmap-2026]]
-
-[[Projetos]]

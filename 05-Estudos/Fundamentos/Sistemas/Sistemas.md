@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Sistemas
 
-#area/estudos #conceito
+#area/estudos #estudos/fundamentos #conceito
 
 **Resumo:** Ambientes computacionais (SO, serviços e infraestrutura) que executam aplicações.
 
@@ -21,8 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Windows]]
-- [[Servidores]]
-- [[Containers]]
-- [[Linux]]
-
-[[Estudos]]

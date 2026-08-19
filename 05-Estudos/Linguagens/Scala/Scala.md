@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Scala
 
-#area/estudos #conceito
+#area/estudos #estudos/linguagens #conceito
 
 **Resumo:** Linguagem para JVM que combina orientação a objetos com programação funcional.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Java]]
 - [[Kotlin]]
-- [[Programacao-Funcional]]
-- [[Dados-e-IA]]
-
-[[Estudos]]

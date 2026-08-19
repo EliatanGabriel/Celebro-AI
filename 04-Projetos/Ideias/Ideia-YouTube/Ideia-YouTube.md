@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Ideia-YouTube
 
-#area/projetos #conceito
+#area/projetos #projetos/ideias #conceito
 
 **Resumo:** Ideia de canal ou vídeo para o YouTube.
 
@@ -20,7 +20,4 @@ updated: "2026-08-16"
 - Produção
 
 ## Relacionadas
-- [[Ideia-Podcast]]
 - [[Ideias]]
-
-[[Projetos]]

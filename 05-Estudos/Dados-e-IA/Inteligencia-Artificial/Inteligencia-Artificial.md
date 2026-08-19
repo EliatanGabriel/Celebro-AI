@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Inteligencia-Artificial
 
-#area/estudos #conceito
+#area/estudos #estudos/dados-e-ia #conceito
 
 **Resumo:** Área que busca criar sistemas com capacidades cognitivas.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[LLM]]
 - [[Deep-Learning]]
 - [[Agentes-IA]]
-
-[[Estudos]]

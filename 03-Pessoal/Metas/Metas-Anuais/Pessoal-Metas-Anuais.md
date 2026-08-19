@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Metas-Anuais
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de longo prazo definidas para o ano.
 
@@ -21,5 +21,3 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Objetivos-de-Vida]]
-
-[[Pessoal]]

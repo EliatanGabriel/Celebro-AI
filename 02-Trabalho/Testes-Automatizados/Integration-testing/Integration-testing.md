@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Integration-testing
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/testes-automatizados #conceito
 
 **Resumo:** Testes que verificam a integração entre módulos ou sistemas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Unit-testing]]
 - [[E2E]]
 - [[Testes-API]]
-
-[[Trabalho]]

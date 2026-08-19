@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Agradecimentos
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/relacionamentos #conceito
 
 **Resumo:** Prática de expressar gratidão às pessoas importantes.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Habito-Gratidao]]
 - [[Parceiro]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

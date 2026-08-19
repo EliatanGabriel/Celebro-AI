@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Autenticacao
 
-#area/estudos #conceito
+#area/estudos #estudos/seguranca #conceito
 
 **Resumo:** Processo de verificar quem é o usuário.
 
@@ -21,7 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Autorizacao]]
-- [[Auth]]
 - [[RBAC]]
-
-[[Estudos]]

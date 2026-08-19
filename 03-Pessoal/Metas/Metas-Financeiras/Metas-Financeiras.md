@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Metas-Financeiras
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/metas #conceito
 
 **Resumo:** Metas de dinheiro e independência financeira.
 
@@ -21,5 +21,3 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Metas]]
-
-[[Pessoal]]

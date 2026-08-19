@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Getting-things-done
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/produtividade #conceito
 
 **Resumo:** Método de produtividade baseado em capturar e processar tarefas.
 
@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Kanban-pessoal]]
 - [[Time-blocking]]
 - [[Produtividade]]
-
-[[Pessoal]]

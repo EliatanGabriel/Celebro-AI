@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Trabalho-Algoritmos
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/trabalhos #conceito
 
 **Resumo:** Trabalho da disciplina de Algoritmos e Lógica.
 
@@ -24,5 +24,3 @@ updated: "2026-08-19"
 - [[Algoritmo-e-Logica-de-Programacao]]
 - [[Metas-Projetos-Facul]]
 - [[Prova-Algoritmos]]
-
-[[Faculdade]]

@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Anotacao-Pessoa
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/anotacoes #conceito
 
 **Resumo:** Registro de informações e contexto sobre pessoas importantes.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Familia]]
 - [[Parceiro]]
 - [[Relacionamentos]]
-
-[[Pessoal]]

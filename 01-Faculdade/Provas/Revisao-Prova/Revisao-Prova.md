@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Revisao-Prova
 
-#area/faculdade #conceito
+#area/faculdade #faculdade/provas #conceito
 
 **Resumo:** Plano de revisão para as provas.
 
@@ -22,5 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Provas]]
 - [[Calendario-Provas]]
-
-[[Faculdade]]

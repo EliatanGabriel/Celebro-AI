@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Prioridade
 
-#area/trabalho #conceito
+#area/trabalho #trabalho/bug-report #conceito
 
 **Resumo:** Urgência relativa de correção de um bug na fila do time.
 
@@ -23,5 +23,3 @@ updated: "2026-08-16"
 - [[Severidade]]
 - [[Prioridade-de-Bugs]]
 - [[Bug-Report]]
-
-[[Trabalho]]

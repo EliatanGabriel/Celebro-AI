@@ -8,7 +8,7 @@ updated: "2026-08-16"
 
 # Habito-Quebra
 
-#area/pessoal #conceito
+#area/pessoal #pessoal/habitos #conceito
 
 **Resumo:** Prática de substituir hábitos ruins por alternativas melhores.
 
@@ -24,5 +24,3 @@ updated: "2026-08-16"
 - [[Habitos]]
 - [[Metas-Crescimento]]
 - [[Saude-mental]]
-
-[[Pessoal]]

@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # Curl
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Ferramenta de linha de comando para transferir dados via HTTP.
 
@@ -21,8 +21,4 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Terminal]]
-- [[APIs]]
-- [[HTTP]]
 - [[Ferramentas-CLI]]
-
-[[Estudos]]

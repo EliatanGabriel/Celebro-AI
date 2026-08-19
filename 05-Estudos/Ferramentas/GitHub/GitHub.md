@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # GitHub
 
-#area/estudos #conceito
+#area/estudos #estudos/ferramentas #conceito
 
 **Resumo:** Plataforma de hospedagem de repositórios Git com colaboração.
 
@@ -22,7 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[Git]]
 - [[GitLab]]
-- [[GitHub-Actions]]
-- [[DevOps]]
-
-[[Estudos]]

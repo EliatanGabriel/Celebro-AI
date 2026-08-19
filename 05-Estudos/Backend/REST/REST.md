@@ -8,7 +8,7 @@ updated: "2026-08-19"
 
 # REST
 
-#area/estudos #conceito
+#area/estudos #estudos/backend #conceito
 
 **Resumo:** Estilo arquitetural para APIs baseado em recursos e verbos HTTP.
 
@@ -22,6 +22,3 @@ updated: "2026-08-19"
 ## Relacionadas
 - [[APIs]]
 - [[HTTP]]
-- [[JSON]]
-
-[[Estudos]]

@@ -8,10 +8,10 @@ updated: "2026-08-19"
 
 # Teoria da Computacao
 
-#area/estudos
+#area/estudos #estudos/teoria-da-computacao
 
 **Resumo:** Subárea de **Estudos** sobre Teoria da computação.
 
 ## Notas
 
-[[Estudos]]
+[[Estudos-Dados]]
