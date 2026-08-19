@@ -18,7 +18,6 @@ Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 - [[Financas-Pessoais]]
 - [[Meditacao]]
 - [[Objetivos-de-Vida]]
-- [[Pessoal-Habito-Leitura]]
 - [[Pessoal-Metas]]
 - [[Produtividade]]
 - [[Reflexoes-Reflexoes]]
@@ -26,3 +25,4 @@ Hábitos, rotinas, saúde, finanças, relacionamentos e crescimento pessoal.
 
 ## Conexões
 - [[Home]]
+- [[Biblioteca]]

@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiBookCopy",
+      "LiLayoutTemplate",
+      "LiComputer",
+      "LiBook",
+      "LiAppWindow"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,41 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "00-Home": {
+    "iconName": "LiHome",
+    "iconColor": "#d1d5db"
+  },
+  "01-Faculdade": {
+    "iconName": "LiSchool2",
+    "iconColor": "#1e3a8a"
+  },
+  "02-Trabalho": {
+    "iconName": "LiComputer",
+    "iconColor": "#3f6212"
+  },
+  "03-Pessoal": {
+    "iconName": "LiAlbum",
+    "iconColor": "#d97706"
+  },
+  "04-Projetos": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#9a3412"
+  },
+  "05-Estudos": {
+    "iconName": "LiBook",
+    "iconColor": "#004d7c"
+  },
+  "Excalidraw": {
+    "iconName": "LiWorkflow",
+    "iconColor": "#4b5563"
+  },
+  "Templates": {
+    "iconName": "LiLayoutTemplate",
+    "iconColor": "#6b7280"
+  },
+  "06-Biblioteca": {
+    "iconName": "LiBookCopy",
+    "iconColor": "#ff1f8f"
   }
 }
