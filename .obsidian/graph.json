@@ -15,10 +15,52 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#area/estudos  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 1540866
+      }
+    },
+    {
+      "query": "tag:#area/faculdade  ",
+      "color": {
+        "a": 1,
+        "rgb": 1575409
+      }
+    },
+    {
+      "query": "tag:#area/trabalho  ",
+      "color": {
+        "a": 1,
+        "rgb": 4915277
+      }
+    },
+    {
+      "query": "tag:#area/sistema  ",
+      "color": {
+        "a": 1,
+        "rgb": 7039851
+      }
+    },
+    {
+      "query": "tag:#area/pessoal  ",
+      "color": {
+        "a": 1,
+        "rgb": 7026944
+      }
+    },
+    {
+      "query": "tag:#area/referencias  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "tag:#area/projetos  ",
+      "color": {
+        "a": 1,
+        "rgb": 31743
       }
     }
   ],
@@ -32,6 +74,6 @@
   "repelStrength": 12.3945115031466,
   "linkStrength": 0.692103190232375,
   "linkDistance": 242,
-  "scale": 0.059326171875,
+  "scale": 0.45050811767578125,
   "close": true
 }

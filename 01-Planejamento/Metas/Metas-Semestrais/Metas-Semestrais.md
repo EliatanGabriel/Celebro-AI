@@ -20,6 +20,5 @@ status: active
 ## Relacionadas
 - [[Metas-Anuais]]
 - [[Metas-Mensais]]
-- [[Revisao-Trimestral]]
 - [[Metas]]
 

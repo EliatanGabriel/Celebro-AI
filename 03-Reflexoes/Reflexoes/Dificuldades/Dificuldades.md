@@ -19,7 +19,6 @@ status: active
 
 ## Relacionadas
 - [[Superacao]]
-- [[Frustracao]]
 - [[Reflexoes-Reflexoes]]
 - [[Aprendizados]]
 

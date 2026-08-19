@@ -19,5 +19,4 @@ status: active
 
 ## Relacionadas
 - [[Reflexoes-Reflexoes]]
-- [[Roda-das-Emocoes]]
 

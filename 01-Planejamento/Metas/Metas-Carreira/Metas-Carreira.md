@@ -19,7 +19,6 @@ status: active
 
 ## Relacionadas
 - [[Metas-Trabalho]]
-- [[Decisao-Carreira]]
 - [[Metas-Habilidades]]
 - [[Metas]]
 

@@ -18,7 +18,6 @@ status: active
 - Telemetria
 
 ## Relacionadas
-- [[Sensores]]
 - [[GPIO]]
 - [[ESP32]]
 - [[Dashboard-IoT]]

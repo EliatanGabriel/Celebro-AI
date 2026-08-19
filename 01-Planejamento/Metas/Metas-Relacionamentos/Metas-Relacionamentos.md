@@ -18,6 +18,5 @@ status: active
 - Regularidade
 
 ## Relacionadas
-- [[Decisao-Relacionamento]]
 - [[Metas]]
 

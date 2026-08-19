@@ -21,6 +21,6 @@ status: active
 - [[Interfaces-TS]]
 - [[Generics]]
 - [[Utility-Types]]
-- [[Tipos-de-dados]]
+- [[Tipos-de-Dados]]
 
 [[Typescript]]

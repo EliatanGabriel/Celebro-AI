@@ -21,6 +21,5 @@ status: active
 - [[Dashboard-IoT]]
 - [[Sensores-IoT]]
 - [[ESP32]]
-- [[Projetos-Arduino]]
 
 [[Raspberry-Pi-e-IoT]]

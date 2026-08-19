@@ -18,7 +18,6 @@ status: active
 - Próximos passos
 
 ## Relacionadas
-- [[Revisao-Mensal]]
 - [[Ritual-Semanal]]
 - [[Rituais]]
 - [[Metas-Mensais]]

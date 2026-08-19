@@ -18,7 +18,6 @@ status: active
 - Planejamento
 
 ## Relacionadas
-- [[Revisao-Semanal]]
 - [[Ritual-Planejamento]]
 - [[Rituais]]
 

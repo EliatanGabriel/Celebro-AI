@@ -10,16 +10,4 @@ status: active
 
 Subárea de **Faculdade**.
 
-## Notas
-- [[Chaves]]
-- [[Indices]]
-- [[JOIN]]
-- [[Modelagem-ER]]
-- [[Normalizacao]]
-- [[Procedures]]
-- [[SQL]]
-- [[Transacoes]]
-- [[Triggers]]
-- [[Views]]
-
 [[Disciplinas]]

@@ -18,7 +18,6 @@ status: active
 - Protocolo
 
 ## Relacionadas
-- [[Pinos]]
 - [[ESP32]]
 - [[Sensores-IoT]]
 - [[Sistemas-Embarcados]]

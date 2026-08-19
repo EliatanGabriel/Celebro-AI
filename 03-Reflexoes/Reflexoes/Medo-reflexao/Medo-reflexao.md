@@ -18,8 +18,6 @@ status: active
 - Crescimento
 
 ## Relacionadas
-- [[Medo]]
-- [[Ansiedade]]
 - [[Reflexoes-Reflexoes]]
 - [[Superacao]]
 

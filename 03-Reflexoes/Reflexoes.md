@@ -11,8 +11,6 @@ status: active
 Emoções, gratidão, pensamentos e autoconhecimento.
 
 ## Subáreas
-- [[Emocoes]]
-- [[Reflexoes-Gratidao]]
 - [[Reflexoes-Reflexoes]]
 - [[Pensamentos]]
 

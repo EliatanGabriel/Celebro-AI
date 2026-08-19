@@ -12,9 +12,7 @@ Metas, decisões, visão de vida e revisões — a bússola do vault.
 
 ## Subáreas
 - [[Metas]]
-- [[Decisoes]]
 - [[Visao-de-Vida]]
-- [[Revisoes]]
 - [[Rituais]]
 
 ## Conexões

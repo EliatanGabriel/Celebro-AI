@@ -19,6 +19,5 @@ status: active
 
 ## Relacionadas
 - [[Metas-Habilidades]]
-- [[Decisao-Estudos]]
 - [[Metas]]
 

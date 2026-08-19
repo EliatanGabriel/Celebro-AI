@@ -21,5 +21,4 @@ status: active
 - [[Dificuldades]]
 - [[Aprendizados]]
 - [[Reflexoes-Reflexoes]]
-- [[Orgulho]]
 

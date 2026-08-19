@@ -18,7 +18,5 @@ status: active
 - Gratidão
 
 ## Relacionadas
-- [[Gratidao]]
 - [[Reflexoes-Reflexoes]]
-- [[Alegria]]
 

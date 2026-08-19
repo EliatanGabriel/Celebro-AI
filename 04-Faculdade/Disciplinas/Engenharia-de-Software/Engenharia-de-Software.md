@@ -10,16 +10,4 @@ status: active
 
 Subárea de **Faculdade**.
 
-## Notas
-- [[Arquitetura]]
-- [[CI-CD]]
-- [[Ciclo-de-vida]]
-- [[Documentacao]]
-- [[Metodologias-Ageis]]
-- [[Padroes-de-Projeto]]
-- [[Qualidade]]
-- [[Requisitos]]
-- [[Testes]]
-- [[Versionamento]]
-
 [[Disciplinas]]

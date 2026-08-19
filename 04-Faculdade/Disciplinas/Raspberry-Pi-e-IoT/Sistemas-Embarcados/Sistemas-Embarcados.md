@@ -20,7 +20,6 @@ status: active
 ## Relacionadas
 - [[GPIO]]
 - [[ESP32]]
-- [[Interrupcoes]]
 - [[Arduino]]
 
 [[Raspberry-Pi-e-IoT]]

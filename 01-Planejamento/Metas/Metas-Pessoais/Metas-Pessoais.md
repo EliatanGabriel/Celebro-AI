@@ -19,5 +19,4 @@ status: active
 
 ## Relacionadas
 - [[Metas]]
-- [[Revisao-Mensal]]
 

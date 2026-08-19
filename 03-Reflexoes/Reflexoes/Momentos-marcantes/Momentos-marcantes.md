@@ -19,6 +19,5 @@ status: active
 
 ## Relacionadas
 - [[Autoconhecimento]]
-- [[Gratidao]]
 - [[Reflexoes-Reflexoes]]
 

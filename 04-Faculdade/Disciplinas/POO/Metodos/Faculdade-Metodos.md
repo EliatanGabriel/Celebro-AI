@@ -21,6 +21,5 @@ status: active
 - [[Classes]]
 - [[Objetos]]
 - [[Encapsulamento]]
-- [[Funcoes]]
 
 [[POO]]

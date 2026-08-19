@@ -11,16 +11,6 @@ status: active
 Subárea de **Faculdade**.
 
 ## Notas
-- [[Busca]]
-- [[Complexidade]]
-- [[Condicionais]]
-- [[Funcoes]]
-- [[Lacos]]
-- [[Matrizes]]
-- [[Ordenacao]]
-- [[Recursao]]
-- [[Tipos-de-dados]]
-- [[Variaveis]]
-- [[Vetores]]
+- [[Tipos-de-Dados]]
 
 [[Disciplinas]]

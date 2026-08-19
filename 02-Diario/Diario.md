@@ -11,7 +11,6 @@ status: active
 Memória, daily notes, diário e registros do dia a dia.
 
 ## Subáreas
-- [[Daily-Notes]]
 - [[Registros]]
 - [[Anotacoes-Livres]]
 

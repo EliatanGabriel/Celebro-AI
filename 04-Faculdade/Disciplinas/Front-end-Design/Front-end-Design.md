@@ -10,18 +10,6 @@ status: active
 
 Subárea de **Faculdade** com conceitos de design e desenvolvimento front-end.
 
-## Notas
-- [[Acessibilidade]]
-- [[Cores]]
-- [[Faculdade-CSS]]
-- [[HTML]]
-- [[Layout]]
-- [[Prototipagem]]
-- [[Responsividade]]
-- [[Tipografia]]
-- [[UI]]
-- [[UX]]
-
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
