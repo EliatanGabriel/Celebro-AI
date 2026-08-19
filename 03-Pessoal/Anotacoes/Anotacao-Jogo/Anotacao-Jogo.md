@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Progresso
 - Impressões
 - Horas
-
-## Relacionadas
-- [[Jogos]]
-- [[Hobbies]]

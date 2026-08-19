@@ -18,8 +18,3 @@ updated: "2026-08-19"
 - Conceitos
 - Exemplos
 - Revisão
-
-## Relacionadas
-- [[Anotacoes]]
-- [[Anotacao-Aula]]
-- [[Faculdade]]

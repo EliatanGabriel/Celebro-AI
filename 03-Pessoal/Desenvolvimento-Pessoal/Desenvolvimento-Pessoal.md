@@ -22,8 +22,6 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Objetivos-de-Vida]]
 - [[Metas-Crescimento]]
-- [[Habitos]]
 - [[Pessoal]]
 
 [[Pessoal]]
-

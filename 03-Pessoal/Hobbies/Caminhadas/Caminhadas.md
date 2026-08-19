@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Regularidade
 - Companhia
 - Exploração
-
-## Relacionadas
-- [[Habito-Caminhada]]
-- [[Anotacao-Passeio]]
-- [[Hobbies]]
-- [[Cardio]]

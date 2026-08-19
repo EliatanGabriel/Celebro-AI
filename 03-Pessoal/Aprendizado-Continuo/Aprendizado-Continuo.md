@@ -21,7 +21,5 @@ updated: "2026-08-19"
 
 ## Relacionadas
 - [[Metas-Crescimento]]
-- [[Habito-Estudo]]
 
 [[Pessoal]]
-

@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Feedback
 - Follow-up
 - Decisões
-
-## Relacionadas
-- [[Reuniao-1on1]]
-- [[Feedback]]

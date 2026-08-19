@@ -11,19 +11,3 @@ updated: "2026-08-19"
 #area/pessoal #pessoal/anotacoes-livres
 
 Subárea de **Pessoal**.
-
-## Notas
-- [[Anotacao-Conversa]]
-- [[Anotacao-Diaria]]
-- [[Anotacao-Filme]]
-- [[Anotacao-Ideia]]
-- [[Anotacao-Leitura]]
-- [[Anotacao-Observacao]]
-- [[Anotacao-Pensamento]]
-- [[Anotacao-Podcast]]
-- [[Anotacao-Reuniao]]
-- [[Anotacao-Sonho]]
-- [[Anotacao-Video]]
-- [[Diario-Anotacao-Aula]]
-
-[[Pessoal]]

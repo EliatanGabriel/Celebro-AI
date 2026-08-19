@@ -13,7 +13,6 @@ updated: "2026-08-19"
 Disciplinas, metas, anotações, provas e trabalhos da faculdade.
 
 ## Subáreas
-- [[Anotacoes]]
 - [[Disciplinas]]
 - [[Faculdade-Metas]]
 - [[Provas]]

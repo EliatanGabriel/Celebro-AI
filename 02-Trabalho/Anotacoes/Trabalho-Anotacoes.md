@@ -11,16 +11,3 @@ updated: "2026-08-16"
 #area/trabalho #trabalho/anotacoes
 
 Subárea de **Trabalho**.
-
-## Notas
-- [[Anotacao-1on1]]
-- [[Anotacao-Codigo]]
-- [[Anotacao-Daily]]
-- [[Anotacao-Dica]]
-- [[Anotacao-Doc]]
-- [[Anotacao-Erro]]
-- [[Anotacao-Retro]]
-- [[Anotacao-Sprint]]
-- [[Trabalho-Anotacao-Reuniao]]
-
-[[Trabalho]]

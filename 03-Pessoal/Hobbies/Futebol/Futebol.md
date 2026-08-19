@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Times
 - Companhia
 - Saúde
-
-## Relacionadas
-- [[Habito-Exercicio]]
-- [[Cardio]]
-- [[Hobbies]]
-- [[Amigos]]

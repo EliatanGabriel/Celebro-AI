@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Bloqueios
 - Ações
 - Status
-
-## Relacionadas
-- [[Reuniao-Daily]]
-- [[Comunicacao-com-Devs]]

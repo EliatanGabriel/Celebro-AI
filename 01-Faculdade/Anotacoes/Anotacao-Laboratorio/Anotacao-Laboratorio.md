@@ -18,8 +18,3 @@ updated: "2026-08-19"
 - Resultados
 - Observações
 - Conclusões
-
-## Relacionadas
-- [[Anotacoes]]
-- [[Anotacao-Aula]]
-- [[Faculdade]]

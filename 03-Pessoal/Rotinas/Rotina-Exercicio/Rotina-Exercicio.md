@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Horários
 - Recuperação
 - Consistência
-
-## Relacionadas
-- [[Treino-semana]]
-- [[Rotina-Semanal]]
-- [[Habito-Exercicio]]
-- [[Rotinas]]

@@ -18,8 +18,3 @@ updated: "2026-08-19"
 - Horários
 - Equilíbrio
 - Revisão
-
-## Relacionadas
-- [[Rotina-Segunda]]
-- [[Rotina-Trabalho]]
-- [[Rotinas]]

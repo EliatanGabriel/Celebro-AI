@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Impressões
 - Nota
 - Recomendação
-
-## Relacionadas
-- [[Filmes]]
-- [[Series]]
-- [[Anotacao-Musica]]
-- [[Hobbies]]

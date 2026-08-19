@@ -18,8 +18,3 @@ updated: "2026-08-16"
 - Necessidade
 - Data
 - Avaliação
-
-## Relacionadas
-- [[Anotacao-Saida]]
-- [[Financas-Pessoais]]
-- [[Orcamento]]

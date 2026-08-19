@@ -18,8 +18,3 @@ updated: "2026-08-16"
 - Gênero
 - Favoritas
 - Contexto
-
-## Relacionadas
-- [[Musica]]
-- [[Series]]
-- [[Hobbies]]

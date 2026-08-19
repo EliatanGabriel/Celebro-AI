@@ -18,8 +18,3 @@ updated: "2026-08-19"
 - Reflexões
 - Links
 - Ações
-
-## Relacionadas
-- [[Anotacoes-Livres]]
-- [[Registro-Anotacoes]]
-- [[Anotacao-Ideia]]

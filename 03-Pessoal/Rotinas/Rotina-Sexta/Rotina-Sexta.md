@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Foco
 - Planejamento
 - Equilíbrio
-
-## Relacionadas
-- [[Rotina-Semanal]]
-- [[Rotina-Quinta]]
-- [[Rotina-Sabado]]
-- [[Rotinas]]

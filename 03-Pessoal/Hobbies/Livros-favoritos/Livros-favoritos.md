@@ -18,8 +18,3 @@ updated: "2026-08-16"
 - Citações
 - Impacto
 - Relidos
-
-## Relacionadas
-- [[Leitura]]
-- [[Habito-Leitura]]
-- [[Hobbies]]

@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Ferramenta
 - Solução
 - Reuso
-
-## Relacionadas
-- [[Anotacao-Codigo]]
-- [[Anotacao-Erro]]

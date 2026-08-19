@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Padrão
 - Explicação
 - Exemplo
-
-## Relacionadas
-- [[Anotacao-Dica]]
-- [[Anotacao-Erro]]
-- [[Code-Review]]
-- [[Best-practices]]

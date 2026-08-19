@@ -18,9 +18,3 @@ updated: "2026-08-19"
 - Resposta
 - Fonte
 - Revisão
-
-## Relacionadas
-- [[Anotacoes]]
-- [[Anotacao-Aula]]
-- [[Faculdade]]
-- [[Anotacao-Resumo]]

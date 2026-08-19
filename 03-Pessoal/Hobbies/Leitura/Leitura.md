@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Autores
 - Favoritos
 - Compartilhar
-
-## Relacionadas
-- [[Habito-Leitura]]
-- [[Hobbies]]

@@ -18,7 +18,3 @@ updated: "2026-08-19"
 - Dúvidas
 - Exemplos
 - Revisão
-
-## Relacionadas
-- [[Anotacoes]]
-- [[Faculdade]]

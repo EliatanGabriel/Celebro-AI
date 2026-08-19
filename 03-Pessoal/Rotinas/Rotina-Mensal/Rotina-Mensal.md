@@ -18,7 +18,3 @@ updated: "2026-08-19"
 - Planejamento
 - Prioridades
 - Resultados
-
-## Relacionadas
-- [[Rotina-Semanal]]
-- [[Rotinas]]

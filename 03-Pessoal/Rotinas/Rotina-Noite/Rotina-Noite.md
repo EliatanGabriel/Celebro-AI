@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Sono
 - Preparação
 - Consistência
-
-## Relacionadas
-- [[Habito-Rotina-noite]]
-- [[Sono]]
-- [[Rotina-Semanal]]
-- [[Rotinas]]

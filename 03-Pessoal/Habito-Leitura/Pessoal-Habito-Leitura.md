@@ -12,10 +12,6 @@ updated: "2026-08-19"
 
 **Resumo:** Subárea dedicada ao hábito e metas de leitura.
 
-## Notas
-
 ## Relacionadas
-- [[Habito-Leitura]]
-- [[Leitura]]
 
 [[Pessoal]]

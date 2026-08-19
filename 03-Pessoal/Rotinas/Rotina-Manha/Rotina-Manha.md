@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Movimento
 - Planejamento
 - Foco
-
-## Relacionadas
-- [[Habito-Rotina-manha]]
-- [[Rotina-Semanal]]
-- [[Rotina-Trabalho]]
-- [[Rotinas]]

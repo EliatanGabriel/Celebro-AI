@@ -18,8 +18,3 @@ updated: "2026-08-16"
 - Data
 - Impressões
 - Próximo
-
-## Relacionadas
-- [[Anotacao-Passeio]]
-- [[Amigos]]
-- [[Relacionamentos]]

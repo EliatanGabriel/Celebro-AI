@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Riscos
 - Progresso
 - Retro
-
-## Relacionadas
-- [[Reuniao-Planning]]
-- [[Reuniao-Retro]]

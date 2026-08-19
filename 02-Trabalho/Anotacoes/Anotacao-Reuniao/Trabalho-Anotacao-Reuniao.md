@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Ações
 - Participantes
 - Follow-up
-
-## Relacionadas
-- [[Anotacao-1on1]]
-- [[Anotacao-Sprint]]

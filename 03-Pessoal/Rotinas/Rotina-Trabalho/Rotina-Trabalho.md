@@ -18,8 +18,3 @@ updated: "2026-08-19"
 - Prioridades
 - Ambiente
 - Equilíbrio
-
-## Relacionadas
-- [[Habito-Trabalho]]
-- [[Rotina-Semanal]]
-- [[Rotinas]]

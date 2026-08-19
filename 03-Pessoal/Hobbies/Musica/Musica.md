@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Álbuns
 - Shows
 - Playlists
-
-## Relacionadas
-- [[Anotacao-Musica]]
-- [[Hobbies]]
-- [[Series]]
-- [[Habito-Meditacao]]

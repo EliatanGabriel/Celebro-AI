@@ -18,8 +18,3 @@ updated: "2026-08-16"
 - Referências
 - Fluxos
 - Glossário
-
-## Relacionadas
-- [[Confluence]]
-- [[Documentacao-API]]
-- [[Anotacao-Codigo]]

@@ -20,6 +20,5 @@ updated: "2026-08-16"
 - Conexão
 
 ## Relacionadas
-- [[Habito-Gratidao]]
 - [[Parceiro]]
 - [[Relacionamentos]]

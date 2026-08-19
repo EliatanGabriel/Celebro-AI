@@ -18,8 +18,3 @@ updated: "2026-08-19"
 - Contribuições
 - Aprendizados
 - Links
-
-## Relacionadas
-- [[Anotacoes]]
-- [[Anotacao-Aula]]
-- [[Faculdade]]

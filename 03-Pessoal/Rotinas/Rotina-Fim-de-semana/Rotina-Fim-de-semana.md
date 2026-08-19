@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Planejamento
 - Pessoas
 - Preparação
-
-## Relacionadas
-- [[Rotina-Sabado]]
-- [[Rotina-Domingo]]
-- [[Rotina-Semanal]]
-- [[Rotinas]]

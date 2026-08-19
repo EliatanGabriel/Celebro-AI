@@ -23,4 +23,3 @@ updated: "2026-08-16"
 - [[Mobilidade]]
 - [[Postura]]
 - [[Treino-semana]]
-- [[Habito-Postura]]

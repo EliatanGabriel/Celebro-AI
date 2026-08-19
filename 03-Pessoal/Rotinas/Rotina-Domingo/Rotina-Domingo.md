@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Lazer
 - Família
 - Preparação
-
-## Relacionadas
-- [[Rotina-Fim-de-semana]]
-- [[Rotina-Semanal]]
-- [[Rotina-Sabado]]
-- [[Rotinas]]

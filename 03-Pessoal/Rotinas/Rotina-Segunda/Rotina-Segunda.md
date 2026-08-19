@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Foco
 - Semana
 - Equilíbrio
-
-## Relacionadas
-- [[Rotina-Semanal]]
-- [[Rotina-Terca]]
-- [[Rotina-Domingo]]
-- [[Rotinas]]

@@ -23,4 +23,3 @@ updated: "2026-08-16"
 - [[Alimentacao]]
 - [[Hidratacao]]
 - [[Treino-semana]]
-- [[Habito-Alimentacao]]

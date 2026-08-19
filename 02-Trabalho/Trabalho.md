@@ -26,7 +26,6 @@ Técnicas de QA, metas, anotações, reuniões e ferramentas profissionais.
 - [[Prioridade-de-Bugs]]
 - [[QA-Manual-vs-Automatizado]]
 - [[Testes-Automatizados]]
-- [[Trabalho-Anotacoes]]
 - [[Trabalho-CI-CD]]
 - [[Trabalho-Ferramentas]]
 - [[Trabalho-Metas]]

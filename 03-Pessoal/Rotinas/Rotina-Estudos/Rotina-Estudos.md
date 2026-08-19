@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Revisão
 - Ambiente
 - Consistência
-
-## Relacionadas
-- [[Habito-Estudo]]
-- [[Rotina-Semanal]]
-- [[Rotina-Trabalho]]
-- [[Rotinas]]

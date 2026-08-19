@@ -18,8 +18,3 @@ updated: "2026-08-16"
 - Técnicas
 - Experimentação
 - Compartilhar
-
-## Relacionadas
-- [[Alimentacao]]
-- [[Nutricao]]
-- [[Hobbies]]

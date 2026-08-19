@@ -22,4 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Time-blocking]]
 - [[Deep-work]]
-- [[Habito-Foco]]

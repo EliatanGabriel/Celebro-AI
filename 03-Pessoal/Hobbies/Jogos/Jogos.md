@@ -18,7 +18,3 @@ updated: "2026-08-19"
 - Progresso
 - Social
 - Equilíbrio
-
-## Relacionadas
-- [[Anotacao-Jogo]]
-- [[Hobbies]]

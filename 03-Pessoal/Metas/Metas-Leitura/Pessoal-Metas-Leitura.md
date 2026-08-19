@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Lista
 - Constância
 - Acompanhamento
-
-## Relacionadas
-- [[Leitura]]
-- [[Habito-Leitura]]

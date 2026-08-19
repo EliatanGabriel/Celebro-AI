@@ -22,5 +22,4 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Getting-things-done]]
 - [[Time-blocking]]
-- [[Habito-Organizacao]]
 - [[Produtividade]]

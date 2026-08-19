@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Companhia
 - Impressões
 - Fotos
-
-## Relacionadas
-- [[Anotacao-Saida]]
-- [[Caminhadas]]
-- [[Hobbies]]
-- [[Relacionamentos]]

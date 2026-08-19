@@ -11,18 +11,3 @@ updated: "2026-08-19"
 #area/pessoal #pessoal/hobbies
 
 Subárea de **Pessoal**.
-
-## Notas
-- [[Caminhadas]]
-- [[Cozinha]]
-- [[Filmes]]
-- [[Fotografia]]
-- [[Futebol]]
-- [[Jogos]]
-- [[Leitura]]
-- [[Livros-favoritos]]
-- [[Musica]]
-- [[Series]]
-
-[[Pessoal]]
-

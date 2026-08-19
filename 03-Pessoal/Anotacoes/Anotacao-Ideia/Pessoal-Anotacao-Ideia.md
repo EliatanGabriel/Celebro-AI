@@ -18,7 +18,3 @@ updated: "2026-08-16"
 - Próximos passos
 - Referências
 - Potencial
-
-## Relacionadas
-- [[Anotacao-Compra]]
-- [[Objetivos-de-Vida]]

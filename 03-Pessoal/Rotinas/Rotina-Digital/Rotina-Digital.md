@@ -18,8 +18,3 @@ updated: "2026-08-19"
 - Foco
 - Desconexão
 - Equilíbrio
-
-## Relacionadas
-- [[Habito-Desconexao]]
-- [[Rotina-Semanal]]
-- [[Rotinas]]

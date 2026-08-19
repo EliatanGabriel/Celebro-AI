@@ -18,7 +18,3 @@ updated: "2026-08-19"
 - Contexto
 - Sentimento
 - Aprendizado
-
-## Relacionadas
-- [[Pensamentos]]
-- [[Autoconhecimento]]

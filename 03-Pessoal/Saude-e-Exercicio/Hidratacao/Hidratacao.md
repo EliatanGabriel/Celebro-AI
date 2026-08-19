@@ -20,7 +20,5 @@ updated: "2026-08-16"
 - Sinais
 
 ## Relacionadas
-- [[Habito-Agua]]
 - [[Nutricao]]
 - [[Treino-semana]]
-- [[Habito-Hidratacao]]

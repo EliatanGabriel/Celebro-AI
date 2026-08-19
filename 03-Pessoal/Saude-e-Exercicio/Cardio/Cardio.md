@@ -21,6 +21,4 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Treino-semana]]
-- [[Caminhadas]]
-- [[Futebol]]
 - [[Saude-e-Exercicio]]

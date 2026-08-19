@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Interesses
 - Última conversa
 - Gesto
-
-## Relacionadas
-- [[Amigos]]
-- [[Familia]]
-- [[Parceiro]]
-- [[Relacionamentos]]

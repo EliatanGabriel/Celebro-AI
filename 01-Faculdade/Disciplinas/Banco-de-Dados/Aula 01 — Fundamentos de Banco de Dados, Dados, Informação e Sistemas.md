@@ -313,5 +313,4 @@ Melhores decisões
 ## Relacionadas
 
 - [[Banco-de-Dados]]
-- [[Anotacoes]]
 - [[Faculdade]]

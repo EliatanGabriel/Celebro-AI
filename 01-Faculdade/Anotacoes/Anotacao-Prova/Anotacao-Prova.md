@@ -18,9 +18,3 @@ updated: "2026-08-19"
 - Fórmulas
 - Exercícios
 - Revisão
-
-## Relacionadas
-- [[Anotacoes]]
-- [[Revisao-Prova]]
-- [[Provas]]
-- [[Metas-Notas]]

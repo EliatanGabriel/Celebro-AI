@@ -18,9 +18,3 @@ updated: "2026-08-19"
 - Progresso
 - Fontes
 - Entregas
-
-## Relacionadas
-- [[Anotacoes]]
-- [[Trabalhos]]
-- [[Faculdade]]
-- [[Metas-Projetos-Facul]]

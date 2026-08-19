@@ -20,7 +20,6 @@ updated: "2026-08-16"
 - Ajustes
 
 ## Relacionadas
-- [[Habito-Postura]]
 - [[Mobilidade]]
 - [[Treino-semana]]
 - [[Saude-e-Exercicio]]

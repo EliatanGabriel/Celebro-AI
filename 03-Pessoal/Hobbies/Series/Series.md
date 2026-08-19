@@ -18,8 +18,3 @@ updated: "2026-08-16"
 - Plataformas
 - Recomendações
 - Maratonar
-
-## Relacionadas
-- [[Filmes]]
-- [[Hobbies]]
-- [[Leitura]]

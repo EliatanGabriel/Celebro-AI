@@ -20,9 +20,7 @@ updated: "2026-08-19"
 - Recuperação
 
 ## Relacionadas
-- [[Habito-Sono]]
 - [[Descanso]]
 - [[Saude-mental]]
 
 [[Pessoal]]
-

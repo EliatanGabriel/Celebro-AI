@@ -18,9 +18,3 @@ updated: "2026-08-16"
 - Pessoas
 - Descanso
 - Preparação
-
-## Relacionadas
-- [[Rotina-Fim-de-semana]]
-- [[Rotina-Domingo]]
-- [[Rotina-Semanal]]
-- [[Rotinas]]
