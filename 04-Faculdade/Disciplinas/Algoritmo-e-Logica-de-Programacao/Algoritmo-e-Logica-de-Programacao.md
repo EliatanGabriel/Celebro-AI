@@ -10,7 +10,4 @@ status: active
 
 Subárea de **Faculdade**.
 
-## Notas
-- [[Tipos-de-Dados]]
-
 [[Disciplinas]]
