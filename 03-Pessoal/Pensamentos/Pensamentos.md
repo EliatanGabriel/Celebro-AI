@@ -25,3 +25,9 @@ Subárea de **Pessoal**.
 - [[Pensamento-7]]
 - [[Pensamento-8]]
 - [[Pensamento-9]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/pensamentos WHERE type = "concept" SORT file.name ASC
+```

@@ -3,7 +3,7 @@ type: moc
 area: pessoal
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Financas Pessoais
@@ -23,3 +23,9 @@ Subárea de **Pessoal**.
 - [[Poupanca]]
 - [[Renda]]
 - [[Renda-passiva]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/financas-pessoais WHERE type = "concept" SORT file.name ASC
+```

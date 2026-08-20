@@ -3,7 +3,7 @@ type: moc
 area: pessoal
 status: active
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Visao-de-Vida
@@ -24,3 +24,9 @@ Subárea de **Pessoal**.
 - [[Valores]]
 - [[Visao-10-anos]]
 - [[Visao-5-anos]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/visao-de-vida WHERE type = "concept" SORT file.name ASC
+```

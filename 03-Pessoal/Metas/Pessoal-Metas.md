@@ -3,7 +3,7 @@ type: moc
 area: pessoal
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Pessoal-Metas
@@ -23,3 +23,9 @@ Subárea de **Pessoal**.
 - [[Pessoal-Metas-Relacionamentos]]
 - [[Pessoal-Metas-Saude]]
 - [[Pessoal-Metas-Semanais]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/metas WHERE type = "concept" SORT file.name ASC
+```

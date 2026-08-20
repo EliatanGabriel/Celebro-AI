@@ -29,3 +29,9 @@ Subárea de **Pessoal**.
 - [[Rotina-Sexta]]
 - [[Rotina-Terca]]
 - [[Rotina-Trabalho]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/rotinas WHERE type = "concept" SORT file.name ASC
+```

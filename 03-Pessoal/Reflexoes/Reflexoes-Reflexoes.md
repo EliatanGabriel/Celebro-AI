@@ -3,7 +3,7 @@ type: moc
 area: pessoal
 status: active
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Reflexoes-Reflexoes
@@ -27,3 +27,9 @@ Subárea de **Pessoal**.
 - [[Proposito-reflexao]]
 - [[Superacao]]
 - [[Valores-reflexao]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/reflexoes WHERE type = "concept" SORT file.name ASC
+```

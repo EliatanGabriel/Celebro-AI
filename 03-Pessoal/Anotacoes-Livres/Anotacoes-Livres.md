@@ -25,3 +25,9 @@ Subárea de **Pessoal**.
 - [[Anotacao-Sonho]]
 - [[Anotacao-Video]]
 - [[Diario-Anotacao-Aula]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/anotacoes-livres WHERE type = "concept" SORT file.name ASC
+```

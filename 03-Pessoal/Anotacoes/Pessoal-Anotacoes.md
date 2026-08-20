@@ -21,3 +21,9 @@ Subárea de **Pessoal**.
 - [[Anotacao-Saida]]
 - [[Pessoal-Anotacao-Filme]]
 - [[Pessoal-Anotacao-Ideia]]
+
+## Visão automática
+
+```dataview
+LIST FROM #pessoal/anotacoes WHERE type = "concept" SORT file.name ASC
+```
