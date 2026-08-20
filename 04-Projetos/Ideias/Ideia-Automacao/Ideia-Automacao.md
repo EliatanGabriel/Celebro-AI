@@ -21,5 +21,5 @@ updated: "2026-08-16"
 
 ## Relacionadas
 - [[Ideia-Ferramenta]]
-- [[Projeto-Bot]]
+- [[Projeto-Apolo AI]]
 - [[Ideias]]

@@ -199,6 +199,13 @@
         "type": "FILES",
         "pattern": "README.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "04-Projetos/Ativos/Projeto-Apolo AI/Projeto-Apolo AI.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

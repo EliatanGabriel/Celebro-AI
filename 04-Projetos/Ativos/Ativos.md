@@ -15,7 +15,7 @@ Subárea de **Projetos**.
 ## Notas
 - [[Projeto-API]]
 - [[Projeto-Blog]]
-- [[Projeto-Bot]]
+- [[Projeto-Apolo AI]]
 - [[Projeto-Crawler]]
 - [[Projeto-Dashboard]]
 - [[Projeto-Estudo]]

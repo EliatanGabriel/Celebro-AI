@@ -20,4 +20,4 @@ updated: "2026-08-20"
 
 ## Relacionadas
 - [[Concluidos]]
-- [[Projeto-Bot]]
+- [[Projeto-Apolo AI]]
