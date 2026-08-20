@@ -12,6 +12,20 @@ updated: "2026-08-19"
 
 Subárea de **Faculdade** com conceitos de Tecnologia da Informação.
 
+## Notas
+
+### Fundamentos
+- [[Fundamentos de TI]]
+
+### Redes
+- [[Redes de Computadores]]
+
+### Segurança
+- [[Segurança da Informação]]
+
+### Banco de Dados
+- [[Bancos de Dados]]
+
 ## Conexões
 - [[Disciplinas]]
 - [[Faculdade]]
