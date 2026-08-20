@@ -3,7 +3,7 @@ type: moc
 area: trabalho
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # CI/CD
@@ -23,3 +23,9 @@ Subárea de **Trabalho** com integração e entrega contínuas.
 - [[Trabalho-GitHub-Actions]]
 - [[Trabalho-Jenkins]]
 - [[Trabalho-Pipeline]]
+
+## Visão automática
+
+```dataview
+LIST FROM #trabalho/ci-cd WHERE type = "concept" SORT file.name ASC
+```

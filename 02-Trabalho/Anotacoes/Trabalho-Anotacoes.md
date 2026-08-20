@@ -23,3 +23,9 @@ Subárea de **Trabalho**.
 - [[Anotacao-Retro]]
 - [[Anotacao-Sprint]]
 - [[Trabalho-Anotacao-Reuniao]]
+
+## Visão automática
+
+```dataview
+LIST FROM #trabalho/anotacoes WHERE type = "concept" SORT file.name ASC
+```

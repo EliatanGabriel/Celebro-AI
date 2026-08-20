@@ -3,7 +3,7 @@ type: moc
 area: trabalho
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Testes-Automatizados
@@ -23,3 +23,9 @@ Subárea de **Trabalho** com ferramentas e conceitos de automação de testes.
 - [[Selenium]]
 - [[Test-frameworks]]
 - [[Unit-testing]]
+
+## Visão automática
+
+```dataview
+LIST FROM #trabalho/testes-automatizados WHERE type = "concept" SORT file.name ASC
+```

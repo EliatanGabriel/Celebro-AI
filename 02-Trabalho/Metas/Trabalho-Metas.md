@@ -3,7 +3,7 @@ type: moc
 area: trabalho
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Trabalho-Metas
@@ -21,3 +21,9 @@ Subárea de **Trabalho**.
 - [[Metas-Trimestrais]]
 - [[Trabalho-Metas-Anuais]]
 - [[Trabalho-Metas-Habilidades]]
+
+## Visão automática
+
+```dataview
+LIST FROM #trabalho/metas WHERE type = "concept" SORT file.name ASC
+```

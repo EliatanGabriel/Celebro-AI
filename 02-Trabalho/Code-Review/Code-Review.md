@@ -3,7 +3,7 @@ type: moc
 area: trabalho
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Code-Review
@@ -23,3 +23,9 @@ Subárea de **Trabalho** com práticas de revisão de código.
 - [[Readability]]
 - [[Refatoracao]]
 - [[Seguranca-review]]
+
+## Visão automática
+
+```dataview
+LIST FROM #trabalho/code-review WHERE type = "concept" SORT file.name ASC
+```

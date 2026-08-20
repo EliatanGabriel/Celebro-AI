@@ -3,7 +3,7 @@ type: moc
 area: trabalho
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Ferramentas
@@ -24,3 +24,9 @@ Subárea de **Trabalho**.
 - [[Trabalho-VS-Code]]
 - [[Trello]]
 - [[Zoom]]
+
+## Visão automática
+
+```dataview
+LIST FROM #trabalho/ferramentas WHERE type = "concept" SORT file.name ASC
+```
