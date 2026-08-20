@@ -3,7 +3,7 @@ type: moc
 area: biblioteca
 status: active
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Quero Ler
@@ -72,3 +72,9 @@ updated: "2026-08-19"
 - [[Caninos-Brancos]]
 - [[Essencialismo]]
 - [[Comece-Pelo-Porque]]
+
+## Visão automática
+
+```dataview
+LIST FROM #biblioteca/quero-ler WHERE type = "book" SORT file.name ASC
+```

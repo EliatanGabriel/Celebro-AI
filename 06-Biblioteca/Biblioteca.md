@@ -17,3 +17,34 @@ Livros lidos, em leitura, por ler e abandonados.
 - [[Lendo]]
 - [[Lidos]]
 - [[Abandonei]]
+
+## Dashboard
+
+```dataview
+TABLE rows.file.name AS "Livro"
+FROM "06-Biblioteca"
+WHERE type = "book"
+GROUP BY status
+```
+
+### Por status
+
+```dataview
+LIST FROM "06-Biblioteca"
+WHERE type = "book" AND status = "lendo" SORT file.name ASC
+```
+
+```dataview
+LIST FROM "06-Biblioteca"
+WHERE type = "book" AND status = "lido" SORT file.name ASC
+```
+
+```dataview
+LIST FROM "06-Biblioteca"
+WHERE type = "book" AND status = "quero-ler" SORT file.name ASC
+```
+
+```dataview
+LIST FROM "06-Biblioteca"
+WHERE type = "book" AND status = "abandonei" SORT file.name ASC
+```

@@ -3,7 +3,7 @@ type: moc
 area: biblioteca
 status: active
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Lendo
@@ -14,3 +14,9 @@ updated: "2026-08-19"
 
 ## Notas
 - [[Cafe-com-Deus-Pai-2025]]
+
+## Visão automática
+
+```dataview
+LIST FROM #biblioteca/lendo WHERE type = "book" SORT file.name ASC
+```

@@ -3,7 +3,7 @@ type: book
 area: biblioteca
 status: quero-ler
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Dias Melhores Virão
@@ -17,10 +17,12 @@ updated: "2026-08-19"
 **Resumo:** Mensagens de esperança para tempos difíceis.
 
 ## Por que quero ler
-- 
+- Aprofundar a fé com mensagens de esperança
+- Encontrar ânimo para tempos difíceis
+- Ler mais um autor devocional da coleção
 
 ## Notas
-- 
+- A esperança cristã não é otimismo vazio, mas confiança em Deus.
 
 ## Relacionadas
 - [[Quero-Ler]]

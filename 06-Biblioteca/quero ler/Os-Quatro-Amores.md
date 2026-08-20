@@ -3,7 +3,7 @@ type: book
 area: biblioteca
 status: quero-ler
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Os Quatro Amores
@@ -17,10 +17,12 @@ updated: "2026-08-19"
 **Resumo:** Reflexão sobre os quatro tipos de amor: afeto, amizade, eros e caridade.
 
 ## Por que quero ler
-- 
+- Entender as diferenças entre afeto, amizade, eros e caridade
+- Refletir sobre os amores na vida cristã
+- Aprofundar a teologia de C. S. Lewis
 
 ## Notas
-- 
+- O amor divino sustenta e purifica os amores humanos.
 
 ## Relacionadas
 - [[Quero-Ler]]

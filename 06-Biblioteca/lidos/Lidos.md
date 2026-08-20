@@ -3,7 +3,7 @@ type: moc
 area: biblioteca
 status: active
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Lidos
@@ -75,3 +75,9 @@ updated: "2026-08-19"
 - [[O-Enigma-da-Biblia-de-Gutenberg]]
 - [[Sete-Enigmas-e-um-Tesouro]]
 - [[40-Dias-com-Star-Wars]]
+
+## Visão automática
+
+```dataview
+LIST FROM #biblioteca/lidos WHERE type = "book" SORT file.name ASC
+```

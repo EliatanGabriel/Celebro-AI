@@ -3,7 +3,7 @@ type: book
 area: biblioteca
 status: lido
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Hábitos Atômicos
@@ -22,7 +22,8 @@ updated: "2026-08-19"
 - Leis do comportamento: tornar óbvio, atraente, fácil e satisfatório.
 
 ## Notas
-- 
+- A "regra dos dois minutos" reduz a barreira de entrada e facilita começar um novo hábito.
+- Cada repetição é um voto a favor da identidade que se quer construir: você se torna quem pratica.
 
 ## Relacionadas
 - [[Lidos]]
