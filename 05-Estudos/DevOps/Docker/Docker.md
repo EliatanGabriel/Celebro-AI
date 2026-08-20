@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Docker
 
-#area/estudos #devops #conceito #containers #virtualizacao #devops
+#area/estudos #estudos/devops #conceito #containers #virtualizacao #estudos/devops
 
 **Resumo:** Plataforma de conteinerização que empacota aplicações com suas dependências em imagens, garantindo ambiente consistente entre desenvolvimento e produção.
 

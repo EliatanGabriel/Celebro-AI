@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # CI/CD
 
-#area/estudos #devops #conceito #integracao #entrega #automacao
+#area/estudos #estudos/devops #conceito #integracao #entrega #automacao
 
 **Resumo:** Práticas de integração contínua (build e teste a cada commit) e entrega contínua (publicação automatizada) para reduzir riscos e acelerar entregas.
 

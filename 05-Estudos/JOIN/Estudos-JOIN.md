@@ -16,3 +16,9 @@ updated: "2026-08-19"
 - [[Inner-Join]]
 - [[Left-Join]]
 - [[Cross-Join]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/join WHERE type = "concept" SORT file.name ASC
+```

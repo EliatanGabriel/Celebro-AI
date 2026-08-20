@@ -16,3 +16,9 @@ updated: "2026-08-19"
 - [[AWS]]
 - [[Serverless]]
 - [[Azure]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/cloud WHERE type = "concept" SORT file.name ASC
+```

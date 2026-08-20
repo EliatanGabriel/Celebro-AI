@@ -16,3 +16,9 @@ updated: "2026-08-19"
 - [[Nginx]]
 - [[VPS]]
 - [[Apache]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/servidores WHERE type = "concept" SORT file.name ASC
+```

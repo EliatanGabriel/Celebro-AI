@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Complexidade Computacional
 
-#area/estudos #teoria-da-computacao #conceito #teoria #computacao #complexidade
+#area/estudos #estudos/teoria-da-computacao #conceito #teoria #computacao #complexidade
 
 **Resumo:** Estudo de quanto tempo e memória um algoritmo precisa para resolver um problema, classificando problemas por dificuldade intrínseca.
 

@@ -17,3 +17,9 @@ Grupo de **Estudos**.
 - [[Bancos-de-Dados]]
 - [[Frontend]]
 - [[Linguagens]]
+
+## Visão automática
+
+```dataview
+LIST FROM (#estudos/backend OR #estudos/bancos-de-dados OR #estudos/frontend OR #estudos/linguagens) WHERE type = "concept" SORT file.name ASC
+```

@@ -39,3 +39,9 @@ Subárea de **Estudos**.
 - [[Serverless]]
 - [[Terraform]]
 - [[VPC]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/cloud-e-devops WHERE type = "concept" SORT file.name ASC
+```

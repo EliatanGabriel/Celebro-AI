@@ -41,3 +41,9 @@ Subárea de **Estudos**.
 - [[Regressao]]
 - [[Scikit-Learn]]
 - [[TensorFlow]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/dados-e-ia WHERE type = "concept" SORT file.name ASC
+```

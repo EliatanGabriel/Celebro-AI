@@ -33,3 +33,9 @@ Subárea de **Estudos**.
 - [[SQLite]]
 - [[Supabase]]
 - [[Transactions]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/bancos-de-dados WHERE type = "concept" SORT file.name ASC
+```

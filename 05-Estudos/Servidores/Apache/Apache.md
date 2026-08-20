@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Apache HTTP Server
 
-#area/estudos #servidores #conceito #servidor #web
+#area/estudos #estudos/servidores #conceito #servidor #web
 
 **Resumo:** Servidor web clássico e amplamente utilizado, baseado em módulos e configuração por diretórios, ideal para ambientes dinâmicos como PHP.
 

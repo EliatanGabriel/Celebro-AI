@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # SOLID
 
-#area/estudos #programacao #conceito #design #principios #orientacao-a-objetos
+#area/estudos #estudos/programacao #conceito #design #principios #orientacao-a-objetos
 
 **Resumo:** Cinco princípios de design de software orientado a objetos que orientam sistemas flexíveis, extensíveis e de fácil manutenção.
 

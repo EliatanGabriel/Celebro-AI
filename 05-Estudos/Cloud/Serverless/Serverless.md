@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Serverless
 
-#area/estudos #cloud #conceito #nuvem #funcoes #escala
+#area/estudos #estudos/cloud #conceito #nuvem #funcoes #escala
 
 **Resumo:** Modelo de execução em nuvem onde o provedor gerencia servidores, escala automaticamente e cobra apenas pelo uso efetivo.
 

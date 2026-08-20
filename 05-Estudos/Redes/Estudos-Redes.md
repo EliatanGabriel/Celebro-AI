@@ -45,3 +45,9 @@ Subárea de **Estudos**.
 - [[UDP]]
 - [[VPN]]
 - [[Wi-Fi]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/redes WHERE type = "concept" SORT file.name ASC
+```

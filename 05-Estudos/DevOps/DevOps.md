@@ -16,3 +16,9 @@ updated: "2026-08-19"
 - [[Docker]]
 - [[Kubernetes]]
 - [[CI-CD]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/devops WHERE type = "concept" SORT file.name ASC
+```

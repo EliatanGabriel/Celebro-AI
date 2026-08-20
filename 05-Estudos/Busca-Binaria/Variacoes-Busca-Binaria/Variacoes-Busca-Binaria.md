@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Variações da Busca Binária
 
-#area/estudos #busca-binaria #conceito #algoritmos #busca
+#area/estudos #estudos/busca-binaria #conceito #algoritmos #busca
 
 **Resumo:** Adaptações da busca binária para encontrar o primeiro ou o último elemento igual ao alvo (lower_bound e upper_bound), além de buscas em intervalos e sobre o espaço de resposta.
 

@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Linguagens Formais
 
-#area/estudos #teoria-da-computacao #conceito #teoria #computacao #linguagens
+#area/estudos #estudos/teoria-da-computacao #conceito #teoria #computacao #linguagens
 
 **Resumo:** Conjuntos de cadeias definidas por gramáticas e autômatos, classificados pela hierarquia de Chomsky segundo o poder gerador.
 

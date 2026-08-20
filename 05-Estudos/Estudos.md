@@ -18,3 +18,4 @@ Tecnologia e computação organizados por categorias.
 - [[Estudos-Dados]]
 - [[Estudos-Fundamentos]]
 - [[Estudos-Ferramentas]]
+- [[Revisao]]

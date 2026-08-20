@@ -43,3 +43,9 @@ Subárea de **Estudos**.
 - [[Vulnerabilidades]]
 - [[XSS]]
 - [[Zero-Trust]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/seguranca WHERE type = "concept" SORT file.name ASC
+```

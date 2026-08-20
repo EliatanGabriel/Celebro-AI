@@ -45,3 +45,9 @@ Subárea de **Estudos**.
 - [[Stack-Heap]]
 - [[Tipos-de-Dados]]
 - [[Windows]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/fundamentos WHERE type = "concept" SORT file.name ASC
+```

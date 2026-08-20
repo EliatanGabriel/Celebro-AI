@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # INNER JOIN
 
-#area/estudos #join #conceito #sql #join #consultas
+#area/estudos #estudos/join #conceito #sql #estudos/join #consultas
 
 **Resumo:** Retorna apenas as linhas com correspondência nas duas tabelas, eliminando registros sem par na outra tabela.
 

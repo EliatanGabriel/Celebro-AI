@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # LEFT JOIN
 
-#area/estudos #join #conceito #sql #join #consultas
+#area/estudos #estudos/join #conceito #sql #estudos/join #consultas
 
 **Resumo:** Retorna todas as linhas da tabela esquerda e apenas as correspondentes da direita, preenchendo com NULL quando não há correspondência.
 

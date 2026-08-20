@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Clean Code
 
-#area/estudos #programacao #conceito #codigo #qualidade #boas-praticas
+#area/estudos #estudos/programacao #conceito #codigo #qualidade #boas-praticas
 
 **Resumo:** Princípios para escrever código legível, simples e de fácil manutenção, priorizando a leitura por humanos sobre truques de otimização.
 

@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Autômatos
 
-#area/estudos #teoria-da-computacao #conceito #teoria #computacao #automatos
+#area/estudos #estudos/teoria-da-computacao #conceito #teoria #computacao #automatos
 
 **Resumo:** Modelos matemáticos abstratos de máquinas que reconhecem linguagens, ordenados pela hierarquia de Chomsky conforme o poder computacional.
 

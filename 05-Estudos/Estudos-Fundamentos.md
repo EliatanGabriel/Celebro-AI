@@ -16,3 +16,9 @@ Grupo de **Estudos**.
 - [[Busca-Binaria]]
 - [[Fundamentos]]
 - [[Programacao]]
+
+## Visão automática
+
+```dataview
+LIST FROM (#estudos/busca-binaria OR #estudos/fundamentos OR #estudos/programacao) WHERE type = "concept" SORT file.name ASC
+```

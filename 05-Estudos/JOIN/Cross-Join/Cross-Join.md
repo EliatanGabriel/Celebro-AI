@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # CROSS JOIN
 
-#area/estudos #join #conceito #sql #join #produto-cartesiano
+#area/estudos #estudos/join #conceito #sql #estudos/join #produto-cartesiano
 
 **Resumo:** Combina cada linha de uma tabela com todas as linhas da outra, produzindo o produto cartesiano sem condição de junção.
 

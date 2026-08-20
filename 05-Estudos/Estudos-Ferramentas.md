@@ -15,3 +15,9 @@ Grupo de **Estudos**.
 ## Subáreas
 - [[Estudos-JOIN]]
 - [[Ferramentas]]
+
+## Visão automática
+
+```dataview
+LIST FROM (#estudos/join OR #estudos/ferramentas) WHERE type = "concept" SORT file.name ASC
+```

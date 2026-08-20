@@ -2,6 +2,7 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-16"
 updated: "2026-08-20"
 ---

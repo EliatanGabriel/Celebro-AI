@@ -37,3 +37,9 @@ Subárea de **Estudos**.
 - [[Shell]]
 - [[Swift]]
 - [[TypeScript]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/linguagens WHERE type = "concept" SORT file.name ASC
+```

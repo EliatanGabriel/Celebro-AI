@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Kubernetes
 
-#area/estudos #devops #conceito #orquestracao #containers #devops
+#area/estudos #estudos/devops #conceito #orquestracao #containers #estudos/devops
 
 **Resumo:** Plataforma de orquestração de contêineres que automatiza deploy, escala e operação de aplicações em clusters de nós.
 

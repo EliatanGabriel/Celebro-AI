@@ -43,3 +43,9 @@ Subárea de **Estudos**.
 - [[VS-Code]]
 - [[Wget]]
 - [[Zsh]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/ferramentas WHERE type = "concept" SORT file.name ASC
+```

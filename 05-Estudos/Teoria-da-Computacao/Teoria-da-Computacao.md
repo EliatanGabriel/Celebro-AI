@@ -16,3 +16,9 @@ updated: "2026-08-19"
 - [[Automatos]]
 - [[Complexidade]]
 - [[Linguagens]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/teoria-da-computacao WHERE type = "concept" SORT file.name ASC
+```

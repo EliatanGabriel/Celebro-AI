@@ -37,3 +37,9 @@ Subárea de **Estudos**.
 - [[Sessions]]
 - [[Spring]]
 - [[WebSocket]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/backend WHERE type = "concept" SORT file.name ASC
+```

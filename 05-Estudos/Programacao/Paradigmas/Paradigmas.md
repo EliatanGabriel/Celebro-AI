@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Paradigmas de Programação
 
-#area/estudos #programacao #conceito #programacao #paradigmas #conceitos
+#area/estudos #estudos/programacao #conceito #estudos/programacao #paradigmas #conceitos
 
 **Resumo:** Diferentes formas de estruturar o pensamento e o código, cada uma com regras próprias de organização, estado e fluxo.
 

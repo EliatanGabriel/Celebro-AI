@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Microsoft Azure
 
-#area/estudos #cloud #conceito #nuvem #azure #microsoft
+#area/estudos #estudos/cloud #conceito #nuvem #azure #microsoft
 
 **Resumo:** Plataforma de nuvem da Microsoft com serviços gerenciados para computação, armazenamento e integração corporativa.
 

@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Busca Binária na Prática
 
-#area/estudos #busca-binaria #conceito #algoritmos #busca #implementacao
+#area/estudos #estudos/busca-binaria #conceito #algoritmos #busca #implementacao
 
 **Resumo:** Implementação da busca binária em vetores ordenados usando ponteiros de limite e invariantes para garantir correção e complexidade O(log n).
 

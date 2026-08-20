@@ -16,3 +16,9 @@ updated: "2026-08-19"
 - [[Implementacao-Busca-Binaria]]
 - [[Complexidade-Busca-Binaria]]
 - [[Variacoes-Busca-Binaria]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/busca-binaria WHERE type = "concept" SORT file.name ASC
+```

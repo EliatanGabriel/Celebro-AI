@@ -38,3 +38,9 @@ Subárea de **Estudos**.
 - [[Vite]]
 - [[Vue]]
 - [[Webpack]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/frontend WHERE type = "concept" SORT file.name ASC
+```

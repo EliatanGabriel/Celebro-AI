@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Complexidade da Busca Binária
 
-#area/estudos #busca-binaria #conceito #algoritmos #complexidade
+#area/estudos #estudos/busca-binaria #conceito #algoritmos #complexidade
 
 **Resumo:** A busca binária reduz o espaço de busca pela metade a cada iteração, resultando em tempo O(log n) em um vetor de n elementos, desde que o vetor esteja ordenado.
 

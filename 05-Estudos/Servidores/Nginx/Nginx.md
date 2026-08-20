@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # Nginx
 
-#area/estudos #servidores #conceito #servidor #web #proxy
+#area/estudos #estudos/servidores #conceito #servidor #web #proxy
 
 **Resumo:** Servidor web e proxy reverso de alto desempenho, com arquitetura assíncrona e baixo consumo de memória.
 

@@ -2,13 +2,14 @@
 type: concept
 area: estudos
 status: active
+progresso: "estudando"
 created: "2026-08-20"
 updated: "2026-08-20"
 ---
 
 # AWS
 
-#area/estudos #cloud #conceito #nuvem #aws #infraestrutura
+#area/estudos #estudos/cloud #conceito #nuvem #aws #infraestrutura
 
 **Resumo:** Serviços da Amazon Web Services para computação, armazenamento e escala sob demanda, com faturamento por uso e alcance global.
 

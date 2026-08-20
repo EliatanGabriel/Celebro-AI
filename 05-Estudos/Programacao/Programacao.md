@@ -16,3 +16,9 @@ updated: "2026-08-19"
 - [[Clean-Code]]
 - [[SOLID]]
 - [[Paradigmas]]
+
+## Visão automática
+
+```dataview
+LIST FROM #estudos/programacao WHERE type = "concept" SORT file.name ASC
+```
