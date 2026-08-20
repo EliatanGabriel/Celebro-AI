@@ -206,6 +206,48 @@
         "type": "FILES",
         "pattern": "04-Projetos/Ativos/Projeto-Apolo AI/Projeto-Apolo AI.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "05-Estudos/Backend/Backend.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "05-Estudos/Bancos-de-Dados/Bancos-de-Dados.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "05-Estudos/Busca-Binaria/Busca-Binaria.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "05-Estudos/Cloud/Estudos-Cloud.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "05-Estudos/Cloud-e-DevOps/Cloud-e-DevOps.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "05-Estudos/Dados-e-IA/Dados-e-IA.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
