@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
       "LiBookCopy",
       "LiLayoutTemplate",
       "LiComputer",
-      "LiBook",
-      "LiAppWindow"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,5 +69,6 @@
   "06-Biblioteca": {
     "iconName": "LiBookCopy",
     "iconColor": "#ff1f8f"
-  }
+  },
+  "TaskNotes": "LiCalendar"
 }

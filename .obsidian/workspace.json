@@ -31,7 +31,7 @@
       {
         "id": "8900cbd115bee772",
         "type": "tabs",
-        "dimension": 68.97880539499036,
+        "dimension": 69.26782273603082,
         "children": [
           {
             "id": "da448eae0f58cc00",
@@ -81,20 +81,20 @@
         ]
       },
       {
-        "id": "4c516d717573bd8b",
+        "id": "15a71ee3bc5578a4",
         "type": "tabs",
-        "dimension": 31.021194605009633,
+        "dimension": 30.732177263969174,
         "children": [
           {
-            "id": "8116653d87afe2fc",
+            "id": "ee58fd274e21a352",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -110,7 +110,6 @@
       {
         "id": "3456e63e166cb084",
         "type": "tabs",
-        "dimension": 67.87037037037037,
         "children": [
           {
             "id": "9e05b411c86e9ca1",
@@ -185,26 +184,19 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "00c467ff2219ba04",
-        "type": "tabs",
-        "dimension": 32.12962962962963,
-        "children": [
+          },
           {
-            "id": "ee58fd274e21a352",
+            "id": "c0d710141444969c",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": true,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -220,15 +213,37 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "realclaudian:Open Claudian": false,
-      "omnisearch:Omnisearch": false,
+      "realclaudian:Open Claudian": true,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
+      "tasknotes:Abrir visualização de mini calendário": false,
+      "tasknotes:Abrir visualização de calendário": false,
+      "tasknotes:Abrir visualização de tarefas": false,
+      "tasknotes:Abrir visualização de agenda": false,
+      "tasknotes:Abrir quadro kanban": false,
+      "tasknotes:Abrir temporizador pomodoro": false,
+      "tasknotes:Abrir estatísticas pomodoro": false,
+      "tasknotes:Criar nova tarefa": false
     }
   },
   "active": "da448eae0f58cc00",
   "lastOpenFiles": [
+    "01-Faculdade/Disciplinas/POO/Dias da semana.py.md",
+    "Excalidraw/Drawing 2026-08-20 00.09.19.excalidraw.md",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Start Here.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "Untitled Kanban.md",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views",
+    "TaskNotes",
     "README.md",
     "01-Faculdade/Metas/Faculdade-Metas.md",
     "01-Faculdade/Faculdade.md",
@@ -238,9 +253,6 @@
     "01-Faculdade/Disciplinas/Ingles-Profissional/Comunicação Profissional em Tecnologia.md",
     "01-Faculdade/Disciplinas/Ingles-Profissional/Comunicação Profissional em Tecnologia",
     "01-Faculdade/Disciplinas/POO/IMC.py.md",
-    "01-Faculdade/Disciplinas/POO/IMC.py.mf",
-    "01-Faculdade/Disciplinas/POO/Dias da semana.py.md",
-    "01-Faculdade/Disciplinas/POO/Dias da semana.py.mf",
     "01-Faculdade/Disciplinas/POO/variaveis.py.md",
     "Sem título.md",
     "01-Faculdade/Disciplinas/POO/Desvio Condicional.md",
@@ -255,16 +267,6 @@
     "06-Biblioteca/quero ler/Comece-Pelo-Porque.md",
     "06-Biblioteca/quero ler/Essencialismo.md",
     "06-Biblioteca/quero ler/Caninos-Brancos.md",
-    "06-Biblioteca/quero ler/O-Outro-Lado-do-Ponto-da-Virada.md",
-    "06-Biblioteca/quero ler/O-Melhor-de-Max-Lucado.md",
-    "06-Biblioteca/quero ler/O-Fim-da-Ansiedade.md",
-    "06-Biblioteca/quero ler",
-    "06-Biblioteca/lidos",
-    "06-Biblioteca/lendo",
-    "06-Biblioteca/abandonei",
-    "06-Biblioteca",
-    "03-Pessoal/Biblioteca/abandonei",
-    "03-Pessoal/Biblioteca/quero ler",
     "Sem título.canvas"
   ]
 }
