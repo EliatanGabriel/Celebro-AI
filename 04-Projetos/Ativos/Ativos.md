@@ -3,7 +3,7 @@ type: moc
 area: projetos
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Projetos Ativos
@@ -25,3 +25,9 @@ Subárea de **Projetos**.
 - [[Projeto-Portfolio]]
 - [[Projeto-QA]]
 - [[Projeto-Site-pessoal]]
+
+## Visão automática
+
+```dataview
+LIST FROM #projetos/ativos WHERE type = "concept" SORT file.name ASC
+```

@@ -3,7 +3,7 @@ type: moc
 area: projetos
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Ideias
@@ -30,3 +30,9 @@ Subárea de **Projetos**.
 - [[Ideia-Saas]]
 - [[Ideia-Site]]
 - [[Ideia-YouTube]]
+
+## Visão automática
+
+```dataview
+LIST FROM #projetos/ideias WHERE type = "concept" SORT file.name ASC
+```
