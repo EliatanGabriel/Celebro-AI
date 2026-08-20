@@ -3,7 +3,7 @@ type: moc
 area: faculdade
 status: active
 created: "2026-08-15"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Engenharia de Software
@@ -31,3 +31,9 @@ Subárea de **Faculdade** com conceitos de engenharia de software, processos, re
 
 ### Arquitetura
 - [[Arquitetura e Padrões de Projeto]]
+
+## Visão automática
+
+```dataview
+LIST FROM "01-Faculdade/Disciplinas/Engenharia-de-Software" WHERE type = "concept" SORT file.name ASC
+```

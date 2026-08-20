@@ -3,7 +3,7 @@ type: moc
 area: faculdade
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Provas
@@ -24,3 +24,9 @@ Subárea de **Faculdade**.
 - [[Prova-Substitutiva]]
 - [[Prova-TI]]
 - [[Revisao-Prova]]
+
+## Visão automática
+
+```dataview
+LIST FROM #faculdade/provas WHERE type = "concept" SORT file.name ASC
+```

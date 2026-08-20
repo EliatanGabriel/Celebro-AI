@@ -3,7 +3,7 @@ type: moc
 area: faculdade
 status: active
 created: "2026-08-15"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Arduino
@@ -25,3 +25,9 @@ Subárea de **Faculdade** com conceitos de eletrônica e programação com Ardui
 
 ### Projetos
 - [[Projetos com Arduino]]
+
+## Visão automática
+
+```dataview
+LIST FROM "01-Faculdade/Disciplinas/Arduino" WHERE type = "concept" SORT file.name ASC
+```

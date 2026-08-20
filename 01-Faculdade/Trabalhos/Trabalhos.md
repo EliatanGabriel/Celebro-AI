@@ -3,7 +3,7 @@ type: moc
 area: faculdade
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Trabalhos
@@ -23,3 +23,9 @@ Subárea de **Faculdade**.
 - [[Trabalho-PI]]
 - [[Trabalho-POO]]
 - [[Trabalho-TCC]]
+
+## Visão automática
+
+```dataview
+LIST FROM #faculdade/trabalhos WHERE type = "concept" SORT file.name ASC
+```

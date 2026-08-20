@@ -21,3 +21,9 @@ Subárea de **Faculdade**.
 - [[Anotacao-Prova]]
 - [[Anotacao-Resumo]]
 - [[Anotacao-Trabalho]]
+
+## Visão automática
+
+```dataview
+LIST FROM #faculdade/anotacoes WHERE type = "concept" SORT file.name ASC
+```

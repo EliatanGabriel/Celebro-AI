@@ -3,7 +3,7 @@ type: moc
 area: faculdade
 status: active
 created: "2026-08-15"
-updated: "2026-08-16"
+updated: "2026-08-20"
 ---
 
 # Faculdade-Metas
@@ -19,3 +19,9 @@ Subárea de **Faculdade**.
 - [[Metas-Semestre-1]]
 - [[Metas-Semestre-2]]
 - [[Metas-TCC]]
+
+## Visão automática
+
+```dataview
+LIST FROM #faculdade/metas WHERE type = "concept" SORT file.name ASC
+```

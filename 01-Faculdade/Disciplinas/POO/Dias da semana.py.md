@@ -2,6 +2,7 @@
 type: concept
 area: faculdade
 status: active
+progresso: "estudando"
 created: "2026-08-19"
 updated: "2026-08-19"
 ---

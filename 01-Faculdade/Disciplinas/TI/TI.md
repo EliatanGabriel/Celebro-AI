@@ -3,7 +3,7 @@ type: moc
 area: faculdade
 status: active
 created: "2026-08-15"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # TI
@@ -25,3 +25,9 @@ Subárea de **Faculdade** com conceitos de Tecnologia da Informação.
 
 ### Banco de Dados
 - [[Bancos de Dados]]
+
+## Visão automática
+
+```dataview
+LIST FROM "01-Faculdade/Disciplinas/TI" WHERE type = "concept" SORT file.name ASC
+```
