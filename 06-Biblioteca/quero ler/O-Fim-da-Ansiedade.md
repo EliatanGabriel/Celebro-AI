@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ansiedade #fe #saude-mental
 
 **Autor:** Max Lucado
+**Ano:** 2017
 **Status:** Quero ler
 
 **Resumo:** Respostas bíblicas e práticas para lidar com a ansiedade.

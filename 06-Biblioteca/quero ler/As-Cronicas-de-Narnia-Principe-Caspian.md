@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #narnia #fantasia
 
 **Autor:** C. S. Lewis
+**Ano:** 1951
 **Status:** Quero ler
 
 **Resumo:** Retorno das crianças a Nárnia para ajudar o príncipe Caspian a reivindicar o trono.

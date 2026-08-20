@@ -18,8 +18,3 @@ Subárea de **Faculdade**.
 - [[variaveis.py]]
 - [[IMC.py]]
 - [[Dias da semana.py]]
-
-## Conexões
-- [[Disciplinas]]
-- [[Faculdade]]
-

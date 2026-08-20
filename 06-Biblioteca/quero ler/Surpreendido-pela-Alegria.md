@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #autobiografia #fe
 
 **Autor:** C. S. Lewis
+**Ano:** 1955
 **Status:** Quero ler
 
 **Resumo:** Autobiografia espiritual de C. S. Lewis sobre seu caminho de volta à fé.

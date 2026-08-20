@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #ensaios
 
 **Autor:** C. S. Lewis
+**Ano:** 1967
 **Status:** Quero ler
 
 **Resumo:** Ensaios sobre temas variados da vida cristã.

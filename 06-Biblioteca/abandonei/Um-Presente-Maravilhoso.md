@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #devocional
 
+**Autor:** Max Lucado
+**Ano:** 2012
 **Status:** Abandonei
 
 **Resumo:** Reflexões sobre o dom da vida e as maravilhas do cuidado de Deus.

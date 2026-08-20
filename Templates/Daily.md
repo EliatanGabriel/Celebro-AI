@@ -12,5 +12,3 @@ updated: "{{date:YYYY-MM-DD}}"
 
 ## Registros
 - 
-
-[[Pessoal]]

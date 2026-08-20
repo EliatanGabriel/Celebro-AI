@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #temperamento
 
+**Autor:** Lisa Bevere
+**Ano:** 2000
 **Status:** Quero ler
 
 **Resumo:** Sobre lidar com o temperamento e as próprias limitações na vida com Deus.

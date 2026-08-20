@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #prioridades #deus
 
+**Autor:** Luciano Subirá
+**Ano:** 2018
 **Status:** Lido
 
 **Resumo:** Reflexão sobre colocar Deus em primeiro lugar, até que nada mais importe acima dele.

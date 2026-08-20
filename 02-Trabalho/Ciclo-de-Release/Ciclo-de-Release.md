@@ -22,6 +22,3 @@ updated: "2026-08-16"
 ## Relacionadas
 - [[Deploy]]
 - [[Versionamento-API]]
-
-[[Trabalho]]
-

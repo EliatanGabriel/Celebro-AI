@@ -13,5 +13,6 @@ updated: "2026-08-19"
 **Resumo:** Subárea de **Estudos** sobre Computação em nuvem.
 
 ## Notas
-
-[[Estudos-Infraestrutura]]
+- [[AWS]]
+- [[Serverless]]
+- [[Azure]]

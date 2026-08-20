@@ -43,5 +43,3 @@ Subárea de **Estudos**.
 - [[Vulnerabilidades]]
 - [[XSS]]
 - [[Zero-Trust]]
-
-[[Estudos-Infraestrutura]]

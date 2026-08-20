@@ -37,5 +37,3 @@ Subárea de **Estudos**.
 - [[Shell]]
 - [[Swift]]
 - [[TypeScript]]
-
-[[Estudos-Desenvolvimento]]

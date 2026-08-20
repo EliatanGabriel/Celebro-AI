@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #jejum #espiritualidade
 
+**Autor:** Luciano Subirá
+**Ano:** 2022
 **Status:** Lido
 
 **Resumo:** Sobre a prática do jejum como disciplina espiritual e seu papel na vida cristã.

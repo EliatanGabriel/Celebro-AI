@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #programacao #algoritmos
 
 **Autor:** Aditya Bhargava
+**Ano:** 2016
 **Status:** Quero ler
 
 **Resumo:** Introdução visual e prática aos principais algoritmos e estruturas de dados.

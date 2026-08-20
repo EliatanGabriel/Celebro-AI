@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #devocional #fe
 
+**Autor:** Júnior Rostirola
+**Ano:** 2024
 **Status:** Lendo
 
 **Resumo:** Devocional diário com textos e reflexões para começar o dia com Deus.

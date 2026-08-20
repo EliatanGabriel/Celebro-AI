@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #relacionamento
 
+**Autor:** Max Lucado
+**Ano:** 2003
 **Status:** Lido
 
 **Resumo:** Reflexões sobre a presença de Deus no cotidiano e como encontrar o salvador nas relações próximas.

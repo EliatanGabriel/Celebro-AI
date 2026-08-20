@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #apologetica #fe
 
+**Autor:** Kenneth D. Boa e Robert M. Bowman Jr.
+**Ano:** 2002
 **Status:** Abandonei
 
 **Resumo:** Apresenta vinte argumentos que apontam para a existência de Deus.

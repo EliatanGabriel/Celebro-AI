@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #critica-literaria #ensaios
 
 **Autor:** C. S. Lewis
+**Ano:** 1961
 **Status:** Quero ler
 
 **Resumo:** Ensaio sobre como lemos literatura e os modos de leitura.

@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #ficcao #misterio #cristao
 
+**Autor:** Maurício Zágari
+**Ano:** 2019
 **Status:** Lido
 
 **Resumo:** Romance de mistério com temática cristã envolvendo segredos e revelações.

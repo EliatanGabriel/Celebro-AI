@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #teologia #apologetica
 
 **Autor:** C. S. Lewis
+**Ano:** 1940
 **Status:** Quero ler
 
 **Resumo:** Reflexão sobre o problema do mal e do sofrimento à luz da fé cristã.

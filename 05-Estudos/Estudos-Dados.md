@@ -15,5 +15,3 @@ Grupo de **Estudos**.
 ## Subáreas
 - [[Dados-e-IA]]
 - [[Teoria-da-Computacao]]
-
-[[Estudos]]

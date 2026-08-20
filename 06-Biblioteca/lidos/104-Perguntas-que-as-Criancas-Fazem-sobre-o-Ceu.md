@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #infantil #fe #ceu
 
+**Autor:** David R. Veerman
+**Ano:** 1996
 **Status:** Lido
 
 **Resumo:** Respostas a 104 perguntas feitas por crianças sobre o céu, de forma simples e bíblica.

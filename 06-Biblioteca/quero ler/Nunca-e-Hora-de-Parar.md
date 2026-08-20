@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #motivacao #crescimento
 
+**Autor:** David Goggins
+**Ano:** 2022
 **Status:** Quero ler
 
 **Resumo:** Encorajamento a persistir e nunca desistir dos próprios objetivos.

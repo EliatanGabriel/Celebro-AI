@@ -14,7 +14,3 @@ Subárea de **Faculdade** com conceitos da linguagem TypeScript.
 
 ## Notas
 - [[Controle de Versão com Git & GitHub]]
-
-## Conexões
-- [[Disciplinas]]
-- [[Faculdade]]

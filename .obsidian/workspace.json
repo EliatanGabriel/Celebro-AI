@@ -18,6 +18,16 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "c5da79d59ba43c67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ]
       }
@@ -194,17 +204,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "58e40a4a7cb209a7",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "infranodus-graph-view:InfraNodus Graph View": false,
       "omnisearch:Omnisearch": true,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
@@ -213,12 +232,8 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "realclaudian:Open Claudian": true,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": true,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
       "tasknotes:Abrir visualização de mini calendário": false,
       "tasknotes:Abrir visualização de calendário": false,
       "tasknotes:Abrir visualização de tarefas": false,
@@ -229,44 +244,44 @@
       "tasknotes:Criar nova tarefa": false
     }
   },
-  "active": "da448eae0f58cc00",
+  "active": "037deea044459e42",
   "lastOpenFiles": [
-    "01-Faculdade/Disciplinas/POO/Dias da semana.py.md",
-    "Excalidraw/Drawing 2026-08-20 00.09.19.excalidraw.md",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Start Here.md",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "Untitled Kanban.md",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views",
-    "TaskNotes",
-    "README.md",
-    "01-Faculdade/Metas/Faculdade-Metas.md",
-    "01-Faculdade/Faculdade.md",
-    "01-Faculdade/Disciplinas/TI/TI.md",
-    "01-Faculdade/Disciplinas/Arduino/Arduino.md",
-    "01-Faculdade/Disciplinas/POO/Variaveis.py.md",
-    "01-Faculdade/Disciplinas/Ingles-Profissional/Comunicação Profissional em Tecnologia.md",
-    "01-Faculdade/Disciplinas/Ingles-Profissional/Comunicação Profissional em Tecnologia",
-    "01-Faculdade/Disciplinas/POO/IMC.py.md",
-    "01-Faculdade/Disciplinas/POO/variaveis.py.md",
-    "Sem título.md",
-    "01-Faculdade/Disciplinas/POO/Desvio Condicional.md",
-    "01-Faculdade/Disciplinas/POO/Fundamentos do Python.md",
-    "01-Faculdade/Disciplinas/POO/Fundamentos de Python.md",
-    "05-Estudos/Estudos-Dados.md",
-    "06-Biblioteca/abandonei/O-Livro-dos-Martires.md",
-    "06-Biblioteca/abandonei/Um-Presente-Maravilhoso.md",
-    "06-Biblioteca/abandonei/Gente-Como-a-Gente.md",
-    "06-Biblioteca/abandonei/20-Evidencias-de-que-Deus-Existe.md",
-    "06-Biblioteca/abandonei/29-Minutos-para-Entender-a-Biblia.md",
-    "06-Biblioteca/quero ler/Comece-Pelo-Porque.md",
-    "06-Biblioteca/quero ler/Essencialismo.md",
-    "06-Biblioteca/quero ler/Caninos-Brancos.md",
+    "04-Projetos/Concluidos/Projeto-Bot-Discord/Projeto-Bot-Discord.md",
+    "04-Projetos/Concluidos/Projeto-Bot-Discord",
+    "04-Projetos/Concluidos/Projeto-Site-ONG/Projeto-Site-ONG.md",
+    "04-Projetos/Concluidos/Projeto-Site-ONG",
+    "04-Projetos/Concluidos/Projeto-TCC/Projeto-TCC.md",
+    "04-Projetos/Concluidos/Projeto-TCC",
+    "04-Projetos/Concluidos/Projeto-2023/Projeto-2023.md",
+    "04-Projetos/Concluidos/Projeto-2023",
+    "04-Projetos/Ideias/Ideia-Twitch/Ideia-Twitch.md",
+    "04-Projetos/Ideias/Ideia-Twitch",
+    "04-Projetos/Ideias/Ideia-Curso-Video/Ideia-Curso-Video.md",
+    "04-Projetos/Ideias/Ideia-Curso-Video",
+    "04-Projetos/Ideias/Ideia-Template/Ideia-Template.md",
+    "04-Projetos/Ideias/Ideia-Template",
+    "04-Projetos/Ideias/Ideia-CLI/Ideia-CLI.md",
+    "04-Projetos/Ideias/Ideia-CLI",
+    "04-Projetos/Ideias/Ideia-Newsletter/Ideia-Newsletter.md",
+    "04-Projetos/Ideias/Ideia-Newsletter",
+    "05-Estudos/Teoria-da-Computacao/Linguagens/Linguagens.md",
+    "05-Estudos/Teoria-da-Computacao/Linguagens",
+    "05-Estudos/Teoria-da-Computacao/Complexidade/Complexidade.md",
+    "05-Estudos/Teoria-da-Computacao/Automatos/Automatos.md",
+    "05-Estudos/Busca-Binaria/Variacoes-Busca-Binaria/Variacoes-Busca-Binaria.md",
+    "05-Estudos/Busca-Binaria/Complexidade-Busca-Binaria/Complexidade-Busca-Binaria.md",
+    "05-Estudos/Busca-Binaria/Implementacao-Busca-Binaria/Implementacao-Busca-Binaria.md",
+    "05-Estudos/JOIN/Cross-Join/Cross-Join.md",
+    "05-Estudos/JOIN/Left-Join/Left-Join.md",
+    "05-Estudos/JOIN/Inner-Join/Inner-Join.md",
+    "05-Estudos/Servidores/Apache/Apache.md",
+    "05-Estudos/Servidores/VPS/VPS.md",
+    "05-Estudos/Servidores/Nginx/Nginx.md",
+    "05-Estudos/Cloud/Azure/Azure.md",
+    "05-Estudos/Cloud/Serverless/Serverless.md",
+    "05-Estudos/Cloud/AWS/AWS.md",
+    "05-Estudos/Programacao/Paradigmas/Paradigmas.md",
+    "05-Estudos/Programacao/SOLID/SOLID.md",
     "Sem título.canvas"
   ]
 }

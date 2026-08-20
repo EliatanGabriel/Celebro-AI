@@ -21,6 +21,3 @@ Subárea de **Trabalho**.
 - [[Metas-Trimestrais]]
 - [[Trabalho-Metas-Anuais]]
 - [[Trabalho-Metas-Habilidades]]
-
-[[Trabalho]]
-

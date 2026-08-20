@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #saude #vicio #tecnologia
 
 **Autor:** Anna Lembke
+**Ano:** 2021
 **Status:** Quero ler
 
 **Resumo:** Como o excesso de prazer e dopamina afeta o cérebro e a busca por equilíbrio.

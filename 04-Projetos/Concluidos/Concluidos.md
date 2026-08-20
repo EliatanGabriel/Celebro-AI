@@ -13,6 +13,10 @@ updated: "2026-08-16"
 Subárea de **Projetos**.
 
 ## Notas
+- [[Projeto-2023]]
+- [[Projeto-TCC]]
+- [[Projeto-Site-ONG]]
+- [[Projeto-Bot-Discord]]
 - [[Projeto-2019]]
 - [[Projeto-2020]]
 - [[Projeto-2021]]
@@ -22,5 +26,3 @@ Subárea de **Projetos**.
 - [[Projeto-Curso-2024]]
 - [[Projeto-Exercicio]]
 - [[Projeto-Hackathon]]
-
-[[Projetos]]

@@ -23,6 +23,3 @@ Subárea de **Faculdade**.
 - [[Trabalho-PI]]
 - [[Trabalho-POO]]
 - [[Trabalho-TCC]]
-
-[[Faculdade]]
-

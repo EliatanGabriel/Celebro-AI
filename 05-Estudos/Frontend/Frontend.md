@@ -38,5 +38,3 @@ Subárea de **Estudos**.
 - [[Vite]]
 - [[Vue]]
 - [[Webpack]]
-
-[[Estudos-Desenvolvimento]]

@@ -24,6 +24,3 @@ updated: "2026-08-16"
 - [[Reuniao-Tecnica]]
 - [[Code-Review]]
 - [[Slack]]
-
-[[Trabalho]]
-

@@ -14,13 +14,5 @@ updated: "2026-08-19"
 
 Bem-vindo ao Celebro AI — o cérebro do seu conhecimento.
 
-## Áreas
-- [[Faculdade]]
-- [[Trabalho]]
-- [[Pessoal]]
-- [[Projetos]]
-- [[Estudos]]
-- [[Biblioteca]]
-
 ## Guia
 - [[Guia-de-Uso]]

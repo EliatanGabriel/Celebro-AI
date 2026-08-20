@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #ficcao
 
 **Autor:** C. S. Lewis
+**Ano:** 1956
 **Status:** Quero ler
 
 **Resumo:** Romance alegórico baseado no mito de Eros e Psiquê, sobre amor e transformação.

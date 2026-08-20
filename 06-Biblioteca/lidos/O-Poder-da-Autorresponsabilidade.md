@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #crescimento #mentalidade
 
 **Autor:** Paulo Vieira
+**Ano:** 2016
 **Status:** Lido
 
 **Resumo:** Mostra como assumir a responsabilidade pela própria vida é o primeiro passo para transformar resultados.

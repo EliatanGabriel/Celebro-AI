@@ -17,5 +17,3 @@ Grupo de **Estudos**.
 - [[Bancos-de-Dados]]
 - [[Frontend]]
 - [[Linguagens]]
-
-[[Estudos]]

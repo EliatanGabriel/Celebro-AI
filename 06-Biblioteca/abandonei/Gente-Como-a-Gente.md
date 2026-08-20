@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #romance #ficcao
 
+**Autor:** Max Lucado
+**Ano:** 2008
 **Status:** Abandonei
 
 **Resumo:** Romance sobre relacionamentos e as complexidades da vida comum.

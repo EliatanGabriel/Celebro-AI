@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #familia #fe #filhos
 
+**Autor:** Luciano Subirá e Kelly Subirá
+**Ano:** 2021
 **Status:** Quero ler
 
 **Resumo:** Sobre criar filhos como flechas na mão do guerreiro, com propósito e direção.

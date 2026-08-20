@@ -72,5 +72,3 @@ updated: "2026-08-19"
 - [[Caninos-Brancos]]
 - [[Essencialismo]]
 - [[Comece-Pelo-Porque]]
-
-[[Biblioteca]]

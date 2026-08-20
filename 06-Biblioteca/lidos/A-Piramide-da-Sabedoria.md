@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #sabedoria #crescimento
 
+**Autor:** Brett McCracken
+**Ano:** 2020
 **Status:** Lido
 
 **Resumo:** Aborda a construção da sabedoria a partir de fundamentos práticos e princípios de vida.

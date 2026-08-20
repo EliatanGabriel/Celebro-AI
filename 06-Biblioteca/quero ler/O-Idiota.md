@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #literatura #russia
 
 **Autor:** Fiódor Dostoiévski
+**Ano:** 1869
 **Status:** Quero ler
 
 **Resumo:** Romance sobre o príncipe Míchkin, um homem de pureza moral em meio a uma sociedade corrupta.

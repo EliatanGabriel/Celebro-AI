@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #filosofia #ilustrado #reflexao
 
 **Autor:** Charlie Mackesy
+**Ano:** 2019
 **Status:** Quero ler
 
 **Resumo:** Narrativa ilustrada sobre amizade, bondade, coragem e esperança.

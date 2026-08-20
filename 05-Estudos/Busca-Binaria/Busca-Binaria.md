@@ -13,5 +13,6 @@ updated: "2026-08-19"
 **Resumo:** Subárea de **Estudos** sobre Busca binária e algoritmos.
 
 ## Notas
-
-[[Estudos-Fundamentos]]
+- [[Implementacao-Busca-Binaria]]
+- [[Complexidade-Busca-Binaria]]
+- [[Variacoes-Busca-Binaria]]

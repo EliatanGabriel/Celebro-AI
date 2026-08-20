@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #proposito #identidade
 
+**Autor:** Douglas Gonçalves e Thiago Marques
+**Ano:** 2021
 **Status:** Lido
 
 **Resumo:** Sobre o propósito de Deus para a vida de cada pessoa e como descobrir a própria identidade Nele.

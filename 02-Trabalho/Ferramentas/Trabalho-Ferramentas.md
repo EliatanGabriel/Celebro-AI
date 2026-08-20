@@ -24,5 +24,3 @@ Subárea de **Trabalho**.
 - [[Trabalho-VS-Code]]
 - [[Trello]]
 - [[Zoom]]
-
-[[Trabalho]]

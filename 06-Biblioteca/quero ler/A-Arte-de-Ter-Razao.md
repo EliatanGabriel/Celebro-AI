@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #filosofia #argumentacao
 
 **Autor:** Arthur Schopenhauer
+**Ano:** 1831
 **Status:** Quero ler
 
 **Resumo:** Estratégias de argumentação para vencer debates, mesmo sem ter razão.

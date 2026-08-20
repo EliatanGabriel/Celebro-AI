@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #deus
 
 **Autor:** Max Lucado
+**Ano:** 2000
 **Status:** Lido
 
 **Resumo:** Reflexões sobre o sacrifício de Cristo, explorando o amor de Deus revelado na cruz e nos cravos escolhidos por Jesus.

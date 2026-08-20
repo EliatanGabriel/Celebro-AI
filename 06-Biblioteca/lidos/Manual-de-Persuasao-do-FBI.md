@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #comunicacao #influencia
 
 **Autor:** Jack Schafer
+**Ano:** 2015
 **Status:** Lido
 
 **Resumo:** Técnicas de persuasão e influência usadas por agentes do FBI, aplicáveis à comunicação do dia a dia.

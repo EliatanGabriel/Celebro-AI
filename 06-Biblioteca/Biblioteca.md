@@ -17,7 +17,3 @@ Livros lidos, em leitura, por ler e abandonados.
 - [[Lendo]]
 - [[Lidos]]
 - [[Abandonei]]
-
-## Conexões
-- [[Home]]
-- [[Pessoal]]

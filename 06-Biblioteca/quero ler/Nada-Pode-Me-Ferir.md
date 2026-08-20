@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #resiliencia #mentalidade
 
 **Autor:** David Goggins
+**Ano:** 2018
 **Status:** Quero ler
 
 **Resumo:** História de superação e a mentalidade de resistência diante da dor e adversidade.

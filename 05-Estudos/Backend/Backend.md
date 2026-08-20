@@ -37,4 +37,3 @@ Subárea de **Estudos**.
 - [[Sessions]]
 - [[Spring]]
 - [[WebSocket]]
-[[Estudos-Desenvolvimento]]

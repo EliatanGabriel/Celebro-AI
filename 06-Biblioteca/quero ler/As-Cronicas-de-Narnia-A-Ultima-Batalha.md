@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #narnia #fantasia
 
 **Autor:** C. S. Lewis
+**Ano:** 1956
 **Status:** Quero ler
 
 **Resumo:** Sétimo livro das Crônicas de Nárnia, sobre o fim de Nárnia e a batalha final.

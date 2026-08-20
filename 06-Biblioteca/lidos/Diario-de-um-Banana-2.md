@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #infantil #humor #diario
 
 **Autor:** Jeff Kinney
+**Ano:** 2008
 **Status:** Lido
 
 **Resumo:** Segundo volume da série cômica de Greg Heffley e suas desventuras escolares.

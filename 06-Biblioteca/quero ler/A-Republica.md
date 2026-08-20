@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #filosofia #politica
 
 **Autor:** Platão
+**Ano:** 375 a.C.
 **Status:** Quero ler
 
 **Resumo:** Diálogo de Platão sobre justiça, o Estado ideal e o papel do filósofo.

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #narnia #fantasia
 
 **Autor:** C. S. Lewis
+**Ano:** 1955
 **Status:** Quero ler
 
 **Resumo:** Prequela das Crônicas de Nárnia, sobre a criação de Nárnia.

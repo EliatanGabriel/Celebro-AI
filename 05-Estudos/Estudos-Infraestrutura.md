@@ -19,5 +19,3 @@ Grupo de **Estudos**.
 - [[Estudos-Redes]]
 - [[Estudos-Seguranca]]
 - [[Servidores]]
-
-[[Estudos]]

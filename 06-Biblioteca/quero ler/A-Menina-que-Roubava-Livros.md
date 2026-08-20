@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #literatura
 
 **Autor:** Markus Zusak
+**Ano:** 2005
 **Status:** Quero ler
 
 **Resumo:** História de uma menina durante a Segunda Guerra Mundial que encontra consolo nos livros.

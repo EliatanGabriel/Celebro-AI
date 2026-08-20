@@ -14,6 +14,3 @@ Descrição do hub.
 
 ## Subáreas
 - 
-
-## Conexões
-- [[Home]]

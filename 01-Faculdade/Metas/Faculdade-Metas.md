@@ -19,5 +19,3 @@ Subárea de **Faculdade**.
 - [[Metas-Semestre-1]]
 - [[Metas-Semestre-2]]
 - [[Metas-TCC]]
-
-[[Faculdade]]

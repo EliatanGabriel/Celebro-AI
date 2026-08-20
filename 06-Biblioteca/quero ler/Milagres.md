@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #apologetica #fe
 
 **Autor:** C. S. Lewis
+**Ano:** 1947
 **Status:** Quero ler
 
 **Resumo:** Defesa filosófica da possibilidade e realidade dos milagres.

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #literatura #russia #filosofia
 
 **Autor:** Fiódor Dostoiévski
+**Ano:** 1864
 **Status:** Quero ler
 
 **Resumo:** Monólogo de um homem amargurado que critica a razão, a sociedade e a si mesmo.

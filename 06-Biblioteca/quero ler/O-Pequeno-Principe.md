@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #literatura #infantil #filosofia
 
 **Autor:** Antoine de Saint-Exupéry
+**Ano:** 1943
 **Status:** Quero ler
 
 **Resumo:** Fábula sobre o essencial, o amor, a amizade e o olhar da criança.

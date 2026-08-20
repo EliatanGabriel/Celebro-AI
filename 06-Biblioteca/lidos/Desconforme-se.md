@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #identidade #fe
 
+**Autor:** Richarde Guerra
+**Ano:** 2017
 **Status:** Lido
 
 **Resumo:** Convite a viver de forma contracultural, conforme o propósito de Deus e não os padrões do mundo.

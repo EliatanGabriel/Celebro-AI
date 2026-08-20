@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #teologia #fe #relacionamentos
 
 **Autor:** C. S. Lewis
+**Ano:** 1960
 **Status:** Quero ler
 
 **Resumo:** Reflexão sobre os quatro tipos de amor: afeto, amizade, eros e caridade.

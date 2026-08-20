@@ -21,5 +21,3 @@ Subárea de **Trabalho**.
 - [[Reuniao-Refinamento]]
 - [[Reuniao-Retro]]
 - [[Reuniao-Tecnica]]
-[[Trabalho]]
-

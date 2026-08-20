@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #teologia
 
+**Autor:** Max Lucado
+**Ano:** 2012
 **Status:** Quero ler
 
 **Resumo:** Sobre a graça de Deus e seu impacto transformador na vida.

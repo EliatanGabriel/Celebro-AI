@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #devocional
 
 **Autor:** Max Lucado
+**Ano:** 2010
 **Status:** Quero ler
 
 **Resumo:** Seleção com o melhor dos textos de Max Lucado sobre fé e vida cristã.

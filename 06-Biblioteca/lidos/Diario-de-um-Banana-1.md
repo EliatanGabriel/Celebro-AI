@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #infantil #humor #diario
 
 **Autor:** Jeff Kinney
+**Ano:** 2007
 **Status:** Lido
 
 **Resumo:** Primeiro volume da série cômica sobre a vida escolar de Greg Heffley.

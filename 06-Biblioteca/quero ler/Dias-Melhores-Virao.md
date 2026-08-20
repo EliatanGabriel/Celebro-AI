@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #esperanca
 
+**Autor:** Max Lucado
+**Ano:** 2007
 **Status:** Quero ler
 
 **Resumo:** Mensagens de esperança para tempos difíceis.

@@ -23,5 +23,3 @@ updated: "2026-08-19"
 - [[Pomodoro]]
 - [[Procastinacao]]
 - [[Time-blocking]]
-
-[[Pessoal]]

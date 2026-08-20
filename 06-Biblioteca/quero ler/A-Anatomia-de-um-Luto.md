@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #luto #reflexao
 
 **Autor:** C. S. Lewis
+**Ano:** 1961
 **Status:** Quero ler
 
 **Resumo:** Diário de C. S. Lewis sobre o luto pela morte de sua esposa Joy.

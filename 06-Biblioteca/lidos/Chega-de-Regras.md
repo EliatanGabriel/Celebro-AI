@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #liberdade #religiao
 
+**Autor:** Larry Crabb
+**Ano:** 2002
 **Status:** Lido
 
 **Resumo:** Convite a viver a fé além de regras e legalismo, experimentando liberdade e relacionamento.

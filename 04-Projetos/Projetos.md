@@ -17,6 +17,3 @@ Ideias, projetos ativos, concluídos e roadmaps.
 - [[Concluidos]]
 - [[Ideias]]
 - [[Roadmaps]]
-
-## Conexões
-- [[Home]]

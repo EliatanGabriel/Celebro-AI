@@ -17,5 +17,3 @@ updated: "{{date:YYYY-MM-DD}}"
 
 ## Relacionadas
 - 
-
-[[AREA]]

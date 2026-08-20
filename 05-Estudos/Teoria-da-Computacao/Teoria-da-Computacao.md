@@ -13,5 +13,6 @@ updated: "2026-08-19"
 **Resumo:** Subárea de **Estudos** sobre Teoria da computação.
 
 ## Notas
-
-[[Estudos-Dados]]
+- [[Automatos]]
+- [[Complexidade]]
+- [[Linguagens]]

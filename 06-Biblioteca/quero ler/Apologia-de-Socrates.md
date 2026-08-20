@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #filosofia
 
 **Autor:** Platão
+**Ano:** 399 a.C.
 **Status:** Quero ler
 
 **Resumo:** Relato do julgamento e da defesa de Sócrates perante os atenienses.

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #psicologia #vulnerabilidade
 
 **Autor:** Brené Brown
+**Ano:** 2010
 **Status:** Quero ler
 
 **Resumo:** Sobre vulnerabilidade, coragem e como a imperfeição nos conecta.

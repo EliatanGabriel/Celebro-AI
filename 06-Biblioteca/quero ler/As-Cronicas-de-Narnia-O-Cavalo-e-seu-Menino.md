@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #narnia #fantasia
 
 **Autor:** C. S. Lewis
+**Ano:** 1954
 **Status:** Quero ler
 
 **Resumo:** Aventura de um menino e um cavalo falante em direção a Nárnia.

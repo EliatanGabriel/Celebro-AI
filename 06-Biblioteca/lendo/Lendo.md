@@ -14,5 +14,3 @@ updated: "2026-08-19"
 
 ## Notas
 - [[Cafe-com-Deus-Pai-2025]]
-
-[[Biblioteca]]

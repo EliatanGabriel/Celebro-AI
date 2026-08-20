@@ -25,6 +25,3 @@ Subárea de **Projetos**.
 - [[Projeto-Portfolio]]
 - [[Projeto-QA]]
 - [[Projeto-Site-pessoal]]
-
-[[Projetos]]
-

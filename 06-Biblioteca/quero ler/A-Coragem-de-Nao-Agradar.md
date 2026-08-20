@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #psicologia #liberdade
 
 **Autor:** Ichiro Kishimi e Fumitake Koga
+**Ano:** 2013
 **Status:** Quero ler
 
 **Resumo:** Diálogo filosófico sobre liberdade, felicidade e o poder de não viver para agradar aos outros.

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #teologia #sermoes #fe
 
 **Autor:** John Wesley
+**Ano:** 1746
 **Status:** Lido
 
 **Resumo:** Coletânea de sermões do fundador do metodismo, com ênfase em santidade, graça e vivência cristã.

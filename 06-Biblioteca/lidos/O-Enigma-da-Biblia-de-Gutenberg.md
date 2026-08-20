@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #misterio #livro #enigma
 
+**Autor:** Maurício Zágari
+**Ano:** 2017
 **Status:** Lido
 
 **Resumo:** Mistério envolvendo a Bíblia de Gutenberg e seus segredos.

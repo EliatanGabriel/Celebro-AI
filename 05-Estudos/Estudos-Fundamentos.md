@@ -16,5 +16,3 @@ Grupo de **Estudos**.
 - [[Busca-Binaria]]
 - [[Fundamentos]]
 - [[Programacao]]
-
-[[Estudos]]

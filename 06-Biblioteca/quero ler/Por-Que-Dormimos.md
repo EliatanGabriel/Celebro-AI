@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #saude #neurociencia
 
 **Autor:** Matthew Walker
+**Ano:** 2017
 **Status:** Quero ler
 
 **Resumo:** Ciência do sono e sua importância para a saúde, a memória e a longevidade.

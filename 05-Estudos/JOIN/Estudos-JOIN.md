@@ -13,5 +13,6 @@ updated: "2026-08-19"
 **Resumo:** Subárea de **Estudos** sobre Consultas JOIN em SQL.
 
 ## Notas
-
-[[Estudos-Ferramentas]]
+- [[Inner-Join]]
+- [[Left-Join]]
+- [[Cross-Join]]

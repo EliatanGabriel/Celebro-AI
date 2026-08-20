@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #filosofia #estoicismo
 
 **Autor:** Sêneca
+**Ano:** 65 d.C.
 **Status:** Quero ler
 
 **Resumo:** Cartas de Sêneca a Lucílio com ensinamentos práticos de filosofia estoica.

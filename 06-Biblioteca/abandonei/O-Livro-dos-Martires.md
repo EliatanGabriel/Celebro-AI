@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #historia #fe #igreja
 
 **Autor:** John Foxe
+**Ano:** 1563
 **Status:** Abandonei
 
 **Resumo:** Relato histórico dos cristãos martirizados pela fé ao longo dos séculos.

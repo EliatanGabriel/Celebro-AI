@@ -13,5 +13,3 @@ updated: "2026-08-19"
 Subárea de **Pessoal**.
 
 ## Notas
-
-[[Pessoal]]

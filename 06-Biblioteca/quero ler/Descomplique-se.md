@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #simplicidade #crescimento
 
+**Autor:** Richarde Guerra
+**Ano:** 2018
 **Status:** Quero ler
 
 **Resumo:** Guia para simplificar a vida e se livrar do que pesa desnecessariamente.

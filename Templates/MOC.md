@@ -14,5 +14,3 @@ Subárea de **AREA**.
 
 ## Notas
 - 
-
-[[AREA]]

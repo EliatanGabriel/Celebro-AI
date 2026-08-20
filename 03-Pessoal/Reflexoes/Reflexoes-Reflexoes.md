@@ -27,5 +27,3 @@ Subárea de **Pessoal**.
 - [[Proposito-reflexao]]
 - [[Superacao]]
 - [[Valores-reflexao]]
-
-[[Pessoal]]

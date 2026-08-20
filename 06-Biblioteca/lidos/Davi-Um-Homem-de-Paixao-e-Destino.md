@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #biblia #biografia #fe
 
 **Autor:** Charles R. Swindoll
+**Ano:** 1997
 **Status:** Lido
 
 **Resumo:** Biografia espiritual do rei Davi, explorando sua paixão por Deus, seus erros, arrependimento e destino.

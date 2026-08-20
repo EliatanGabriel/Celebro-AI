@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #misterio #aventura #enigma
 
+**Autor:** Maurício Zágari
+**Ano:** 2018
 **Status:** Lido
 
 **Resumo:** Aventura de mistério envolvendo sete enigmas que conduzem a um tesouro.

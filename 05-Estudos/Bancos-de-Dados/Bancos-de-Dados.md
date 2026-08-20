@@ -33,5 +33,3 @@ Subárea de **Estudos**.
 - [[SQLite]]
 - [[Supabase]]
 - [[Transactions]]
-
-[[Estudos-Desenvolvimento]]

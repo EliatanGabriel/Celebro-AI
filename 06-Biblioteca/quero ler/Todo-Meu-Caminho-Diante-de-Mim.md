@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #reflexao
 
+**Autor:** C. S. Lewis
+**Ano:** 1991
 **Status:** Quero ler
 
 **Resumo:** Reflexões sobre o caminho da vida sob a perspectiva da fé.

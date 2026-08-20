@@ -25,7 +25,3 @@ Subárea de **Faculdade** com conceitos de Tecnologia da Informação.
 
 ### Banco de Dados
 - [[Bancos de Dados]]
-
-## Conexões
-- [[Disciplinas]]
-- [[Faculdade]]

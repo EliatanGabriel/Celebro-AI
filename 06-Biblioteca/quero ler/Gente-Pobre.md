@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #literatura #russia
 
 **Autor:** Fiódor Dostoiévski
+**Ano:** 1846
 **Status:** Quero ler
 
 **Resumo:** Romance epistolar que narra a vida de pessoas simples e pobres na Rússia.

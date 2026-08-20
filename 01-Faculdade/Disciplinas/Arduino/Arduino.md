@@ -25,7 +25,3 @@ Subárea de **Faculdade** com conceitos de eletrônica e programação com Ardui
 
 ### Projetos
 - [[Projetos com Arduino]]
-
-## Conexões
-- [[Disciplinas]]
-- [[Faculdade]]

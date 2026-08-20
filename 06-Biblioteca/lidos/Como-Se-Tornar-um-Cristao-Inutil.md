@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #critica
 
+**Autor:** Rodrigo Bibo
+**Ano:** 2025
 **Status:** Lido
 
 **Resumo:** Crítica bem-humorada e incisiva sobre atitudes que tornam o cristão inútil para o Reino de Deus.

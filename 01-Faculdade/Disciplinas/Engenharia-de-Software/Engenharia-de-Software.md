@@ -31,8 +31,3 @@ Subárea de **Faculdade** com conceitos de engenharia de software, processos, re
 
 ### Arquitetura
 - [[Arquitetura e Padrões de Projeto]]
-
-## Conexões
-- [[Disciplinas]]
-- [[Faculdade]]
-

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #infantil #humor #diario
 
 **Autor:** Jeff Kinney
+**Ano:** 2009
 **Status:** Lido
 
 **Resumo:** Quarto volume da série cômica de Greg Heffley.

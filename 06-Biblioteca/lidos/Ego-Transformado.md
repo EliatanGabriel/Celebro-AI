@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #ego #espiritualidade #crescimento
 
+**Autor:** Timothy Keller
+**Ano:** 2009
 **Status:** Lido
 
 **Resumo:** Aborda a transformação do ego como caminho para uma vida mais madura e espiritualmente saudável.

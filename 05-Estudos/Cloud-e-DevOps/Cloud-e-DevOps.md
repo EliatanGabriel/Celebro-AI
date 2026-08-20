@@ -39,5 +39,3 @@ Subárea de **Estudos**.
 - [[Serverless]]
 - [[Terraform]]
 - [[VPC]]
-
-[[Estudos-Infraestrutura]]

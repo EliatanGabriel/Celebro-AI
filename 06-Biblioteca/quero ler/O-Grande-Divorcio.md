@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #alegoria
 
 **Autor:** C. S. Lewis
+**Ano:** 1945
 **Status:** Quero ler
 
 **Resumo:** Alegoria sobre céu e inferno e as escolhas que definem a eternidade.

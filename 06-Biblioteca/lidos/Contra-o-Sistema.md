@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #sociedade #reflexao
 
+**Autor:** Thamires Garcia
+**Ano:** 2022
 **Status:** Lido
 
 **Resumo:** Reflexões sobre o funcionamento do sistema e como se posicionar diante dele.

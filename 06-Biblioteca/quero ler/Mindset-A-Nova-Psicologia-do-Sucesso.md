@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #psicologia #crescimento #mentalidade
 
 **Autor:** Carol S. Dweck
+**Ano:** 2006
 **Status:** Quero ler
 
 **Resumo:** A diferença entre mentalidade fixa e de crescimento e seu impacto no sucesso.

@@ -10,6 +10,7 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #biblia #teologia #comentario
 
+**Autor:** Itamir Neves
 **Status:** Lido
 
 **Resumo:** Comentário versículo a versículo da primeira carta de Paulo a Timóteo.

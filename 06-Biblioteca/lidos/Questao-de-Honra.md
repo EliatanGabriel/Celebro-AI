@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #carater #etica #honra
 
+**Autor:** Luciano Subirá
+**Ano:** 2009
 **Status:** Lido
 
 **Resumo:** Reflexões sobre integridade, honra e caráter como fundamentos de uma vida bem vivida.

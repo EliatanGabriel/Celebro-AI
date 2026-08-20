@@ -45,5 +45,3 @@ Subárea de **Estudos**.
 - [[UDP]]
 - [[VPN]]
 - [[Wi-Fi]]
-
-[[Estudos-Infraestrutura]]

@@ -23,6 +23,3 @@ updated: "2026-08-16"
 - [[Testes-Automatizados]]
 - [[Caso-de-Teste]]
 - [[Selenium]]
-
-[[Trabalho]]
-

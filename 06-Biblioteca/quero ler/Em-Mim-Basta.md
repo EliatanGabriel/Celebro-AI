@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #devocional
 
+**Autor:** William Sanches
+**Ano:** 2022
 **Status:** Quero ler
 
 **Resumo:** Reflexões sobre a suficiência de Deus em todas as circunstâncias.

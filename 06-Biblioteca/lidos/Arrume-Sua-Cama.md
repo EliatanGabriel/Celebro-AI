@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #disciplina #habitos #motivacao
 
 **Autor:** William H. McRaven
+**Ano:** 2017
 **Status:** Lido
 
 **Resumo:** Lições de disciplina e mudança de vida extraídas do treinamento de elite dos SEALs, começando por arrumar a cama.

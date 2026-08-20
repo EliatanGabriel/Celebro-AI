@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #teologia
 
 **Autor:** Dane Ortlund
+**Ano:** 2020
 **Status:** Quero ler
 
 **Resumo:** Estudo sobre o coração de Jesus, manso e humilde, e o que isso significa para os cristãos.

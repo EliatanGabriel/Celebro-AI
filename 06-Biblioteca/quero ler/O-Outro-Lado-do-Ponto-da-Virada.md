@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #sociedade #psicologia #influencia
 
 **Autor:** Malcolm Gladwell
+**Ano:** 2024
 **Status:** Quero ler
 
 **Resumo:** Como pequenas mudanças e minorias influentes podem gerar grandes transformações.

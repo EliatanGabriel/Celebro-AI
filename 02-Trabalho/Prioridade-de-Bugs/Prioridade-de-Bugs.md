@@ -24,6 +24,3 @@ updated: "2026-08-16"
 - [[Severidade]]
 - [[Bug-Report]]
 - [[Jira]]
-
-[[Trabalho]]
-

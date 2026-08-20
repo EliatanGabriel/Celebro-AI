@@ -75,5 +75,3 @@ updated: "2026-08-19"
 - [[O-Enigma-da-Biblia-de-Gutenberg]]
 - [[Sete-Enigmas-e-um-Tesouro]]
 - [[40-Dias-com-Star-Wars]]
-
-[[Biblioteca]]

@@ -23,6 +23,3 @@ Subárea de **Pessoal**.
 - [[Pessoal-Metas-Relacionamentos]]
 - [[Pessoal-Metas-Saude]]
 - [[Pessoal-Metas-Semanais]]
-
-[[Pessoal]]
-

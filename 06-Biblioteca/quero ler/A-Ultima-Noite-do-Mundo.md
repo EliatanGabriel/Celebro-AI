@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #ensaios
 
 **Autor:** C. S. Lewis
+**Ano:** 1952
 **Status:** Quero ler
 
 **Resumo:** Coletânea de ensaios sobre fé, moral e a vida cristã.

@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #biblia #biografia #fe
 
+**Autor:** Marcos Tedesco
+**Ano:** 2025
 **Status:** Lido
 
 **Resumo:** Biografia de Davi, desde seus dias como pastor de ovelhas até se tornar rei de Israel.

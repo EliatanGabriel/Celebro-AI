@@ -1,6 +1,6 @@
 # Celebro AI
 
-O cérebro do seu conhecimento — um vault Obsidian pessoal, organizado em áreas, para centralizar faculdade, trabalho, projetos, estudos, vida pessoal e leituras em um único lugar conectado.
+O cérebro do seu conhecimento — um vault Obsidian pessoal, organizado em áreas, para centralizar faculdade, trabalho, projetos, estudos, vida pessoal e leituras. Cada área é uma constelação independente; nem tudo está conectado.
 
 ## Estrutura
 
@@ -20,14 +20,24 @@ Celebro AI/
 
 ## Como funciona
 
-O vault segue uma organização em camadas:
+O vault funciona como **constelações isoladas** — cada área órbita sozinha:
 
-1. **Home** — centro do vault, conecta as seis áreas principais.
-2. **Hubs** (`type: hub`) — áreas: Faculdade, Trabalho, Pessoal, Projetos, Estudos e Biblioteca.
-3. **MOCs** (`type: moc`) — subáreas dentro de cada hub, com a lista das notas em `## Notas`.
-4. **Conceitos** (`type: concept`) — notas de conteúdo, com `## Tópicos` e `## Relacionadas`.
+1. **Hubs** (`type: hub`) — áreas: Faculdade, Trabalho, Pessoal, Projetos, Estudos e Biblioteca.
+2. **MOCs** (`type: moc`) — subáreas dentro de cada hub, com a lista das notas em `## Notas`.
+3. **Conceitos** (`type: concept`) — notas de conteúdo, com `## Tópicos` e `## Relacionadas`.
 
 Toda nota pertence a uma única área, identificada pela tag `#area/<subarea>`. As tags também definem as cores do grafo no Obsidian.
+
+## Mapa cerebral
+
+O vault funciona como um cérebro: cada pasta-raiz é uma **constelação** que orbita sozinha.
+
+- **Regiões (hubs)** — as seis áreas. Cada uma lista suas subáreas em `## Subáreas`.
+- **Circuitos (MOCs)** — as subáreas dentro de cada hub, listadas no hub.
+- **Neurônios (conceitos)** — as notas de conteúdo, criadas livremente; não precisam de links para existir.
+- **Flutuantes** — notas de `07-Soltos` e a Home (`00-Home`) ficam sem conexões, órfãs no grafo.
+
+Não existem pontes entre áreas: sem back-links para Home, sem seções `## Conexões` cruzando áreas. Cada área é um bloco isolado, então o grafo mostra constelações separadas em vez de uma bola única.
 
 ## Como usar
 
@@ -36,7 +46,7 @@ Toda nota pertence a uma única área, identificada pela tag `#area/<subarea>`. 
 1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept ou Daily).
 2. Substitua `AREA` pelo nome da área no back-link.
 3. `created` e `updated` são preenchidos automaticamente.
-4. Termine a nota com o back-link para a área ou subárea pai.
+4. Não feche ciclos entre áreas: sem back-link para Home no final das notas e sem `## Conexões` cruzando áreas.
 
 ### Diário
 

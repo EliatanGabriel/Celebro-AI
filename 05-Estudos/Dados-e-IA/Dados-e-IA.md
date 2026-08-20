@@ -41,5 +41,3 @@ Subárea de **Estudos**.
 - [[Regressao]]
 - [[Scikit-Learn]]
 - [[TensorFlow]]
-
-[[Estudos-Dados]]

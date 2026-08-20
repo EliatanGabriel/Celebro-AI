@@ -13,5 +13,6 @@ updated: "2026-08-19"
 **Resumo:** Subárea de **Estudos** sobre Práticas de DevOps.
 
 ## Notas
-
-[[Estudos-Infraestrutura]]
+- [[Docker]]
+- [[Kubernetes]]
+- [[CI-CD]]

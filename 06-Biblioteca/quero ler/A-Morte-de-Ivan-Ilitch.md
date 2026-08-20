@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #literatura #russia
 
 **Autor:** Liev Tolstói
+**Ano:** 1886
 **Status:** Quero ler
 
 **Resumo:** Reflexão sobre a vida e a morte a partir da doença terminal de um burocrata.

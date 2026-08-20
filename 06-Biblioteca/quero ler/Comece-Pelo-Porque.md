@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #lideranca #proposito #motivacao
 
 **Autor:** Simon Sinek
+**Ano:** 2009
 **Status:** Quero ler
 
 **Resumo:** Como grandes líderes inspiram pela clareza de propósito, começando pelo porquê.

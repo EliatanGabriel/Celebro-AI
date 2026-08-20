@@ -23,6 +23,3 @@ updated: "2026-08-16"
 - [[Testes-Automatizados]]
 - [[Bug-Report]]
 - [[Documentacao-de-Testes]]
-
-[[Trabalho]]
-

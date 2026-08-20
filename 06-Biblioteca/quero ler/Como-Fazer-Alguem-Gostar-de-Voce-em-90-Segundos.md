@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #comunicacao #relacionamentos
 
 **Autor:** Nicholas Boothman
+**Ano:** 2000
 **Status:** Quero ler
 
 **Resumo:** Técnicas de rapport e primeira impressão para criar conexões rápidas.

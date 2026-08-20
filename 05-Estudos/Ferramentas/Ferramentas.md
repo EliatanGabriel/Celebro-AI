@@ -43,5 +43,3 @@ Subárea de **Estudos**.
 - [[VS-Code]]
 - [[Wget]]
 - [[Zsh]]
-
-[[Estudos-Ferramentas]]

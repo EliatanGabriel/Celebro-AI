@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #filosofia #nietzsche
 
 **Autor:** Friedrich Nietzsche
+**Ano:** 1883
 **Status:** Lido
 
 **Resumo:** Obra filosófica central de Nietzsche que apresenta o conceito do super-homem, a morte de Deus e a transmutação de todos os valores.

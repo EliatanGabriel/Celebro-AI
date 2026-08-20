@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #alegoria #teologia
 
 **Autor:** C. S. Lewis
+**Ano:** 1942
 **Status:** Lido
 
 **Resumo:** Série de cartas fictícias de um demônio experiente instruindo seu sobrinho iniciante sobre como tentar um cristão.

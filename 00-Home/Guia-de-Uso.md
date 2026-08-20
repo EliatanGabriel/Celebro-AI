@@ -14,17 +14,17 @@ updated: "2026-08-19"
 
 ## Estrutura
 
-- [[Home]] é o centro e conecta as áreas principais. Cada área orbita ao redor (como constelações); dentro de Estudos há grupos temáticos orbitando.
-- Cada área é um **hub** (`type: hub`): Faculdade, Trabalho, Pessoal, Projetos, Estudos.
+- O vault é organizado como **constelações isoladas**: cada área orbita sozinha, sem pontes entre si.
+- Cada área é um **hub** (`type: hub`): Faculdade, Trabalho, Pessoal, Projetos, Estudos, Biblioteca.
 - Cada hub lista suas **subáreas** em `## Subáreas`, e as subáreas são **MOCs** (`type: moc`) com `## Notas`.
 - Notas de conceito (`type: concept`) têm `## Tópicos` e `## Relacionadas`.
+- `00-Home` (Home + Guia) fica isolada; notas de `07-Soltos` flutuam sem nenhum link.
 
 ## Criar notas no padrão
 
 1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept ou Daily).
 2. Troque `AREA` pelo nome da área (ex.: `estudos`) no back-link.
 3. `created` e `updated` são preenchidos automaticamente.
-4. Termine a nota com o back-link para a área ou subárea pai (ex.: `Backend`).
 
 ## Diário
 
@@ -32,7 +32,7 @@ updated: "2026-08-19"
 
 ## Regras do grafo
 
+- Não conecte áreas entre si: sem back-links para `[[Home]]`, sem seção `## Conexões` cruzando áreas. Cada área é uma constelação independente.
 - Cores por tag `#<area>/<subarea>` (ex.: `#estudos/backend`, `#pessoal/habitos`). O Home fica isolado com o Guia.
 - Toda nota pertence a uma única área (uma única `#area/`).
-
-[[Home]]
+- Notas soltas vão em `07-Soltos` sem `[[links]]` para não orbitar nenhuma constelação.

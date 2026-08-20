@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #simplicidade #vida
 
+**Autor:** Jackley Maifredo
+**Ano:** 2023
 **Status:** Lido
 
 **Resumo:** Defende que escolhas simples e objetivas podem levar a grandes resultados na vida.

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #biblia
 
 **Autor:** Max Lucado
+**Ano:** 2007
 **Status:** Lido
 
 **Resumo:** Exploração do versículo João 3:16, considerado o coração do evangelho, e o amor incondicional de Deus.

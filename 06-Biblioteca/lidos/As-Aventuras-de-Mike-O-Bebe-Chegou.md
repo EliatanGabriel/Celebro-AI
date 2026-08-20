@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #infantil #aventura
 
+**Autor:** Gabriel Dearo & Manu Digilio
+**Ano:** 2020
 **Status:** Lido
 
 **Resumo:** Nova aventura de Mike, desta vez com a chegada de um bebê.

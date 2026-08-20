@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #literatura #russia
 
 **Autor:** Fiódor Dostoiévski
+**Ano:** 1866
 **Status:** Quero ler
 
 **Resumo:** Romance sobre um jovem que comete um assassinato e enfrenta a culpa e o castigo.

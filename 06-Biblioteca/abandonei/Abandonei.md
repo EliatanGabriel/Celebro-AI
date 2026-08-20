@@ -18,5 +18,3 @@ updated: "2026-08-19"
 - [[Gente-Como-a-Gente]]
 - [[Um-Presente-Maravilhoso]]
 - [[O-Livro-dos-Martires]]
-
-[[Biblioteca]]

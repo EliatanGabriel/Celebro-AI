@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #narnia #fantasia
 
 **Autor:** C. S. Lewis
+**Ano:** 1950
 **Status:** Quero ler
 
 **Resumo:** Primeira aventura das crianças Pevensie em Nárnia, através do guarda-roupa.

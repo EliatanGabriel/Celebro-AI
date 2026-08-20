@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #providencia #deus
 
+**Autor:** Luciano Subirá
+**Ano:** 2009
 **Status:** Lido
 
 **Resumo:** Sobre como Deus age de forma invisível na história e na vida das pessoas.

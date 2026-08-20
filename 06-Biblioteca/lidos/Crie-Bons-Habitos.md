@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #habitos #produtividade
 
+**Autor:** Joyce Meyer
+**Ano:** 2013
 **Status:** Lido
 
 **Resumo:** Guia prático para criar bons hábitos e manter constância na busca por mudanças positivas.

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fantasia #aventura
 
 **Autor:** J. R. R. Tolkien
+**Ano:** 1937
 **Status:** Quero ler
 
 **Resumo:** Aventura de Bilbo Bolseiro em uma jornada para recuperar um tesouro guardado por um dragão.

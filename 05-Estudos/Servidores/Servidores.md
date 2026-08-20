@@ -13,5 +13,6 @@ updated: "2026-08-19"
 **Resumo:** Subárea de **Estudos** sobre Servidores e infraestrutura.
 
 ## Notas
-
-[[Estudos-Infraestrutura]]
+- [[Nginx]]
+- [[VPS]]
+- [[Apache]]

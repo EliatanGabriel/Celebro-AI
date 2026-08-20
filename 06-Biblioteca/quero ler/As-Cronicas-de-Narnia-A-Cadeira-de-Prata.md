@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #narnia #fantasia
 
 **Autor:** C. S. Lewis
+**Ano:** 1953
 **Status:** Quero ler
 
 **Resumo:** Aventura de Eustáquio e Jill em busca do príncipe Rilian.

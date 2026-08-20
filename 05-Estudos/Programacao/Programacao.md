@@ -13,5 +13,6 @@ updated: "2026-08-19"
 **Resumo:** Subárea de **Estudos** sobre Programação em geral.
 
 ## Notas
-
-[[Estudos-Fundamentos]]
+- [[Clean-Code]]
+- [[SOLID]]
+- [[Paradigmas]]

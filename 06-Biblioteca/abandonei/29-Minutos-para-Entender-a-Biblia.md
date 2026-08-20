@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #biblia #fe #guia
 
+**Autor:** Esequias Soares e Daniele Soares
+**Ano:** 2019
 **Status:** Abandonei
 
 **Resumo:** Guia rápido para entender a estrutura e a mensagem geral da Bíblia.

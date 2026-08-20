@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #comunicacao #influencia
 
 **Autor:** Nicholas Boothman
+**Ano:** 2000
 **Status:** Quero ler
 
 **Resumo:** Métodos de comunicação para persuadir e influenciar rapidamente.

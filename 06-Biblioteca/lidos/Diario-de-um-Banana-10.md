@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #infantil #humor #diario
 
 **Autor:** Jeff Kinney
+**Ano:** 2015
 **Status:** Lido
 
 **Resumo:** Décimo volume da série cômica de Greg Heffley.

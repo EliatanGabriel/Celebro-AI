@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #coragem
 
+**Autor:** Max Lucado
+**Ano:** 2009
 **Status:** Lido
 
 **Resumo:** Encorajamento a viver sem medo, confiando na providência e nos planos de Deus.

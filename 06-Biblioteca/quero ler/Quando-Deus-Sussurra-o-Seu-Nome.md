@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #devocional
 
 **Autor:** Max Lucado
+**Ano:** 1999
 **Status:** Quero ler
 
 **Resumo:** Reflexões sobre o amor de Deus e o valor que cada pessoa tem diante Dele.

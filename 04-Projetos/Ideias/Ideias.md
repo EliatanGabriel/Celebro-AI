@@ -13,6 +13,11 @@ updated: "2026-08-16"
 Subárea de **Projetos**.
 
 ## Notas
+- [[Ideia-Newsletter]]
+- [[Ideia-CLI]]
+- [[Ideia-Template]]
+- [[Ideia-Curso-Video]]
+- [[Ideia-Twitch]]
 - [[Ideia-App]]
 - [[Ideia-Artigo]]
 - [[Ideia-Automacao]]
@@ -25,5 +30,3 @@ Subárea de **Projetos**.
 - [[Ideia-Saas]]
 - [[Ideia-Site]]
 - [[Ideia-YouTube]]
-
-[[Projetos]]

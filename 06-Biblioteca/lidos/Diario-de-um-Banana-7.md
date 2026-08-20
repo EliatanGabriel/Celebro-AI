@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #infantil #humor #diario
 
 **Autor:** Jeff Kinney
+**Ano:** 2012
 **Status:** Lido
 
 **Resumo:** Sétimo volume da série cômica de Greg Heffley.

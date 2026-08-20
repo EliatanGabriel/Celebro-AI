@@ -45,5 +45,3 @@ Subárea de **Estudos**.
 - [[Stack-Heap]]
 - [[Tipos-de-Dados]]
 - [[Windows]]
-
-[[Estudos-Fundamentos]]

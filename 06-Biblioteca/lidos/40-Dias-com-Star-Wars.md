@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #devocional #cultura #star-wars
 
+**Autor:** Eduardo Medeiros
+**Ano:** 2019
 **Status:** Lido
 
 **Resumo:** Devocional cristão que usa elementos da saga Star Wars como ponto de partida para reflexões bíblicas.

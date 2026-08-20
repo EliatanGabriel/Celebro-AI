@@ -25,7 +25,3 @@ Subárea de **Faculdade** com conceitos de Raspberry Pi e Internet das Coisas.
 
 ### Projetos
 - [[Projetos com Raspberry Pi e IoT]]
-
-## Conexões
-- [[Disciplinas]]
-- [[Faculdade]]

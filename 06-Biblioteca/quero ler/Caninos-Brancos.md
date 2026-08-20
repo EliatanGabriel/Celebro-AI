@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #literatura #aventura
 
 **Autor:** Jack London
+**Ano:** 1906
 **Status:** Quero ler
 
 **Resumo:** História de um lobo-cachorro no Alasca e sua jornada da selva à domesticação.

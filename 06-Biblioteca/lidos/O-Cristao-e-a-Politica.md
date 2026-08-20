@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #fe #politica #sociedade
 
+**Autor:** Nikolas Ferreira
+**Ano:** 2022
 **Status:** Lido
 
 **Resumo:** Reflexões sobre o papel do cristão na política e na sociedade.

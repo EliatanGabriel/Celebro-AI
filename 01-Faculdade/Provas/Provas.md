@@ -24,4 +24,3 @@ Subárea de **Faculdade**.
 - [[Prova-Substitutiva]]
 - [[Prova-TI]]
 - [[Revisao-Prova]]
-[[Faculdade]]

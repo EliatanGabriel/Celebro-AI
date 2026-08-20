@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #apologetica #fe #teologia
 
 **Autor:** C. S. Lewis
+**Ano:** 1952
 **Status:** Lido
 
 **Resumo:** Exposição clássica e acessível dos fundamentos da fé cristã, cobrindo temas centrais do cristianismo.

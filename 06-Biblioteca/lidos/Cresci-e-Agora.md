@@ -10,6 +10,8 @@ updated: "2026-08-19"
 
 #area/biblioteca #livro #adolescencia #fe #identidade
 
+**Autor:** Michael Ross
+**Ano:** 2013
 **Status:** Lido
 
 **Resumo:** Aborda as dúvidas e desafios de quem cresceu e se pergunta o que fazer da vida.

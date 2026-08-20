@@ -23,6 +23,3 @@ updated: "2026-08-16"
 - [[Caso-de-Teste]]
 - [[Report]]
 - [[Testes-Automatizados]]
-
-[[Trabalho]]
-

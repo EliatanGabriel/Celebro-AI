@@ -24,5 +24,3 @@ Subárea de **Pessoal**.
 - [[Valores]]
 - [[Visao-10-anos]]
 - [[Visao-5-anos]]
-
-[[Pessoal]]

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #teologia #apologetica
 
 **Autor:** C. S. Lewis
+**Ano:** 1970
 **Status:** Lido
 
 **Resumo:** Coletânea de ensaios e artigos de C. S. Lewis defendendo a fé cristã diante de questionamentos racionais e culturais.

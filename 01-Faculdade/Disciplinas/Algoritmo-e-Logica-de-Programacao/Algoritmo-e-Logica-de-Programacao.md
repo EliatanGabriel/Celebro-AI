@@ -11,6 +11,3 @@ updated: "2026-08-19"
 #area/faculdade #faculdade/disciplinas
 
 Subárea de **Faculdade**.
-
-[[Disciplinas]]
-

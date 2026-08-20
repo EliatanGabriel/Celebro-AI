@@ -15,5 +15,3 @@ Grupo de **Estudos**.
 ## Subáreas
 - [[Estudos-JOIN]]
 - [[Ferramentas]]
-
-[[Estudos]]

@@ -23,6 +23,3 @@ Subárea de **Pessoal**.
 - [[Poupanca]]
 - [[Renda]]
 - [[Renda-passiva]]
-
-[[Pessoal]]
-

@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #filosofia #estoicismo
 
 **Autor:** Marco Aurélio
+**Ano:** 180 d.C.
 **Status:** Quero ler
 
 **Resumo:** Reflexões pessoais do imperador romano Marco Aurélio sobre estoicismo, virtude e vida.

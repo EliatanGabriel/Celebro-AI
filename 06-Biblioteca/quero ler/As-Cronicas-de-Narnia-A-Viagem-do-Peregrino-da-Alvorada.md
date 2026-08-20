@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #ficcao #narnia #fantasia
 
 **Autor:** C. S. Lewis
+**Ano:** 1952
 **Status:** Quero ler
 
 **Resumo:** Aventura marítima de Lúcia, Edmundo e Eustáquio a bordo do Peregrino da Alvorada.

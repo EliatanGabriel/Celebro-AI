@@ -11,6 +11,7 @@ updated: "2026-08-19"
 #area/biblioteca #livro #fe #testemunho
 
 **Autor:** Kevin Malarkey e Alex Malarkey
+**Ano:** 2010
 **Status:** Lido
 
 **Resumo:** Relato do menino Alex Malarkey, que após um grave acidente diz ter vivenciado uma experiência no céu.
