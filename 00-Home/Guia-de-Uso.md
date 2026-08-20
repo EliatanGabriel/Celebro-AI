@@ -3,7 +3,7 @@ type: concept
 area: todas
 status: active
 created: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-20"
 ---
 
 # Guia de Uso
@@ -16,15 +16,26 @@ updated: "2026-08-19"
 
 - O vault é organizado como **constelações isoladas**: cada área orbita sozinha, sem pontes entre si.
 - Cada área é um **hub** (`type: hub`): Faculdade, Trabalho, Pessoal, Projetos, Estudos, Biblioteca.
-- Cada hub lista suas **subáreas** em `## Subáreas`, e as subáreas são **MOCs** (`type: moc`) com `## Notas`.
-- Notas de conceito (`type: concept`) têm `## Tópicos` e `## Relacionadas`.
+- Cada hub lista suas **subáreas** em `## Subáreas`, e as subáreas são **MOCs** (`type: moc`) com `## Notas` e visão automática (Dataview) em `## Visão automática`.
+- Notas de conceito (`type: concept`) têm `## Conceitos-chave`, `## Exemplos`, `## Boas práticas`, `## Armadilhas comuns` e `## Relacionadas`.
+- Notas de livro (`type: book`) ficam em `06-Biblioteca`, com `## Lições principais` (lidos/lendo), `## Por que quero ler` (quero ler) ou `## Por que abandonei` (abandonei).
 - `00-Home` (Home + Guia) fica isolada; notas de `07-Soltos` flutuam sem nenhum link.
 
 ## Criar notas no padrão
 
-1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept ou Daily).
+1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept, Book, Projeto, Reuniao, Metas ou Daily).
 2. Troque `AREA` pelo nome da área (ex.: `estudos`) no back-link.
 3. `created` e `updated` são preenchidos automaticamente.
+
+## Revisão e progresso (Estudos)
+
+- Conceitos de estudo usam o campo `progresso` (`estudando` → `dominado`).
+- O sistema de revisão espaçada (1-3-7-14-30 dias) está em `05-Estudos/Revisao/Metodo-de-Revisao.md`; a fila de revisão é gerada por Dataview em `05-Estudos/Revisao/Revisao.md`.
+
+## Dataview
+
+- MOCs têm uma seção `## Visão automática` com consultas `dataview` que listam as notas da subárea pela tag.
+- O hub `06-Biblioteca/Biblioteca.md` usa Dataview para agrupar livros por status.
 
 ## Diário
 

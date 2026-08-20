@@ -2,6 +2,7 @@
 type: concept
 area: AREA
 status: active
+progresso: "estudando"
 created: "{{date:YYYY-MM-DD}}"
 updated: "{{date:YYYY-MM-DD}}"
 ---

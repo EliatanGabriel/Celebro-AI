@@ -23,8 +23,9 @@ Celebro AI/
 O vault funciona como **constelações isoladas** — cada área órbita sozinha:
 
 1. **Hubs** (`type: hub`) — áreas: Faculdade, Trabalho, Pessoal, Projetos, Estudos e Biblioteca.
-2. **MOCs** (`type: moc`) — subáreas dentro de cada hub, com a lista das notas em `## Notas`.
-3. **Conceitos** (`type: concept`) — notas de conteúdo, com `## Tópicos` e `## Relacionadas`.
+2. **MOCs** (`type: moc`) — subáreas dentro de cada hub, com a lista das notas em `## Notas` e visão automática via Dataview em `## Visão automática`.
+3. **Conceitos** (`type: concept`) — notas de conteúdo, com `## Conceitos-chave`, `## Exemplos`, `## Boas práticas`, `## Armadilhas comuns` e `## Relacionadas`.
+4. **Livros** (`type: book`) — notas de leitura em `06-Biblioteca`, com lições, notas e motivação de leitura.
 
 Toda nota pertence a uma única área, identificada pela tag `#area/<subarea>`. As tags também definem as cores do grafo no Obsidian.
 
@@ -43,10 +44,11 @@ Não existem pontes entre áreas: sem back-links para Home, sem seções `## Con
 
 ### Criar notas no padrão
 
-1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept ou Daily).
+1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept, Book, Projeto, Reuniao, Metas ou Daily).
 2. Substitua `AREA` pelo nome da área no back-link.
 3. `created` e `updated` são preenchidos automaticamente.
-4. Não feche ciclos entre áreas: sem back-link para Home no final das notas e sem `## Conexões` cruzando áreas.
+4. Em conceitos de estudo, use o campo `progresso` (`estudando`, `dominado`) e ligue ao sistema de revisão em `05-Estudos/Revisao`.
+5. Não feche ciclos entre áreas: sem back-link para Home no final das notas e sem `## Conexões` cruzando áreas.
 
 ### Diário
 
