@@ -14,6 +14,7 @@ Subárea de **Faculdade** com habilidades de inglês profissional.
 
 ## Notas
 - [[Corporate Communication and Tech Workplace English]]
+- [[Comunicação Profissional em Tecnologia]]
 
 ## Conexões
 - [[Disciplinas]]

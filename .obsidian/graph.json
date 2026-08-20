@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -536,6 +536,6 @@
   "repelStrength": 20,
   "linkStrength": 0.85,
   "linkDistance": 261,
-  "scale": 0.017578125,
+  "scale": 0.0078125,
   "close": true
 }

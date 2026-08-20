@@ -12,5 +12,14 @@ updated: "2026-08-19"
 
 Subárea de **Faculdade**.
 
-[[Disciplinas]]
+## Notas
+- [[Fundamentos de Python]]
+- [[Desvio Condicional]]
+- [[variaveis.py]]
+- [[IMC.py]]
+- [[Dias da semana.py]]
+
+## Conexões
+- [[Disciplinas]]
+- [[Faculdade]]
 

@@ -94,6 +94,104 @@
         "type": "FILES",
         "pattern": "01-Faculdade/Faculdade.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/POO/POO.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Ingles-Profissional/Ingles-Profissional.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Algoritmo-e-Logica-de-Programacao/Algoritmo-e-Logica-de-Programacao.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Arduino/Arduino.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Banco-de-Dados/Banco-de-Dados.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Engenharia-de-Software/Engenharia-de-Software.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Front-end-Design/Front-end-Design.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Raspberry-Pi-e-IoT/Raspberry-Pi-e-IoT.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/TI/TI.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Typescript/Typescript.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Disciplinas/Disciplinas.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Anotacoes/Anotacoes.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Provas/Provas.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "01-Faculdade/Trabalhos/Trabalhos.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
