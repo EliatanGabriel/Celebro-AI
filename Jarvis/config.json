@@ -1,0 +1,55 @@
+{
+  "nome_usuario": "Isaque",
+  "tratamento": "senhor",
+  "saudacao_inicial": "Olá senhor Isaque. Sistemas operacionais online. Como posso ajudar?",
+  "cidade": "São Paulo",
+  "idioma": "pt-BR",
+
+  "voz": {
+    "engine": "pyttsx3",
+    "voz_edge": "pt-BR-AntonioNeural",
+    "voz_pyttsx3": "auto",
+    "velocidade_pyttsx3": 180,
+    "volume": 1.0
+  },
+
+  "microfone": {
+    "energia_minima": 0.4,
+    "timeout_ouvinte": 5,
+    "timeout_frase": 6,
+    "idioma": "pt-BR"
+  },
+
+  "gmail": {
+    "credentials": "credenciais/credentials.json",
+    "token": "credenciais/token.json",
+    "qtd_emails_padrao": 3,
+    "contatos": {
+      "isaque": "isaquedeveloper@gmail.com"
+    }
+  },
+
+  "obsidian": {
+    "vault": "C:/Users/isaqu/OneDrive/Documentos/Celebro AI/Celebro-AI",
+    "pasta_diario": "02-Diario/Daily-Notes",
+    "pasta_notas_padrao": "00-Home",
+    "pasta_tarefas": "09-Sistema"
+  },
+
+  "aplicativos": {
+    "youtube": "https://www.youtube.com",
+    "whatsapp": "https://web.whatsapp.com",
+    "google": "https://www.google.com",
+    "gmail": "https://mail.google.com",
+    "spotify": "https://open.spotify.com",
+    "obsidian": "obsidian://open",
+    "github": "https://github.com",
+    "notas": "https://keep.google.com"
+  },
+
+  "saudacoes": {
+    "manha": "Bom dia senhor Isaque",
+    "tarde": "Boa tarde senhor Isaque",
+    "noite": "Boa noite senhor Isaque"
+  }
+}
