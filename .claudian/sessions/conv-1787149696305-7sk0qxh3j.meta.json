@@ -1,0 +1,13 @@
+{
+  "id": "conv-1787149696305-7sk0qxh3j",
+  "providerId": "claude",
+  "title": "o que voce pode fazer",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787149696318,
+  "lastActivityAt": 1787149699355,
+  "sessionId": "66a20637-195f-4ba9-9ff1-caa66d245938",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "66a20637-195f-4ba9-9ff1-caa66d245938"
+  }
+}

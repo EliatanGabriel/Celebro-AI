@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61bf15f341e11ba5",
+        "id": "c861a7de6e0a73ee",
         "type": "tabs",
         "children": [
           {
-            "id": "8116653d87afe2fc",
+            "id": "037deea044459e42",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,62 +17,6 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "5d5d4c44ae49811a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Home/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "1c281143c7ee7ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Pessoal/Pessoal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pessoal"
-            }
-          },
-          {
-            "id": "f50705081746dd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Home/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "0363b517cc5f5192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Home/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
             }
           }
         ]
@@ -87,6 +31,7 @@
       {
         "id": "8900cbd115bee772",
         "type": "tabs",
+        "dimension": 69.26782273603082,
         "children": [
           {
             "id": "da448eae0f58cc00",
@@ -134,10 +79,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "15a71ee3bc5578a4",
+        "type": "tabs",
+        "dimension": 30.732177263969174,
+        "children": [
+          {
+            "id": "ee58fd274e21a352",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.99609375
+    "width": 277.03515625
   },
   "right": {
     "id": "66fe95f10b814bcb",
@@ -179,6 +143,20 @@
             }
           },
           {
+            "id": "428a8440b928454d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
             "id": "376d29f6bdd9115d",
             "type": "leaf",
             "state": {
@@ -194,20 +172,6 @@
             }
           },
           {
-            "id": "428a8440b928454d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
-            }
-          },
-          {
             "id": "f361105e46317c86",
             "type": "leaf",
             "state": {
@@ -220,8 +184,28 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "c0d710141444969c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "58e40a4a7cb209a7",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -230,53 +214,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "omnisearch:Omnisearch": true,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tasknotes:Abrir visualização de mini calendário": false,
+      "tasknotes:Abrir visualização de calendário": false,
+      "tasknotes:Abrir visualização de tarefas": false,
+      "tasknotes:Abrir visualização de agenda": false,
+      "tasknotes:Abrir quadro kanban": false,
+      "tasknotes:Abrir temporizador pomodoro": false,
+      "tasknotes:Abrir estatísticas pomodoro": false,
+      "tasknotes:Criar nova tarefa": false
     }
   },
-  "active": "8116653d87afe2fc",
+  "active": "037deea044459e42",
   "lastOpenFiles": [
-    "05-Trabalho/Trabalho-CI-CD.md",
-    "05-Trabalho/Testes-Automatizados.md",
-    "05-Trabalho/Code-Review.md",
-    "05-Trabalho/Bug-Report.md",
-    "05-Trabalho/API-REST.md",
-    "10-Estudos/Seguranca/Env/Env.md",
-    "10-Estudos/Seguranca/Env",
-    "10-Estudos/Seguranca/Credenciais/Credenciais.md",
-    "10-Estudos/Seguranca/Credenciais",
-    "10-Estudos/Seguranca/Engenharia-Social/Engenharia-Social.md",
-    "10-Estudos/Seguranca/Engenharia-Social",
-    "10-Estudos/Seguranca/Senhas/Senhas.md",
-    "10-Estudos/Seguranca/Senhas",
-    "10-Estudos/Seguranca/Dados/Dados.md",
-    "10-Estudos/Seguranca/Dados",
-    "10-Estudos/Seguranca/MFA/MFA.md",
-    "10-Estudos/Seguranca/MFA",
-    "10-Estudos/Redes/Dispositivos/Dispositivos.md",
-    "10-Estudos/Redes/Dispositivos",
-    "10-Estudos/Redes/Streaming/Streaming.md",
-    "10-Estudos/Redes/Streaming",
-    "10-Estudos/Redes/Ethernet/Ethernet.md",
-    "10-Estudos/Redes/Ethernet",
-    "10-Estudos/Redes/Protocolos/Protocolos.md",
-    "10-Estudos/Redes/Protocolos",
-    "10-Estudos/Redes/Diagnostico/Diagnostico.md",
-    "10-Estudos/Redes/Navegação/Navegação.md",
-    "10-Estudos/Ferramentas/Mobile/Mobile.md",
-    "10-Estudos/Redes/IoT/IoT.md",
-    "10-Estudos/Fundamentos/Windows/Windows.md",
-    "10-Estudos/Fundamentos/Games/Games.md",
-    "10-Estudos/Fundamentos/Logica-de-Programacao/Logica-de-Programacao.md",
-    "10-Estudos/Fundamentos/Ciência-da-Computacao/Ciência-da-Computacao.md",
-    "10-Estudos/Ferramentas/Editor/Editor.md",
-    "10-Estudos/Seguranca/Privacidade/Privacidade.md",
-    "10-Estudos/Ferramentas/Design/Design.md",
+    "Templates/Metas.md",
+    "Templates/Reuniao.md",
+    "Templates/Projeto.md",
+    "Templates/Book.md",
+    "07-Soltos/07-Soltos.md",
+    "07-Soltos",
+    "03-Pessoal/Diario/2026-08-20.md",
+    "05-Estudos/Revisao/Metodo-de-Revisao.md",
+    "05-Estudos/Revisao/Revisao.md",
+    "05-Estudos/Revisao",
+    "05-Estudos/Cloud-e-DevOps/Alerting/Alerting.md",
+    "04-Projetos/Ativos/Projeto-Apolo AI/Plano de negocios.md",
+    "04-Projetos/Ativos/Projeto-Apolo AI/Projeto-Apolo AI.md",
+    "04-Projetos/Ativos/Projeto-Apolo AI/Sem título.md",
+    "00-Home/Modelo-de-Conexoes.md",
+    "04-Projetos/Concluidos/Projeto-Bot-Discord/Projeto-Bot-Discord.md",
+    "04-Projetos/Concluidos/Projeto-Bot-Discord",
+    "04-Projetos/Concluidos/Projeto-Site-ONG/Projeto-Site-ONG.md",
+    "04-Projetos/Concluidos/Projeto-Site-ONG",
+    "04-Projetos/Concluidos/Projeto-TCC/Projeto-TCC.md",
+    "04-Projetos/Concluidos/Projeto-TCC",
+    "04-Projetos/Concluidos/Projeto-2023/Projeto-2023.md",
+    "04-Projetos/Concluidos/Projeto-2023",
+    "04-Projetos/Ideias/Ideia-Twitch/Ideia-Twitch.md",
+    "04-Projetos/Ideias/Ideia-Twitch",
+    "04-Projetos/Ideias/Ideia-Curso-Video/Ideia-Curso-Video.md",
+    "04-Projetos/Ideias/Ideia-Curso-Video",
+    "04-Projetos/Ideias/Ideia-Template/Ideia-Template.md",
+    "04-Projetos/Ideias/Ideia-Template",
+    "04-Projetos/Ideias/Ideia-CLI/Ideia-CLI.md",
+    "04-Projetos/Ideias/Ideia-CLI",
+    "04-Projetos/Ideias/Ideia-Newsletter/Ideia-Newsletter.md",
+    "05-Estudos/Teoria-da-Computacao/Linguagens/Linguagens.md",
+    "05-Estudos/Teoria-da-Computacao/Complexidade/Complexidade.md",
+    "05-Estudos/Teoria-da-Computacao/Automatos/Automatos.md",
+    "05-Estudos/Busca-Binaria/Variacoes-Busca-Binaria/Variacoes-Busca-Binaria.md",
     "Sem título.canvas"
   ]
 }

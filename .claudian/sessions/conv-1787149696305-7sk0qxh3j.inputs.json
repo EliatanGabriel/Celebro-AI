@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787149696305-7sk0qxh3j",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787149696594-9k0zne2",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787149696276-cmqh23y",
+      "timestamp": 1787149696276,
+      "rawDisplayText": "o que voce pode fazer",
+      "canonicalText": "o que voce pode fazer",
+      "images": [],
+      "contentDigest": "561edce2890e587b0f5eef43921745144a66658bd6d31e6571b555025304fd5f",
+      "providerUserMessageId": "0a98bfdc-42d7-4985-a0f9-9f8ff9b5be09"
+    }
+  ]
+}
