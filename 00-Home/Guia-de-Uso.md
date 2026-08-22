@@ -15,7 +15,7 @@ updated: "2026-08-20"
 ## Estrutura
 
 - O vault é organizado como **constelações isoladas**: cada área orbita sozinha, sem pontes entre si.
-- Cada área é um **hub** (`type: hub`): Faculdade, Trabalho, Pessoal, Projetos, Estudos, Biblioteca.
+- Cada área é um **hub** (`type: hub`): Faculdade, Trabalho, Pessoal, Projetos, Estudos, Biblioteca, Humanidades e Referencias.
 - Cada hub lista suas **subáreas** em `## Subáreas`, e as subáreas são **MOCs** (`type: moc`) com `## Notas` e visão automática (Dataview) em `## Visão automática`.
 - Notas de conceito (`type: concept`) têm `## Conceitos-chave`, `## Exemplos`, `## Boas práticas`, `## Armadilhas comuns` e `## Relacionadas`.
 - Notas de livro (`type: book`) ficam em `06-Biblioteca`, com `## Lições principais` (lidos/lendo), `## Por que quero ler` (quero ler) ou `## Por que abandonei` (abandonei).
@@ -23,7 +23,7 @@ updated: "2026-08-20"
 
 ## Criar notas no padrão
 
-1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept, Book, Projeto, Reuniao, Metas ou Daily).
+1. **Ctrl+P** → *Templates: Insert template* e escolha o modelo (Hub, MOC, Concept, Book, Projeto, Reuniao, Metas, Daily, Verbete, Snippet ou Pesquisa).
 2. Troque `AREA` pelo nome da área (ex.: `estudos`) no back-link.
 3. `created` e `updated` são preenchidos automaticamente.
 
@@ -31,6 +31,13 @@ updated: "2026-08-20"
 
 - Conceitos de estudo usam o campo `progresso` (`estudando` → `dominado`).
 - O sistema de revisão espaçada (1-3-7-14-30 dias) está em `05-Estudos/Revisao/Metodo-de-Revisao.md`; a fila de revisão é gerada por Dataview em `05-Estudos/Revisao/Revisao.md`.
+
+## Referências (consulta rápida)
+
+- `09-Referencias` é a **busca do vault**: use `Ctrl+O` e digite o termo.
+- **Verbete** (`type: verbete`): definição curta de termo em `Glossario/` — não substitui conceito completo, só responde "o que é X?".
+- **Snippet** (`type: snippet`): código/comando testado em `Snippets/`, com "quando usar" e gotchas.
+- **Pesquisa** (`type: pesquisa`): investigação com método — pergunta → hipótese → fontes → síntese. Crie pelo template Pesquisa; o hub lista as em aberto.
 
 ## Dataview
 

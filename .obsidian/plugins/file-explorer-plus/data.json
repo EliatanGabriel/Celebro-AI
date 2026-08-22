@@ -248,6 +248,41 @@
         "type": "FILES",
         "pattern": "05-Estudos/Dados-e-IA/Dados-e-IA.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "08-Humanidades/Humanidades.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "07-Soltos/07-Soltos.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "09-Referencias/Referencias.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "09-Referencias/Snippets/Snippets.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "09-Referencias/Glossario/Glossario.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

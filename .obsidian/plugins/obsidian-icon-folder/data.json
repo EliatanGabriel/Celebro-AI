@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAperture",
+      "LiAlertOctagon",
+      "🗺",
       "LiCalendar",
-      "LiBookCopy",
-      "LiLayoutTemplate",
-      "LiComputer",
-      "LiBook"
+      "LiBookCopy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,8 @@
     "iconName": "LiBookCopy",
     "iconColor": "#ff1f8f"
   },
-  "TaskNotes": "LiCalendar"
+  "TaskNotes": "LiCalendar",
+  "08-Humanidades": "🗺",
+  "07-Soltos": "LiAlertOctagon",
+  "09-Referencias": "LiAperture"
 }

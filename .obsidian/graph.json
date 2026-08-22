@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#estudos/astronomia",
+      "color": {
+        "a": 1,
+        "rgb": 9055202
+      }
+    },
+    {
       "query": "tag:#estudos/backend",
       "color": {
         "a": 1,
@@ -523,6 +530,76 @@
       "color": {
         "a": 1,
         "rgb": 16759552
+      }
+    },
+    {
+      "query": "tag:#referencias/glossario",
+      "color": {
+        "a": 1,
+        "rgb": 15308410
+      }
+    },
+    {
+      "query": "tag:#referencias/snippets",
+      "color": {
+        "a": 1,
+        "rgb": 6737322
+      }
+    },
+    {
+      "query": "tag:#referencias/pesquisas",
+      "color": {
+        "a": 1,
+        "rgb": 12211667
+      }
+    },
+    {
+      "query": "tag:#humanidades/filosofia",
+      "color": {
+        "a": 1,
+        "rgb": 8087790
+      }
+    },
+    {
+      "query": "tag:#humanidades/teologia",
+      "color": {
+        "a": 1,
+        "rgb": 14329120
+      }
+    },
+    {
+      "query": "tag:#humanidades/historia",
+      "color": {
+        "a": 1,
+        "rgb": 12092939
+      }
+    },
+    {
+      "query": "tag:#humanidades/literatura",
+      "color": {
+        "a": 1,
+        "rgb": 2142890
+      }
+    },
+    {
+      "query": "tag:#humanidades/sociologia-e-economia",
+      "color": {
+        "a": 1,
+        "rgb": 4620980
+      }
+    },
+    {
+      "query": "tag:#humanidades/revisao",
+      "color": {
+        "a": 1,
+        "rgb": 6316128
+      }
+    },
+    {
+      "query": "tag:#area/humanidades",
+      "color": {
+        "a": 1,
+        "rgb": 10040012
       }
     }
   ],
